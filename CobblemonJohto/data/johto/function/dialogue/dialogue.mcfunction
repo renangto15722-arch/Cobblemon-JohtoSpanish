@@ -158,6 +158,30 @@ tellraw @s[scores={DialogueTrigger=200,TalkTime=2}] ["",{"text":"You recieved an
 tag @s[scores={DialogueTrigger=200,TalkTime=4..}] add Dialogue200
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#Magnet Train, Goldenrod to Saffron
+#Dialogue207
+
+execute as @s[scores={DialogueTrigger=207,TalkTime=1}] run tellraw @s {"text":"Now boarding the Magnet Train!","italic":true,"color":"gray"}
+execute as @s[scores={DialogueTrigger=207,TalkTime=1}] run function johto:tools/forceclick
+execute as @s[scores={DialogueTrigger=207,TalkTime=1}] run effect give @s minecraft:blindness 8 1 true
+
+execute as @s[scores={DialogueTrigger=207,TalkTime=9}] run tp @s -2673 73 410 0 ~
+
+tag @s[scores={DialogueTrigger=207,TalkTime=10..}] add Dialogue207
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#Magnet Train, Saffron to Goldenrod
+#Dialogue208
+
+execute as @s[scores={DialogueTrigger=208,TalkTime=1}] run tellraw @s {"text":"Now boarding the Magnet Train!","italic":true,"color":"gray"}
+execute as @s[scores={DialogueTrigger=208,TalkTime=1}] run function johto:tools/forceclick
+execute as @s[scores={DialogueTrigger=208,TalkTime=1}] run effect give @s minecraft:blindness 8 1 true
+
+execute as @s[scores={DialogueTrigger=208,TalkTime=9}] run tp @s 526 73 -337 0 ~
+
+tag @s[scores={DialogueTrigger=208,TalkTime=10..}] add Dialogue208
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #Abra taking player home
 #Dialogue177
@@ -273,15 +297,6 @@ tellraw @s[scores={DialogueTrigger=202,TalkTime=65}] ["",{"text":"Thank you for 
 execute as @s[scores={DialogueTrigger=202,TalkTime=65}] run advancement grant @s only johto:sidequests/safarizone
 
 tag @s[scores={DialogueTrigger=202,TalkTime=65..}] add Dialogue202
-
-#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#PokeManiac Kirk giving Shuckle, Cianwood City
-
-execute as @s[scores={DialogueTrigger=203,TalkTime=1}] run playsound egghatch ambient @s ~ ~ ~ 1 1 1
-execute as @s[scores={DialogueTrigger=203,TalkTime=1}] run pokegiveother @s shuckle level=15
-tag @s[scores={DialogueTrigger=203,TalkTime=2..}] add Dialogue203
-
-
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #SS Aqua Voyage
