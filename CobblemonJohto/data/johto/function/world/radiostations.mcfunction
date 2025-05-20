@@ -29,12 +29,12 @@ scoreboard players set @s[nbt={Inventory:[{Slot:8b,components:{"minecraft:custom
 
 execute as @s[scores={RadioSelect=3..4},tag=Dialogue64,tag=!Dialogue72] run playsound rockettakeover record @s ~ ~ ~ 1 1 1
 execute as @s[scores={RadioSelect=3..4},tag=Dialogue64,tag=!Dialogue72] run scoreboard players set @s MusicCooldown 122
-execute as @s[scores={RadioSelect=3..4},tag=Dialogue64,tag=!Dialogue72] run scoreboard players set @s[tag=!Dialogue224] DialogueTrigger 224
+#execute as @s[scores={RadioSelect=3..4},tag=Dialogue64,tag=!Dialogue72] run scoreboard players set @s[tag=!Dialogue224] DialogueTrigger 224
 execute as @s[scores={RadioSelect=3..4},tag=Dialogue64,tag=!Dialogue72] run scoreboard players set @s RadioSelect 0
 
 execute as @s[scores={RadioSelect=6..7},tag=Dialogue64,tag=!Dialogue72] run playsound rockettakeover record @s ~ ~ ~ 1 1 1
 execute as @s[scores={RadioSelect=6..7},tag=Dialogue64,tag=!Dialogue72] run scoreboard players set @s MusicCooldown 122
-execute as @s[scores={RadioSelect=6..7},tag=Dialogue64,tag=!Dialogue72] run scoreboard players set @s[tag=!Dialogue224] DialogueTrigger 224
+#execute as @s[scores={RadioSelect=6..7},tag=Dialogue64,tag=!Dialogue72] run scoreboard players set @s[tag=!Dialogue224] DialogueTrigger 224
 execute as @s[scores={RadioSelect=6..7},tag=Dialogue64,tag=!Dialogue72] run scoreboard players set @s RadioSelect 0
 
 
