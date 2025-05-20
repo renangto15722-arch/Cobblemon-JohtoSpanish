@@ -2307,10 +2307,12 @@ execute as @s[x=426,y=38,z=-304,distance=..4,tag=!ItemLoot445] run tellraw @s {"
 execute as @s[x=426,y=38,z=-304,distance=..4,tag=!ItemLoot445] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
 execute as @s[x=426,y=38,z=-304,distance=..4,tag=!ItemLoot445] run tag @s add ItemLoot445
 
+execute as @s[x=1230,y=64,z=-429,distance=..5,tag=!ItemLoot446] run playsound egghatch ambient @s ~ ~ ~ 1 1 1
+execute as @s[x=1230,y=64,z=-429,distance=..5,tag=!ItemLoot446] run pokegive @s shuckle level=15
+execute as @s[x=1230,y=64,z=-429,distance=..5,tag=!ItemLoot446] run tag @s add ItemLoot446
 
 
-
-#If over 400, add more tags to startercommands to clear on spawn
+#If over 500, add more tags to startercommands to clear on spawn
 
 advancement revoke @s only johto:click/itemclick
 tag @s remove ItemLoot
