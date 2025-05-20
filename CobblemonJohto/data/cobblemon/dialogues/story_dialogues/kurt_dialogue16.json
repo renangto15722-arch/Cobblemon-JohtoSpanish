@@ -140,6 +140,7 @@
                         "action": [
                             "q.dialogue.set_page('page7');",
                             "q.run_command('execute as ' + q.player.username + ' run scoreboard players set @s TriggerCommand 87');",
+                            "q.run_command('execute as ' + q.player.username + ' run scoreboard players set @s Farfetchd 0');",
                             "q.run_command('execute as ' + q.player.username + ' run advancement grant @s only johto:story/rocket1');"
                         ]
                     }
