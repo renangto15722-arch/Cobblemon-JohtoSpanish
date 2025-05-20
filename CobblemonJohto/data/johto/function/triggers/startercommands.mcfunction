@@ -85,10 +85,9 @@ scoreboard players set @s TallGrass 0
 scoreboard players set @s Air 0
 scoreboard players set @s IP 0
 scoreboard players set @s Farfetchd 0
-
+scoreboard players set @s BattleStreak 0
 
 #World Events
-scoreboard players set @s Battle_Streak 0
 scoreboard players set @s BattlePoints 0
 scoreboard players set @s BattleTower 0
 scoreboard players set @s Boss 0
