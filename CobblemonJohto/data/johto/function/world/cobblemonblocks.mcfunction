@@ -212,6 +212,8 @@ execute if block 901 64 73 air run setblock 901 64 73 cobblemon:pc[part=bottom,f
 
 
 #All the carpets
+setblock 526 73 -339 minecraft:magenta_carpet
+setblock -2673 73 408 minecraft:magenta_carpet
 fill -958 66 -365 -958 66 -366 minecraft:magenta_carpet
 fill -223 64 -97 -226 64 -97 minecraft:magenta_carpet
 fill -223 64 -87 -226 64 -87 minecraft:magenta_carpet
