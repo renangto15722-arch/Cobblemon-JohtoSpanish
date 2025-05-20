@@ -130,9 +130,9 @@ scoreboard players set @a[scores={TriggerCommand=24..25}] TriggerCommand 0
 
 
 #26 - Sinjoh Ruins Abra TP out
-execute as @a[scores={TriggerCommand=26}] run scoreboard players set @s[scores={TalkTime=0}] DialogueTrigger 177
-execute as @a[scores={TriggerCommand=26}] run tag @s remove Dialogue177
-scoreboard players set @a[scores={TriggerCommand=26}] TriggerCommand 0
+#execute as @a[scores={TriggerCommand=26}] run scoreboard players set @s[scores={TalkTime=0}] DialogueTrigger 177
+#execute as @a[scores={TriggerCommand=26}] run tag @s remove Dialogue177
+#scoreboard players set @a[scores={TriggerCommand=26}] TriggerCommand 0
 
 
 

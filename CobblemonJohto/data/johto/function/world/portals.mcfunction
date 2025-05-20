@@ -157,7 +157,6 @@ playsound door ambient @a[x=-967,y=124,z=249,dx=4,dy=5] ~ ~ ~ 100 1 1
 tp @a[x=-967,y=124,z=249,dx=4,dy=5] -976 76 341
 
 playsound door ambient @a[x=-978,y=76,z=342,dx=3,dy=3] ~ ~ ~ 100 1 1
-execute as @a[x=-978,y=76,z=342,dx=3,dy=3,scores={Moltres=0,TalkTime=0}] run tp @e[x=-779,y=79,z=-244,distance=..3,nbt=!{cobblemon:statue}] -965 100 304
 tp @a[x=-978,y=76,z=342,dx=3,dy=3] -965 124 250
 
 
@@ -177,19 +176,19 @@ tp @a[x=-945,y=175,z=195,dx=3,dy=3] -1025 86 348
 
 
 #Magnet Train Goldenrod City
-execute as @a[x=526,y=72,z=-339,dy=3,tag=!MagnetPass,scores={TalkTime=0}] run tellraw @s {"text":"A Magnet Pass is required to ride on the Magnet Train!","italic":true,"color":"gray"}
+execute as @a[x=526,y=72,z=-339,dy=3,tag=!MagnetPass] run tellraw @s {"text":"A Magnet Pass is required to ride on the Magnet Train!","italic":true,"color":"gray"}
 execute as @a[x=526,y=72,z=-339,dy=3,tag=!MagnetPass] run tp @s ~ ~ ~6
 
-execute as @a[x=526,y=72,z=-339,dy=3,tag=MagnetPass,scores={TalkTime=0}] run tag @s remove Dialogue207
-execute as @a[x=526,y=72,z=-339,dy=3,tag=MagnetPass,scores={TalkTime=0}] run scoreboard players set @s DialogueTrigger 207
+execute as @a[x=526,y=72,z=-339,dy=3,tag=MagnetPass,scores={DialogueTrigger=0}] run tag @s remove Dialogue207
+execute as @a[x=526,y=72,z=-339,dy=3,tag=MagnetPass,scores={DialogueTrigger=0}] run scoreboard players set @s DialogueTrigger 207
 
 
 #Magnet Train Saffron City
-execute as @a[x=-2673,y=72,z=408,dy=3,tag=!MagnetPass,scores={TalkTime=0}] run tellraw @s {"text":"A Magnet Pass is required to ride on the Magnet Train!","italic":true,"color":"gray"}
+execute as @a[x=-2673,y=72,z=408,dy=3,tag=!MagnetPass] run tellraw @s {"text":"A Magnet Pass is required to ride on the Magnet Train!","italic":true,"color":"gray"}
 execute as @a[x=-2673,y=72,z=408,dy=3,tag=!MagnetPass] run tp @s ~ ~ ~6
 
-execute as @a[x=-2673,y=72,z=408,dy=3,tag=MagnetPass,scores={TalkTime=0}] run tag @s remove Dialogue208
-execute as @a[x=-2673,y=72,z=408,dy=3,tag=MagnetPass,scores={TalkTime=0}] run scoreboard players set @s DialogueTrigger 208
+execute as @a[x=-2673,y=72,z=408,dy=3,tag=MagnetPass,scores={DialogueTrigger=0}] run tag @s remove Dialogue208
+execute as @a[x=-2673,y=72,z=408,dy=3,tag=MagnetPass,scores={DialogueTrigger=0}] run scoreboard players set @s DialogueTrigger 208
 
 
 
@@ -351,8 +350,8 @@ tp @a[x=-2788,y=64,z=722,dx=4,dy=3,tag=Dialogue113] -1004 65 642
 playsound door ambient @a[x=-1008,y=65,z=641,dx=9,dy=6] ~ ~ ~ 100 1 1
 tp @a[x=-1008,y=65,z=641,dx=9,dy=6] -2786 64 721
 
-playsound door ambient @a[x=-1189,y=65,z=737,dx=9,dy=6,scores={TalkTime=0}] ~ ~ ~ 100 1 1
-tp @a[x=-1189,y=65,z=737,dx=9,dy=6,scores={TalkTime=0}] -2786 64 721
+playsound door ambient @a[x=-1189,y=65,z=737,dx=9,dy=6] ~ ~ ~ 100 1 1
+tp @a[x=-1189,y=65,z=737,dx=9,dy=6] -2786 64 721
 
 #--------------------------------------------------
 #Vermilion City
@@ -494,9 +493,9 @@ tp @a[x=205,y=28,z=-644,dx=3,dy=3] 232 64 -220
 #--------------------------------------------------
 
 #Ilex Forest Azalea Entrance
-playsound door ambient @a[x=431,y=64,z=-735,dy=2,dz=3,scores={TalkTime=0}] ~ ~ ~ 100 1 1
-scoreboard players set @a[x=431,y=64,z=-735,dy=2,dz=3,scores={TalkTime=0}] EscapeRope 8
-tp @a[x=431,y=64,z=-735,dy=2,dz=3,scores={TalkTime=0}] 633 64 -759
+playsound door ambient @a[x=431,y=64,z=-735,dy=2,dz=3] ~ ~ ~ 100 1 1
+scoreboard players set @a[x=431,y=64,z=-735,dy=2,dz=3] EscapeRope 8
+tp @a[x=431,y=64,z=-735,dy=2,dz=3] 633 64 -759
 
 
 playsound door ambient @a[x=632,y=64,z=-761,dy=2,dz=3] ~ ~ ~ 100 1 1
@@ -667,7 +666,7 @@ tp @a[x=-1328,y=64,z=115,dx=3,dy=3] -1448 51 533 ~180 ~0
 
 
 #Before Silver is defeated
-#tellraw @a[x=-1450,y=51,z=534,dx=3,dy=3,tag=!Dialogue85,scores={TalkTime=0}] ["",{"text":"<"},{"text":"Silver","color":"red"},{"text":"> Come on, "},{"selector":"@p[x=-1450,y=51,z=534,dx=3,dy=3,tag=!Dialogue85,scores={TalkTime=0}]"},{"text":"! Let's battle!"}]
+#tellraw @a[x=-1450,y=51,z=534,dx=3,dy=3,tag=!Dialogue85] ["",{"text":"<"},{"text":"Silver","color":"red"},{"text":"> Come on, "},{"selector":"@p[x=-1450,y=51,z=534,dx=3,dy=3,tag=!Dialogue85]"},{"text":"! Let's battle!"}]
 #tp @a[x=-1450,y=51,z=534,dx=3,dy=3,tag=!Dialogue85] ~ ~ ~-5
 
 playsound door ambient @a[x=-1450,y=51,z=534,dx=3,dy=3] ~ ~ ~ 100 1 1
