@@ -92,7 +92,7 @@
             "id": "quiz1",
             "speaker": "npc",
             "lines": [
-                "The first question! Can a player can pick up a Town Map in Cherrygrove City?"
+                "The first question! Can a player pick up a Town Map in Cherrygrove City?"
             ],
             "input": {
                 "type": "option",
