@@ -35,6 +35,9 @@ execute as @s[x=617,y=64,z=-699,distance=..15,scores={TalkTime=0},tag=Dialogue16
 execute as @s[x=617,y=64,z=-699,distance=..15,scores={TalkTime=0},tag=Dialogue161] run tellraw @s[tag=!Dialogue162] ["",{"text":"Celebi is reacting to the energy of the shrine. Do you want to investigate?\n["},{"text":"Yes","color":"green","clickEvent":{"action":"run_command","value":"/trigger TriggerCommand set 41"}},{"text":"]"}]
 
 
+#Resets dialogues (sans the Safari or SS Aqua) upon relogging in case stuck
+execute as @s unless entity @s[scores={DiaogueTrigger=214}] unless entity @s[scores={DialogueTrigger=201..202}] run scoreboard players set @s TalkTime 0
+execute as @s unless entity @s[scores={DiaogueTrigger=214}] unless entity @s[scores={DialogueTrigger=201..202}] run scoreboard players set @s DialogueTrigger 0
 
 
 
