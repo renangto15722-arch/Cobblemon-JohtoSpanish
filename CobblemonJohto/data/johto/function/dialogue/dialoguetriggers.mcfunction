@@ -344,11 +344,11 @@ execute as @s[x=-1449,y=51,z=528,distance=..25,tag=!Dialogue85,scores={StarterPi
 execute as @s[x=-683,y=63,z=-478,distance=..10,tag=Dialogue81,tag=!Dialogue101,scores={IP=1..}] run opendialogue professorelm_dialogue101 @s
 
 #SS Aqua Voyages
-execute as @s[x=744,y=73,z=-193,distance=..15,tag=Dialogue101,scores={TalkTime=0}] run tag @s remove Dialogue214
-execute as @s[x=-2749,y=72,z=-159,distance=..15,tag=Dialogue101,scores={TalkTime=0}] run tag @s remove Dialogue214
+execute as @s[x=744,y=73,z=-193,distance=..15,tag=Dialogue214,scores={TalkTime=0}] run tag @s remove Dialogue214
+execute as @s[x=-2749,y=72,z=-159,distance=..15,tag=Dialogue214,scores={TalkTime=0}] run tag @s remove Dialogue214
 
-execute as @s[x=744,y=73,z=-193,distance=..15,tag=Dialogue101,scores={TalkTime=0}] run scoreboard players set @s DialogueTrigger 214
-execute as @s[x=-2749,y=72,z=-159,distance=..15,tag=Dialogue101,scores={TalkTime=0}] run scoreboard players set @s DialogueTrigger 214
+execute as @s[x=744,y=73,z=-193,distance=..15,tag=!Dialogue214,scores={TalkTime=0}] run scoreboard players set @s[tag=Dialogue101] DialogueTrigger 214
+execute as @s[x=-2749,y=72,z=-159,distance=..15,tag=!Dialogue214,scores={TalkTime=0}] run scoreboard players set @s[tag=Dialogue101] DialogueTrigger 214
 
 
 #Friday Lapras Spawn
