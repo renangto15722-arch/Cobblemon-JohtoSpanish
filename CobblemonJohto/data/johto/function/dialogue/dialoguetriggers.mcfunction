@@ -226,8 +226,8 @@ execute as @s[x=-155,y=64,z=208,distance=..30,tag=Dialogue53] run fill -164 63 2
 execute as @s[x=-155,y=64,z=208,distance=..30,tag=Dialogue53] run fill -160 63 213 -160 63 216 minecraft:stone_brick_stairs[facing=east]
 execute as @s[x=-155,y=64,z=208,distance=..30,tag=Dialogue64] unless entity @e[x=-152,y=64,z=212,dy=3,type=cobblemon:npc] run npcspawnat -152 64 212 mahogany_grandma_shop 1
 execute as @s[x=-155,y=64,z=208,distance=..30,tag=Dialogue64] unless entity @e[x=-157,y=64,z=193,dy=3,type=cobblemon:npc] run npcspawnat -157 64 193 mahogany_twin 1
-execute as @s[x=-155,y=64,z=208,distance=..30,tag=Dialogue64] as @e[x=-156,y=63,z=206,dy=3,type=cobblemon:npc] run tp @s 10000000 -50000 -10000000
-execute as @s[x=-155,y=64,z=208,distance=..30,tag=Dialogue64] as @e[x=-149,y=63,z=200,dy=3,type=cobblemon:npc] run tp @s 10000000 -50000 -10000000
+execute as @s[x=-155,y=64,z=208,distance=..30,tag=Dialogue64] run tp @e[x=-156,y=63,z=206,dy=3,type=cobblemon:npc] 10000000 -50000 -10000000
+execute as @s[x=-155,y=64,z=208,distance=..30,tag=Dialogue64] run tp @e[x=-149,y=63,z=200,dy=3,type=cobblemon:npc] 10000000 -50000 -10000000
 
 #Lance in the Rocket HQ healing player
 execute as @s[x=-83,y=45,z=169,distance=..20,tag=!Dialogue54] unless entity @e[x=-83,y=45,z=169,dy=3,type=cobblemon:npc] run npcspawnat -83 45 169 lance_generic 1
@@ -285,7 +285,7 @@ execute unless entity @e[x=-93,y=46,z=203,distance=..2,type=cobblemon:pokemon] r
 execute as @s[x=-124,y=45,z=169,dx=12,dy=5,dz=11,tag=Dialogue62,tag=!Dialogue63] run opendialogue rockethq_lance_dialogue63 @s
 
 #Lance generator room final talk
-execute as @s[x=-144,y=44,z=182,distance=..6,tag=Dialogue63,tag=!Dialogue64] unless entity @e[x=-149,y=44,z=177,dx=63,dy=5,dz=35,type=cobblemon:pokemon] run opendialogue rockethq_lance_dialogue64 @s
+execute as @s[x=-144,y=44,z=182,distance=..6,tag=Dialogue63,tag=!Dialogue64] unless entity @e[x=-149,y=44,z=177,dx=63,dy=5,dz=35,type=cobblemon:pokemon,name=Electrode] run opendialogue rockethq_lance_dialogue64 @s
 
 
 #Goldenrod Underground Silver

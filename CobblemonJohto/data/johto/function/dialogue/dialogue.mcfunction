@@ -28,7 +28,7 @@ execute as @s[scores={DialogueTrigger=49,TalkTime=1}] run playsound shiny hostil
 execute as @s[scores={DialogueTrigger=49,TalkTime=1}] run advancement grant @s only johto:story/rocket2
 
 
-tag @a[scores={DialogueTrigger=49,TalkTime=1..}] add Dialogue49
+tag @s[scores={DialogueTrigger=49,TalkTime=2..}] add Dialogue49
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Hall of Fame Credits
 #Dialogue98
