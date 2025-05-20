@@ -105,6 +105,9 @@ execute as @s[x=-279,y=64,z=-509,distance=0..10,tag=!Dialogue7,scores={StarterPi
 execute as @s[x=-279,y=64,z=-509,distance=0..10,tag=!Dialogue7,scores={StarterPick=2}] unless entity @e[x=-300,y=64,z=-509,dy=3,type=cobblemon:npc] run npcspawnat -300 64 -509 cherrygrove_silver2 1
 execute as @s[x=-279,y=64,z=-509,distance=0..10,tag=!Dialogue7,scores={StarterPick=3}] unless entity @e[x=-300,y=64,z=-509,dy=3,type=cobblemon:npc] run npcspawnat -300 64 -509 cherrygrove_silver3 1
 
+#If player has null StarterPick score and around Silver, assigns something to them as a fallback.
+execute as @s[x=-279,y=64,z=-509,distance=..15,tag=!Dialogue7] unless entity @s[scores={StarterPick=1..}] run scoreboard players set @s StarterPick 1
+
 #Dialogue 8 - Elm's Lab stolen Pokemon
 execute as @s[x=-681,y=64,z=-493,distance=..10,tag=Dialogue5,tag=!Dialogue8] unless entity @e[x=-682,y=64,z=-481,dy=3,type=cobblemon:npc] run npcspawnat -682 64 -481 newbark_policeman 1
 execute as @s[x=-683,y=63,z=-478,distance=..10,tag=Dialogue5,tag=!Dialogue8] run opendialogue elmslab_dialogue8 @s
