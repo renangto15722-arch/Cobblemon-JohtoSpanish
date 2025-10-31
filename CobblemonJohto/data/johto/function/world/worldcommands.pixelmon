@@ -385,7 +385,7 @@ scoreboard players set @a[x=-1726,y=63,z=-319,dx=23,dy=5,dz=25,tag=!Dialogue154,
 #---------------------
 
 #Dialogue161 - Ilex Forest time travel prompt
-execute at @e[x=617,y=64,z=-699,distance=..15,name=Celebi] run scoreboard players set @a[x=617,y=64,z=-699,distance=..15,tag=!Dialogue161,scores={Celebi=1..}] DialogueTrigger 161
+execute at @e[x=617,y=64,z=-699,distance=..15,nbt={Pokemon:{Species:"cobblemon:celebi"}}] run scoreboard players set @a[x=617,y=64,z=-699,distance=..15,tag=!Dialogue161,scores={Celebi=1..}] DialogueTrigger 161
 
 #Dialogue163 - Celebi time travel route Silver & Giovanni
 scoreboard players set @a[x=263,y=64,z=719,distance=..13,scores={TalkTime=0},tag=Dialogue162,tag=!Dialogue163] DialogueTrigger 163
@@ -408,7 +408,7 @@ execute at @p[x=178,y=64,z=-127,distance=..120,tag=!Red] run tp @e[x=-697,y=85,z
 scoreboard players set @a[x=174,y=64,z=-141,distance=..10,scores={TalkTime=0},tag=Red,tag=!Dialogue167] DialogueTrigger 167
 
 #Dialogue168 - Ruins of Alph starting the Sinjoh event
-execute at @e[x=174,y=63,z=-141,distance=..20,type=cobblemon:pokemon,name=Arceus] run scoreboard players set @p[distance=..15,scores={TalkTime=0,Arceus=1},tag=Dialogue167,tag=!Dialogue168,tag=Red] DialogueTrigger 168
+execute at @e[x=174,y=63,z=-141,distance=..20,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:arceus"}}] run scoreboard players set @p[distance=..15,scores={TalkTime=0,Arceus=1},tag=Dialogue167,tag=!Dialogue168,tag=Red] DialogueTrigger 168
 
 #Dialogue169 - Sinjoh Fake Ruins
 scoreboard players set @a[x=-992,y=0,z=-172,dx=45,dy=70,dz=60,scores={TalkTime=0}] DialogueTrigger 169
@@ -628,22 +628,22 @@ tag @e[x=-801,y=64,z=-287,dy=3,type=armor_stand,scores={TalkTime=0,DialogueTrigg
 
 
 #Sinjoh Ruins Shrine Dialga Pick
-execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,name=Arceus] as @a[x=-1038,y=50,z=-98,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run scoreboard players enable @s TriggerCommand
-execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,name=Arceus] as @a[x=-1038,y=50,z=-98,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run tellraw @s {"text":"<Cynthia> So you choose Dialga, the Guardian of Time?"}
-execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,name=Arceus] as @a[x=-1038,y=50,z=-98,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run tellraw @s {"text":"[Yes]","color":"green","clickEvent":{"action":"run_command","value":"/trigger TriggerCommand set 12"}}
-execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,name=Arceus] as @a[x=-1038,y=50,z=-98,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run scoreboard players set @s Cooldown 15
+execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:arceus"}}] as @a[x=-1038,y=50,z=-98,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run scoreboard players enable @s TriggerCommand
+execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:arceus"}}] as @a[x=-1038,y=50,z=-98,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run tellraw @s {"text":"<Cynthia> So you choose Dialga, the Guardian of Time?"}
+execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:arceus"}}] as @a[x=-1038,y=50,z=-98,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run tellraw @s {"text":"[Yes]","color":"green","clickEvent":{"action":"run_command","value":"/trigger TriggerCommand set 12"}}
+execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:arceus"}}] as @a[x=-1038,y=50,z=-98,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run scoreboard players set @s Cooldown 15
 
 #Palkia Pick
-execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,name=Arceus] as @a[x=-1050,y=50,z=-98,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run scoreboard players enable @s TriggerCommand
-execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,name=Arceus] as @a[x=-1050,y=50,z=-98,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run tellraw @s {"text":"<Cynthia> So you choose Palkia, the master of space and dimensions?"}
-execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,name=Arceus] as @a[x=-1050,y=50,z=-98,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run tellraw @s {"text":"[Yes]","color":"green","clickEvent":{"action":"run_command","value":"/trigger TriggerCommand set 13"}}
-execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,name=Arceus] as @a[x=-1050,y=50,z=-98,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run scoreboard players set @s Cooldown 15
+execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:arceus"}}] as @a[x=-1050,y=50,z=-98,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run scoreboard players enable @s TriggerCommand
+execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:arceus"}}] as @a[x=-1050,y=50,z=-98,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run tellraw @s {"text":"<Cynthia> So you choose Palkia, the master of space and dimensions?"}
+execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:arceus"}}] as @a[x=-1050,y=50,z=-98,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run tellraw @s {"text":"[Yes]","color":"green","clickEvent":{"action":"run_command","value":"/trigger TriggerCommand set 13"}}
+execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:arceus"}}] as @a[x=-1050,y=50,z=-98,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run scoreboard players set @s Cooldown 15
 
 #Giratina Pick
-execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,name=Arceus] as @a[x=-1044,y=50,z=-85,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run scoreboard players enable @s TriggerCommand
-execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,name=Arceus] as @a[x=-1044,y=50,z=-85,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run tellraw @s {"text":"<Cynthia> So you choose Giratina, the ruler of the Distortion World?"}
-execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,name=Arceus] as @a[x=-1044,y=50,z=-85,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run tellraw @s {"text":"[Yes]","color":"green","clickEvent":{"action":"run_command","value":"/trigger TriggerCommand set 14"}}
-execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,name=Arceus] as @a[x=-1044,y=50,z=-85,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run scoreboard players set @s Cooldown 15
+execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:arceus"}}] as @a[x=-1044,y=50,z=-85,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run scoreboard players enable @s TriggerCommand
+execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:arceus"}}] as @a[x=-1044,y=50,z=-85,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run tellraw @s {"text":"<Cynthia> So you choose Giratina, the ruler of the Distortion World?"}
+execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:arceus"}}] as @a[x=-1044,y=50,z=-85,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run tellraw @s {"text":"[Yes]","color":"green","clickEvent":{"action":"run_command","value":"/trigger TriggerCommand set 14"}}
+execute if entity @e[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:arceus"}}] as @a[x=-1044,y=50,z=-85,distance=..2,tag=Dialogue172,tag=!SinnohLegend,scores={Cooldown=0,TalkTime=0}] run scoreboard players set @s Cooldown 15
 
 #Sinjoh Ruins Abra prompt to leave
 execute as @a[x=-1073,y=61,z=-216,distance=..2,scores={TalkTime=0,Cooldown=0},tag=Dialogue176] run scoreboard players enable @s TriggerCommand

@@ -73,10 +73,10 @@ execute as @s[scores={DialogueTrigger=142,TalkTime=45}] run playsound snorlax ho
 tellraw @s[scores={DialogueTrigger=142,TalkTime=45}]  {"text":"Snorlax woke up!"}
 
 #Wakes up Snorlax
-execute as @s[scores={DialogueTrigger=142,TalkTime=43..44}] run data merge entity @e[x=-2901,y=64,z=-48,distance=..5,type=cobblemon:pokemon,limit=1,name=Snorlax] {Pokemon:{PokemonData:["catchable"]}}
-execute as @s[scores={DialogueTrigger=142,TalkTime=43..44}] run data merge entity @e[x=-2901,y=64,z=-48,distance=..5,type=cobblemon:pokemon,limit=1,name=Snorlax] {NoAI:0b}
-execute as @s[scores={DialogueTrigger=142,TalkTime=43..44}] run data modify entity @e[x=-2901,y=64,z=-48,distance=..5,type=cobblemon:pokemon,limit=1,name=Snorlax] Unbattleable set value 0b
-execute as @s[scores={DialogueTrigger=142,TalkTime=43..44}] run data remove entity @e[x=-2901,y=64,z=-48,distance=..5,type=cobblemon:pokemon,limit=1,name=Snorlax] Pokemon.Status
+execute as @s[scores={DialogueTrigger=142,TalkTime=43..44}] run data merge entity @e[x=-2901,y=64,z=-48,distance=..5,type=cobblemon:pokemon,limit=1,nbt={Pokemon:{Species:"cobblemon:snorlax"}}] {Pokemon:{PokemonData:["catchable"]}}
+execute as @s[scores={DialogueTrigger=142,TalkTime=43..44}] run data merge entity @e[x=-2901,y=64,z=-48,distance=..5,type=cobblemon:pokemon,limit=1,nbt={Pokemon:{Species:"cobblemon:snorlax"}}] {NoAI:0b}
+execute as @s[scores={DialogueTrigger=142,TalkTime=43..44}] run data modify entity @e[x=-2901,y=64,z=-48,distance=..5,type=cobblemon:pokemon,limit=1,nbt={Pokemon:{Species:"cobblemon:snorlax"}}] Unbattleable set value 0b
+execute as @s[scores={DialogueTrigger=142,TalkTime=43..44}] run data remove entity @e[x=-2901,y=64,z=-48,distance=..5,type=cobblemon:pokemon,limit=1,nbt={Pokemon:{Species:"cobblemon:snorlax"}}] Pokemon.Status
 
 execute as @s[scores={DialogueTrigger=142,TalkTime=45}] run fill -2899 67 -46 -2899 64 -50 air
 execute as @s[scores={DialogueTrigger=142,TalkTime=45}] run fill -2904 67 -46 -2904 64 -50 air

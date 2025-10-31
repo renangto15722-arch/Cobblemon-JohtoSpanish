@@ -288,7 +288,7 @@ execute unless entity @e[x=-93,y=46,z=203,distance=..2,type=cobblemon:pokemon] r
 execute as @s[x=-124,y=45,z=169,dx=12,dy=5,dz=11,tag=Dialogue62,tag=!Dialogue63] run opendialogue rockethq_lance_dialogue63 @s
 
 #Lance generator room final talk
-execute as @s[x=-144,y=44,z=182,distance=..6,tag=Dialogue63,tag=!Dialogue64] unless entity @e[x=-149,y=44,z=177,dx=63,dy=5,dz=35,type=cobblemon:pokemon,name=Electrode] run opendialogue rockethq_lance_dialogue64 @s
+execute as @s[x=-144,y=44,z=182,distance=..6,tag=Dialogue63,tag=!Dialogue64] unless entity @e[x=-149,y=44,z=177,dx=63,dy=5,dz=35,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:electrode"}}] run opendialogue rockethq_lance_dialogue64 @s
 
 
 #Goldenrod Underground Silver
@@ -370,10 +370,10 @@ execute as @s[x=-2200,y=64,z=800,distance=..25,tag=!Dialogue131,scores={StarterP
 #Vermilion Sleeping Snorlax
 #Keeps the sleeping Snorlax posed and blocked
 execute as @a[x=-2901,y=64,z=-48,distance=..30,tag=!Dialogue142] unless entity @e[x=-2901,y=64,z=-48,distance=..5,type=cobblemon:pokemon] run pokespawnat -2901.0 64 -48 snorlax no_ai=true level=50 status=sleep held_item=cobblemon:leftovers
-execute positioned -2901.0 64 -48 as @e[distance=..5,type=cobblemon:pokemon,name=Snorlax,nbt={PersistenceRequired:0b}] run data merge entity @s {Pokemon:{PokemonData:["uncatchable"]}}
-execute positioned -2901.0 64 -48 as @e[distance=..5,type=cobblemon:pokemon,name=Snorlax,nbt={PersistenceRequired:0b}] run data modify entity @s Unbattleable set value 1b
-execute positioned -2901.0 64 -48 as @e[distance=..5,type=cobblemon:pokemon,name=Snorlax,nbt={PersistenceRequired:0b}] run data modify entity @s Invulnerable set value 1b
-execute positioned -2901.0 64 -48 as @e[distance=..5,type=cobblemon:pokemon,name=Snorlax,nbt={PersistenceRequired:0b}] run data modify entity @s PersistenceRequired set value 1
+execute positioned -2901.0 64 -48 as @e[distance=..5,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:snorlax"}},nbt={PersistenceRequired:0b}] run data merge entity @s {Pokemon:{PokemonData:["uncatchable"]}}
+execute positioned -2901.0 64 -48 as @e[distance=..5,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:snorlax"}},nbt={PersistenceRequired:0b}] run data modify entity @s Unbattleable set value 1b
+execute positioned -2901.0 64 -48 as @e[distance=..5,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:snorlax"}},nbt={PersistenceRequired:0b}] run data modify entity @s Invulnerable set value 1b
+execute positioned -2901.0 64 -48 as @e[distance=..5,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:snorlax"}},nbt={PersistenceRequired:0b}] run data modify entity @s PersistenceRequired set value 1
 
 
 #Dialogue 204 NPC spawn, Bill in Ecruteak

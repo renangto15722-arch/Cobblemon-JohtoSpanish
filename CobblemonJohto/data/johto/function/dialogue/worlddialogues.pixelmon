@@ -92,7 +92,7 @@ execute as @s[scores={DialogueTrigger=151,TalkTime=7}] run kill @e[x=-1173,y=63,
 #Summons Groudon
 execute as @s[scores={DialogueTrigger=151,TalkTime=7}] run execute at @e[x=-1196,y=63,z=-239,dx=46,dy=20,dz=53,type=armor_stand] run pokespawn Groudon lvl:50
 execute as @s[scores={DialogueTrigger=151,TalkTime=7}] run playsound groudon hostile @a[x=-1196,y=63,z=-239,dx=46,dy=20,dz=53] ~ ~ ~ 1 1 1
-execute as @s[scores={DialogueTrigger=151,TalkTime=7}] run data merge entity @e[limit=1,x=-1196,y=63,z=-230,dx=46,dy=20,dz=53,type=cobblemon:pokemon,name=Groudon] {Rotation:[179.99f,0.0f]}
+execute as @s[scores={DialogueTrigger=151,TalkTime=7}] run data merge entity @e[limit=1,x=-1196,y=63,z=-230,dx=46,dy=20,dz=53,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:groudon"}}] {Rotation:[179.99f,0.0f]}
 
 #Disables motion and particles
 execute as @s[scores={DialogueTrigger=151,TalkTime=8}] run fill -861 64 -303 -861 65 -303 minecraft:iron_block
@@ -146,7 +146,7 @@ scoreboard players set @s[scores={DialogueTrigger=152},tag=Dialogue152] Dialogue
 #Dialga Spawn
 #execute @a[x=-1060,y=46,z=-143,dx=40,dy=15,dz=70,tag=Dialogue172,scores={TriggerCommand=12}] run scoreboard players set @s[x=-799,y=64,z=-287,dy=3,type=armor_stand,score_TalkTime=0,score_DialogueTrigger=0] DialogueTrigger 173
 
-#execute @s[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,name=Arceus] run execute @a[x=-1038,y=50,z=-98,distance=..2,tag=Dialogue172] run testfor @s[tag=!SinnohLegend]
+#execute @s[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:arceus"}}] run execute @a[x=-1038,y=50,z=-98,distance=..2,tag=Dialogue172] run testfor @s[tag=!SinnohLegend]
 #execute @a[x=-1038,y=50,z=-98,distance=..3,tag=!Dialogue176,score_TalkTime=0] run execute @s[tag=!SinnohLegend] run scoreboard players enable @s[tag=Dialogue172] TriggerCommand
 #execute @a[x=-1038,y=50,z=-98,distance=..3,tag=!Dialogue176,score_TalkTime=0] run execute @s[tag=!SinnohLegend] run tellraw @s[tag=Dialogue172] {"text":"<Cynthia> So you choose Dialga, the Guardian of Time?"}
 #execute @a[x=-1038,y=50,z=-98,distance=..3,tag=!Dialogue176,score_TalkTime=0] run execute @s[tag=!SinnohLegend] run tellraw @s[tag=Dialogue172] {"text":"[Yes]","color":"green","clickEvent":{"action":"run_command","value":"/trigger TriggerCommand set 12"}}
@@ -200,7 +200,7 @@ scoreboard players set @s[scores={DialogueTrigger=173},tag=Dialogue173] Dialogue
 #Palkia Spawn
 #execute @a[x=-1060,y=46,z=-143,dx=40,dy=15,dz=70,tag=Dialogue172,scores={TriggerCommand=13}] run scoreboard players set @s[x=-799,y=64,z=-287,dy=3,type=armor_stand,score_TalkTime=0,score_DialogueTrigger=0] DialogueTrigger 174
 
-#execute @s[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,name=Arceus] run execute @a[x=-1050,y=50,z=-98,distance=..2,tag=Dialogue172] run testfor @s[tag=!SinnohLegend]
+#execute @s[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:arceus"}}] run execute @a[x=-1050,y=50,z=-98,distance=..2,tag=Dialogue172] run testfor @s[tag=!SinnohLegend]
 #execute @a[x=-1050,y=50,z=-98,distance=..3,tag=!Dialogue176,score_TalkTime=0] run execute @s[tag=!SinnohLegend] run scoreboard players enable @s[tag=Dialogue172] TriggerCommand
 #execute @a[x=-1050,y=50,z=-98,distance=..3,tag=!Dialogue176,score_TalkTime=0] run execute @s[tag=!SinnohLegend] run tellraw @s[tag=Dialogue172] {"text":"<Cynthia> So you choose Palkia, the master of space and dimensions?"}
 #execute @a[x=-1050,y=50,z=-98,distance=..3,tag=!Dialogue176,score_TalkTime=0] run execute @s[tag=!SinnohLegend] run tellraw @s[tag=Dialogue172] {"text":"[Yes]","color":"green","clickEvent":{"action":"run_command","value":"/trigger TriggerCommand set 13"}}
@@ -249,7 +249,7 @@ scoreboard players set @s[scores={DialogueTrigger=174},tag=Dialogue174] Dialogue
 #Giratina Spawn
 #execute @a[x=-1060,y=46,z=-143,dx=40,dy=15,dz=70,tag=Dialogue172,scores={TriggerCommand=14}] run scoreboard players set @s[x=-799,y=64,z=-287,dy=3,type=armor_stand,score_TalkTime=0,score_DialogueTrigger=0] DialogueTrigger 175
 
-#execute @s[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,name=Arceus] run execute @a[x=-1044,y=50,z=-85,distance=..2,tag=Dialogue172] run testfor @s[tag=!SinnohLegend]
+#execute @s[x=-1059,y=50,z=-103,dx=30,dy=4,dz=30,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:arceus"}}] run execute @a[x=-1044,y=50,z=-85,distance=..2,tag=Dialogue172] run testfor @s[tag=!SinnohLegend]
 #execute @a[x=-1044,y=50,z=-85,distance=..3,tag=!Dialogue176,score_TalkTime=0] run execute @s[tag=!SinnohLegend] run scoreboard players enable @s[tag=Dialogue172] TriggerCommand
 #execute @a[x=-1044,y=50,z=-85,distance=..3,tag=!Dialogue176,score_TalkTime=0] run execute @s[tag=!SinnohLegend] run tellraw @s[tag=Dialogue172] {"text":"<Cynthia> So you choose Giratina, the ruler of the Distortion World?"}
 #execute @a[x=-1044,y=50,z=-85,distance=..3,tag=!Dialogue176,score_TalkTime=0] run execute @s[tag=!SinnohLegend] run tellraw @s[tag=Dialogue172] {"text":"[Yes]","color":"green","clickEvent":{"action":"run_command","value":"/trigger TriggerCommand set 14"}}

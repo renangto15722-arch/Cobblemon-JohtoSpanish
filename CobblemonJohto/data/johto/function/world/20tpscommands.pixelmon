@@ -50,7 +50,7 @@ execute as @a[scores={DialogueTrigger=166,TalkTime=2..5}] run summon minecraft:l
 
 #Celebi Time Travel particles
 #Dialogue162
-execute if entity @a[limit=1,scores={DialogueTrigger=162,TalkTime=17..27}] at @e[x=617,y=64,z=-699,distance=..25,type=cobblemon:pokemon,name=Celebi] run particle minecraft:enchant ~-2 ~-2 ~-2 4 4 4 1 50
+execute if entity @a[limit=1,scores={DialogueTrigger=162,TalkTime=17..27}] at @e[x=617,y=64,z=-699,distance=..25,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:celebi"}}] run particle minecraft:enchant ~-2 ~-2 ~-2 4 4 4 1 50
 
 #Dialogue162-164
 execute if entity @a[limit=1,scores={DialogueTrigger=162,TalkTime=26..}] at @e[x=148,y=60,z=613,dx=200,dy=30,dz=200,nbt=!{cobblemon:statue}] run particle minecraft:enchant ~-2 ~-2 ~-2 4 4 4 1 50
@@ -58,7 +58,7 @@ execute if entity @a[limit=1,tag=!Dialogue164,scores={TalkTime=0}] at @e[x=148,y
 execute if entity @a[limit=1,scores={DialogueTrigger=164,TalkTime=..47}] at @e[x=148,y=60,z=613,dx=200,dy=30,dz=200,nbt=!{cobblemon:statue}] run particle minecraft:enchant ~-2 ~-2 ~-2 4 4 4 1 50
 
 #Dialogue165
-execute if entity @a[limit=1,scores={DialogueTrigger=165,TalkTime=70..82}] at @e[x=87,y=50,z=719,dx=44,dy=20,dz=44,name=Celebi,type=cobblemon:pokemon] run particle minecraft:enchant ~-2 ~-2 ~-2 4 4 4 1 50
+execute if entity @a[limit=1,scores={DialogueTrigger=165,TalkTime=70..82}] at @e[x=87,y=50,z=719,dx=44,dy=20,dz=44,nbt={Pokemon:{Species:"cobblemon:celebi"}},type=cobblemon:pokemon] run particle minecraft:enchant ~-2 ~-2 ~-2 4 4 4 1 50
 
 
 

@@ -53,12 +53,12 @@ execute as @a[scores={TriggerCommand=2}] run tp @s 894 100 67.0 -90 ~
 #execute at @a[scores={TriggerCommand=4}] run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},name=Latios] add Legendary
 #execute at @a[scores={TriggerCommand=4}] run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},name=Latias] add Legendary
 #execute at @a[scores={TriggerCommand=4}] run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},name=Kyogre] add Legendary
-#execute at @a[scores={TriggerCommand=4}] run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},name=Groudon] add Legendary
+#execute at @a[scores={TriggerCommand=4}] run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:groudon"}}] add Legendary
 #execute at @a[scores={TriggerCommand=4}] run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},name=Rayquaza] add Legendary
 #execute at @a[scores={TriggerCommand=4}] run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},name=Dialga] add Legendary
 #execute at @a[scores={TriggerCommand=4}] run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},name=Palkia] add Legendary
 #execute at @a[scores={TriggerCommand=4}] run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},name=Giratina] add Legendary
-#execute at @a[scores={TriggerCommand=4}] run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},name=Arceus] add Legendary
+#execute at @a[scores={TriggerCommand=4}] run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:arceus"}}] add Legendary
 #
 ##Mewtwo
 #execute as @a[x=-2659,y=0,z=828,dx=124,dy=240,dz=68,scores={TriggerCommand=4}] at @s if entity @e[distance=..15,type=cobblemon:pokemon,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},name=Mewtwo] run data merge entity @e[distance=..10,tag=InitialSetup,limit=1,name=Mewtwo] {NoAI:0b}

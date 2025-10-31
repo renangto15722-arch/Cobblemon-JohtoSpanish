@@ -625,8 +625,8 @@ tag @s[scores={DialogueTrigger=160,TalkTime=5..}] add Dialogue160
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Celebi Time Travel Event beginning prompt
-#execute as @e[x=617,y=64,z=-699,distance=..15,name=Celebi] run scoreboard players set @p[r=15,tag=!Dialogue161,score_Celebi_min=1] DialogueTrigger 161
-#execute as @e[x=617,y=64,z=-699,distance=..15,name=Celebi] run scoreboard players set @a[x=617,y=64,z=-699,distance=..15,tag=!Dialogue161,score_Celebi_min=1] DialogueTrigger 161
+#execute as @e[x=617,y=64,z=-699,distance=..15,nbt={Pokemon:{Species:"cobblemon:celebi"}}] run scoreboard players set @p[r=15,tag=!Dialogue161,score_Celebi_min=1] DialogueTrigger 161
+#execute as @e[x=617,y=64,z=-699,distance=..15,nbt={Pokemon:{Species:"cobblemon:celebi"}}] run scoreboard players set @a[x=617,y=64,z=-699,distance=..15,tag=!Dialogue161,score_Celebi_min=1] DialogueTrigger 161
 
 tellraw @s[scores={DialogueTrigger=161,TalkTime=1}] ["",{"text":"Celebi is reacting to the energy of the shrine. Do you want to investigate?\n["},{"text":"Yes","color":"green","clickEvent":{"action":"run_command","value":"/trigger TriggerCommand set 41"}},{"text":"]"}]
 execute as @s[scores={DialogueTrigger=161,TalkTime=1..2}] run scoreboard players enable @s TriggerCommand
@@ -892,7 +892,7 @@ tag @s[scores={DialogueTrigger=167,TalkTime=38..}] add Dialogue167
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Post-catching Arceus
-#execute as @e[x=174,y=63,z=-141,distance=..20,type=cobblemon:pokemon,name=Arceus] run execute @p[r=15,score_TalkTime=0,tag=Dialogue167,score_Arceus_min=1] run execute @s[tag=Red] run scoreboard players set @s[tag=!Dialogue168] DialogueTrigger 168
+#execute as @e[x=174,y=63,z=-141,distance=..20,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:arceus"}}] run execute @p[r=15,score_TalkTime=0,tag=Dialogue167,score_Arceus_min=1] run execute @s[tag=Red] run scoreboard players set @s[tag=!Dialogue168] DialogueTrigger 168
 
 tellraw @s[scores={DialogueTrigger=168,TalkTime=1}] {"text":"<Archaeologist> No way! Could it be a Pokémon from Sinnoh... The one they call Arceus?"}
 tellraw @s[scores={DialogueTrigger=168,TalkTime=10}] {"text":"<Archaeologist> Oh, could it be...? Arceus causing all this...? I cannot explain it any other way..."}
