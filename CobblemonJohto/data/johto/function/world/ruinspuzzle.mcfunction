@@ -32,12 +32,9 @@ execute as @e[x=-867,y=69,z=-212,dy=3,type=armor_stand,scores={PuzzleTrack=7}] r
 execute as @e[x=-867,y=69,z=-212,dy=3,type=armor_stand,scores={PuzzleTrack=0..}] run bossbar set johto:aerodactylruins players @a[x=179,y=49,z=-150,dx=11,dy=5,dz=16]
 
 #Success
-execute as @e[x=-867,y=69,z=-212,dy=3,type=armor_stand,scores={PuzzleTrack=7..},tag=!UnownSpawning] run playsound minecraft:entity.iron_golem.death ambient @a[x=179,y=49,z=-150,dx=11,dy=5,dz=16] ~ ~ ~ 1 1 1
-execute as @e[x=-867,y=69,z=-212,dy=3,type=armor_stand,scores={PuzzleTrack=7..},tag=!UnownSpawning] run setblock -880 67 -302 minecraft:redstone_block
-execute as @e[x=-867,y=69,z=-212,dy=3,type=armor_stand,scores={PuzzleTrack=7..},tag=!UnownSpawning] run fill 186 49 -138 183 49 -140 minecraft:air
-execute as @e[x=-867,y=69,z=-212,dy=3,type=armor_stand,scores={PuzzleTrack=7..},tag=!UnownSpawning] run tag @e[x=-867,y=69,z=-212,dy=3,type=armor_stand] add UnownSpawning
-
-
+execute as @e[x=-867,y=69,z=-212,dy=3,type=armor_stand,scores={PuzzleTrack=7..}] unless block 186 49 -138 air run playsound minecraft:entity.iron_golem.death ambient @a[x=179,y=49,z=-150,dx=11,dy=5,dz=16] ~ ~ ~ 1 1 1
+execute as @e[x=-867,y=69,z=-212,dy=3,type=armor_stand,scores={PuzzleTrack=7..}] unless block 186 49 -138 air unless biome 214 37 -96 johto:ruins2 run fillbiome 214 37 -96 179 41 -145 johto:ruins2
+execute as @e[x=-867,y=69,z=-212,dy=3,type=armor_stand,scores={PuzzleTrack=7..}] unless block 186 49 -138 air run fill 186 49 -138 183 49 -140 minecraft:air
 
 
 #Reset
@@ -68,10 +65,9 @@ execute as @e[x=-867,y=69,z=-210,dy=3,type=armor_stand,scores={PuzzleTrack=4}] r
 execute as @e[x=-867,y=69,z=-210,dy=3,type=armor_stand,scores={PuzzleTrack=0..}] run bossbar set johto:kabutoruins players @a[x=185,y=52,z=-111,dx=11,dy=5,dz=16]
 
 #Success
-execute as @e[x=-867,y=69,z=-210,dy=3,type=armor_stand,scores={PuzzleTrack=4..},tag=!UnownSpawning] run playsound minecraft:entity.iron_golem.death ambient @a[x=185,y=52,z=-111,dx=11,dy=5,dz=16] ~ ~ ~ 1 1 1
-execute as @e[x=-867,y=69,z=-210,dy=3,type=armor_stand,scores={PuzzleTrack=4..},tag=!UnownSpawning] run setblock -880 67 -302 minecraft:redstone_block
-execute as @e[x=-867,y=69,z=-210,dy=3,type=armor_stand,scores={PuzzleTrack=4..},tag=!UnownSpawning] run fill 192 52 -99 189 52 -101 minecraft:air
-execute as @e[x=-867,y=69,z=-210,dy=3,type=armor_stand,scores={PuzzleTrack=4..},tag=!UnownSpawning] run tag @e[x=-867,y=69,z=-210,dy=3,type=armor_stand] add UnownSpawning
+execute as @e[x=-867,y=69,z=-210,dy=3,type=armor_stand,scores={PuzzleTrack=4..}] unless block 192 52 -99 air run playsound minecraft:entity.iron_golem.death ambient @a[x=185,y=52,z=-111,dx=11,dy=5,dz=16] ~ ~ ~ 1 1 1
+execute as @e[x=-867,y=69,z=-210,dy=3,type=armor_stand,scores={PuzzleTrack=4..}] unless block 192 52 -99 air unless biome 214 37 -96 johto:ruins1 run fillbiome 214 37 -96 179 41 -145 johto:ruins1
+execute as @e[x=-867,y=69,z=-210,dy=3,type=armor_stand,scores={PuzzleTrack=4..}] unless block 192 52 -99 air run fill 192 52 -99 189 52 -101 minecraft:air
 
 
 #Reset
@@ -114,10 +110,9 @@ execute as @e[x=-867,y=69,z=-214,dy=3,type=armor_stand,scores={PuzzleTrack=10}] 
 execute as @e[x=-867,y=69,z=-214,dy=3,type=armor_stand,scores={PuzzleTrack=0..}] run bossbar set johto:hoohruins players @a[x=203,y=50,z=-135,dx=11,dy=5,dz=16]
 
 #Success
-execute as @e[x=-867,y=69,z=-214,dy=3,type=armor_stand,scores={PuzzleTrack=10..},tag=!UnownSpawning] run playsound minecraft:entity.iron_golem.death ambient @a[x=203,y=50,z=-135,dx=11,dy=5,dz=16] ~ ~ ~ 1 1 1
-execute as @e[x=-867,y=69,z=-214,dy=3,type=armor_stand,scores={PuzzleTrack=10..},tag=!UnownSpawning] run setblock -880 67 -302 minecraft:redstone_block
-execute as @e[x=-867,y=69,z=-214,dy=3,type=armor_stand,scores={PuzzleTrack=10..},tag=!UnownSpawning] run fill 210 49 -123 207 49 -125 minecraft:air
-execute as @e[x=-867,y=69,z=-214,dy=3,type=armor_stand,scores={PuzzleTrack=10..},tag=!UnownSpawning] run tag @e[x=-867,y=69,z=-214,dy=3,type=armor_stand] add UnownSpawning
+execute as @e[x=-867,y=69,z=-214,dy=3,type=armor_stand,scores={PuzzleTrack=10..}] unless block 210 49 -123 air run playsound minecraft:entity.iron_golem.death ambient @a[x=203,y=50,z=-135,dx=11,dy=5,dz=16] ~ ~ ~ 1 1 1
+execute as @e[x=-867,y=69,z=-214,dy=3,type=armor_stand,scores={PuzzleTrack=10..}] unless block 210 49 -123 air unless biome 214 37 -96 johto:ruins3 run fillbiome 214 37 -96 179 41 -145 johto:ruins3
+execute as @e[x=-867,y=69,z=-214,dy=3,type=armor_stand,scores={PuzzleTrack=10..}] unless block 210 49 -123 air run fill 210 49 -123 207 49 -125 minecraft:air
 
 
 #Reset

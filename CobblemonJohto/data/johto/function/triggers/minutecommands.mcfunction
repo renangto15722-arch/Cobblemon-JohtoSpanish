@@ -17,6 +17,14 @@ execute as @a[tag=RockSmash] at @s as @e[tag=RockSmash,type=armor_stand,distance
 function johto:triggers/radio/swarmspawns
 
 
+#Spawns Unown or not based on how many of the ruin puzzles players have completed.
+execute if entity @e run fillbiome 214 37 -96 179 41 -145 minecraft:jungle
+execute if entity @e[x=-867,y=69,z=-210,dy=3,type=armor_stand,scores={PuzzleTrack=4..}] unless biome 214 37 -96 johto:ruins1 run fillbiome 214 37 -96 179 41 -145 johto:ruins1
+execute if entity @e[x=-867,y=69,z=-212,dy=3,type=armor_stand,scores={PuzzleTrack=7..}] unless biome 214 37 -96 johto:ruins2 run fillbiome 214 37 -96 179 41 -145 johto:ruins2
+execute if entity @e[x=-867,y=69,z=-214,dy=3,type=armor_stand,scores={PuzzleTrack=10..}] unless biome 214 37 -96 johto:ruins3 run fillbiome 214 37 -96 179 41 -145 johto:ruins3
+execute if entity @e[x=-867,y=69,z=-210,dy=3,type=armor_stand,scores={PuzzleTrack=4..}] if entity @e[x=-867,y=69,z=-212,dy=3,type=armor_stand,scores={PuzzleTrack=7..}] if entity @e[x=-867,y=69,z=-214,dy=3,type=armor_stand,scores={PuzzleTrack=10..}] run fillbiome 214 37 -96 179 41 -145 johto:ruins4
+
+
 #Spawns in the Weekday NPCs if player is nearby
 #Mon
 execute if entity @e[x=-799,y=64,z=-284,dy=3,type=armor_stand,scores={WeekdayTrack=1}] if entity @a[x=913,y=63,z=-54,distance=..75] unless entity @e[x=913,y=63,z=-54,distance=..3,type=cobblemon:npc] run npcspawnat 913 64 -54 weekday_monica 1
