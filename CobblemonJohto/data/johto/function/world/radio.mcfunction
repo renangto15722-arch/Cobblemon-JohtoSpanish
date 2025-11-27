@@ -179,7 +179,7 @@ scoreboard players set @s[x=495,y=31,z=-249,dx=37,dy=29,dz=21,scores={MusicCoold
 
 #Safari Zone
 playsound safari record @s[x=1403,y=0,z=-95,dx=379,dy=240,dz=201,scores={MusicCooldown=0}] ~ ~ ~ 1 1 1
-scoreboard players set @s[x=1403,y=0,z=-95,dx=379,dy=240,dz=201,scores={MusicCooldown=0}] MusicCooldown 187
+scoreboard players set @s[x=1403,y=0,z=-95,dx=379,dy=240,dz=201,scores={MusicCooldown=0}] MusicCooldown 138
 
 
 #Goldenrod Underground
@@ -255,7 +255,7 @@ scoreboard players set @s[x=-1300,y=77,z=751,dx=24,dy=10,dz=34,scores={MusicCool
 
 #Route 47 & 48
 playsound route47 record @s[x=1321,y=0,z=-478,dx=381,dy=240,dz=381,scores={MusicCooldown=0}] ~ ~ ~ 1 1 1
-scoreboard players set @s[x=1321,y=0,z=-478,dx=381,dy=240,dz=381,scores={MusicCooldown=0}] MusicCooldown 206
+scoreboard players set @s[x=1321,y=0,z=-478,dx=381,dy=240,dz=381,scores={MusicCooldown=0}] MusicCooldown 203
 
 
 #Lake of Rage
