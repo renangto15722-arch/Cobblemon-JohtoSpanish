@@ -2322,6 +2322,23 @@ execute as @s[x=1230,y=64,z=-429,distance=..5,tag=!ItemLoot446] run pokegive @s 
 execute as @s[x=1230,y=64,z=-429,distance=..5,tag=!ItemLoot446] run tag @s add ItemLoot446
 
 
+#Pewter City Legendary feathers
+execute as @s[x=-1742,y=64,z=637,distance=..4,tag=ItemLoot449] run tellraw @s {"text":"You've already claimed this loot!","italic":true,"color":"gray"}
+execute as @s[x=-1742,y=64,z=637,distance=..4,tag=!ItemLoot449,tag=GoldPick] run function johto:spawn/silverfeather
+execute as @s[x=-1742,y=64,z=637,distance=..4,tag=!ItemLoot449,tag=SilverPick] run function johto:spawn/rainbowfeather
+execute as @s[x=-1742,y=64,z=637,distance=..4,tag=!ItemLoot449,tag=GoldPick] run tellraw @s {"text":"You received a Silver Wing!","italic":true,"color":"gray"}
+execute as @s[x=-1742,y=64,z=637,distance=..4,tag=!ItemLoot449,tag=SilverPick] run tellraw @s {"text":"You received a Rainbow Wing!","italic":true,"color":"gray"}
+execute as @s[x=-1742,y=64,z=637,distance=..4,tag=!ItemLoot449] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
+execute as @s[x=-1742,y=64,z=637,distance=..4,tag=!ItemLoot449,tag=GoldPick] run tag @s add ItemLoot449
+execute as @s[x=-1742,y=64,z=637,distance=..4,tag=!ItemLoot449,tag=SilverPick] run tag @s add ItemLoot449
+
+
+
+
+
+
+
+
 #If over 500, add more tags to startercommands to clear on spawn
 
 advancement revoke @s only johto:click/itemclick

@@ -400,8 +400,17 @@ execute as @s[x=-1180,y=59,z=773,distance=..7,tag=Dialogue219,tag=!Dialogue220] 
 
 
 #-------------------------------------------------------------------------------------------------------------------------
-#Static Legendaries, Clickable entities
+#Legendaries
 
+#Dialogue-activated legendary triggers
+#Hooh
+scoreboard players set @s[x=251,y=154,z=308,dx=11,dy=5,dz=11,tag=!Dialogue104,nbt={Inventory:[{id:"minecraft:prismarine_crystals"}]}] DialogueTrigger 104
+
+#Lugia
+scoreboard players set @s[x=1242,y=30,z=209,dx=14,dy=10,dz=8,tag=!Dialogue103,nbt={Inventory:[{id:"minecraft:prismarine_shard"}]}] DialogueTrigger 103
+
+
+#Static Legendaries, Clickable entities
 
 #Articuno
 execute as @s[x=-2059,y=21,z=-851,distance=..30,tag=!ArticunoEncounter] unless entity @e[x=-2054,y=19,z=-835,distance=..3,type=cobblemon:pokemon] run summon minecraft:interaction -2054 19 -835 {width:3,height:4,response:1,Tags:[NPCs]}

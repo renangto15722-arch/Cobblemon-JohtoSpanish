@@ -44,6 +44,8 @@ tag @s remove EXPNCard
 tag @s remove RadioCard
 tag @s remove GuideTour
 tag @s remove CoinCase
+tag @s remove GoldPick
+tag @s remove SilverPick
 
 tag @s remove Kimono1
 tag @s remove Kimono2

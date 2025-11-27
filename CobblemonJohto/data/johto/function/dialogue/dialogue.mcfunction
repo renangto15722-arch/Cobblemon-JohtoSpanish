@@ -63,6 +63,43 @@ execute as @s[scores={DialogueTrigger=98,TalkTime=66}] run function johto:trigge
 tag @s[scores={DialogueTrigger=98,TalkTime=66..}] add Dialogue98
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#Whirl Islands Lugia Spawn
+#scoreboard players set @a[x=1242,y=30,z=209,dx=14,dy=10,dz=8,score_LugiaCD=0,tag=!Dialogue103] DialogueTrigger 103 {Inventory:[{id:"minecraft:prismarine_shard"}]}
+
+execute as @s[scores={DialogueTrigger=103,TalkTime=1}] run clear @s prismarine_shard
+
+execute as @s[scores={DialogueTrigger=103,TalkTime=1}] run stopsound @s record
+execute as @s[scores={DialogueTrigger=103,TalkTime=1}] run playsound lugiaspawn record @s ~ ~ ~ 1000 1 1
+tellraw @s[scores={DialogueTrigger=103,TalkTime=1}] {"text":"Your Silver Wing grew brighter!"}
+
+execute as @s[scores={DialogueTrigger=103,TalkTime=16},tag=SilverPick] positioned 1250 30 229 run pokespawn lugia level=45 moves=extrasensory,raindance,hydropump,aeroblast
+execute as @s[scores={DialogueTrigger=103,TalkTime=16},tag=!SilverPick] positioned 1250 30 229 run pokespawn lugia level=70 moves=aeroblast,punishment,ancientpower,safeguard
+execute as @s[scores={DialogueTrigger=103,TalkTime=16}] run playsound lugia record @s ~ ~ ~ 1000 1 1
+
+tag @s[scores={DialogueTrigger=103,TalkTime=16..}] add Dialogue103
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#Tin Tower Ho-Oh Spawn
+#scoreboard players set @a[x=251,y=154,z=308,dx=11,dy=5,dz=11,score_HoohCD=0,tag=!Dialogue104] DialogueTrigger 104 {Inventory:[{id:"pixelmon:rainbow_wing"}]}
+
+execute as @s[scores={DialogueTrigger=104,TalkTime=1}] run clear @s prismarine_crystals
+
+execute as @s[scores={DialogueTrigger=104,TalkTime=1}] run playsound block.portal.trigger ambient @s ~ ~ ~ 1 1 1
+tellraw @s[scores={DialogueTrigger=104,TalkTime=1}] {"text":"Your Rainbow Wing grew brighter!"}
+
+#Enables Particles:
+#/particle reddust 251 154 308 10 10 10 1 100
+#execute as @s[scores={DialogueTrigger=104,TalkTime=1..13}] run
+
+execute as @s[scores={DialogueTrigger=104,TalkTime=12},tag=GoldPick] positioned 253 157 317 run pokespawn hooh level=45 moves=extrasensory,sunnyday,fireblast,sacredfire
+execute as @s[scores={DialogueTrigger=104,TalkTime=12},tag=!GoldPick] positioned 253 157 317 run pokespawn hooh level=70 moves=sacredfire,punishment,ancientpower,safeguard
+execute as @s[scores={DialogueTrigger=104,TalkTime=12}] run playsound hooh hostile @s ~ ~ ~ 1000 1 1
+execute as @s[scores={DialogueTrigger=104,TalkTime=13}] run scoreboard players set @s click 1
+
+tag @s[scores={DialogueTrigger=104,TalkTime=13..}] add Dialogue104
+
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Union Cave Friday Lapras
 execute as @s[scores={DialogueTrigger=105,TalkTime=1}] run particle cloud 120 13 -852 1 1 1 1 100
 execute as @s[scores={DialogueTrigger=105,TalkTime=1}] positioned 120 13 -852 run pokespawn lapras lvl=20

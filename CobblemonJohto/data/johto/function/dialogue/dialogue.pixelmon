@@ -172,39 +172,6 @@ tellraw @s[scores={DialogueTrigger=102,TalkTime=57}] {"text":"<Mr. Pokémon> I'm
 
 tag @s[scores={DialogueTrigger=102,TalkTime=60..}] add Dialogue102
 
-#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Whirl Islands Lugia Spawn
-#scoreboard players set @a[x=1242,y=30,z=209,dx=14,dy=10,dz=8,score_LugiaCD=0,tag=!Dialogue103] DialogueTrigger 103 {Inventory:[{id:"minecraft:prismarine_shard"}]}
-
-execute as @s[scores={DialogueTrigger=103,TalkTime=1}] run clear @s pixelmon:silver_wing
-
-execute as @s[scores={DialogueTrigger=103,TalkTime=1}] run stopsound @s record
-execute as @s[scores={DialogueTrigger=103,TalkTime=1}] run playsound lugiaspawn record @s ~ ~ ~ 1000 1 1
-tellraw @s[scores={DialogueTrigger=103,TalkTime=1}] {"text":"Your Silver Wing grew brighter!"}
-
-execute as @s[scores={DialogueTrigger=103,TalkTime=16}] run execute at @e[x=1250,y=30,z=229,distance=..2,type=armor_stand,limit=1] run pokespawn Lugia lvl:45 gr:7
-execute as @s[scores={DialogueTrigger=103,TalkTime=16}] run playsound lugia record @s ~ ~ ~ 1000 1 1
-
-tag @s[scores={DialogueTrigger=103,TalkTime=16..}] add Dialogue103
-
-#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Tin Tower Ho-Oh Spawn
-#scoreboard players set @a[x=251,y=154,z=308,dx=11,dy=5,dz=11,score_HoohCD=0,tag=!Dialogue104] DialogueTrigger 104 {Inventory:[{id:"pixelmon:rainbow_wing"}]}
-
-execute as @s[scores={DialogueTrigger=104,TalkTime=1}] run clear @s pixelmon:rainbow_wing
-
-execute as @s[scores={DialogueTrigger=104,TalkTime=1}] run playsound block.portal.trigger ambient @s ~ ~ ~ 1 1 1
-tellraw @s[scores={DialogueTrigger=104,TalkTime=1}] {"text":"Your Rainbow Wing grew brighter!"}
-
-#Enables Particles:
-#/particle reddust 251 154 308 10 10 10 1 100
-#execute as @s[scores={DialogueTrigger=104,TalkTime=1..13}] run
-
-execute as @s[scores={DialogueTrigger=104,TalkTime=12}] run execute at @e[x=253,y=157,z=317,distance=..2,type=armor_stand] run pokespawn Ho-Oh lvl:45 gr:7
-execute as @s[scores={DialogueTrigger=104,TalkTime=12}] run playsound hooh hostile @s ~ ~ ~ 1000 1 1
-execute as @s[scores={DialogueTrigger=104,TalkTime=13}] run scoreboard players set @s click 1
-
-tag @s[scores={DialogueTrigger=104,TalkTime=13..}] add Dialogue104
 
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

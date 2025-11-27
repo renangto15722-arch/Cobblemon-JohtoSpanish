@@ -148,7 +148,40 @@
             "id": "page7",
             "speaker": "director",
             "lines": [
-                "I know it's not much, but please take this."
+                "I know it's not much, but please take one of these."
+            ],
+            "input": {
+                "type": "option",
+                "vertical": false,
+                "options": [
+                    {
+                        "text": "Rainbow Wing",
+                        "value": "rainbow",
+                        "action": [
+                            "q.run_command('execute as ' + q.player.username + ' run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1');",
+                            "q.run_command('execute as ' + q.player.username + ' run function johto:spawn/rainbowfeather');",
+                            "q.run_command('tag ' + q.player.username + ' add GoldPick');",
+                            "q.dialogue.set_page('pickrainbow1');"
+                        ]
+                    },
+                    {
+                        "text": "Silver Wing",
+                        "value": "silver",
+                        "action": [
+                            "q.run_command('execute as ' + q.player.username + ' run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1');",
+                            "q.run_command('execute as ' + q.player.username + ' run function johto:spawn/silverfeather');",
+                            "q.run_command('tag ' + q.player.username + ' add SilverPick');",
+                            "q.dialogue.set_page('picksilver1');"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "pickrainbow1",
+            "speaker": "director",
+            "lines": [
+                "There used to be a tower right here."
             ],
             "input": {
                 "type": "option",
@@ -157,16 +190,16 @@
                     {
                         "text": "Next",
                         "value": "next",
-                        "action": "q.dialogue.set_page('page8');"
+                        "action": "q.dialogue.set_page('pickrainbow2');"
                     }
                 ]
             }
         },
         {
-            "id": "page8",
+            "id": "pickrainbow2",
             "speaker": "director",
             "lines": [
-                "There used to be a tower right here in Goldenrod City."
+                "When the tower was replaced with the Radio Tower, that Rainbow Wing was found at the top of the tower."
             ],
             "input": {
                 "type": "option",
@@ -175,16 +208,16 @@
                     {
                         "text": "Next",
                         "value": "next",
-                        "action": "q.dialogue.set_page('page9');"
+                        "action": "q.dialogue.set_page('pickrainbow3');"
                     }
                 ]
             }
         },
         {
-            "id": "page9",
+            "id": "pickrainbow3",
             "speaker": "director",
             "lines": [
-                "But it was old and creaky. So we replaced it with our Radio Tower."
+                "I heard from a friend from Cianwood City that you can climb the Bell Tower in  Ecruteak City when you have a Rainbow Wing."
             ],
             "input": {
                 "type": "option",
@@ -193,16 +226,17 @@
                     {
                         "text": "Next",
                         "value": "next",
-                        "action": "q.dialogue.set_page('page10');"
+                        "action": "q.dialogue.set_page('ending');"
                     }
                 ]
             }
         },
+
         {
-            "id": "page10",
+            "id": "picksilver1",
             "speaker": "director",
             "lines": [
-                "We dug up that feather during construction."
+                "There used to be a tower right here."
             ],
             "input": {
                 "type": "option",
@@ -211,16 +245,16 @@
                     {
                         "text": "Next",
                         "value": "next",
-                        "action": "q.dialogue.set_page('page11');"
+                        "action": "q.dialogue.set_page('picksilver2');"
                     }
                 ]
             }
         },
         {
-            "id": "page11",
+            "id": "picksilver2",
             "speaker": "director",
             "lines": [
-                "I heard that all sorts of Pokémon lived in Goldenrod in the past."
+                "When the tower was replaced with the Radio Tower, that Silver Wing was found at the top of the tower."
             ],
             "input": {
                 "type": "option",
@@ -229,16 +263,16 @@
                     {
                         "text": "Next",
                         "value": "next",
-                        "action": "q.dialogue.set_page('page12');"
+                        "action": "q.dialogue.set_page('picksilver3');"
                     }
                 ]
             }
         },
         {
-            "id": "page12",
+            "id": "picksilver3",
             "speaker": "director",
             "lines": [
-                "Perhaps... That feather has some connection to the Tin Tower in Ecruteak City..."
+                "I heard from a friend from Cianwood City that you can go down the cave at Whirl Islands when you have a Silver Wing."
             ],
             "input": {
                 "type": "option",
@@ -247,16 +281,17 @@
                     {
                         "text": "Next",
                         "value": "next",
-                        "action": "q.dialogue.set_page('page13');"
+                        "action": "q.dialogue.set_page('ending');"
                     }
                 ]
             }
         },
+
         {
-            "id": "page13",
+            "id": "ending",
             "speaker": "director",
             "lines": [
-                "OK, I better go to my Office."
+                "I have to get back to my office. See you!"
             ],
             "input": {
                 "type": "option",
