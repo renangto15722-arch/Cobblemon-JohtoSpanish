@@ -107,6 +107,21 @@ execute as @s[x=-1715,y=64,z=-307,distance=..6,tag=Dialogue222] run opendialogue
 
 
 
+#Pewter Fossil Reanimator
+execute as @s[x=-1708,y=65,z=710,distance=..8,nbt={Inventory:[{id:"cobblemon:root_fossil"}]}] run tag @s add FossilHave
+execute as @s[x=-1708,y=65,z=710,distance=..8,nbt={Inventory:[{id:"cobblemon:claw_fossil"}]}] run tag @s add FossilHave
+execute as @s[x=-1708,y=65,z=710,distance=..8,nbt={Inventory:[{id:"cobblemon:helix_fossil"}]}] run tag @s add FossilHave
+execute as @s[x=-1708,y=65,z=710,distance=..8,nbt={Inventory:[{id:"cobblemon:dome_fossil"}]}] run tag @s add FossilHave
+execute as @s[x=-1708,y=65,z=710,distance=..8,nbt={Inventory:[{id:"cobblemon:old_amber_fossil"}]}] run tag @s add FossilHave
+execute as @s[x=-1708,y=65,z=710,distance=..8,nbt={Inventory:[{id:"cobblemon:armor_fossil"}]}] run tag @s add FossilHave
+execute as @s[x=-1708,y=65,z=710,distance=..8,nbt={Inventory:[{id:"cobblemon:skull_fossil"}]}] run tag @s add FossilHave
+execute as @s[x=-1708,y=65,z=710,distance=..8,nbt={Inventory:[{id:"cobblemon:cover_fossil"}]}] run tag @s add FossilHave
+execute as @s[x=-1708,y=65,z=710,distance=..8,nbt={Inventory:[{id:"cobblemon:plume_fossil"}]}] run tag @s add FossilHave
+
+execute as @s[x=-1708,y=65,z=710,distance=..8,tag=!FossilHave] run opendialogue fossilman_nofossils @s
+execute as @s[x=-1708,y=65,z=710,distance=..8,tag=FossilHave] run opendialogue fossilman_reanimate @s
+execute as @s[x=-1708,y=65,z=710,distance=..8,tag=FossilHave] run tag @s remove FossilHave
+
 
 advancement revoke @s only johto:click/npcs
 
