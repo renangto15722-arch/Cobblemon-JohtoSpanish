@@ -55,11 +55,12 @@ execute as @s[scores={DialogueTrigger=98,TalkTime=65}] run givemark @s 4 cobblem
 execute as @s[scores={DialogueTrigger=98,TalkTime=65}] run givemark @s 5 cobblemon:ribbon_champion
 execute as @s[scores={DialogueTrigger=98,TalkTime=65}] run givemark @s 6 cobblemon:ribbon_champion
 
-#runs legendary reset function
-execute as @s[scores={DialogueTrigger=98,TalkTime=65}] run function johto:triggers/legendreset
-
 execute as @s[scores={DialogueTrigger=98,TalkTime=65..}] run tp @s -721 69 -493
-tag @s[scores={DialogueTrigger=98,TalkTime=65..}] add Dialogue98
+
+#runs legendary reset function, in the player's home should they get an item back with a full inventory
+execute as @s[scores={DialogueTrigger=98,TalkTime=66}] run function johto:triggers/legendaryreset
+
+tag @s[scores={DialogueTrigger=98,TalkTime=66..}] add Dialogue98
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Union Cave Friday Lapras

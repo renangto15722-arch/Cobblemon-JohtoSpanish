@@ -1,20 +1,5 @@
 #Resets legendaries if player has encountered them previously but not captured
 
-#Moltres
-tag @s[tag=!MoltresCaught,scores={Moltres=1..}] remove Dialogue160
-tellraw @s[tag=!MoltresCaught,scores={Moltres=1..}] {"text":"You can now re-encounter Moltres!","italic":true,"color":"gray"}
-execute as @s[tag=!MoltresCaught,scores={Moltres=1..}] run scoreboard players set @s Moltres 0
-
-#Articuno
-tag @s[tag=!ArticunoCaught,scores={Articuno=1..}] remove Dialogue158
-tellraw @s[tag=!ArticunoCaught,scores={Articuno=1..}] {"text":"You can now re-encounter Articuno!","italic":true,"color":"gray"}
-execute as @s[tag=!ArticunoCaught,scores={Articuno=1..}] run scoreboard players set @s Articuno 0
-
-#Zapdos
-tag @s[tag=!ZapdosCaught,scores={Zapdos=1..}] remove Dialogue159
-tellraw @s[tag=!ZapdosCaught,scores={Zapdos=1..}] {"text":"You can now re-encounter Zapdos!","italic":true,"color":"gray"}
-execute as @s[tag=!ZapdosCaught,scores={Zapdos=1..}] run scoreboard players set @s Zapdos 0
-
 
 #Arceus
 execute as @a[tag=!ArceusCaught,tag=ArceusEncountered] run playsound minecraft:entity.lightning_bolt.impact ambient @s ~ ~ ~ 10 1 1

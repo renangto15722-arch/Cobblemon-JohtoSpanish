@@ -90,9 +90,12 @@ execute as @s[x=513,y=55,z=-335,distance=..6,tag=BeautyCD] run opendialogue unde
 
 
 
-#Legendary Pokemon
-#Mewtwo
-execute as @s[x=-2555,y=55,z=855,distance=..6] run opendialogue mewtwo_interaction @s
+#Legendary Static Pokemon Dialogues
+execute as @s[x=-2054,y=19,z=-835,distance=..10] run opendialogue articuno_encounter @s
+execute as @s[x=-3239,y=64,z=570,distance=..10] run opendialogue zapdos_encounter @s
+execute as @s[x=-965,y=100,z=303,distance=..10] run opendialogue moltres_encounter @s
+execute as @s[x=-2554,y=55,z=854,distance=..10] run opendialogue mewtwo_encounter @s
+
 
 
 #Professor Oak
