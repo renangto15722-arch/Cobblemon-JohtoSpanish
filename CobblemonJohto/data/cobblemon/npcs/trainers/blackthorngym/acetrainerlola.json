@@ -1,7 +1,13 @@
 {  
     "hitbox": "player",
     "resourceIdentifier": "cobblemon:acetrainerf",
-    "presets": ["cobblemon:trainer_basics"],
+    "autoHealParty": true,
+    "isMovable": false,
+    "isLeashable": false,
+    "allowProjectileHits": false,
+    "isInvulnerable": true,
+    "canDespawn": false,
+    "skill": 5,
     "interaction": {
         "type": "dialogue",
         "dialogue": "cobblemon:acetrainerlola_interaction"
@@ -15,6 +21,13 @@
         ]
     },
     "config": [
+        {
+            "variableName": "on_player_loses",
+            "displayName": "npc.variable.on_player_loses.name",
+            "description": "npc.variable.on_player_loses.desc",
+            "type": "TEXT",
+            "defaultValue": "q.run_script('cobblemon:generic_forfeit');"
+        },
         {
             "variableName": "challenge_cooldown",
             "displayName": "Cooldown",

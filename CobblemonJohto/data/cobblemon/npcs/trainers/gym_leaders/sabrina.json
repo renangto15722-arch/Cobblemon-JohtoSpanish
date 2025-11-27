@@ -1,12 +1,25 @@
 {
     "hitbox": "player",
     "resourceIdentifier": "cobblemon:sabrina",
-    "presets": ["cobblemon:trainer_basics"],
+    "autoHealParty": true,
+    "isMovable": false,
+    "isLeashable": false,
+    "allowProjectileHits": false,
+    "isInvulnerable": true,
+    "canDespawn": false,
+    "skill": 5,
     "interaction": {
         "type": "dialogue",
         "dialogue": "cobblemon:sabrina_interaction"
     },
     "config": [
+        {
+            "variableName": "on_player_loses",
+            "displayName": "npc.variable.on_player_loses.name",
+            "description": "npc.variable.on_player_loses.desc",
+            "type": "TEXT",
+            "defaultValue": "q.run_script('cobblemon:generic_forfeit');"
+        },
         {
             "variableName": "can_rechallenge",
             "displayName": "Rechallenging",
@@ -28,8 +41,6 @@
     "battleConfiguration": {
         "canChallenge": true
     },
-    "autoHealParty": true,
-    "skill": 5,
     "party": {
         "type": "simple",
         "pokemon": [
@@ -38,16 +49,8 @@
             "Alakazam level=47 moves=psychic,skillswap,reflect,energyball"
         ]
     },
-    "isMovable": false,  
-    "isLeashable": false,
-    "allowProjectileHits": false,
-    "isInvulnerable": true, 
-    "canDespawn": false,
     "ai": [
-        {
-            "type": "apply_presets",
-            "presets": []
-        },
+
         {
             "type": "add_tasks_to_activity",
             "activity": "core",
