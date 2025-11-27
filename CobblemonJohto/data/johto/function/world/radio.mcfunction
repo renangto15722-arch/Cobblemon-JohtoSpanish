@@ -634,8 +634,13 @@ playsound ceruleancity record @s[x=-1785,y=0,z=553,dx=261,dy=240,dz=208,scores={
 scoreboard players set @s[x=-1785,y=0,z=553,dx=261,dy=240,dz=208,scores={MusicCooldown=0}] MusicCooldown 202
 
 #Mt. Moon
-playsound mtmoon record @s[x=-2250,y=0,z=772,dx=130,dy=240,dz=130,scores={MusicCooldown=0}] ~ ~ ~ 1 1 1
-scoreboard players set @s[x=-2250,y=0,z=772,dx=130,dy=240,dz=130,scores={MusicCooldown=0}] MusicCooldown 63
+playsound mtmoon record @s[x=-2279,y=18,z=761,dx=113,dy=37,dz=89,scores={MusicCooldown=0}] ~ ~ ~ 1 1 1
+scoreboard players set @s[x=-2279,y=18,z=761,dx=113,dy=37,dz=89,scores={MusicCooldown=0}] MusicCooldown 63
+
+
+#Mt. Moon Square
+playsound mtmoon record @s[x=-2471,y=59,z=825,dx=174,dy=16,dz=92,scores={MusicCooldown=0}] ~ ~ ~ 1 1 1
+scoreboard players set @s[x=-2471,y=59,z=825,dx=174,dy=16,dz=92,scores={MusicCooldown=0}] MusicCooldown 63
 
 
 #Route 25

@@ -228,8 +228,8 @@ execute as @a[scores={TriggerCommand=98}] run tp @e[x=-1449,y=51,z=528,dy=3,type
 execute as @a[scores={TriggerCommand=98}] run scoreboard players set @s TriggerCommand 0
 
 #Mt. Moon Silver TP out
-execute as @a[scores={TriggerCommand=99}] run particle cloud -2200 64 800 1 1 1 1 100
-execute as @a[scores={TriggerCommand=99}] run tp @e[x=-2200,y=64,z=800,dy=3,type=cobblemon:npc] 10000000 -50000 -10000000
+execute as @a[scores={TriggerCommand=99}] run particle cloud -2201 24 825 1 1 1 1 100
+execute as @a[scores={TriggerCommand=99}] run tp @e[x=-2201,y=24,z=825,dy=3,type=cobblemon:npc] 10000000 -50000 -10000000
 execute as @a[scores={TriggerCommand=99}] run scoreboard players set @s TriggerCommand 0
 
 

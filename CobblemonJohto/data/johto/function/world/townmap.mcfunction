@@ -44,7 +44,8 @@ scoreboard players set @s[x=-2200,y=0,z=-986,dx=250,dy=59,dz=208] TownMap 135
 scoreboard players set @s[x=-2222,y=0,z=279,dx=272,dy=240,dz=131] TownMap 121
 scoreboard players set @s[x=-2222,y=0,z=577,dx=218,dy=240,dz=194] TownMap 79
 scoreboard players set @s[x=-2241,y=60,z=-969,dx=237,dy=180,dz=138] TownMap 126
-scoreboard players set @s[x=-2250,y=0,z=722,dx=130,dy=240,dz=94] TownMap 150
+scoreboard players set @s[x=-2279,y=18,z=761,dx=113,dy=37,dz=89] TownMap 150
+scoreboard players set @s[x=-2471,y=59,z=825,dx=174,dy=16,dz=92] TownMap 150
 scoreboard players set @s[x=-2287,y=0,z=-607,dx=135,dy=240,dz=77] TownMap 129
 scoreboard players set @s[x=-2452,y=0,z=675,dx=203,dy=240,dz=96] TownMap 141
 scoreboard players set @s[x=-2479,y=60,z=-969,dx=237,dy=180,dz=138] TownMap 117
@@ -269,7 +270,8 @@ title @s[x=-2200,y=0,z=-986,dx=250,dy=59,dz=208] actionbar {"text":"Seafoam Isla
 title @s[x=-2222,y=0,z=279,dx=272,dy=240,dz=131] actionbar {"text":"Route 16"}
 title @s[x=-2222,y=0,z=577,dx=218,dy=240,dz=194] actionbar {"text":"Route 3"}
 title @s[x=-2241,y=60,z=-969,dx=237,dy=180,dz=138] actionbar {"text":"Route 20"}
-title @s[x=-2250,y=0,z=722,dx=130,dy=240,dz=94] actionbar {"text":"Mt. Moon"}
+title @s[x=-2279,y=18,z=761,dx=113,dy=37,dz=89] actionbar {"text":"Mt. Moon"}
+title @s[x=-2471,y=59,z=825,dx=174,dy=16,dz=92] actionbar {"text":"Mt. Moon Square"}
 title @s[x=-2287,y=0,z=-607,dx=135,dy=240,dz=77] actionbar {"text":"Route 18"}
 title @s[x=-2452,y=0,z=675,dx=203,dy=240,dz=96] actionbar {"text":"Route 4"}
 title @s[x=-2479,y=60,z=-969,dx=237,dy=180,dz=138] actionbar {"text":"Route 20"}

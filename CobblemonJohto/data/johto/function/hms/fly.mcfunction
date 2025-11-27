@@ -115,8 +115,8 @@ tellraw @s[x=-1574,y=0,z=-895,dx=114,dy=63,dz=73] ["",{"text":"Oak's words echoe
 scoreboard players set @s[x=-1574,y=0,z=-895,dx=114,dy=63,dz=73,scores={Fly=1..}] Fly 0
 
 #Mt. Moon
-tellraw @s[x=-2250,y=0,z=772,dx=130,dy=240,dz=130] ["",{"text":"Oak's words echoed... ","italic":true,"color":"gray"},{"selector":"@s","italic":true,"color":"gray"},{"text":"! There's a time and place for everything! But not now.","italic":true,"color":"gray"}]
-scoreboard players set @s[x=-2250,y=0,z=772,dx=130,dy=240,dz=130,scores={Fly=1..}] Fly 0
+tellraw @s[x=-2279,y=18,z=761,dx=113,dy=37,dz=89] ["",{"text":"Oak's words echoed... ","italic":true,"color":"gray"},{"selector":"@s","italic":true,"color":"gray"},{"text":"! There's a time and place for everything! But not now.","italic":true,"color":"gray"}]
+scoreboard players set @s[x=-2279,y=18,z=761,dx=113,dy=37,dz=89,scores={Fly=1..}] Fly 0
 
 #Rock Tunnel
 tellraw @s[x=-3420,y=0,z=516,dx=257,dy=59,dz=197] ["",{"text":"Oak's words echoed... ","italic":true,"color":"gray"},{"selector":"@s","italic":true,"color":"gray"},{"text":"! There's a time and place for everything! But not now.","italic":true,"color":"gray"}]

@@ -27,7 +27,7 @@ tellraw @s[x=-214,y=0,z=245,dx=130,dy=240,dz=768,scores={DialogueTrigger=157,Tal
 tellraw @s[x=-2200,y=0,z=-986,dx=250,dy=59,dz=208,scores={DialogueTrigger=157,TalkTime=19}] {"text":"Pokémon are listening to your music...","italic":true,"color":"gray"}
 tellraw @s[x=-2222,y=0,z=279,dx=272,dy=240,dz=131,scores={DialogueTrigger=157,TalkTime=19}] {"text":"Pokémon are listening to your music...","italic":true,"color":"gray"}
 tellraw @s[x=-2222,y=0,z=577,dx=436,dy=240,dz=194,scores={DialogueTrigger=157,TalkTime=19}] {"text":"Pokémon are listening to your music...","italic":true,"color":"gray"}
-tellraw @s[x=-2250,y=0,z=722,dx=130,dy=240,dz=130,scores={DialogueTrigger=157,TalkTime=19}] {"text":"Pokémon are listening to your music...","italic":true,"color":"gray"}
+tellraw @s[x=-2279,y=18,z=761,dx=113,dy=37,dz=89,scores={DialogueTrigger=157,TalkTime=19}] {"text":"Pokémon are listening to your music...","italic":true,"color":"gray"}
 tellraw @s[x=-2287,y=0,z=-607,dx=271,dy=240,dz=77,scores={DialogueTrigger=157,TalkTime=19}] {"text":"Pokémon are listening to your music...","italic":true,"color":"gray"}
 tellraw @s[x=-2618,y=0,z=290,dx=118,dy=240,dz=134,scores={DialogueTrigger=157,TalkTime=19}] {"text":"Pokémon are listening to your music...","italic":true,"color":"gray"}
 tellraw @s[x=-2654,y=0,z=675,dx=403,dy=240,dz=96,scores={DialogueTrigger=157,TalkTime=19}] {"text":"Pokémon are listening to your music...","italic":true,"color":"gray"}
@@ -123,8 +123,8 @@ execute store success score @s Temp at @s[x=-2200,y=0,z=-986,dx=250,dy=59,dz=208
 execute store success score @s Temp at @s[x=-2200,y=0,z=-986,dx=250,dy=59,dz=208,scores={DialogueTrigger=157,TalkTime=36,rng=2..3}] run pokespawn Chingling level=10
 execute store success score @s Temp at @s[x=-2222,y=0,z=279,dx=272,dy=240,dz=131,scores={DialogueTrigger=157,TalkTime=36}] run pokespawn Shinx level=10
 execute store success score @s Temp at @s[x=-2222,y=0,z=577,dx=436,dy=240,dz=194,scores={DialogueTrigger=157,TalkTime=36}] run pokespawn Shinx level=10
-execute store success score @s Temp at @s[x=-2250,y=0,z=722,dx=130,dy=240,dz=130,scores={DialogueTrigger=157,TalkTime=36,rng=0..1}] run pokespawn Bronzor level=10
-execute store success score @s Temp at @s[x=-2250,y=0,z=722,dx=130,dy=240,dz=130,scores={DialogueTrigger=157,TalkTime=36,rng=2..3}] run pokespawn Chingling level=10
+execute store success score @s Temp at @s[x=-2279,y=18,z=761,dx=113,dy=37,dz=89,scores={DialogueTrigger=157,TalkTime=36,rng=0..1}] run pokespawn Bronzor level=10
+execute store success score @s Temp at @s[x=-2279,y=18,z=761,dx=113,dy=37,dz=89,scores={DialogueTrigger=157,TalkTime=36,rng=2..3}] run pokespawn Chingling level=10
 execute store success score @s Temp at @s[x=-2287,y=0,z=-607,dx=271,dy=240,dz=77,scores={DialogueTrigger=157,TalkTime=36}] run pokespawn Shinx level=10
 execute store success score @s Temp at @s[x=-2618,y=0,z=290,dx=118,dy=240,dz=134,scores={DialogueTrigger=157,TalkTime=36}] run pokespawn Shinx level=10
 execute store success score @s Temp at @s[x=-2654,y=0,z=675,dx=403,dy=240,dz=96,scores={DialogueTrigger=157,TalkTime=36}] run pokespawn Shinx level=10

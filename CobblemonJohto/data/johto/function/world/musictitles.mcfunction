@@ -217,8 +217,8 @@ title @s[x=-967,y=174,z=189,dx=50,dy=30,dz=140,scores={MusicTitles=1..28}] actio
 title @s[x=-967,y=174,z=189,dx=50,dy=30,dz=140,scores={MusicTitles=30..199}] actionbar {"text":"Mt. Silver"}
 title @s[x=-83,y=0,z=220,dx=318,dy=240,dz=180,scores={MusicTitles=1..27}] actionbar {"text":"Mt. Mortar"}
 title @s[x=-83,y=0,z=220,dx=318,dy=240,dz=180,scores={MusicTitles=29..199}] actionbar {"text":"Mt. Mortar"}
-title @s[x=-2250,y=0,z=772,dx=130,dy=240,dz=130,scores={MusicTitles=1..26}] actionbar {"text":"Mt. Moon"}
-title @s[x=-2250,y=0,z=772,dx=130,dy=240,dz=130,scores={MusicTitles=28..199}] actionbar {"text":"Mt. Moon"}
+title @s[x=-2279,y=18,z=761,dx=113,dy=37,dz=89,scores={MusicTitles=1..26}] actionbar {"text":"Mt. Moon"}
+title @s[x=-2279,y=18,z=761,dx=113,dy=37,dz=89,scores={MusicTitles=28..199}] actionbar {"text":"Mt. Moon"}
 #title @s[x=-214,y=64,z=125,dx=117,dy=240,dz=119,scores={MusicTitles=1..25}] actionbar {"text":"Mahogany Town"}
 #title @s[x=-214,y=64,z=125,dx=117,dy=240,dz=119,scores={MusicTitles=27..199}] actionbar {"text":"Mahogany Town"}
 title @s[x=-978,y=64,z=-375,dx=20,dy=20,dz=20,scores={MusicTitles=1..24}] actionbar {"text":"Lobby"}
@@ -678,8 +678,8 @@ execute as @s[x=-967,y=174,z=189,dx=50,dy=30,dz=140,scores={MusicTitles=1..28,Mu
 execute as @s[x=-967,y=174,z=189,dx=50,dy=30,dz=140,scores={MusicTitles=30..,MusicCooldown=1..},tag=!Indoors] unless entity @s[scores={RadioSelect=3..9}] run function johto:tools/forceclick
 execute as @s[x=-83,y=0,z=220,dx=318,dy=240,dz=180,scores={MusicTitles=1..27,MusicCooldown=1..},tag=!Indoors] unless entity @s[scores={RadioSelect=3..9}] run function johto:tools/forceclick
 execute as @s[x=-83,y=0,z=220,dx=318,dy=240,dz=180,scores={MusicTitles=29..,MusicCooldown=1..},tag=!Indoors] unless entity @s[scores={RadioSelect=3..9}] run function johto:tools/forceclick
-execute as @s[x=-2250,y=0,z=772,dx=130,dy=240,dz=130,scores={MusicTitles=1..26,MusicCooldown=1..},tag=!Indoors] unless entity @s[scores={RadioSelect=3..9}] run function johto:tools/forceclick
-execute as @s[x=-2250,y=0,z=772,dx=130,dy=240,dz=130,scores={MusicTitles=28..,MusicCooldown=1..},tag=!Indoors] unless entity @s[scores={RadioSelect=3..9}] run function johto:tools/forceclick
+execute as @s[x=-2279,y=18,z=761,dx=113,dy=37,dz=89,scores={MusicTitles=1..26,MusicCooldown=1..},tag=!Indoors] unless entity @s[scores={RadioSelect=3..9}] run function johto:tools/forceclick
+execute as @s[x=-2279,y=18,z=761,dx=113,dy=37,dz=89,scores={MusicTitles=28..,MusicCooldown=1..},tag=!Indoors] unless entity @s[scores={RadioSelect=3..9}] run function johto:tools/forceclick
 execute as @s[x=-214,y=64,z=125,dx=117,dy=240,dz=119,scores={MusicTitles=1..25,MusicCooldown=1..},tag=!Indoors] unless entity @s[scores={RadioSelect=3..9}] run function johto:tools/forceclick
 execute as @s[x=-214,y=64,z=125,dx=117,dy=240,dz=119,scores={MusicTitles=27..,MusicCooldown=1..},tag=!Indoors] unless entity @s[scores={RadioSelect=3..9}] run function johto:tools/forceclick
 execute as @s[x=-978,y=64,z=-375,dx=20,dy=20,dz=20,scores={MusicTitles=1..24,MusicCooldown=1..},tag=!Indoors] unless entity @s[scores={RadioSelect=3..9}] run function johto:tools/forceclick
@@ -877,7 +877,7 @@ scoreboard players set @s[x=463,y=0,z=-67,dx=175,dy=240,dz=203] MusicTitles 30
 scoreboard players set @s[x=-1043,y=60,z=102,dx=135,dy=100,dz=270] MusicTitles 29
 scoreboard players set @s[x=-967,y=174,z=189,dx=50,dy=30,dz=140] MusicTitles 29
 scoreboard players set @s[x=-83,y=0,z=220,dx=318,dy=240,dz=180] MusicTitles 28
-scoreboard players set @s[x=-2250,y=0,z=772,dx=130,dy=240,dz=130] MusicTitles 27
+scoreboard players set @s[x=-2279,y=18,z=761,dx=113,dy=37,dz=89] MusicTitles 27
 scoreboard players set @s[x=-214,y=64,z=125,dx=117,dy=240,dz=119] MusicTitles 26
 scoreboard players set @s[x=-978,y=64,z=-375,dx=20,dy=20,dz=20] MusicTitles 25
 scoreboard players set @s[x=-3338,y=0,z=290,dx=113,dy=240,dz=96] MusicTitles 24

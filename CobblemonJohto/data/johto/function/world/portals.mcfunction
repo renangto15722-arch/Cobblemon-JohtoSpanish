@@ -727,21 +727,36 @@ tp @a[x=-2989,y=59,z=188,dx=3,dy=3] -1718 64 476
 #Mt. Moon Pewter City Side
 playsound door ambient @a[x=-2201,y=64,z=750,dx=3,dy=3] ~ ~ ~ 100 1 1
 scoreboard players set @a[x=-2201,y=64,z=750,dx=3,dy=3] EscapeRope 25
-tp @a[x=-2201,y=64,z=750,dx=3,dy=3] -2197 64 790
+tp @a[x=-2201,y=64,z=750,dx=3,dy=3] -2188 24 820
 
-playsound door ambient @a[x=-2198,y=64,z=789,dx=3,dy=3] ~ ~ ~ 100 1 1
-scoreboard players set @a[x=-2198,y=64,z=789,dx=3,dy=3] EscapeRope 0
-tp @a[x=-2198,y=64,z=789,dx=3,dy=3] -2200 64 749
+playsound door ambient @a[x=-2189,y=24,z=819,dx=3,dy=3] ~ ~ ~ 100 1 1
+scoreboard players set @a[x=-2189,y=24,z=819,dx=3,dy=3] EscapeRope 0
+tp @a[x=-2189,y=24,z=819,dx=3,dy=3] -2200 64 749
 
 
 #Mt. Moon Cerulean City Side
 playsound door ambient @a[x=-2264,y=64,z=750,dx=3,dy=3] ~ ~ ~ 100 1 1
 scoreboard players set @a[x=-2264,y=64,z=750,dx=3,dy=3] EscapeRope 26
-tp @a[x=-2264,y=64,z=750,dx=3,dy=3] -2172 42 824
+tp @a[x=-2264,y=64,z=750,dx=3,dy=3] -2247 24 774
 
-playsound door ambient @a[x=-2174,y=42,z=823,dx=3,dy=3] ~ ~ ~ 100 1 1
-scoreboard players set @a[x=-2174,y=42,z=823,dx=3,dy=3] EscapeRope 0
-tp @a[x=-2174,y=42,z=823,dx=3,dy=3] -2263 64 749
+playsound door ambient @a[x=-2249,y=24,z=773,dx=3,dy=3] ~ ~ ~ 100 1 1
+scoreboard players set @a[x=-2249,y=24,z=773,dx=3,dy=3] EscapeRope 0
+tp @a[x=-2249,y=24,z=773,dx=3,dy=3] -2263 64 749
+
+#Mt. Moon Square
+#North Gate
+playsound door ambient @a[x=-2403,y=60,z=878,dx=3,dy=3] ~ ~ ~ 100 1 1
+tp @a[x=-2403,y=60,z=878,dx=3,dy=3] -2230 40 815
+
+playsound door ambient @a[x=-2232,y=40,z=814,dx=3,dy=3] ~ ~ ~ 100 1 1
+tp @a[x=-2232,y=40,z=814,dx=3,dy=3] -2401 60 877
+
+#South Gate
+playsound door ambient @a[x=-2417,y=60,z=847,dx=3,dy=3] ~ ~ ~ 100 1 1
+tp @a[x=-2417,y=60,z=847,dx=3,dy=3] -2247 40 790
+
+playsound door ambient @a[x=-2249,y=40,z=789,dx=3,dy=3] ~ ~ ~ 100 1 1
+tp @a[x=-2249,y=40,z=789,dx=3,dy=3] -2415 60 846
 
 #--------------------------------------------------
 

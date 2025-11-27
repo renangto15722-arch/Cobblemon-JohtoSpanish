@@ -361,10 +361,10 @@ execute if entity @e[x=-799,y=64,z=-284,dy=3,type=armor_stand,scores={WeekdayTra
 execute as @s[x=-3060,y=64,z=956,distance=..50,tag=!Dialogue113,tag=Dialogue221] unless entity @e[x=-3060,y=64,z=956,dy=3,type=cobblemon:npc] run npcspawnat -3060 64 956 route25_misty 1
 
 #Mt. Moon Silver
-execute as @s[x=-2200,y=64,z=800,distance=..25,tag=!Dialogue131,scores={StarterPick=1..}] unless entity @e[x=-2200,y=64,z=800,dy=3,type=cobblemon:npc] run particle cloud -2200 64 800 1 1 1 1 100
-execute as @s[x=-2200,y=64,z=800,distance=..25,tag=!Dialogue131,scores={StarterPick=1}] unless entity @e[x=-2200,y=64,z=800,dy=3,type=cobblemon:npc] run npcspawnat -2200 64 800 mtmoon_silver1 1
-execute as @s[x=-2200,y=64,z=800,distance=..25,tag=!Dialogue131,scores={StarterPick=2}] unless entity @e[x=-2200,y=64,z=800,dy=3,type=cobblemon:npc] run npcspawnat -2200 64 800 mtmoon_silver2 1
-execute as @s[x=-2200,y=64,z=800,distance=..25,tag=!Dialogue131,scores={StarterPick=3}] unless entity @e[x=-2200,y=64,z=800,dy=3,type=cobblemon:npc] run npcspawnat -2200 64 800 mtmoon_silver3 1
+execute as @s[x=-2201,y=24,z=825,distance=..25,tag=!Dialogue131,scores={StarterPick=1..}] unless entity @e[x=-2201,y=24,z=825,dy=3,type=cobblemon:npc] run particle cloud -2201 24 825 1 1 1 1 100
+execute as @s[x=-2201,y=24,z=825,distance=..25,tag=!Dialogue131,scores={StarterPick=1}] unless entity @e[x=-2201,y=24,z=825,dy=3,type=cobblemon:npc] run npcspawnat -2201 24 825 mtmoon_silver1 1
+execute as @s[x=-2201,y=24,z=825,distance=..25,tag=!Dialogue131,scores={StarterPick=2}] unless entity @e[x=-2201,y=24,z=825,dy=3,type=cobblemon:npc] run npcspawnat -2201 24 825 mtmoon_silver2 1
+execute as @s[x=-2201,y=24,z=825,distance=..25,tag=!Dialogue131,scores={StarterPick=3}] unless entity @e[x=-2201,y=24,z=825,dy=3,type=cobblemon:npc] run npcspawnat -2201 24 825 mtmoon_silver3 1
 
 
 #Vermilion Sleeping Snorlax

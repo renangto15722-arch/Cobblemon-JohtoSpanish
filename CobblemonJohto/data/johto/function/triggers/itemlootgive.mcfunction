@@ -1381,30 +1381,40 @@ execute as @s[x=-2212,y=64,z=705,distance=..4,tag=!ItemLoot275] run tellraw @s {
 execute as @s[x=-2212,y=64,z=705,distance=..4,tag=!ItemLoot275] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
 execute as @s[x=-2212,y=64,z=705,distance=..4,tag=!ItemLoot275] run tag @s add ItemLoot275
 
-execute as @s[x=-2232,y=64,z=847,distance=..4,tag=!ItemLoot276] run give @s cobblemon:revive
-execute as @s[x=-2232,y=64,z=847,distance=..4,tag=!ItemLoot276] run tellraw @s {"text":"You found a Revive!","italic":true,"color":"gray"}
-execute as @s[x=-2232,y=64,z=847,distance=..4,tag=!ItemLoot276] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
-execute as @s[x=-2232,y=64,z=847,distance=..4,tag=!ItemLoot276] run tag @s add ItemLoot276
+execute as @s[x=-2254,y=24,z=827,distance=..4,tag=!ItemLoot276] run give @s cobblemon:revive
+execute as @s[x=-2254,y=24,z=827,distance=..4,tag=!ItemLoot276] run tellraw @s {"text":"You found a Revive!","italic":true,"color":"gray"}
+execute as @s[x=-2254,y=24,z=827,distance=..4,tag=!ItemLoot276] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
+execute as @s[x=-2254,y=24,z=827,distance=..4,tag=!ItemLoot276] run tag @s add ItemLoot276
 
-execute as @s[x=-2192,y=44,z=832,distance=..4,tag=!ItemLoot277] run give @s cobblemon:dome_fossil
-execute as @s[x=-2192,y=44,z=832,distance=..4,tag=!ItemLoot277] run tellraw @s {"text":"You found a Dome Fossil!","italic":true,"color":"gray"}
-execute as @s[x=-2192,y=44,z=832,distance=..4,tag=!ItemLoot277] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
-execute as @s[x=-2192,y=44,z=832,distance=..4,tag=!ItemLoot277] run tag @s add ItemLoot277
+execute as @s[x=-2246,y=24,z=816,distance=..4,tag=!ItemLoot277] run give @s cobblemon:dome_fossil
+execute as @s[x=-2246,y=24,z=816,distance=..4,tag=!ItemLoot277] run tellraw @s {"text":"You found a Dome Fossil!","italic":true,"color":"gray"}
+execute as @s[x=-2246,y=24,z=816,distance=..4,tag=!ItemLoot277] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
+execute as @s[x=-2246,y=24,z=816,distance=..4,tag=!ItemLoot277] run tag @s add ItemLoot277
 
-execute as @s[x=-2188,y=44,z=832,distance=..4,tag=!ItemLoot278] run give @s cobblemon:helix_fossil
-execute as @s[x=-2188,y=44,z=832,distance=..4,tag=!ItemLoot278] run tellraw @s {"text":"You found a Helix Fossil!","italic":true,"color":"gray"}
-execute as @s[x=-2188,y=44,z=832,distance=..4,tag=!ItemLoot278] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
-execute as @s[x=-2188,y=44,z=832,distance=..4,tag=!ItemLoot278] run tag @s add ItemLoot278
+execute as @s[x=-2255,y=24,z=796,distance=..4,tag=!ItemLoot278] run give @s cobblemon:helix_fossil
+execute as @s[x=-2255,y=24,z=796,distance=..4,tag=!ItemLoot278] run tellraw @s {"text":"You found a Helix Fossil!","italic":true,"color":"gray"}
+execute as @s[x=-2255,y=24,z=796,distance=..4,tag=!ItemLoot278] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
+execute as @s[x=-2255,y=24,z=796,distance=..4,tag=!ItemLoot278] run tag @s add ItemLoot278
 
-execute as @s[x=-2202,y=44,z=842,distance=..4,tag=!ItemLoot279] run give @s cobblemon:old_amber_fossil
-execute as @s[x=-2202,y=44,z=842,distance=..4,tag=!ItemLoot279] run tellraw @s {"text":"You found an Old Amber!","italic":true,"color":"gray"}
-execute as @s[x=-2202,y=44,z=842,distance=..4,tag=!ItemLoot279] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
-execute as @s[x=-2202,y=44,z=842,distance=..4,tag=!ItemLoot279] run tag @s add ItemLoot279
+execute as @s[x=-2206,y=24,z=780,distance=..4,tag=!ItemLoot279] run give @s cobblemon:old_amber_fossil
+execute as @s[x=-2206,y=24,z=780,distance=..4,tag=!ItemLoot279] run tellraw @s {"text":"You found an Old Amber!","italic":true,"color":"gray"}
+execute as @s[x=-2206,y=24,z=780,distance=..4,tag=!ItemLoot279] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
+execute as @s[x=-2206,y=24,z=780,distance=..4,tag=!ItemLoot279] run tag @s add ItemLoot279
 
 execute as @s[x=-2465,y=64,z=757,distance=..4,tag=!ItemLoot280] run give @s cobblemon:hp_up
 execute as @s[x=-2465,y=64,z=757,distance=..4,tag=!ItemLoot280] run tellraw @s {"text":"You found a HP Up!","italic":true,"color":"gray"}
 execute as @s[x=-2465,y=64,z=757,distance=..4,tag=!ItemLoot280] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
 execute as @s[x=-2465,y=64,z=757,distance=..4,tag=!ItemLoot280] run tag @s add ItemLoot280
+
+execute as @s[x=-2336,y=57,z=868,distance=..5,tag=!ItemLoot447] run give @s cobblemon:moon_stone
+execute as @s[x=-2336,y=57,z=868,distance=..5,tag=!ItemLoot447] run tellraw @s {"text":"You found a Moon Stone!","italic":true,"color":"gray"}
+execute as @s[x=-2336,y=57,z=868,distance=..5,tag=!ItemLoot447] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
+execute as @s[x=-2336,y=57,z=868,distance=..5,tag=!ItemLoot447] run tag @s add ItemLoot447
+
+execute as @s[x=-2429,y=60,z=900,distance=..5,tag=!ItemLoot448] run give @s cobblemon:max_revive
+execute as @s[x=-2429,y=60,z=900,distance=..5,tag=!ItemLoot448] run tellraw @s {"text":"You found a Max Revive!","italic":true,"color":"gray"}
+execute as @s[x=-2429,y=60,z=900,distance=..5,tag=!ItemLoot448] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
+execute as @s[x=-2429,y=60,z=900,distance=..5,tag=!ItemLoot448] run tag @s add ItemLoot448
 
 execute as @s[x=-2345,y=64,z=763,distance=..4,tag=!ItemLoot281] run give @s cobblemon:ultra_ball
 execute as @s[x=-2345,y=64,z=763,distance=..4,tag=!ItemLoot281] run tellraw @s {"text":"You found a Ultra Ball!","italic":true,"color":"gray"}
