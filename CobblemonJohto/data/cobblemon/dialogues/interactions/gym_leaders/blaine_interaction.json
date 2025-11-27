@@ -20,7 +20,61 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hah! I'm Blaine! I am the Leader of Cinnabar Gym!"
+                "Hey, you!"
+            ],
+            "input": {
+                "type": "option",
+                "vertical": false,
+                "options": [
+                    {
+                        "text": "Next",
+                        "value": "next",
+                        "action": "q.dialogue.set_page('page2');"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "page2",
+            "speaker": "npc",
+            "lines": [
+                "My Gym on Cinnabar Island was burned down by the eruption!"
+            ],
+            "input": {
+                "type": "option",
+                "vertical": false,
+                "options": [
+                    {
+                        "text": "Next",
+                        "value": "next",
+                        "action": "q.dialogue.set_page('page3');"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "page3",
+            "speaker": "npc",
+            "lines": [
+                "But I will not give up!"
+            ],
+            "input": {
+                "type": "option",
+                "vertical": false,
+                "options": [
+                    {
+                        "text": "Next",
+                        "value": "next",
+                        "action": "q.dialogue.set_page('page4');"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "page4",
+            "speaker": "npc",
+            "lines": [
+                "Take a look at this cave. We have turned it into a Gym, and I am still acting as a Gym Leader!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +92,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "My fiery Pokémon will incinerate all challengers!"
+                "I will give you the Gym Badge if you manage to defeat me!"
             ],
             "input": {
                 "type": "option",
@@ -61,7 +115,7 @@
             "id": "battle_start",
             "speaker": "npc",
             "lines": [
-                "Hah! You better have Burn Heal!"
+                "Are you ready? Here we go!"
             ],
             "input": {
                 "type": "option",

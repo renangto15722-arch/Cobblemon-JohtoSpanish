@@ -342,7 +342,9 @@ execute at @a[x=-1354,y=77,z=751,dx=24,dy=10,dz=34] run clone -730 64 -328 -726 
 execute at @a[x=-1354,y=77,z=751,dx=24,dy=10,dz=34] run tp @a[x=-1354,y=77,z=751,dx=24,dy=10,dz=34] ~53 ~ ~
 
 
-
+#Tps player from Blaine's gym chamber to Seafoam Islands
+execute as @a[x=-861,y=58,z=767,dx=2,dy=4,dz=2] run scoreboard players set @s EscapeRope 21
+execute as @a[x=-861,y=58,z=767,dx=2,dy=4,dz=2] run tp @s -2048 51 -878 0 9
 
 
 

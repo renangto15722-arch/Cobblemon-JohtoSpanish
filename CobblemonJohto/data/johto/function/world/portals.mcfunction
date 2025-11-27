@@ -393,13 +393,13 @@ playsound door ambient @a[x=-968,y=64,z=737,dx=9,dy=6] ~ ~ ~ 100 1 1
 tp @a[x=-968,y=64,z=737,dx=9,dy=6] -2813 64 408
 
 #--------------------------------------------------
-#Cinnabar
-playsound door ambient @a[x=-1730,y=64,z=-859,dx=4,dy=3] ~ ~ ~ 100 1 1
-tag @a[x=-1730,y=64,z=-859,dx=4,dy=3] remove GymVictory
-tp @a[x=-1730,y=64,z=-859,dx=4,dy=3] -1077 64 738
+#Cinnabar, also western Seafoam Islands entrance
+playsound door ambient @a[x=-2050,y=64,z=-883,dx=4,dy=3] ~ ~ ~ 100 1 1
+tag @a[x=-2050,y=64,z=-883,dx=4,dy=3] remove GymVictory
+tp @a[x=-2050,y=64,z=-883,dx=4,dy=3] -854 64 761
 
-playsound door ambient @a[x=-1080,y=64,z=737,dx=9,dy=6] ~ ~ ~ 100 1 1
-tp @a[x=-1080,y=64,z=737,dx=9,dy=6] -1728 64 -860
+playsound door ambient @a[x=-855,y=64,z=760,dx=3,dy=3] ~ ~ ~ 100 1 1
+tp @a[x=-855,y=64,z=760,dx=3,dy=3] -2049 64 -884
 
 
 #--------------------------------------------------
@@ -675,14 +675,14 @@ tp @a[x=-1450,y=51,z=534,dx=3,dy=3] -1326 64 114 ~180 ~0
 
 #--------------------------------------------------
 
-#Seafoam Islands Left Island
-playsound door ambient @a[x=-2050,y=64,z=-883,dx=3,dy=3] ~ ~ ~ 100 1 1
-scoreboard players set @a[x=-2050,y=64,z=-883,dx=3,dy=3] EscapeRope 21
-tp @a[x=-2050,y=64,z=-883,dx=3,dy=3] -2048 51 -878
+#Seafoam Islands Left Island (turned into Blaine's Gym cave)
+#playsound door ambient @a[x=-2050,y=64,z=-883,dx=3,dy=3] ~ ~ ~ 100 1 1
+#scoreboard players set @a[x=-2050,y=64,z=-883,dx=3,dy=3] EscapeRope 21
+#tp @a[x=-2050,y=64,z=-883,dx=3,dy=3] -2048 51 -878
 
 playsound door ambient @a[x=-2050,y=51,z=-879,dx=3,dy=3] ~ ~ ~ 100 1 1
 scoreboard players set @a[x=-2050,y=51,z=-879,dx=3,dy=3] EscapeRope 0
-tp @a[x=-2050,y=51,z=-879,dx=3,dy=3] -2049 64 -884
+tp @a[x=-2050,y=51,z=-879,dx=3,dy=3] -860 64 771 0 9
 
 
 #Seafoam Islands Right Island
@@ -787,14 +787,6 @@ tp @a[x=-1289,y=84,z=341,dy=4,dz=5] -1029 65.06 -339 ~-90 ~
 
 playsound door ambient @a[x=-1032,y=65,z=-342,dx=4,dy=4] ~ ~ ~ 100 1 1
 tp @a[x=-1032,y=65,z=-342,dx=4,dy=4] -1286 84 343 ~90 ~
-
-
-#Pokemon Mansion
-playsound door ambient @a[x=-1503,y=42,z=-886,dx=2,dy=2] ~ ~ ~ 100 1 1
-tp @a[x=-1503,y=42,z=-886,dx=2,dy=2] -1676 64 -859
-
-playsound door ambient @a[x=-1676,y=64,z=-858,dx=1,dy=2] ~ ~ ~ 100 1 1
-tp @a[x=-1676,y=64,z=-858,dx=1,dy=2] -1503 42 -884
 
 
 #Ruins of Alph Aerodactyl Chamber
