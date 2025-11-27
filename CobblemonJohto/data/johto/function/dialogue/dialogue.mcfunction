@@ -47,6 +47,13 @@ tellraw @s[scores={DialogueTrigger=98,TalkTime=48}] {"text":"Map is based off of
 tellraw @s[scores={DialogueTrigger=98,TalkTime=58}] {"text":"Check out my other projects if you enjoyed!"}
 tellraw @s[scores={DialogueTrigger=98,TalkTime=58}] ["",{"text":"["},{"text":"Pixelmon Hoenn","color":"aqua","clickEvent":{"action":"open_url","value":"https://www.curseforge.com/minecraft/worlds/pixelmon-hoenn"}},{"text":"] ["},{"text":"Pixelmon Kalos","color":"yellow","clickEvent":{"action":"open_url","value":"https://www.curseforge.com/minecraft/worlds/pixelmon-kalos"}},{"text":"] ["},{"text":"Cobblemon Kanto","color":"red","clickEvent":{"action":"open_url","value":"https://www.curseforge.com/minecraft/worlds/cobblemon-kanto"}},{"text":"]"}]
 
+#Gives Champion ribbons to your party
+execute as @s[scores={DialogueTrigger=98,TalkTime=65}] run givemark @s 1 cobblemon:ribbon_champion
+execute as @s[scores={DialogueTrigger=98,TalkTime=65}] run givemark @s 2 cobblemon:ribbon_champion
+execute as @s[scores={DialogueTrigger=98,TalkTime=65}] run givemark @s 3 cobblemon:ribbon_champion
+execute as @s[scores={DialogueTrigger=98,TalkTime=65}] run givemark @s 4 cobblemon:ribbon_champion
+execute as @s[scores={DialogueTrigger=98,TalkTime=65}] run givemark @s 5 cobblemon:ribbon_champion
+execute as @s[scores={DialogueTrigger=98,TalkTime=65}] run givemark @s 6 cobblemon:ribbon_champion
 
 #runs legendary reset function
 execute as @s[scores={DialogueTrigger=98,TalkTime=65}] run function johto:triggers/legendreset

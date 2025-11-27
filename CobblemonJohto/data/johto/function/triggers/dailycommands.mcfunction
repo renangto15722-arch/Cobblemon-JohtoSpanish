@@ -63,6 +63,8 @@ tag @a[tag=Dialogue225] remove Dialogue225
 tag @a[tag=BeautyCD] remove BeautyCD
 
 
+#Daily Weekday Sibling Ribbons
+tag @a remove RibbonCooldown
 
 #Removes Dialogue Tag for Friday Lapras
 tag @a[tag=Dialogue105] remove Dialogue105

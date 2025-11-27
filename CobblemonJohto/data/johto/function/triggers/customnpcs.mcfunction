@@ -33,24 +33,38 @@ execute as @s[x=-2696,y=64,z=-37,distance=..6,tag=Dialogue133,tag=Dialogue134] r
 #Weekday Siblings
 execute as @s[x=913,y=64,z=-54,distance=..6,tag=!Dialogue187] run opendialogue monica_first @s
 execute as @s[x=913,y=64,z=-54,distance=..6,tag=Dialogue187] run opendialogue monica_first_end @s
+execute as @s[x=913,y=64,z=-54,distance=..6,tag=!RibbonCooldown,advancements={johto:sidequests/weeksiblings=true}] run opendialogue monica_ribbon @s
+execute as @s[x=913,y=64,z=-54,distance=..6,tag=RibbonCooldown,advancements={johto:sidequests/weeksiblings=true}] run opendialogue monica_ribbon_end @s
 
 execute as @s[x=-482,y=64,z=-535,distance=..6,tag=!Dialogue188] run opendialogue tuscany_first @s
 execute as @s[x=-482,y=64,z=-535,distance=..6,tag=Dialogue188] run opendialogue tuscany_first_end @s
+execute as @s[x=-482,y=64,z=-535,distance=..6,tag=!RibbonCooldown,advancements={johto:sidequests/weeksiblings=true}] run opendialogue tuscany_ribbon @s
+execute as @s[x=-482,y=64,z=-535,distance=..6,tag=RibbonCooldown,advancements={johto:sidequests/weeksiblings=true}] run opendialogue tuscany_ribbon_end @s
 
 execute as @s[x=-56,y=64,z=722,distance=..6,tag=!Dialogue189] run opendialogue wesley_first @s
 execute as @s[x=-56,y=64,z=722,distance=..6,tag=Dialogue189] run opendialogue wesley_first_end @s
+execute as @s[x=-56,y=64,z=722,distance=..6,tag=!RibbonCooldown,advancements={johto:sidequests/weeksiblings=true}] run opendialogue wesley_ribbon @s
+execute as @s[x=-56,y=64,z=722,distance=..6,tag=RibbonCooldown,advancements={johto:sidequests/weeksiblings=true}] run opendialogue wesley_ribbon_end @s
 
 execute as @s[x=236,y=64,z=-6,distance=..6,tag=!Dialogue190] run opendialogue arthur_first @s
 execute as @s[x=236,y=64,z=-6,distance=..6,tag=Dialogue190] run opendialogue arthur_first_end @s
+execute as @s[x=236,y=64,z=-6,distance=..6,tag=!RibbonCooldown,advancements={johto:sidequests/weeksiblings=true}] run opendialogue arthur_ribbon @s
+execute as @s[x=236,y=64,z=-6,distance=..6,tag=RibbonCooldown,advancements={johto:sidequests/weeksiblings=true}] run opendialogue arthur_ribbon_end @s
 
 execute as @s[x=127,y=64,z=-545,distance=..6,tag=!Dialogue191] run opendialogue frieda_first @s
 execute as @s[x=127,y=64,z=-545,distance=..6,tag=Dialogue191] run opendialogue frieda_first_end @s
+execute as @s[x=127,y=64,z=-545,distance=..6,tag=!RibbonCooldown,advancements={johto:sidequests/weeksiblings=true}] run opendialogue frieda_ribbon @s
+execute as @s[x=127,y=64,z=-545,distance=..6,tag=RibbonCooldown,advancements={johto:sidequests/weeksiblings=true}] run opendialogue frieda_ribbon_end @s
 
 execute as @s[x=-663,y=64,z=225,distance=..6,tag=!Dialogue192] run opendialogue santos_first @s
 execute as @s[x=-663,y=64,z=225,distance=..6,tag=Dialogue192] run opendialogue santos_first_end @s
+execute as @s[x=-663,y=64,z=225,distance=..6,tag=!RibbonCooldown,advancements={johto:sidequests/weeksiblings=true}] run opendialogue santos_ribbon @s
+execute as @s[x=-663,y=64,z=225,distance=..6,tag=RibbonCooldown,advancements={johto:sidequests/weeksiblings=true}] run opendialogue santos_ribbon_end @s
 
 execute as @s[x=335,y=64,z=113,distance=..6,tag=!Dialogue193] run opendialogue sunny_first @s
 execute as @s[x=335,y=64,z=113,distance=..6,tag=Dialogue193] run opendialogue sunny_first_end @s
+execute as @s[x=335,y=64,z=113,distance=..6,tag=!RibbonCooldown,advancements={johto:sidequests/weeksiblings=true}] run opendialogue sunny_ribbon @s
+execute as @s[x=335,y=64,z=113,distance=..6,tag=RibbonCooldown,advancements={johto:sidequests/weeksiblings=true}] run opendialogue sunny_ribbon_end @s
 
 
 #Power Plant Manager
