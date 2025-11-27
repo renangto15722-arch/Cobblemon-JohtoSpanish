@@ -206,9 +206,6 @@ execute as @s[x=-187,y=64,z=352,distance=..30,tag=Dialogue64] as @e[x=-190,y=64,
 execute as @s[x=-187,y=64,z=352,distance=..30,tag=Dialogue64] unless entity @e[x=-181,y=64,z=352,dy=3,type=cobblemon:npc] run npcspawnat -181 64 352 route43_officerjenny 1
 execute as @s[x=-187,y=64,z=352,distance=..30,tag=!Dialogue64] as @e[x=-181,y=64,z=352,dy=3,type=cobblemon:npc] run tp @s 10000000 -50000 -10000000
 
-#Red Gyarados Spawn
-scoreboard players set @a[x=-169,y=65,z=645,distance=..15,tag=!Dialogue49] DialogueTrigger 49
-
 #Lance after battling the Gyarados
 execute as @s[x=-159,y=64,z=590,distance=..50,tag=Dialogue49,tag=!Dialogue51] unless entity @e[x=-159,y=64,z=590,dy=3,type=cobblemon:npc] run npcspawnat -159 64 590 lake_lance 1
 
@@ -411,6 +408,16 @@ scoreboard players set @s[x=1242,y=30,z=209,dx=14,dy=10,dz=8,tag=!Dialogue103,nb
 
 
 #Static Legendaries, Clickable entities
+
+#Red Gyarados
+execute as @s[x=-143,y=64,z=563,distance=..30,tag=!Dialogue49] unless entity @e[x=-169,y=63,z=645,distance=..3,type=cobblemon:pokemon] run summon minecraft:interaction -169 63 645 {width:3,height:4,response:1,Tags:[NPCs]}
+execute as @s[x=-143,y=64,z=563,distance=..30,tag=!Dialogue49] unless entity @e[x=-169,y=63,z=645,distance=..3,type=cobblemon:pokemon] run pokespawnat -169 63 645 gyarados shiny=yes no_ai=true level=30 moves=bite,dragonrage,leer,twister
+execute positioned -169 63 645 as @e[distance=..5,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:gyarados"}},nbt={PersistenceRequired:0b}] run tp @s ~ ~ ~ 180 ~
+execute positioned -169 63 645 as @e[distance=..5,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:gyarados"}},nbt={PersistenceRequired:0b}] run data merge entity @s {Pokemon:{PokemonData:["uncatchable"]}}
+execute positioned -169 63 645 as @e[distance=..5,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:gyarados"}},nbt={PersistenceRequired:0b}] run data modify entity @s Unbattleable set value 1b
+execute positioned -169 63 645 as @e[distance=..5,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:gyarados"}},nbt={PersistenceRequired:0b}] run data modify entity @s Invulnerable set value 1b
+execute positioned -169 63 645 as @e[distance=..5,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:gyarados"}},nbt={PersistenceRequired:0b}] run data modify entity @s PersistenceRequired set value 1
+
 
 #Articuno
 execute as @s[x=-2059,y=21,z=-851,distance=..30,tag=!ArticunoEncounter] unless entity @e[x=-2054,y=19,z=-835,distance=..3,type=cobblemon:pokemon] run summon minecraft:interaction -2054 19 -835 {width:3,height:4,response:1,Tags:[NPCs]}

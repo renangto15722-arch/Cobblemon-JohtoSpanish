@@ -17,18 +17,7 @@ scoreboard players add @s[scores={DialogueTrigger=1..}] TalkTime 1
 #Most dialogues no longer present here, converting to Cobblemon's own dialogue system.
 #Legacy unported dialogues can be found in dialogue.pixelmon
 
-#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Dialogue 49 - Lake of Rage
-#Shiny Gyarados one-off
 
-execute as @s[scores={DialogueTrigger=49,TalkTime=1}] run particle cloud -169 65 645 3 3 3 1 200
-execute as @s[scores={DialogueTrigger=49,TalkTime=1}] run pokespawnat -169 65 645 gyarados shiny=yes level=30
-execute as @s[scores={DialogueTrigger=49,TalkTime=1}] run playsound gyarados hostile @s ~ ~ ~ 1 1 1
-execute as @s[scores={DialogueTrigger=49,TalkTime=1}] run playsound shiny hostile @s ~ ~ ~ 1 1 1
-execute as @s[scores={DialogueTrigger=49,TalkTime=1}] run advancement grant @s only johto:story/rocket2
-
-
-tag @s[scores={DialogueTrigger=49,TalkTime=2..}] add Dialogue49
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Hall of Fame Credits
 #Dialogue98
