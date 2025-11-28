@@ -8,27 +8,6 @@ scoreboard players set @s[scores={MusicState=0},nbt={Inventory:[{tag:{display:{N
 scoreboard players set @s[scores={MusicState=0},nbt={Inventory:[{tag:{display:{Name:"Radio"}},Slot:-106b}]}] MusicState 1
 
 
-#Tags Legendary Pokemon
-execute at @s run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:articuno"}}] add Legendary
-execute at @s run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:zapdos"}}] add Legendary
-execute at @s run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:moltres"}}] add Legendary
-execute at @s run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:mew"}}] add Legendary
-execute at @s run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:mewtwo"}}] add Legendary
-execute at @s run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:entei"}}] add Legendary
-execute at @s run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:raikou"}}] add Legendary
-execute at @s run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:suicune"}}] add Legendary
-execute at @s run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:hooh"}}] add Legendary
-execute at @s run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:lugia"}}] add Legendary
-execute at @s run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:latios"}}] add Legendary
-execute at @s run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:latias"}}] add Legendary
-execute at @s run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:kyogre"}}] add Legendary
-execute at @s run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:groudon"}}] add Legendary
-execute at @s run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:rayquaza"}}] add Legendary
-execute at @s run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:dialga"}}] add Legendary
-execute at @s run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:palkia"}}] add Legendary
-execute at @s run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:giratina"}}] add Legendary
-execute at @s run tag @e[distance=..15,type=cobblemon:pokemon,tag=!Legendary,nbt={Pokemon:{PokemonOriginalTrainerType:"NONE"}},nbt={Pokemon:{Species:"cobblemon:arceus"}}] add Legendary
-
 
 
 #-----------------------Entity/Tag Based------------
@@ -47,31 +26,6 @@ scoreboard players set @s[tag=Bicycle,scores={MusicCooldown=0}] MusicCooldown 93
 #GymVictory tag
 playsound gymvictory record @s[x=-1222,y=0,z=500,dx=470,dy=240,dz=342,scores={MusicCooldown=0},tag=GymVictory] ~ ~ ~ 1 1 1
 scoreboard players set @s[x=-1222,y=0,z=500,dx=470,dy=240,dz=342,scores={MusicCooldown=0},tag=GymVictory] MusicCooldown 110
-
-
-#Kanto Gym Leaders
-#execute at @e[x=-1220,y=60,z=633,dx=313,dy=100,dz=196,tag=GymLeader,nbt=!{cobblemon:npc_trainer}] run playsound gymbattlekanto record @a[name=!Sabrina,tag=Temp,distance=..15,scores={MusicCooldown=0}] ~ ~ ~ 1 1 1
-#execute at @e[x=-1220,y=60,z=633,dx=313,dy=100,dz=196,tag=GymLeader,nbt=!{cobblemon:npc_trainer}] run scoreboard players set @a[name=!Sabrina,tag=Temp,distance=..15,scores={MusicCooldown=0}] MusicCooldown 117
-
-#execute at @e[x=-1220,y=60,z=633,dx=313,dy=100,dz=196,tag=GymLeader,nbt=!{cobblemon:npc_trainer}] run playsound gymbattlekanto record @a[name=Sabrina,tag=Temp,x=-978,y=63,z=758,dx=19,dy=5,dz=15,scores={MusicCooldown=0}] ~ ~ ~ 1 1 1
-#execute at @e[x=-1220,y=60,z=633,dx=313,dy=100,dz=196,tag=GymLeader,nbt=!{cobblemon:npc_trainer}] run scoreboard players set @a[name=Sabrina,tag=Temp,x=-978,y=63,z=758,dx=19,dy=5,dz=15,scores={MusicCooldown=0}] MusicCooldown 117
-
-
-
-#Gym Leader radius
-#execute at @e[tag=GymLeader,nbt=!{cobblemon:npc_trainer}] run playsound gymbattle record @a[tag=Temp,distance=..15,scores={MusicCooldown=0}] ~ ~ ~ 1 1 1
-#execute at @e[tag=GymLeader,nbt=!{cobblemon:npc_trainer}] run scoreboard players set @a[tag=Temp,distance=..15,scores={MusicCooldown=0}] MusicCooldown 195
-
-
-
-#Silver Trainer Battle
-#execute at @e[name=Silver,nbt=!{cobblemon:npc_trainer}] run playsound rivalbattle record @a[tag=Temp,distance=..15,scores={MusicCooldown=0,DialogueTrigger=0}] ~ ~ ~ 1 1 1
-#execute at @e[name=Silver,nbt=!{cobblemon:npc_trainer}] run scoreboard players set @a[tag=Temp,distance=..15,scores={MusicCooldown=0,DialogueTrigger=0}] MusicCooldown 178
-
-#Silver Chatting NPC
-#execute at @e[name=Silver,nbt=!{cobblemon:npc_chatting}] run playsound rivaltalk record @a[tag=Temp,distance=..15,scores={MusicCooldown=0}] ~ ~ ~ 1 1 1
-#execute at @e[name=Silver,nbt=!{cobblemon:npc_chatting}] run scoreboard players set @a[tag=Temp,distance=..15,scores={MusicCooldown=0}] MusicCooldown 70
-
 
 
 #Arceus legendary battle

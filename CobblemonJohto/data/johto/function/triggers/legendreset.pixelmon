@@ -30,20 +30,6 @@ execute as @a[tag=!GroudonCaught,scores={Groudon=1..}] run scoreboard players se
 execute as @a[tag=!MewCaught,scores={Mew=1..}] run tellraw @s {"text":"You can now re-encounter Mew!","italic":true,"color":"gray"}
 execute as @a[tag=!MewCaught,scores={Mew=1..}] run scoreboard players set @s Mew 0
 
-#Mewtwo
-execute as @a[tag=!MewtwoCaught,scores={Mewtwo=1..}] run tellraw @s {"text":"You can now re-encounter Mewtwo!","italic":true,"color":"gray"}
-execute as @a[tag=!MewtwoCaught,scores={Mewtwo=1..}] run scoreboard players set @s Mewtwo 0
-
-#Ho-Oh
-execute as @a[tag=!HoohCaught,tag=Dialogue104] run tellraw @s {"text":"You can now re-encounter Ho-Oh!","italic":true,"color":"gray"}
-execute as @a[tag=!HoohCaught,tag=Dialogue104] run give @s pixelmon:rainbow_wing{display:{Lore:['[{"text":"A strange, rainbow feather","italic":false}]','[{"text":"that sparkles.","italic":false}]']}} 1
-execute as @a[tag=!HoohCaught,tag=Dialogue104] run tag @s remove Dialogue104
-
-#Lugia
-execute as @a[tag=!LugiaCaught,tag=Dialogue103] run tellraw @s {"text":"You can now re-encounter Lugia!","italic":true,"color":"gray"}
-execute as @a[tag=!LugiaCaught,tag=Dialogue103] run give @s pixelmon:silver_wing{display:{Lore:['[{"text":"A strange, silvery feather","italic":false}]','[{"text":"that sparkles.","italic":false}]']}} 1
-execute as @a[tag=!LugiaCaught,tag=Dialogue103] run tag @s remove Dialogue103
-
 
 #Suicune
 execute as @a[tag=!SuicuneCaught,tag=Dialogue233,tag=!Dialogue234] run tellraw @s {"text":"You can now re-encounter Suicune!","italic":true,"color":"gray"}
@@ -61,20 +47,6 @@ execute as @a[tag=!EnteiCaught,scores={Entei=1..}] run scoreboard players set @s
 execute as @a[tag=!RaikouCaught,scores={Raikou=1..}] run tellraw @s {"text":"You can now re-encounter Raikou!","italic":true,"color":"gray"}
 execute as @a[tag=!RaikouCaught,scores={Raikou=1..}] run scoreboard players set @s DogEncounter 1
 execute as @a[tag=!RaikouCaught,scores={Raikou=1..}] run scoreboard players set @s Raikou 0
-
-
-
-#Latios
-execute as @a[tag=!LatiosCaught,scores={Latios=1..}] run tellraw @s {"text":"You can now re-encounter Latios!","italic":true,"color":"gray"}
-execute as @a[tag=!LatiosCaught,scores={Latios=1..}] run scoreboard players set @s EonEncounter 1
-execute as @a[tag=!LatiosCaught,scores={Latios=1..}] run scoreboard players set @s Latios 0
-
-
-
-#Latias
-execute as @a[tag=!LatiasCaught,scores={Latias=1..}] run tellraw @s {"text":"You can now re-encounter Latias!","italic":true,"color":"gray"}
-execute as @a[tag=!LatiasCaught,scores={Latias=1..}] run scoreboard players set @s EonEncounter 1
-execute as @a[tag=!LatiasCaught,scores={Latias=1..}] run scoreboard players set @s Latias 0
 
 
 

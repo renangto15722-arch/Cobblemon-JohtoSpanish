@@ -254,7 +254,6 @@
                         "text": "Close",
                         "value": "close",
                         "action": [
-                            "q.run_command('execute as ' + q.player.username + ' run scoreboard players set @s EonEncounter 1');",
                             "q.run_command('execute as ' + q.player.username + ' run advancement grant @s only johto:event5');",
                             "q.run_command('tag ' + q.player.username + ' add Dialogue136');",
                             "q.run_command('tag ' + q.player.username + ' add StevenCooldown');",

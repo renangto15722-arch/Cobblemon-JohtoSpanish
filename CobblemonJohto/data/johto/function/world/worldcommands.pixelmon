@@ -251,9 +251,6 @@ execute as @e[x=-801,y=64,z=-287,dy=3,scores={DialogueTrigger=1..}] run function
 
 #---------------------
 
-#Dialogue22 - Ilex Forest Farfetch'd Found
-execute as @a[x=622,y=64,z=-714,distance=..6,tag=!Dialogue22,scores={Farfetchd=1}] if entity @e[x=622,y=64,z=-714,distance=..5,type=minecraft:armor_stand,tag=Farfetchd] run scoreboard players set @s DialogueTrigger 22
-
 #Dialogue23 - Goldenrod City Bike Shop
 scoreboard players set @a[x=419,y=63,z=-433,dx=12,dy=7,dz=11,tag=!Dialogue23] DialogueTrigger 23
 
@@ -263,19 +260,6 @@ scoreboard players set @a[x=286,y=63,z=-749,dx=20,dy=5,dz=8,scores={Farfetchd=2.
 #Dialogue26 - Bicycle Clerk follow-up
 scoreboard players set @s[tag=Bicycle,tag=!Dialogue26,scores={BicycleCD=0,Bicycle=1,TalkTime=0}] DialogueTrigger 26
 
-#---------------------
-
-#Dialogue30 - Route 36 Sudowoodo Spawn
-scoreboard players set @a[x=332,y=64,z=-16,distance=0..10,tag=Dialogue29,tag=!Dialogue30] DialogueTrigger 30
-
-#Sets up Sudowoodo
-execute at @a[x=332,y=64,z=-16,distance=0..30,tag=!Dialogue30,scores={TalkTime=0}] run setblock 333 64 -17 pixelmon:poke_display[facing=north]{PokeDisplayPokemon:{ndex:185,Growth:7b}} replace
-
-#---------------------
-
-execute as @a[x=441,y=64,z=312,distance=..20,tag=Dialogue34,tag=!Dialogue35,scores={TalkTime=0,StarterPick=1}] run tp @e[x=-764,y=84,z=-242,dy=10,scores={StarterPick=1}] 441 64 312
-execute as @a[x=441,y=64,z=312,distance=..20,tag=Dialogue34,tag=!Dialogue35,scores={TalkTime=0,StarterPick=2}] run tp @e[x=-764,y=84,z=-242,dy=10,scores={StarterPick=2}] 441 64 312
-execute as @a[x=441,y=64,z=312,distance=..20,tag=Dialogue34,tag=!Dialogue35,scores={TalkTime=0,StarterPick=3}] run tp @e[x=-764,y=84,z=-242,dy=10,scores={StarterPick=3}] 441 64 312
 
 #---------------------
 #Dialogue36 - Burned Tower Legendary Dogs
@@ -285,23 +269,9 @@ execute if entity @a[x=444,y=58,z=328,distance=..20,tag=!Dialogue36,scores={Talk
 execute if entity @a[x=444,y=58,z=328,distance=..20,tag=!Dialogue36,scores={TalkTime=0}] run setblock 443 59 328 pixelmon:poke_display[facing=north]{PokeDisplayPokemon:{ndex:2006,Growth:2b},PokeDisplayTextureMode:1} replace
 
 #---------------------
-#Dialogue48 - Route 43 Team Rocket Mugging
-scoreboard players set @a[x=-198,y=63,z=343,dx=19,dy=5,dz=19,tag=!Dialogue48,tag=!Dialogue64] DialogueTrigger 48
-execute as @p[x=-187,y=64,z=352,distance=..30,tag=!Dialogue64] run tp @e[x=-181,y=63,z=352,dy=3,nbt=!{cobblemon:npc_chatting}] -809 93 -242
-execute as @p[x=-187,y=64,z=352,distance=..30,tag=!Dialogue64] run tp @e[x=-811,y=92,z=-242,dy=3,nbt=!{cobblemon:npc_chatting}] -184 64 352
-execute as @p[x=-187,y=64,z=352,distance=..30,tag=!Dialogue64] run tp @e[x=-813,y=92,z=-242,dy=3,nbt=!{cobblemon:npc_chatting}] -190 64 352
-execute as @p[x=-187,y=64,z=352,distance=..30,tag=Dialogue64] run tp @e[x=-809,y=92,z=-242,dy=3,nbt=!{cobblemon:npc_chatting}] -181 64 352
-execute as @p[x=-187,y=64,z=352,distance=..30,tag=Dialogue64] run tp @e[x=-190,y=63,z=352,dy=3,nbt=!{cobblemon:npc_chatting}] -811 93 -242
-execute as @p[x=-187,y=64,z=352,distance=..30,tag=Dialogue64] run tp @e[x=-184,y=63,z=352,dy=3,nbt=!{cobblemon:npc_chatting}] -813 93 -242
-
-
 
 #Dialogue50 - Mr. Pokemon Red Scale trade prompt
 scoreboard players set @a[x=-255,y=63,z=-198,dx=20,dy=5,dz=8,scores={DialogueTrigger=0},tag=!Dialogue50,nbt={Inventory:[{id:"pixelmon:red_scale"}]}] DialogueTrigger 50
-
-#Dialogue51 - Lake of Rage Lance starting Rocket Quest
-scoreboard players set @a[x=-159,y=63,z=590,distance=..5,tag=Dialogue49,tag=!Dialogue51] DialogueTrigger 51
-execute as @a[x=-159,y=64,z=590,distance=..50,tag=Dialogue49,tag=!Dialogue51] run tp @e[x=-807,y=92,z=-242,dy=3,nbt=!{cobblemon:npc_chatting}] -159 64 590
 
 
 #Dialogue76 - Route 43 gate gift
@@ -339,19 +309,6 @@ scoreboard players set @a[x=354,y=63,z=-704,dx=19,dy=5,dz=8,scores={TalkTime=0},
 #Dialogue109 - Ilex Forest Shrine Info
 scoreboard players set @a[x=617,y=65,z=-696,distance=..10,scores={TalkTime=0},tag=Dialogue108,tag=!Dialogue109] DialogueTrigger 109
 
-#Dialogue136 - Vermilion Steven Introduction
-scoreboard players set @a[x=-2710,y=64,z=-55,distance=..7,scores={TalkTime=0},tag=Dialogue134,tag=!Dialogue136] DialogueTrigger 136
-execute at @a[x=-2710,y=64,z=-55,distance=..40,scores={TalkTime=0},tag=Dialogue134,tag=!Dialogue136] run tp @e[x=-734,y=90,z=-242,dy=2,nbt=!{cobblemon:npc_chatting}] -2710 64 -55
-
-#Dialogue137 - Saffron Silph Co Steven Hoenn Starters
-scoreboard players set @a[x=-2750,y=63,z=327,distance=..8,scores={TalkTime=0},tag=Dialogue136,tag=!Dialogue137,tag=Red] DialogueTrigger 137
-execute at @a[x=-2763,y=63,z=329,distance=..40,tag=Dialogue136,tag=!Dialogue137,tag=Red] run tp @e[x=-736,y=90,z=-242,dy=3,nbt=!{cobblemon:npc_chatting}] -2763 64 329
-execute at @a[x=-2763,y=63,z=329,distance=..40,tag=Dialogue136,tag=!Dialogue137,tag=Red] run tp @e[x=-2763,y=63,z=329,dy=3,nbt=!{cobblemon:npc_trader}] -732 91 -242
-
-#Dialogue139 - Saffron Silph Co Steven Trader
-scoreboard players set @a[x=-2763,y=63,z=329,distance=..7,scores={TalkTime=0,StevenCD=0},tag=Dialogue138,tag=!Dialouge139] DialogueTrigger 139
-execute at @p[x=-2763,y=63,z=329,distance=..30,scores={TalkTime=0,StevenCD=0},tag=Dialogue138] run tp @e[x=-732,y=90,z=-242,dy=3,nbt=!{cobblemon:npc_trader}] -2763 64 329
-execute at @p[x=-2763,y=63,z=329,distance=..30,scores={TalkTime=0,StevenCD=0},tag=Dialogue138] run tp @e[x=-2763,y=63,z=329,dy=3,nbt=!{cobblemon:npc_chatting}] -736 91 -242
 
 #Dialogue141 - Elm's Lab shiny charm
 scoreboard players set @a[x=-693,y=63,z=-490,dx=20,dy=5,dz=20,scores={DialogueTrigger=0},tag=Dialogue101,tag=!Dialogue141,tag=Red] DialogueTrigger 141
@@ -511,30 +468,9 @@ execute at @a[x=-3094,y=64,z=989,distance=..50,scores={TalkTime=0},tag=Dialogue2
 #-------------------------------------------------------------------------------------------------------------------------
 #Legendary/Mythical/Story Pokemon Commands
 
-#Johto Starters
-scoreboard players set @a[x=-682,y=63,z=-482,distance=..25,scores={TalkTime=0},tag=Dialogue3,nbt={Inventory:[{id:"pixelmon:fire_stone_sword"}]}] TriggerCommand 80
-scoreboard players set @a[x=-682,y=63,z=-482,distance=..25,scores={TalkTime=0},tag=Dialogue3,nbt={Inventory:[{id:"pixelmon:leaf_stone_sword"}]}] TriggerCommand 82
-scoreboard players set @a[x=-682,y=63,z=-482,distance=..25,scores={TalkTime=0},tag=Dialogue3,nbt={Inventory:[{id:"pixelmon:water_stone_sword"}]}] TriggerCommand 84
-
-
-#Legendary Dog & Eon Grass commands 3.0
-execute as @a[tag=!GrassCooldown] at @s run execute if block ~ ~ ~ minecraft:grass run function johto:triggers/roaminglegends
-
-#Mewtwo
-execute as @a[x=-2564,y=48,z=829,dx=18,dy=10,dz=29,scores={Mewtwo=0}] run playsound mewtwo hostile @s ~ ~ ~ 1000 1 1
-execute as @a[x=-2564,y=48,z=829,dx=18,dy=10,dz=29,scores={Mewtwo=0}] run execute at @e[x=-2549,y=54,z=853,dy=2,type=armor_stand] run pokespawn Mewtwo lvl:70 gr:7
-execute as @a[x=-2564,y=48,z=829,dx=18,dy=10,dz=29,scores={Mewtwo=0}] run scoreboard players set @s Mewtwo 1
-
 execute as @a[x=-2861,y=63,z=-100,dx=20,dy=7,dz=5,scores={Mew=0}] run execute at @e[x=-2861,y=63,z=-100,dx=20,dy=7,dz=5,type=armor_stand] run pokespawn Mew lvl:50 gr:7
 execute as @a[x=-2861,y=63,z=-100,dx=20,dy=7,dz=5,scores={Mew=0}] run scoreboard players set @s Mew 1
 
-#Dialogue103
-#Whirl Islands Lugia Spawn
-scoreboard players set @a[x=1242,y=30,z=209,dx=14,dy=10,dz=8,tag=!Dialogue103,nbt={Inventory:[{id:"pixelmon:silver_wing"}]}] DialogueTrigger 103
-
-#Dialogue104
-#Tin Tower Ho-Oh Spawn
-scoreboard players set @a[x=251,y=154,z=308,dx=11,dy=5,dz=11,tag=!Dialogue104,nbt={Inventory:[{id:"pixelmon:rainbow_wing"}]}] DialogueTrigger 104
 
 #Dialogue105
 #Union Cave Friday Lapras
