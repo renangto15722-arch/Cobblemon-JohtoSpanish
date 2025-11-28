@@ -25,6 +25,18 @@ execute as @s[tag=MoltresEncounter] unless entity @s[scores={Temp=1..}] run tag 
 
 
 scoreboard players set @s Temp 0
+execute store result score @s Temp run teststore @s all entei
+execute as @s[tag=EnteiEncounter] unless entity @s[scores={Temp=1..}] run tellraw @s {"text":"You can now rebattle Entei!","italic":true,"color":"gray"}
+execute as @s[tag=EnteiEncounter] unless entity @s[scores={Temp=1..}] run tag @s remove EnteiEncounter
+
+
+scoreboard players set @s Temp 0
+execute store result score @s Temp run teststore @s all raikou
+execute as @s[tag=RaikouEncounter] unless entity @s[scores={Temp=1..}] run tellraw @s {"text":"You can now rebattle Raikou!","italic":true,"color":"gray"}
+execute as @s[tag=RaikouEncounter] unless entity @s[scores={Temp=1..}] run tag @s remove RaikouEncounter
+
+
+scoreboard players set @s Temp 0
 execute store result score @s Temp run teststore @s all hooh
 execute as @s[tag=Dialogue104] unless entity @s[scores={Temp=1..}] run tellraw @s {"text":"You can now rebattle Ho-Oh!","italic":true,"color":"gray"}
 execute as @s[tag=Dialogue104] unless entity @s[scores={Temp=1..}] run function johto:spawn/rainbowfeather

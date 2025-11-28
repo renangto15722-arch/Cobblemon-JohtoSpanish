@@ -454,45 +454,6 @@ tellraw @s[scores={DialogueTrigger=154,TalkTime=93}] {"text":"You can now find w
 
 tag @s[scores={DialogueTrigger=154,TalkTime=93..}] add Dialogue154
 
-#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Articuno Spawn
-#scoreboard players set @a[x=-2065,y=17,z=-847,dx=23,dy=3,dz=15,score_Articuno=0,score_ArticunoCD=0,score_TalkTime=0,tag=!Dialogue158] DialogueTrigger 158
-
-#Tp return statue
-#execute as @s[x=-2054,y=19,z=-835,distance=..50,score_Articuno=0,score_ArticunoCD=0] run /tp @e[x=-767,y=79,z=-244,distance=..1,nbt=!{cobblemon:statue}] -2054 19 -835
-
-execute as @s[scores={DialogueTrigger=158,TalkTime=1}] run playsound articuno hostile @s ~ ~ ~ 10 1 1
-execute as @s[scores={DialogueTrigger=158,TalkTime=1}] run particle cloud -2054 19 -835 1 1 1 1 500
-execute as @s[scores={DialogueTrigger=158,TalkTime=1}] run execute at @e[type=armor_stand,x=-2054,y=19,z=-835,distance=..1] run pokespawn Articuno gr:7 lvl:50
-execute as @s[scores={DialogueTrigger=158,TalkTime=1}] run setblock -2054 19 -835 minecraft:air
-execute as @s[scores={DialogueTrigger=158,TalkTime=1}] run scoreboard players set @s Articuno 1
-
-tag @s[scores={DialogueTrigger=158,TalkTime=1..}] add Dialogue158
-
-#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Zapdos Spawn
-#execute as @s[x=-3239,y=64,z=571,distance=..5,score_Zapdos=0,score_ZapdosCD=0,score_TalkTime=0,tag=AllGyms] run scoreboard players set @s[tag=!Dialogue159] DialogueTrigger 159
-
-execute as @s[scores={DialogueTrigger=159,TalkTime=1}] run playsound zapdos hostile @s ~ ~ ~ 10 1 1
-execute as @s[scores={DialogueTrigger=159,TalkTime=1}] run pokebattle @s Zapdos
-#execute as @s[scores={DialogueTrigger=159,TalkTime=1}] run pokebattle @s Zapdos,gr:7 lvl:50
-execute as @s[scores={DialogueTrigger=159,TalkTime=1}] run particle cloud -3239 64 571 1 1 1 0.15 1000
-execute as @s[scores={DialogueTrigger=159,TalkTime=1}] run setblock -3239 64 571 minecraft:air
-execute as @s[scores={DialogueTrigger=159,TalkTime=1}] run scoreboard players set @s Zapdos 1
-
-tag @s[scores={DialogueTrigger=159,TalkTime=1..}] add Dialogue159
-
-#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Moltres Spawn
-
-execute as @s[scores={DialogueTrigger=160,TalkTime=1}] run playsound moltres hostile @s ~ ~ ~ 10 1 1
-execute as @s[scores={DialogueTrigger=160,TalkTime=1}] run particle cloud -965 100 304 1 1 1 0.15 1000
-execute as @s[scores={DialogueTrigger=160,TalkTime=1}] run execute at @e[type=armor_stand,x=-965,y=100,z=304,distance=..1] run pokespawn Moltres gr:7 lvl:50
-execute as @s[scores={DialogueTrigger=160,TalkTime=1}] run setblock -2054 19 -835 minecraft:air
-execute as @s[scores={DialogueTrigger=160,TalkTime=1}] run scoreboard players set @s Moltres 1
-execute as @s[scores={DialogueTrigger=160,TalkTime=1..5}] run particle flame -965 100 304 0 0 0 1 10
-
-tag @s[scores={DialogueTrigger=160,TalkTime=5..}] add Dialogue160
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Celebi Time Travel Event beginning prompt
@@ -977,48 +938,6 @@ execute as @s[scores={DialogueTrigger=185,TalkTime=14}] run tag @s add LuckyNumb
 tellraw @s[scores={DialogueTrigger=185,TalkTime=24}] {"text":"<DJ Reed> Tune in again tomorrow and see me for another chance at a prize!"}
 
 tag @s[scores={DialogueTrigger=185,TalkTime=24..}] add Dialogue185
-
-#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Beauty Salon Pamper
-#execute as @e[x=511,y=54,z=-344,dx=15,dy=6,dz=19,type=cobblemon:pokemon] run scoreboard players set @p[r=15,tag=BeautySalon] DialogueTrigger 186
-
-tellraw @s[scores={DialogueTrigger=186,TalkTime=1}] ["",{"text":"<Beauty Salon Clerk> Alright! Let's see what we can do for "},{"selector":"@e[x=511,y=54,z=-344,dx=15,dy=6,dz=19,type=cobblemon:pokemon]"},{"text":"!"}]
-
-#Runs initial Friendship detect function
-execute as @s[scores={DialogueTrigger=186,TalkTime=5..6}] run function johto:triggers/friendshipdatatags
-
-#Checks if Pokemon is already at max happiness, ends dialogue if so
-execute as @s[scores={DialogueTrigger=186,TalkTime=9}] run execute as @e[x=511,y=54,z=-344,dx=15,dy=6,dz=19,scores={Friendship=255}] run tellraw @a[scores={DialogueTrigger=186,TalkTime=9}] {"text":"<Beauty Salon Clerk> Your Pokémon can't get any happier!"}
-execute as @s[scores={DialogueTrigger=186,TalkTime=9}] run execute as @e[x=511,y=54,z=-344,dx=15,dy=6,dz=19,scores={Friendship=255}] run data merge entity @e[limit=1,x=-801,y=64,z=-284,dy=3,type=armor_stand] {CustomName:'{"text":"Beauty Salon Clerk"}'}
-execute as @s[scores={DialogueTrigger=186,TalkTime=9}] run execute as @e[x=511,y=54,z=-344,dx=15,dy=6,dz=19,scores={Friendship=255}] run execute as @e[x=-801,y=64,z=-284,dy=3,type=armor_stand] run givemoney @a[scores={DialogueTrigger=186,TalkTime=9}] 500
-execute as @s[scores={DialogueTrigger=186,TalkTime=9}] run execute as @e[x=511,y=54,z=-344,dx=15,dy=6,dz=19,scores={Friendship=255}] run data merge entity @e[limit=1,x=-801,y=64,z=-284,dy=3,type=armor_stand] {CustomName:'{"text":"Pixelmon Johto"}'}
-execute as @s[scores={DialogueTrigger=186,TalkTime=9}] run execute as @e[x=511,y=54,z=-344,dx=15,dy=6,dz=19,scores={Friendship=255}] run tag @a[scores={DialogueTrigger=186,TalkTime=9}] remove BeautySalon
-execute as @s[scores={DialogueTrigger=186,TalkTime=9}] run execute as @e[x=511,y=54,z=-344,dx=15,dy=6,dz=19,scores={Friendship=255}] run tag @a[scores={DialogueTrigger=186,TalkTime=9}] add EndDialogue
-
-
-#If not maxed, runs
-execute as @s[scores={DialogueTrigger=186,TalkTime=13}] run function johto:triggers/increasefriendship
-
-#Executes particles on Pokemon
-execute as @s[scores={DialogueTrigger=186,TalkTime=2..15}] run execute at @e[x=511,y=54,z=-344,dx=15,dy=6,dz=19,type=cobblemon:pokemon] run particle minecraft:dust 0 1 0 1 ~ ~1 ~ 1 1 1 0.5 25 force @a[distance=..50]
-
-#Jumping animation
-execute as @s[scores={DialogueTrigger=186,TalkTime=15}] run data merge entity @e[limit=1,x=511,y=54,z=-344,dx=15,dy=6,dz=19,type=cobblemon:pokemon] {Motion:[0.0,0.35,0.0]}
-execute as @s[scores={DialogueTrigger=186,TalkTime=16}] run data merge entity @e[limit=1,x=511,y=54,z=-344,dx=15,dy=6,dz=19,type=cobblemon:pokemon] {Motion:[0.0,0.35,0.0]}
-execute as @s[scores={DialogueTrigger=186,TalkTime=17}] run data merge entity @e[limit=1,x=511,y=54,z=-344,dx=15,dy=6,dz=19,type=cobblemon:pokemon] {Motion:[0.0,0.35,0.0]}
-
-tellraw @s[scores={DialogueTrigger=186,TalkTime=15}] ["",{"text":"<Beauty Salon Clerk> Your "},{"selector":"@e[x=511,y=54,z=-344,dx=15,dy=6,dz=19,type=cobblemon:pokemon]"},{"text":" looks delighted! Please come again!"}]
-
-execute as @s[scores={DialogueTrigger=186,TalkTime=15}] run tag @s add BeautyCD
-execute as @s[scores={DialogueTrigger=186,TalkTime=15}] run tag @s remove BeautySalon
-
-tag @s[scores={DialogueTrigger=186,TalkTime=15..}] add Dialogue186
-
-
-#Prompt:
-#testfor @s[x=513,y=54,z=-335,distance=..4,tag=!BeautyCD,score_TalkTime=0]
-#scoreboard players enable @a[x=513,y=54,z=-335,distance=..10,tag=!BeautyCD,score_TalkTime=0] TriggerCommand
-#tellraw @s[x=513,y=54,z=-335,distance=..4,tag=!BeautyCD,score_TalkTime=0] ["",{"text":"<Beauty Salon Clerk> Welcome! Would you like me to give your Pokemon a makeover?\n["},{"text":"Yes","color":"green","clickEvent":{"action":"run_command","value":"/trigger TriggerCommand set 40"}},{"text":"]"}]
 
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
