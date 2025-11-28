@@ -35,33 +35,6 @@ execute as @a[scores={TriggerCommand=11}] run scoreboard players set @s TriggerC
 
 
 
-
-#29 - Steven Hoenn Starters (Treecko)
-execute as @a[scores={TriggerCommand=29}] run pokegive @s[tag=!HoennStarters] Treecko lvl:5
-execute as @a[scores={TriggerCommand=29}] run tellraw @s {"text":"<Steven> You chose correctly! I will give you Treecko!"}
-execute as @a[scores={TriggerCommand=29}] run tag @s add HoennStarters
-execute as @a[scores={TriggerCommand=29}] run scoreboard players set @s DialogueTrigger 138
-execute as @a[scores={TriggerCommand=29}] run playsound egghatch ambient @s ~ ~ ~ 1000 1 1
-scoreboard players set @a[scores={TriggerCommand=29}] TriggerCommand 0
-
-
-#30 - Steven Hoenn Starters (Torchic)
-execute as @a[scores={TriggerCommand=30}] run pokegive @s[tag=!HoennStarters] Torchic lvl:5
-execute as @a[scores={TriggerCommand=30}] run tellraw @s {"text":"<Steven> You chose correctly! I will give you Torchic!"}
-execute as @a[scores={TriggerCommand=30}] run tag @s add HoennStarters
-execute as @a[scores={TriggerCommand=30}] run scoreboard players set @s DialogueTrigger 138
-execute as @a[scores={TriggerCommand=30}] run playsound egghatch ambient @s ~ ~ ~ 1000 1 1
-scoreboard players set @a[scores={TriggerCommand=30}] TriggerCommand 0
-
-#31 - Steven Hoenn Starters (Mudkip)
-execute as @a[scores={TriggerCommand=31}] run pokegive @s[tag=!HoennStarters] Mudkip lvl:5
-execute as @a[scores={TriggerCommand=31}] run tellraw @s {"text":"<Steven> You chose correctly! I will give you Mudkip!"}
-execute as @a[scores={TriggerCommand=31}] run tag @s add HoennStarters
-execute as @a[scores={TriggerCommand=31}] run scoreboard players set @s DialogueTrigger 138
-execute as @a[scores={TriggerCommand=31}] run playsound egghatch ambient @s ~ ~ ~ 1000 1 1
-scoreboard players set @a[scores={TriggerCommand=31}] TriggerCommand 0
-
-
 #28 - Begin Bug Catching Contest
 execute as @a[scores={TriggerCommand=28}] run scoreboard players set @s DialogueTrigger 198
 execute as @a[scores={TriggerCommand=28}] run scoreboard players set @s TriggerCommand 0

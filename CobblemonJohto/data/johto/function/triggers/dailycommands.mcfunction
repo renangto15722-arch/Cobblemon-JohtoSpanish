@@ -44,6 +44,7 @@ tag @a remove ItemLoot377
 tag @a remove ItemLoot378
 tag @a remove ItemLoot379
 execute as @e[x=-799,y=64,z=-284,dy=3,type=armor_stand,scores={WeekdayTrack=1}] run tag @a remove ItemLoot447
+tag @a remove StevenCooldown
 
 #Daily Resets:
 #Mom:

@@ -363,6 +363,21 @@ execute as @s[x=-2201,y=24,z=825,distance=..25,tag=!Dialogue131,scores={StarterP
 execute as @s[x=-2201,y=24,z=825,distance=..25,tag=!Dialogue131,scores={StarterPick=2}] unless entity @e[x=-2201,y=24,z=825,dy=3,type=cobblemon:npc] run npcspawnat -2201 24 825 mtmoon_silver2 1
 execute as @s[x=-2201,y=24,z=825,distance=..25,tag=!Dialogue131,scores={StarterPick=3}] unless entity @e[x=-2201,y=24,z=825,dy=3,type=cobblemon:npc] run npcspawnat -2201 24 825 mtmoon_silver3 1
 
+#Vermilion Steven Stone after obtaining the Copycat's Doll
+execute at @s[x=-2710,y=64,z=-55,distance=..25,tag=Dialogue134,tag=!Dialogue136] unless entity @e[x=-2710,y=64,z=-55,dy=3,type=cobblemon:npc] run npcspawnat -2710 64 -55 steven_generic
+execute as @s[x=-2710,y=64,z=-55,distance=..6,tag=Dialogue134,tag=!Dialogue136] run opendialogue steven_dialogue136 @s
+
+#Saffron City Steven after a cooldown
+execute at @s[x=-2763,y=64,z=329,distance=..25,tag=Dialogue136,tag=!Dialogue137,tag=!StevenCooldown] unless entity @e[x=-2763,y=64,z=329,dy=3,type=cobblemon:npc] run npcspawnat -2763 64 329 saffron_steven
+
+#Spawns Steven Trader
+execute at @s[x=-2763,y=64,z=329,distance=..25,tag=Dialogue137,tag=!Dialogue138,tag=!StevenCooldown] unless entity @e[x=-2763,y=64,z=329,dy=3,type=cobblemon:npc] run npcspawnat -2763 64 329 steven_beldum
+
+#Follow-up goodbye after a trade
+execute as @s[x=-2763,y=64,z=329,distance=..25,tag=Dialogue137,tag=!Dialogue138] run scoreboard players set @s Temp 0
+execute as @s[x=-2763,y=64,z=329,distance=..25,tag=Dialogue137,tag=!Dialogue138] store result score @s Temp run teststore @s party beldum
+execute as @s[x=-2763,y=64,z=329,distance=..25,tag=Dialogue137,tag=!Dialogue138,scores={Temp=1..}] run opendialogue steven_dialogue138 @s
+
 
 #Vermilion Sleeping Snorlax
 #Keeps the sleeping Snorlax posed and blocked

@@ -25,10 +25,6 @@ advancement revoke @s only johto:click/rocksmashuse
 
 #Re-tells player the prompts if they crash or log out of important choices and prompt would disappear
 
-#Steven giving Hoenn Starters
-execute as @s[tag=Dialogue137] run scoreboard players enable @s[tag=!Dialogue138] TriggerCommand
-execute as @s[tag=Dialogue137] run tellraw @a[tag=!Dialogue138] ["",{"text":"<Steven> Which color would you pick?\n\n["},{"text":"Green Stone","color":"dark_green","clickEvent":{"action":"run_command","value":"/trigger TriggerCommand set 29"}},{"text":"]\n\n["},{"text":"Red Stone","color":"red","clickEvent":{"action":"run_command","value":"/trigger TriggerCommand set 30"}},{"text":"]\n\n["},{"text":"Blue Stone","color":"blue","clickEvent":{"action":"run_command","value":"/trigger TriggerCommand set 31"}},{"text":"]"}]
-
 
 #Celebi do you wish to inspect the shrine?
 execute as @s[x=617,y=64,z=-699,distance=..15,scores={TalkTime=0},tag=Dialogue161] run scoreboard players enable @s[tag=!Dialogue162] TriggerCommand
