@@ -36,3 +36,15 @@ execute store result score @s Temp run teststore @s all lugia
 execute as @s[tag=Dialogue103] unless entity @s[scores={Temp=1..}] run tellraw @s {"text":"You can now rebattle Lugia!","italic":true,"color":"gray"}
 execute as @s[tag=Dialogue103] unless entity @s[scores={Temp=1..}] run function johto:spawn/silverfeather
 execute as @s[tag=Dialogue103] unless entity @s[scores={Temp=1..}] run tag @s remove Dialogue103
+
+
+scoreboard players set @s Temp 0
+execute store result score @s Temp run teststore @s all latios
+execute as @s[tag=LatiosEncounter] unless entity @s[scores={Temp=1..}] run tellraw @s {"text":"You can now rebattle Latios!","italic":true,"color":"gray"}
+execute as @s[tag=LatiosEncounter] unless entity @s[scores={Temp=1..}] run tag @s remove LatiosEncounter
+
+
+scoreboard players set @s Temp 0
+execute store result score @s Temp run teststore @s all latias
+execute as @s[tag=LatiasEncounter] unless entity @s[scores={Temp=1..}] run tellraw @s {"text":"You can now rebattle Latias!","italic":true,"color":"gray"}
+execute as @s[tag=LatiasEncounter] unless entity @s[scores={Temp=1..}] run tag @s remove LatiasEncounter

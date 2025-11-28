@@ -110,6 +110,13 @@ execute as @s[scores={BattleStart=19}] at @s run tag @e[distance=..20,type=cobbl
 execute as @s[scores={BattleStart=19}] at @s run tag @e[distance=..20,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:suicune",PokemonOriginalTrainerType:"NONE"}}] add Legendary
 execute as @s[scores={BattleStart=19}] at @s run tag @e[distance=..20,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:lugia",PokemonOriginalTrainerType:"NONE"}}] add Legendary
 execute as @s[scores={BattleStart=19}] at @s run tag @e[distance=..20,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:hooh",PokemonOriginalTrainerType:"NONE"}}] add Legendary
+execute as @s[scores={BattleStart=19}] at @s run tag @e[distance=..20,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:latios",PokemonOriginalTrainerType:"NONE"}}] add Legendary
+execute as @s[scores={BattleStart=19}] at @s run tag @e[distance=..20,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:latias",PokemonOriginalTrainerType:"NONE"}}] add Legendary
+execute as @s[scores={BattleStart=19}] at @s run tag @e[distance=..20,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:kyogre",PokemonOriginalTrainerType:"NONE"}}] add Legendary
+execute as @s[scores={BattleStart=19}] at @s run tag @e[distance=..20,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:groudon",PokemonOriginalTrainerType:"NONE"}}] add Legendary
+execute as @s[scores={BattleStart=19}] at @s run tag @e[distance=..20,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:rayquaza",PokemonOriginalTrainerType:"NONE"}}] add Legendary
+execute as @s[scores={BattleStart=19}] at @s run tag @e[distance=..20,type=cobblemon:pokemon,nbt={Pokemon:{Species:"cobblemon:arceus",PokemonOriginalTrainerType:"NONE"}}] add Legendary
+
 
 #First priority play for legendary species
 execute as @s[tag=!RadioOff,scores={BattleStart=19,MusicCooldown=0}] at @s if entity @e[distance=..15,tag=Legendary] run stopsound @s record
