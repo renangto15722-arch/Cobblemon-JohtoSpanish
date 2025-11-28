@@ -410,6 +410,9 @@ execute as @s[x=-2748,y=66,z=870,distance=..20,tag=Dialogue217,tag=!Dialogue219]
 #Cerulean Gym machine part
 execute as @s[x=-1180,y=59,z=773,distance=..7,tag=Dialogue219,tag=!Dialogue220] run opendialogue ceruleangym_machinepart @s
 
+#Spawns Blue on Cinnabar Island before player can enter his gym
+execute as @s[x=-1678,y=64,z=-878,distance=..20,tag=!Dialogue235] unless entity @e[x=-1697,y=69,z=-854,dy=3,type=cobblemon:npc] run npcspawnat -1697 69 -854 cinnabar_blue 1
+
 
 #-------------------------------------------------------------------------------------------------------------------------
 #Legendaries

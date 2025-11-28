@@ -404,6 +404,9 @@ tp @a[x=-855,y=64,z=760,dx=3,dy=3] -2049 64 -884
 
 #--------------------------------------------------
 #Viridian
+tellraw @a[x=-1751,y=64,z=95,dx=4,dy=3,tag=!Dialogue235] {"text":"The gym leader appears to be gone!","italic":true,"color":"gray"}
+tp @a[x=-1751,y=64,z=95,dx=4,dy=3,tag=!Dialogue235] ~ ~ ~-10
+
 playsound door ambient @a[x=-1751,y=64,z=95,dx=4,dy=3] ~ ~ ~ 100 1 1
 tag @a[x=-1751,y=64,z=95,dx=4,dy=3] remove GymVictory
 tp @a[x=-1751,y=64,z=95,dx=4,dy=3] -1131 65 738
