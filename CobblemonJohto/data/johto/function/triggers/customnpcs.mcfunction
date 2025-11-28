@@ -16,6 +16,10 @@ execute as @s[x=623,y=64,z=-714,distance=..4,tag=Bugsy,scores={Farfetchd=1}] run
 execute as @s[x=514,y=31,z=-272,distance=..4,tag=!RadioCard] run opendialogue radiotower_quiz_interaction @s
 execute as @s[x=514,y=31,z=-272,distance=..4,tag=RadioCard] run opendialogue radiotower_quiz_completed @s
 
+#Goldenrod Bicycle Man
+execute as @s[x=423,y=64,z=-426,distance=..6,tag=!Dialogue23] run opendialogue bicycle_gift @s
+execute as @s[x=423,y=64,z=-426,distance=..6,tag=Dialogue23] run opendialogue goldenrod_blacksmith_interaction @s
+
 
 #Copycat
 #Needs to have fixed the Power Plant before starting the doll quest
