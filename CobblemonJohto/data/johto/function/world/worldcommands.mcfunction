@@ -99,9 +99,41 @@ execute as @a[scores={relog=1..}] run function johto:triggers/relog
 #Escape Ropes
 execute as @a[scores={EscapeRopeUse=1..}] run function johto:world/escaperope
 
-#Running Shoes Effects
-execute as @a[nbt={Inventory:[{Slot:100b,id:"minecraft:golden_boots"}]}] run effect give @s minecraft:speed 30 2 true
-execute as @a unless entity @s[nbt={Inventory:[{Slot:100b,id:"minecraft:golden_boots"}]}] run effect clear @s minecraft:speed
+
+#Running Shoe and Bike Speed Effects
+execute as @a unless entity @s[tag=Cycling] run attribute @s minecraft:generic.movement_speed base set 0.13
+execute as @a unless entity @s[nbt={Inventory:[{Slot:100b,id:"minecraft:golden_boots"}]}] run attribute @s minecraft:generic.movement_speed base set 0.13
+
+execute as @a[nbt={Inventory:[{Slot:100b,id:"minecraft:golden_boots"}]}] run attribute @s minecraft:generic.movement_speed base set 0.18
+execute as @a[tag=Cycling] run attribute @s[nbt={Inventory:[{Slot:103b,components:{"minecraft:custom_name":'{"extra":[{"color":"red","italic":false,"text":"Bicycle"}],"text":""}'}}]}] minecraft:generic.movement_speed base set 0.23
+
+
+#Bicycle
+
+#Equips and dequips bikes
+execute as @a[scores={click=1..},nbt={SelectedItem:{components:{"minecraft:custom_name": '{"extra":[{"color":"red","italic":false,"text":"Bicycle"}],"text":""}'}}}] run tag @s add BikeEquip
+
+execute as @a[tag=BikeEquip] run clear @s minecraft:carrot_on_a_stick[custom_name='["",{"text":"Bicycle","italic":false,"color":"red"}]',lore=['["",{"text":"A folding bicycle that allows faster","italic":false}]','[{"text":"movement than the Running Shoes.","italic":false}]'],custom_model_data=5]
+execute as @a[tag=BikeEquip] run item replace entity @s armor.head with carrot_on_a_stick[custom_name='["",{"text":"Bicycle","italic":false,"color":"red"}]',lore=['["",{"text":"A folding bicycle that allows faster","italic":false}]','[{"text":"movement than the Running Shoes.","italic":false}]'],custom_model_data=5]
+execute as @a[tag=BikeEquip] run stopsound @s record
+execute as @a[tag=BikeEquip] run scoreboard players set @s MusicCooldown 0
+execute as @a[tag=BikeEquip] run playsound minecraft:item.armor.equip_iron ambient @s
+
+execute as @a[tag=BikeEquip] run scoreboard players set @s click 0
+tag @a[tag=BikeEquip] remove BikeEquip
+
+
+#Checks if the player has the cycles equiped for music & cycling features
+tag @a[nbt={Inventory:[{Slot:103b,components:{"minecraft:custom_name": '{"extra":[{"color":"red","italic":false,"text":"Bicycle"}],"text":""}'}}]}] add Cycling
+
+#Removes if cycling tag is found, but bike is not
+execute as @a[tag=Cycling] unless entity @s[nbt={Inventory:[{Slot:103b,components:{"minecraft:custom_name":'{"extra":[{"color":"red","italic":false,"text":"Bicycle"}],"text":""}'}}]}] run tag @s remove Cycling
+
+#Stops music if players dequips cycle
+execute as @a[tag=CyclingMusic] unless entity @s[tag=Cycling] run stopsound @s record
+execute as @a[tag=CyclingMusic] unless entity @s[tag=Cycling] run scoreboard players set @s MusicCooldown 0
+execute as @a[tag=CyclingMusic] unless entity @s[tag=Cycling] run tag @s remove CyclingMusic
+
 
 #-------------------------------------------------------------------------------------------------------------------------
 #Music-based commands

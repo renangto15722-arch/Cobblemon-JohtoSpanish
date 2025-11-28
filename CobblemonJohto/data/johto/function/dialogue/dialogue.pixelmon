@@ -1,21 +1,5 @@
 
 
-#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Bike Shop Clerk giving player a bicycle
-#scoreboard players set @a[x=419,y=63,z=-433,dx=12,dy=7,dz=11,tag=!Dialogue23] DialogueTrigger 23
-
-tellraw @s[scores={DialogueTrigger=23,TalkTime=1}] {"text":"<Bicycle Clerk> ...sigh..."}
-tellraw @s[scores={DialogueTrigger=23,TalkTime=6}] {"text":"<Bicycle Clerk> I moved here, but I can't sell my Bicycles. Why is that?"}
-tellraw @s[scores={DialogueTrigger=23,TalkTime=14}] {"text":"<Bicycle Clerk> Could you ride a Bicycle and advertise for me?"}
-tellraw @s[scores={DialogueTrigger=23,TalkTime=21}] {"text":"<Bicycle Clerk> Really? Great!"}
-tellraw @s[scores={DialogueTrigger=23,TalkTime=28}] {"text":"<Bicycle Clerk> Give me your name and phone number, and I'll loan you a Bicycle."}
-execute as @s[scores={DialogueTrigger=23,TalkTime=33}] run summon minecraft:item 424 65 -425 {Item:{id:"pixelmon:mach_bike",Count:1},Age:-32768}
-execute as @s[scores={DialogueTrigger=23,TalkTime=33}] run playsound pixelmon:pixelmon.block.pokelootobtained ambient @s ~ ~ ~ 1 1 1
-tellraw @s[scores={DialogueTrigger=23,TalkTime=37}] {"text":"<Bicycle Clerk> My Bicycles are first-rate! You can ride them anywhere."}
-execute as @s[scores={DialogueTrigger=23,TalkTime=37}] run scoreboard players set @s Bicycle 1
-execute as @s[scores={DialogueTrigger=23,TalkTime=37}] run scoreboard players set @s BicycleCD 25
-
-tag @s[scores={DialogueTrigger=23,TalkTime=37..}] add Dialogue23
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Bicycle Follow-up call

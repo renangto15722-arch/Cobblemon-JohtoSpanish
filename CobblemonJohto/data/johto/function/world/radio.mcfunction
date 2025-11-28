@@ -13,14 +13,10 @@ scoreboard players set @s[scores={MusicState=0},nbt={Inventory:[{tag:{display:{N
 #-----------------------Entity/Tag Based------------
 
 
-#Bicycle music
-
-#Adds Bicycle tag if player is riding on one
-tag @s[scores={MusicCooldown=0}] remove Bicycle
-#execute at @e[type=pixelmon:bike] run tag @s[distance=..2,tag=!Bicycle] add Bicycle
-
-playsound bicycle record @s[tag=Bicycle,scores={MusicCooldown=0}] ~ ~ ~ 1 1 1
-scoreboard players set @s[tag=Bicycle,scores={MusicCooldown=0}] MusicCooldown 93
+#Riding a Bicycle
+execute as @s[nbt={Inventory:[{Slot:103b,components:{"minecraft:custom_name":'{"extra":[{"color":"red","italic":false,"text":"Bicycle"}],"text":""}'}}]}] run playsound bicycle record @s[scores={MusicCooldown=0}] ~ ~ ~ 1 1 1
+execute as @s[nbt={Inventory:[{Slot:103b,components:{"minecraft:custom_name":'{"extra":[{"color":"red","italic":false,"text":"Bicycle"}],"text":""}'}}]}] run tag @s add CyclingMusic
+execute as @s[nbt={Inventory:[{Slot:103b,components:{"minecraft:custom_name":'{"extra":[{"color":"red","italic":false,"text":"Bicycle"}],"text":""}'}}]}] run scoreboard players set @s[scores={MusicCooldown=0}] MusicCooldown 93
 
 
 #GymVictory tag
