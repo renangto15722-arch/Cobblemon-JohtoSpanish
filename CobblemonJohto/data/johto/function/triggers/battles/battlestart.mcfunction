@@ -126,14 +126,14 @@ execute as @s[tag=!RadioOff,scores={BattleStart=19,MusicCooldown=0}] at @s if en
 
 
 # Wild Pokemon Battle (Johto, Day)
-execute as @s[x=-877,y=0,z=-598,dx=2914,dy=256,dz=1509,tag=!RadioOff,scores={BattleStart=19,MusicCooldown=0}] if entity @e[x=-799,y=64,z=-284,dy=3,type=armor_stand,scores={DayTime=..12999}] run stopsound @s record
-execute as @s[x=-877,y=0,z=-598,dx=2914,dy=256,dz=1509,tag=!RadioOff,scores={BattleStart=19,MusicCooldown=0}] if entity @e[x=-799,y=64,z=-284,dy=3,type=armor_stand,scores={DayTime=..12999}] run playsound wildday record @s ~ ~ ~ 1 1 1
-execute as @s[x=-877,y=0,z=-598,dx=2914,dy=256,dz=1509,tag=!RadioOff,scores={BattleStart=19,MusicCooldown=0}] if entity @e[x=-799,y=64,z=-284,dy=3,type=armor_stand,scores={DayTime=..12999}] run scoreboard players set @s MusicCooldown 131
+execute as @s[x=-877,y=0,z=-800,dx=3000,dy=256,dz=2000,tag=!RadioOff,scores={BattleStart=19,MusicCooldown=0}] if entity @e[x=-799,y=64,z=-284,dy=3,type=armor_stand,scores={DayTime=..12999}] run stopsound @s record
+execute as @s[x=-877,y=0,z=-800,dx=3000,dy=256,dz=2000,tag=!RadioOff,scores={BattleStart=19,MusicCooldown=0}] if entity @e[x=-799,y=64,z=-284,dy=3,type=armor_stand,scores={DayTime=..12999}] run playsound wildday record @s ~ ~ ~ 1 1 1
+execute as @s[x=-877,y=0,z=-800,dx=3000,dy=256,dz=2000,tag=!RadioOff,scores={BattleStart=19,MusicCooldown=0}] if entity @e[x=-799,y=64,z=-284,dy=3,type=armor_stand,scores={DayTime=..12999}] run scoreboard players set @s MusicCooldown 131
 
 #Johto Night
-execute as @s[x=-877,y=0,z=-598,dx=2914,dy=256,dz=1509,tag=!RadioOff,scores={BattleStart=19,MusicCooldown=0}] if entity @e[x=-799,y=64,z=-284,dy=3,type=armor_stand,scores={DayTime=13000..}] run stopsound @s record
-execute as @s[x=-877,y=0,z=-598,dx=2914,dy=256,dz=1509,tag=!RadioOff,scores={BattleStart=19,MusicCooldown=0}] if entity @e[x=-799,y=64,z=-284,dy=3,type=armor_stand,scores={DayTime=13000..}] run playsound wildnight record @s ~ ~ ~ 1 1 1
-execute as @s[x=-877,y=0,z=-598,dx=2914,dy=256,dz=1509,tag=!RadioOff,scores={BattleStart=19,MusicCooldown=0}] if entity @e[x=-799,y=64,z=-284,dy=3,type=armor_stand,scores={DayTime=13000..}] run scoreboard players set @s MusicCooldown 135
+execute as @s[x=-877,y=0,z=-800,dx=3000,dy=256,dz=2000,tag=!RadioOff,scores={BattleStart=19,MusicCooldown=0}] if entity @e[x=-799,y=64,z=-284,dy=3,type=armor_stand,scores={DayTime=13000..}] run stopsound @s record
+execute as @s[x=-877,y=0,z=-800,dx=3000,dy=256,dz=2000,tag=!RadioOff,scores={BattleStart=19,MusicCooldown=0}] if entity @e[x=-799,y=64,z=-284,dy=3,type=armor_stand,scores={DayTime=13000..}] run playsound wildnight record @s ~ ~ ~ 1 1 1
+execute as @s[x=-877,y=0,z=-800,dx=3000,dy=256,dz=2000,tag=!RadioOff,scores={BattleStart=19,MusicCooldown=0}] if entity @e[x=-799,y=64,z=-284,dy=3,type=armor_stand,scores={DayTime=13000..}] run scoreboard players set @s MusicCooldown 135
 
 #Kanto
 execute as @s[x=-3552,y=0,z=-1136,dx=2675,dy=256,dz=2185,tag=!RadioOff,scores={BattleStart=19,MusicCooldown=0}] run stopsound @s record
