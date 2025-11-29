@@ -75,30 +75,5 @@
             "Ariados level=47 moves=psychic,poisonjab,scaryface,pinmissile",
             "Venomoth level=50 moves=doubleteam,psychic,sludgebomb,signalbeam"
         ]
-    },
-    "ai": [
-
-        {
-            "type": "add_tasks_to_activity",
-            "activity": "core",
-            "tasksByPriority": {
-                "0": [
-                    "look_at_target",
-                    "stay_afloat"
-                ]
-            }
-        },
-        {
-            "type": "add_tasks_to_activity",
-            "activity": "idle",
-            "tasksByPriority": {
-                "0": [
-                    "look_at_target"
-                ],
-                "1": [
-                    "look_at_entities"
-                ]
-            }
-        }
-    ]
+    }
 }
