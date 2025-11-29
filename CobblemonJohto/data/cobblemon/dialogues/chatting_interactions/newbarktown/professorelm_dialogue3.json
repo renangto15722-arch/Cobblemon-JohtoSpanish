@@ -3,6 +3,7 @@
         "q.run_command('tag ' + q.player.username + ' add InDialogue');"
             ],
 
+    "escapeAction": [],
     "names": ["Professor Elm"],
     "speakers": {
         "npc": {

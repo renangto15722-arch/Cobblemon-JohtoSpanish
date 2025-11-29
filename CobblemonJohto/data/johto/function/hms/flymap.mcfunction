@@ -125,7 +125,7 @@ playsound entity.arrow.shoot ambient @s[x=1160,y=251,z=619,dy=3,scores={FlyCelad
 tp @s[x=1160,y=251,z=619,dy=3,scores={FlyCeladon=1..}] -2460 64 375
 
 playsound entity.arrow.shoot ambient @s[x=1163,y=251,z=611,dy=3,scores={FlyCinnabar=1..}] ~ ~ ~ 1 1 1
-tp @s[x=1163,y=251,z=611,dy=3,scores={FlyCinnabar=1..}] -1704 64 -899
+tp @s[x=1163,y=251,z=611,dy=3,scores={FlyCinnabar=1..}] -1709 64 -896
 
 playsound entity.arrow.shoot ambient @s[x=1163,y=251,z=614,dy=3,scores={FlyPallet=1..}] ~ ~ ~ 1 1 1
 tp @s[x=1163,y=251,z=614,dy=3,scores={FlyPallet=1..}] -1666 64 -291

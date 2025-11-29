@@ -59,6 +59,7 @@ execute as @s[scores={DialogueTrigger=103,TalkTime=1}] run clear @s prismarine_s
 
 execute as @s[scores={DialogueTrigger=103,TalkTime=1}] run stopsound @s record
 execute as @s[scores={DialogueTrigger=103,TalkTime=1}] run playsound lugiaspawn record @s ~ ~ ~ 1000 1 1
+execute as @s[scores={DialogueTrigger=103,TalkTime=1}] run scoreboard players set @s MusicCooldown 20
 tellraw @s[scores={DialogueTrigger=103,TalkTime=1}] {"text":"Your Silver Wing grew brighter!"}
 
 execute as @s[scores={DialogueTrigger=103,TalkTime=16},tag=SilverPick] positioned 1250 30 229 run pokespawn lugia level=45 moves=extrasensory,raindance,hydropump,aeroblast
@@ -83,7 +84,6 @@ tellraw @s[scores={DialogueTrigger=104,TalkTime=1}] {"text":"Your Rainbow Wing g
 execute as @s[scores={DialogueTrigger=104,TalkTime=12},tag=GoldPick] positioned 253 157 317 run pokespawn hooh level=45 moves=extrasensory,sunnyday,fireblast,sacredfire
 execute as @s[scores={DialogueTrigger=104,TalkTime=12},tag=!GoldPick] positioned 253 157 317 run pokespawn hooh level=70 moves=sacredfire,punishment,ancientpower,safeguard
 execute as @s[scores={DialogueTrigger=104,TalkTime=12}] run playsound hooh hostile @s ~ ~ ~ 1000 1 1
-execute as @s[scores={DialogueTrigger=104,TalkTime=13}] run scoreboard players set @s click 1
 
 tag @s[scores={DialogueTrigger=104,TalkTime=13..}] add Dialogue104
 

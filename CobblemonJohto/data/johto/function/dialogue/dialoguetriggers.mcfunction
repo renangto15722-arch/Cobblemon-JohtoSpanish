@@ -168,7 +168,7 @@ execute as @s[x=332,y=64,z=-17,distance=..4,tag=Whitney,tag=Dialogue29,tag=!Dial
 execute as @s[x=343,y=64,z=216,distance=..50,tag=!Dialogue31] unless entity @e[x=343,y=64,z=216,dy=3,type=cobblemon:npc] run npcspawnat 343 64 216 ecruteak_silver 1
 
 #Dialogue 33 - Surf Guy giving ability if all trainers are beaten
-execute as @s[x=333,y=64,z=219,dx=20,dy=5,dz=14,tag=Kimono1,tag=Kimono2,tag=Kimono3,tag=Kimono4,tag=Kimono5,tag=!Dialogue33,scores={Cooldown=0}] run opendialogue surfguy_dialogue33 @s 
+execute as @s[x=333,y=64,z=219,dx=20,dy=5,dz=14,tag=Kimono1,tag=Kimono2,tag=Kimono3,tag=Kimono4,tag=Kimono5,tag=!Dialogue33] run opendialogue surfguy_dialogue33 @s 
 
 #Burned Tower Silver Spawn
 execute as @s[x=441,y=64,z=312,distance=..20,tag=!Dialogue35,scores={StarterPick=1..}] unless entity @e[x=441,y=64,z=312,dy=3,type=cobblemon:npc] run particle cloud 441 64 312 1 1 1 1 100

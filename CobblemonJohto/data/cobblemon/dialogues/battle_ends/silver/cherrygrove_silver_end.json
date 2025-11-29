@@ -56,7 +56,6 @@
             }
         }
     ],
-    "escapeAction": [              
-      "q.dialogue.close();"
+    "escapeAction": [
       ]
 }

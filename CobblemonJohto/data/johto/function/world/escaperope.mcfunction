@@ -291,5 +291,5 @@ tag @s[tag=EscapeRopeUse] remove EscapeRopeUse
 
 #Not in area where Escape Rope works
 tellraw @s[scores={EscapeRopeUse=1..}] ["",{"text":"Mom's words echoed... ","italic":true,"color":"gray"},{"selector":"@p[scores={EscapeRopeUse=1..}]","italic":true,"color":"gray"},{"text":"! There's a time and place for everything! But not now.","italic":true,"color":"gray"}]
-give @s[scores={EscapeRopeUse=1..}] ender_eye
+execute as @s[scores={EscapeRopeUse=1..}] run function johto:spawn/escaperope
 scoreboard players set @s[scores={EscapeRopeUse=1..}] EscapeRopeUse 0

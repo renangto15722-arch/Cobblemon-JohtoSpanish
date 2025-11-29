@@ -238,9 +238,9 @@ scoreboard players set @a[x=-1292,y=84,z=322,distance=..5,scores={FlyIndigo=0}] 
 scoreboard players set @a[x=-1292,y=84,z=322,distance=..5] Whiteout 12
 spawnpoint @a[x=-1292,y=84,z=322,distance=..5] -1292 84 322
 
-scoreboard players set @a[x=-1704,y=64,z=-899,distance=..5,scores={FlyCinnabar=0}] FlyCinnabar 1
-scoreboard players set @a[x=-1704,y=64,z=-899,distance=..5] Whiteout 13
-spawnpoint @a[x=-1704,y=64,z=-899,distance=..5] -1704 64 -899
+scoreboard players set @a[x=-1709,y=64,z=-895,distance=..5,scores={FlyCinnabar=0}] FlyCinnabar 1
+scoreboard players set @a[x=-1709,y=64,z=-895,distance=..5] Whiteout 13
+spawnpoint @a[x=-1709,y=64,z=-895,distance=..5] -1709 64 -896
 
 scoreboard players set @a[x=-1715,y=64,z=-321,distance=..15,scores={FlyPallet=0}] FlyPallet 1
 scoreboard players set @a[x=-1715,y=64,z=-321,distance=..15] Whiteout 14
@@ -297,6 +297,7 @@ execute as @a[x=858,y=75,z=-15,dx=102,dy=100,dz=143,tag=Whiteout] run tp @e[x=90
 execute as @a[x=858,y=75,z=-15,dx=102,dy=100,dz=143,tag=Whiteout] run scoreboard players set @s BattleStreak 0
 execute as @a[x=858,y=75,z=-15,dx=102,dy=100,dz=143,tag=Whiteout] run scoreboard players set @s TriggerCommand 1
 execute as @a[x=858,y=75,z=-15,dx=102,dy=100,dz=143,tag=Whiteout] run pokeheal
+execute as @a[x=858,y=75,z=-15,dx=102,dy=100,dz=143,tag=Whiteout] run tag @s remove Whiteout
 
 #Removes tag if Whiteout is disabled via lobby rule
 execute if entity @e[x=-792,y=65,z=-284,dy=3,tag=WhiteoutDisable] run tag @a[tag=Whiteout] remove Whiteout
