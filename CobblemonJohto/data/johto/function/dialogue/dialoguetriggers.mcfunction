@@ -85,11 +85,11 @@ execute as @s[x=421,y=64,z=-300,distance=..4,tag=Whitney,tag=!Dialogue29] run op
 
 #Route 36 Sudowoodo blocking path
 execute as @a[x=332,y=64,z=-17,distance=..30,tag=!Dialogue30] unless entity @e[x=332,y=64,z=-17,distance=..5,type=cobblemon:pokemon] run pokespawnat 332 64 -17 sudowoodo no_ai=true level=20
-execute positioned 332 64 -17 as @e[distance=..5,type=cobblemon:pokemon,name=Sudowoodo,nbt={PersistenceRequired:0b}] run data merge entity @s {Pokemon:{PokemonData:["uncatchable"]}}
-execute positioned 332 64 -17 as @e[distance=..5,type=cobblemon:pokemon,name=Sudowoodo,nbt={PersistenceRequired:0b}] run data modify entity @s Unbattleable set value 1b
-execute positioned 332 64 -17 as @e[distance=..5,type=cobblemon:pokemon,name=Sudowoodo,nbt={PersistenceRequired:0b}] run tp @s ~ ~ ~ 180 ~
-execute positioned 332 64 -17 as @e[distance=..5,type=cobblemon:pokemon,name=Sudowoodo,nbt={PersistenceRequired:0b}] run data modify entity @s Invulnerable set value 1b
-execute positioned 332 64 -17 as @e[distance=..5,type=cobblemon:pokemon,name=Sudowoodo,nbt={PersistenceRequired:0b}] run data modify entity @s PersistenceRequired set value 1
+execute positioned 332 64 -17 as @e[distance=..5,type=cobblemon:pokemon,nbt={PersistenceRequired:0b,Pokemon:{Species:"cobblemon:sudowoodo"}}] run data merge entity @s {Pokemon:{PokemonData:["uncatchable"]}}
+execute positioned 332 64 -17 as @e[distance=..5,type=cobblemon:pokemon,nbt={PersistenceRequired:0b,Pokemon:{Species:"cobblemon:sudowoodo"}}] run data modify entity @s Unbattleable set value 1b
+execute positioned 332 64 -17 as @e[distance=..5,type=cobblemon:pokemon,nbt={PersistenceRequired:0b,Pokemon:{Species:"cobblemon:sudowoodo"}}] run tp @s ~ ~ ~ 180 ~
+execute positioned 332 64 -17 as @e[distance=..5,type=cobblemon:pokemon,nbt={PersistenceRequired:0b,Pokemon:{Species:"cobblemon:sudowoodo"}}] run data modify entity @s Invulnerable set value 1b
+execute positioned 332 64 -17 as @e[distance=..5,type=cobblemon:pokemon,nbt={PersistenceRequired:0b,Pokemon:{Species:"cobblemon:sudowoodo"}}] run data modify entity @s PersistenceRequired set value 1
 
 #When player has the bottle
 execute as @s[x=332,y=64,z=-17,distance=..4,tag=Whitney,tag=Dialogue29,tag=!Dialogue30] run opendialogue sudowoodo_dialogue30 @s 
