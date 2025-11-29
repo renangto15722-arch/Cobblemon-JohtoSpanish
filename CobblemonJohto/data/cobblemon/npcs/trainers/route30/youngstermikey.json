@@ -7,7 +7,6 @@
     "allowProjectileHits": false,
     "isInvulnerable": true,
     "canDespawn": false,
-    "skill": 5,
     "interaction": {
         "type": "dialogue",
         "dialogue": "cobblemon:youngstermikey_interaction"
@@ -66,7 +65,6 @@
     "allowProjectileHits": false,
     "isInvulnerable": true, 
     "canDespawn": false,
-    "skill": 5,
     "ai": [
 
         {

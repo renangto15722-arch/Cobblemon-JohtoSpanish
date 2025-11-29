@@ -7,7 +7,6 @@
     "allowProjectileHits": false,
     "isInvulnerable": true,
     "canDespawn": false,
-    "skill": 5,
     "interaction": {
         "type": "dialogue",
         "dialogue": "cobblemon:janine_rematch_interaction"
@@ -76,30 +75,5 @@
             "Venomoth level=59 moves=psychic,bugbuzz,sleeppowder,doubleteam",
             "Drapion level=55 moves=confuseray,swordsdance,crosspoison,crunch"
         ]
-    },
-    "ai": [
-
-        {
-            "type": "add_tasks_to_activity",
-            "activity": "core",
-            "tasksByPriority": {
-                "0": [
-                    "look_at_target",
-                    "stay_afloat"
-                ]
-            }
-        },
-        {
-            "type": "add_tasks_to_activity",
-            "activity": "idle",
-            "tasksByPriority": {
-                "0": [
-                    "look_at_target"
-                ],
-                "1": [
-                    "look_at_entities"
-                ]
-            }
-        }
-    ]
+    }
 }

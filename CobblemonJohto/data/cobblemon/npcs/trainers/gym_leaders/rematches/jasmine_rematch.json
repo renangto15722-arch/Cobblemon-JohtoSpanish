@@ -7,7 +7,6 @@
     "allowProjectileHits": false,
     "isInvulnerable": true,
     "canDespawn": false,
-    "skill": 5,
     "interaction": {
         "type": "dialogue",
         "dialogue": "cobblemon:jasmine_rematch_interaction"
@@ -76,30 +75,5 @@
             "Empoleon level=52 moves=hydropump,blizzard,aquajet,roar",
             "Steelix level=62 moves=irontail,stoneedge,stealthrock,roar"
         ]
-    },
-    "ai": [
-
-        {
-            "type": "add_tasks_to_activity",
-            "activity": "core",
-            "tasksByPriority": {
-                "0": [
-                    "look_at_target",
-                    "stay_afloat"
-                ]
-            }
-        },
-        {
-            "type": "add_tasks_to_activity",
-            "activity": "idle",
-            "tasksByPriority": {
-                "0": [
-                    "look_at_target"
-                ],
-                "1": [
-                    "look_at_entities"
-                ]
-            }
-        }
-    ]
+    }
 }

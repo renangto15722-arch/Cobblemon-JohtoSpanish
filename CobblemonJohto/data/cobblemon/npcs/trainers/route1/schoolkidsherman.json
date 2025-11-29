@@ -7,7 +7,6 @@
     "allowProjectileHits": false,
     "isInvulnerable": true,
     "canDespawn": false,
-    "skill": 5,
     "interaction": {
         "type": "dialogue",
         "dialogue": "cobblemon:schoolkidsherman_interaction"

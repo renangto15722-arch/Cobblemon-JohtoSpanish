@@ -7,7 +7,6 @@
     "allowProjectileHits": false,
     "isInvulnerable": true,
     "canDespawn": false,
-    "skill": 5,
     "interaction": {
         "type": "dialogue",
         "dialogue": "cobblemon:brock_rematch_interaction"
@@ -76,30 +75,5 @@
             "Onix level=61 moves=stealthrock,rockslide,rockpolish,sandstorm",
             "Rampardos level=57 moves=earthquake,stoneedge,avalanch,rockpolish"
         ]
-    },
-    "ai": [
-
-        {
-            "type": "add_tasks_to_activity",
-            "activity": "core",
-            "tasksByPriority": {
-                "0": [
-                    "look_at_target",
-                    "stay_afloat"
-                ]
-            }
-        },
-        {
-            "type": "add_tasks_to_activity",
-            "activity": "idle",
-            "tasksByPriority": {
-                "0": [
-                    "look_at_target"
-                ],
-                "1": [
-                    "look_at_entities"
-                ]
-            }
-        }
-    ]
+    }
 }
