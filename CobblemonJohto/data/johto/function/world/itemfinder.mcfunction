@@ -30,16 +30,16 @@ playsound minecraft:entity.experience_orb.pickup ambient @s[x=-1615,y=64,z=386,d
 playsound minecraft:entity.experience_orb.pickup ambient @s[x=-1634,y=64,z=652,distance=..3,tag=!HiddenLoot24] ~ ~ ~ 1 1 1
 playsound minecraft:entity.experience_orb.pickup ambient @s[x=-1658,y=64,z=555,distance=..3,tag=!HiddenLoot25] ~ ~ ~ 1 1 1
 playsound minecraft:entity.experience_orb.pickup ambient @s[x=-167,y=54,z=181,distance=..3,tag=!HiddenLoot26] ~ ~ ~ 1 1 1
-playsound minecraft:entity.experience_orb.pickup ambient @s[x=-1673,y=64,z=-913,distance=..3,tag=!HiddenLoot27] ~ ~ ~ 1 1 1
+playsound minecraft:entity.experience_orb.pickup ambient @s[x=-1703,y=69,z=-872,distance=..3,tag=!HiddenLoot27] ~ ~ ~ 1 1 1
 playsound minecraft:entity.experience_orb.pickup ambient @s[x=-1673,y=64,z=354,distance=..3,tag=!HiddenLoot28] ~ ~ ~ 1 1 1
 playsound minecraft:entity.experience_orb.pickup ambient @s[x=-1676,y=64,z=-713,distance=..3,tag=!HiddenLoot29] ~ ~ ~ 1 1 1
-playsound minecraft:entity.experience_orb.pickup ambient @s[x=-1692,y=64,z=-884,distance=..3,tag=!HiddenLoot30] ~ ~ ~ 1 1 1
+playsound minecraft:entity.experience_orb.pickup ambient @s[x=-1721,y=64,z=-875,distance=..3,tag=!HiddenLoot30] ~ ~ ~ 1 1 1
 playsound minecraft:entity.experience_orb.pickup ambient @s[x=-1701,y=64,z=407,distance=..3,tag=!HiddenLoot31] ~ ~ ~ 1 1 1
 playsound minecraft:entity.experience_orb.pickup ambient @s[x=-1713,y=64,z=80,distance=..3,tag=!HiddenLoot32] ~ ~ ~ 1 1 1
 playsound minecraft:entity.experience_orb.pickup ambient @s[x=-1715,y=64,z=-472,distance=..3,tag=!HiddenLoot33] ~ ~ ~ 1 1 1
 playsound minecraft:entity.experience_orb.pickup ambient @s[x=-1717,y=64,z=-674,distance=..3,tag=!HiddenLoot34] ~ ~ ~ 1 1 1
 playsound minecraft:entity.experience_orb.pickup ambient @s[x=-1722,y=64,z=713,distance=..3,tag=!HiddenLoot35] ~ ~ ~ 1 1 1
-playsound minecraft:entity.experience_orb.pickup ambient @s[x=-1744,y=64,z=-838,distance=..3,tag=!HiddenLoot36] ~ ~ ~ 1 1 1
+playsound minecraft:entity.experience_orb.pickup ambient @s[x=-1701,y=69,z=-820,distance=..3,tag=!HiddenLoot36] ~ ~ ~ 1 1 1
 playsound minecraft:entity.experience_orb.pickup ambient @s[x=-186,y=64,z=-288,distance=..3,tag=!HiddenLoot37] ~ ~ ~ 1 1 1
 playsound minecraft:entity.experience_orb.pickup ambient @s[x=-1910,y=64,z=-905,distance=..3,tag=!HiddenLoot38] ~ ~ ~ 1 1 1
 playsound minecraft:entity.experience_orb.pickup ambient @s[x=-2046,y=64,z=-328,distance=..3,tag=!HiddenLoot39] ~ ~ ~ 1 1 1
@@ -233,16 +233,16 @@ execute if entity @s[x=-1615,y=64,z=386,distance=..3,tag=!HiddenLoot23] run part
 execute if entity @s[x=-1634,y=64,z=652,distance=..3,tag=!HiddenLoot24] run particle minecraft:firework -1634 64 652 0 6 0 0.05 0 normal @a
 execute if entity @s[x=-1658,y=64,z=555,distance=..3,tag=!HiddenLoot25] run particle minecraft:firework -1658 64 555 0 6 0 0.05 0 normal @a
 execute if entity @s[x=-167,y=54,z=181,distance=..3,tag=!HiddenLoot26] run particle minecraft:firework -167 54 181 0 6 0 0.05 0 normal @a
-execute if entity @s[x=-1673,y=64,z=-913,distance=..3,tag=!HiddenLoot27] run particle minecraft:firework -1673 64 -913 0 6 0 0.05 0 normal @a
+execute if entity @s[x=-1703,y=69,z=-872,distance=..3,tag=!HiddenLoot27] run particle minecraft:firework -1703 69 -872 0 6 0 0.05 0 normal @a
 execute if entity @s[x=-1673,y=64,z=354,distance=..3,tag=!HiddenLoot28] run particle minecraft:firework -1673 64 354 0 6 0 0.05 0 normal @a
 execute if entity @s[x=-1676,y=64,z=-713,distance=..3,tag=!HiddenLoot29] run particle minecraft:firework -1676 64 -713 0 6 0 0.05 0 normal @a
-execute if entity @s[x=-1692,y=64,z=-884,distance=..3,tag=!HiddenLoot30] run particle minecraft:firework -1692 64 -884 0 6 0 0.05 0 normal @a
+execute if entity @s[x=-1721,y=64,z=-875,distance=..3,tag=!HiddenLoot30] run particle minecraft:firework -1721 64 -875 0 6 0 0.05 0 normal @a
 execute if entity @s[x=-1701,y=64,z=407,distance=..3,tag=!HiddenLoot31] run particle minecraft:firework -1701 64 407 0 6 0 0.05 0 normal @a
 execute if entity @s[x=-1713,y=64,z=80,distance=..3,tag=!HiddenLoot32] run particle minecraft:firework -1713 64 80 0 6 0 0.05 0 normal @a
 execute if entity @s[x=-1715,y=64,z=-472,distance=..3,tag=!HiddenLoot33] run particle minecraft:firework -1715 64 -472 0 6 0 0.05 0 normal @a
 execute if entity @s[x=-1717,y=64,z=-674,distance=..3,tag=!HiddenLoot34] run particle minecraft:firework -1717 64 -674 0 6 0 0.05 0 normal @a
 execute if entity @s[x=-1722,y=64,z=713,distance=..3,tag=!HiddenLoot35] run particle minecraft:firework -1722 64 713 0 6 0 0.05 0 normal @a
-execute if entity @s[x=-1744,y=64,z=-838,distance=..3,tag=!HiddenLoot36] run particle minecraft:firework -1744 64 -838 0 6 0 0.05 0 normal @a
+execute if entity @s[x=-1701,y=69,z=-820,distance=..3,tag=!HiddenLoot36] run particle minecraft:firework -1701 69 -820 0 6 0 0.05 0 normal @a
 execute if entity @s[x=-186,y=64,z=-288,distance=..3,tag=!HiddenLoot37] run particle minecraft:firework -186 64 -288 0 6 0 0.05 0 normal @a
 execute if entity @s[x=-1910,y=64,z=-905,distance=..3,tag=!HiddenLoot38] run particle minecraft:firework -1910 64 -905 0 6 0 0.05 0 normal @a
 execute if entity @s[x=-2046,y=64,z=-328,distance=..3,tag=!HiddenLoot39] run particle minecraft:firework -2046 64 -328 0 6 0 0.05 0 normal @a
@@ -643,15 +643,15 @@ xp set @s[x=-167,y=54,z=181,distance=..10,tag=!HiddenLoot26] 6 points
 xp set @s[x=-167,y=54,z=181,distance=..5,tag=!HiddenLoot26] 1 levels
 xp set @s[x=-167,y=54,z=181,distance=..5,tag=!HiddenLoot26] 0 points
 tag @s[x=-167,y=54,z=181,distance=..3,tag=!HiddenLoot26] add HiddenLoot26
-xp set @s[x=-1673,y=64,z=-913,distance=..60,tag=!HiddenLoot27] 1 points
-xp set @s[x=-1673,y=64,z=-913,distance=..50,tag=!HiddenLoot27] 2 points
-xp set @s[x=-1673,y=64,z=-913,distance=..40,tag=!HiddenLoot27] 3 points
-xp set @s[x=-1673,y=64,z=-913,distance=..30,tag=!HiddenLoot27] 4 points
-xp set @s[x=-1673,y=64,z=-913,distance=..20,tag=!HiddenLoot27] 5 points
-xp set @s[x=-1673,y=64,z=-913,distance=..10,tag=!HiddenLoot27] 6 points
-xp set @s[x=-1673,y=64,z=-913,distance=..5,tag=!HiddenLoot27] 1 levels
-xp set @s[x=-1673,y=64,z=-913,distance=..5,tag=!HiddenLoot27] 0 points
-tag @s[x=-1673,y=64,z=-913,distance=..3,tag=!HiddenLoot27] add HiddenLoot27
+xp set @s[x=-1703,y=69,z=-872,distance=..60,tag=!HiddenLoot27] 1 points
+xp set @s[x=-1703,y=69,z=-872,distance=..50,tag=!HiddenLoot27] 2 points
+xp set @s[x=-1703,y=69,z=-872,distance=..40,tag=!HiddenLoot27] 3 points
+xp set @s[x=-1703,y=69,z=-872,distance=..30,tag=!HiddenLoot27] 4 points
+xp set @s[x=-1703,y=69,z=-872,distance=..20,tag=!HiddenLoot27] 5 points
+xp set @s[x=-1703,y=69,z=-872,distance=..10,tag=!HiddenLoot27] 6 points
+xp set @s[x=-1703,y=69,z=-872,distance=..5,tag=!HiddenLoot27] 1 levels
+xp set @s[x=-1703,y=69,z=-872,distance=..5,tag=!HiddenLoot27] 0 points
+tag @s[x=-1703,y=69,z=-872,distance=..3,tag=!HiddenLoot27] add HiddenLoot27
 xp set @s[x=-1673,y=64,z=354,distance=..60,tag=!HiddenLoot28] 1 points
 xp set @s[x=-1673,y=64,z=354,distance=..50,tag=!HiddenLoot28] 2 points
 xp set @s[x=-1673,y=64,z=354,distance=..40,tag=!HiddenLoot28] 3 points
@@ -670,15 +670,15 @@ xp set @s[x=-1676,y=64,z=-713,distance=..10,tag=!HiddenLoot29] 6 points
 xp set @s[x=-1676,y=64,z=-713,distance=..5,tag=!HiddenLoot29] 1 levels
 xp set @s[x=-1676,y=64,z=-713,distance=..5,tag=!HiddenLoot29] 0 points
 tag @s[x=-1676,y=64,z=-713,distance=..3,tag=!HiddenLoot29] add HiddenLoot29
-xp set @s[x=-1692,y=64,z=-884,distance=..60,tag=!HiddenLoot30] 1 points
-xp set @s[x=-1692,y=64,z=-884,distance=..50,tag=!HiddenLoot30] 2 points
-xp set @s[x=-1692,y=64,z=-884,distance=..40,tag=!HiddenLoot30] 3 points
-xp set @s[x=-1692,y=64,z=-884,distance=..30,tag=!HiddenLoot30] 4 points
-xp set @s[x=-1692,y=64,z=-884,distance=..20,tag=!HiddenLoot30] 5 points
-xp set @s[x=-1692,y=64,z=-884,distance=..10,tag=!HiddenLoot30] 6 points
-xp set @s[x=-1692,y=64,z=-884,distance=..5,tag=!HiddenLoot30] 1 levels
-xp set @s[x=-1692,y=64,z=-884,distance=..5,tag=!HiddenLoot30] 0 points
-tag @s[x=-1692,y=64,z=-884,distance=..3,tag=!HiddenLoot30] add HiddenLoot30
+xp set @s[x=-1721,y=64,z=-875,distance=..60,tag=!HiddenLoot30] 1 points
+xp set @s[x=-1721,y=64,z=-875,distance=..50,tag=!HiddenLoot30] 2 points
+xp set @s[x=-1721,y=64,z=-875,distance=..40,tag=!HiddenLoot30] 3 points
+xp set @s[x=-1721,y=64,z=-875,distance=..30,tag=!HiddenLoot30] 4 points
+xp set @s[x=-1721,y=64,z=-875,distance=..20,tag=!HiddenLoot30] 5 points
+xp set @s[x=-1721,y=64,z=-875,distance=..10,tag=!HiddenLoot30] 6 points
+xp set @s[x=-1721,y=64,z=-875,distance=..5,tag=!HiddenLoot30] 1 levels
+xp set @s[x=-1721,y=64,z=-875,distance=..5,tag=!HiddenLoot30] 0 points
+tag @s[x=-1721,y=64,z=-875,distance=..3,tag=!HiddenLoot30] add HiddenLoot30
 xp set @s[x=-1701,y=64,z=407,distance=..60,tag=!HiddenLoot31] 1 points
 xp set @s[x=-1701,y=64,z=407,distance=..50,tag=!HiddenLoot31] 2 points
 xp set @s[x=-1701,y=64,z=407,distance=..40,tag=!HiddenLoot31] 3 points
@@ -724,15 +724,15 @@ xp set @s[x=-1722,y=64,z=713,distance=..10,tag=!HiddenLoot35] 6 points
 xp set @s[x=-1722,y=64,z=713,distance=..5,tag=!HiddenLoot35] 1 levels
 xp set @s[x=-1722,y=64,z=713,distance=..5,tag=!HiddenLoot35] 0 points
 tag @s[x=-1722,y=64,z=713,distance=..3,tag=!HiddenLoot35] add HiddenLoot35
-xp set @s[x=-1744,y=64,z=-838,distance=..60,tag=!HiddenLoot36] 1 points
-xp set @s[x=-1744,y=64,z=-838,distance=..50,tag=!HiddenLoot36] 2 points
-xp set @s[x=-1744,y=64,z=-838,distance=..40,tag=!HiddenLoot36] 3 points
-xp set @s[x=-1744,y=64,z=-838,distance=..30,tag=!HiddenLoot36] 4 points
-xp set @s[x=-1744,y=64,z=-838,distance=..20,tag=!HiddenLoot36] 5 points
-xp set @s[x=-1744,y=64,z=-838,distance=..10,tag=!HiddenLoot36] 6 points
-xp set @s[x=-1744,y=64,z=-838,distance=..5,tag=!HiddenLoot36] 1 levels
-xp set @s[x=-1744,y=64,z=-838,distance=..5,tag=!HiddenLoot36] 0 points
-tag @s[x=-1744,y=64,z=-838,distance=..3,tag=!HiddenLoot36] add HiddenLoot36
+xp set @s[x=-1701,y=69,z=-820,distance=..60,tag=!HiddenLoot36] 1 points
+xp set @s[x=-1701,y=69,z=-820,distance=..50,tag=!HiddenLoot36] 2 points
+xp set @s[x=-1701,y=69,z=-820,distance=..40,tag=!HiddenLoot36] 3 points
+xp set @s[x=-1701,y=69,z=-820,distance=..30,tag=!HiddenLoot36] 4 points
+xp set @s[x=-1701,y=69,z=-820,distance=..20,tag=!HiddenLoot36] 5 points
+xp set @s[x=-1701,y=69,z=-820,distance=..10,tag=!HiddenLoot36] 6 points
+xp set @s[x=-1701,y=69,z=-820,distance=..5,tag=!HiddenLoot36] 1 levels
+xp set @s[x=-1701,y=69,z=-820,distance=..5,tag=!HiddenLoot36] 0 points
+tag @s[x=-1701,y=69,z=-820,distance=..3,tag=!HiddenLoot36] add HiddenLoot36
 xp set @s[x=-186,y=64,z=-288,distance=..60,tag=!HiddenLoot37] 1 points
 xp set @s[x=-186,y=64,z=-288,distance=..50,tag=!HiddenLoot37] 2 points
 xp set @s[x=-186,y=64,z=-288,distance=..40,tag=!HiddenLoot37] 3 points

@@ -1666,20 +1666,20 @@ execute as @s[x=-2110,y=21,z=-833,distance=..4,tag=!ItemLoot330] run tellraw @s 
 execute as @s[x=-2110,y=21,z=-833,distance=..4,tag=!ItemLoot330] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
 execute as @s[x=-2110,y=21,z=-833,distance=..4,tag=!ItemLoot330] run tag @s add ItemLoot330
 
-execute as @s[x=-1744,y=64,z=-838,distance=..4,tag=!ItemLoot331] run give @s cobblemon:rare_candy
-execute as @s[x=-1744,y=64,z=-838,distance=..4,tag=!ItemLoot331] run tellraw @s {"text":"You found a Rare Candy!","italic":true,"color":"gray"}
-execute as @s[x=-1744,y=64,z=-838,distance=..4,tag=!ItemLoot331] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
-execute as @s[x=-1744,y=64,z=-838,distance=..4,tag=!ItemLoot331] run tag @s add ItemLoot331
+execute as @s[x=-1701,y=69,z=-820,distance=..4,tag=!ItemLoot331] run give @s cobblemon:rare_candy
+execute as @s[x=-1701,y=69,z=-820,distance=..4,tag=!ItemLoot331] run tellraw @s {"text":"You found a Rare Candy!","italic":true,"color":"gray"}
+execute as @s[x=-1701,y=69,z=-820,distance=..4,tag=!ItemLoot331] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
+execute as @s[x=-1701,y=69,z=-820,distance=..4,tag=!ItemLoot331] run tag @s add ItemLoot331
 
-execute as @s[x=-1692,y=64,z=-884,distance=..4,tag=!ItemLoot332] run give @s cobblemon:iron
-execute as @s[x=-1692,y=64,z=-884,distance=..4,tag=!ItemLoot332] run tellraw @s {"text":"You found a Iron!","italic":true,"color":"gray"}
-execute as @s[x=-1692,y=64,z=-884,distance=..4,tag=!ItemLoot332] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
-execute as @s[x=-1692,y=64,z=-884,distance=..4,tag=!ItemLoot332] run tag @s add ItemLoot332
+execute as @s[x=-1721,y=64,z=-875,distance=..4,tag=!ItemLoot332] run give @s cobblemon:iron
+execute as @s[x=-1721,y=64,z=-875,distance=..4,tag=!ItemLoot332] run tellraw @s {"text":"You found a Iron!","italic":true,"color":"gray"}
+execute as @s[x=-1721,y=64,z=-875,distance=..4,tag=!ItemLoot332] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
+execute as @s[x=-1721,y=64,z=-875,distance=..4,tag=!ItemLoot332] run tag @s add ItemLoot332
 
-execute as @s[x=-1659,y=64,z=-834,distance=..4,tag=!ItemLoot333] run give @s cobblemon:magmarizer
-execute as @s[x=-1659,y=64,z=-834,distance=..4,tag=!ItemLoot333] run tellraw @s {"text":"You found a Magmarizer!","italic":true,"color":"gray"}
-execute as @s[x=-1659,y=64,z=-834,distance=..4,tag=!ItemLoot333] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
-execute as @s[x=-1659,y=64,z=-834,distance=..4,tag=!ItemLoot333] run tag @s add ItemLoot333
+execute as @s[x=-1686,y=64,z=-815,distance=..4,tag=!ItemLoot333] run give @s cobblemon:magmarizer
+execute as @s[x=-1686,y=64,z=-815,distance=..4,tag=!ItemLoot333] run tellraw @s {"text":"You found a Magmarizer!","italic":true,"color":"gray"}
+execute as @s[x=-1686,y=64,z=-815,distance=..4,tag=!ItemLoot333] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
+execute as @s[x=-1686,y=64,z=-815,distance=..4,tag=!ItemLoot333] run tag @s add ItemLoot333
 
 execute as @s[x=-2786,y=58,z=342,distance=..4,tag=!ItemLoot334] run give @s cobblemon:x_special_attack
 execute as @s[x=-2786,y=58,z=342,distance=..4,tag=!ItemLoot334] run tellraw @s {"text":"You found a X Sp. Atk!","italic":true,"color":"gray"}
@@ -2268,11 +2268,11 @@ execute as @s[x=-2065,y=29,z=-842,distance=..4,tag=!ItemLoot437] run tellraw @s 
 execute as @s[x=-2065,y=29,z=-842,distance=..4,tag=!ItemLoot437] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
 execute as @s[x=-2065,y=29,z=-842,distance=..4,tag=!ItemLoot437] run tag @s add ItemLoot437
 
-execute as @s[x=-1673,y=64,z=-913,distance=..4,tag=ItemLoot438] run tellraw @s {"text":"You've already claimed this loot!","italic":true,"color":"gray"}
-execute as @s[x=-1673,y=64,z=-913,distance=..4,tag=!ItemLoot438] run scoreboard players add @s Money 6000
-execute as @s[x=-1673,y=64,z=-913,distance=..4,tag=!ItemLoot438] run tellraw @s {"text":"You found $6000!","italic":true,"color":"gray"}
-execute as @s[x=-1673,y=64,z=-913,distance=..4,tag=!ItemLoot438] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
-execute as @s[x=-1673,y=64,z=-913,distance=..4,tag=!ItemLoot438] run tag @s add ItemLoot438
+execute as @s[x=-1703,y=69,z=-872,distance=..4,tag=ItemLoot438] run tellraw @s {"text":"You've already claimed this loot!","italic":true,"color":"gray"}
+execute as @s[x=-1703,y=69,z=-872,distance=..4,tag=!ItemLoot438] run scoreboard players add @s Money 6000
+execute as @s[x=-1703,y=69,z=-872,distance=..4,tag=!ItemLoot438] run tellraw @s {"text":"You found $6000!","italic":true,"color":"gray"}
+execute as @s[x=-1703,y=69,z=-872,distance=..4,tag=!ItemLoot438] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
+execute as @s[x=-1703,y=69,z=-872,distance=..4,tag=!ItemLoot438] run tag @s add ItemLoot438
 
 execute as @s[x=-1676,y=64,z=-713,distance=..4,tag=ItemLoot439] run tellraw @s {"text":"You've already claimed this loot!","italic":true,"color":"gray"}
 execute as @s[x=-1676,y=64,z=-713,distance=..4,tag=!ItemLoot439] run scoreboard players add @s Money 1500
