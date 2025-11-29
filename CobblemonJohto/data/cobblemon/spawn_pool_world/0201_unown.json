@@ -15,7 +15,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins1"
+                "minecraft:end_barrens"
             ]
             }
         },
@@ -31,7 +31,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins4"
+                "minecraft:the_end"
             ]
             }
         },
@@ -47,7 +47,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins1"
+                "minecraft:end_barrens"
             ]
             }
         },
@@ -63,7 +63,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins1"
+                "minecraft:end_barrens"
             ]
             }
         },
@@ -79,7 +79,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins1"
+                "minecraft:end_barrens"
             ]
             }
         },
@@ -95,7 +95,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins3"
+                "minecraft:end_midlands"
             ]
             }
         },
@@ -111,7 +111,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins2"
+                "minecraft:end_highlands"
             ]
             }
         },
@@ -127,7 +127,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins2"
+                "minecraft:end_highlands"
             ]
             }
         },
@@ -143,7 +143,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins3"
+                "minecraft:end_midlands"
             ]
             }
         },
@@ -159,7 +159,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins1"
+                "minecraft:end_barrens"
             ]
             }
         },
@@ -175,7 +175,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins1"
+                "minecraft:end_barrens"
             ]
             }
         },
@@ -191,7 +191,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins2"
+                "minecraft:end_highlands"
             ]
             }
         },
@@ -207,7 +207,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins1"
+                "minecraft:end_barrens"
             ]
             }
         },
@@ -223,7 +223,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins2"
+                "minecraft:end_highlands"
             ]
             }
         },
@@ -239,7 +239,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins3"
+                "minecraft:end_midlands"
             ]
             }
         },
@@ -255,7 +255,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins2"
+                "minecraft:end_highlands"
             ]
             }
         },
@@ -271,7 +271,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins4"
+                "minecraft:the_end"
             ]
             }
         },
@@ -287,7 +287,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins1"
+                "minecraft:end_barrens"
             ]
             }
         },
@@ -303,7 +303,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins3"
+                "minecraft:end_midlands"
             ]
             }
         },
@@ -319,7 +319,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins1"
+                "minecraft:end_barrens"
             ]
             }
         },
@@ -335,7 +335,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins2"
+                "minecraft:end_highlands"
             ]
             }
         },
@@ -351,7 +351,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins3"
+                "minecraft:end_midlands"
             ]
             }
         },
@@ -367,7 +367,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins4"
+                "minecraft:the_end"
             ]
             }
         },
@@ -383,7 +383,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins4"
+                "minecraft:the_end"
             ]
             }
         },
@@ -399,7 +399,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins2"
+                "minecraft:end_highlands"
             ]
             }
         },
@@ -415,7 +415,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins1"
+                "minecraft:end_barrens"
             ]
             }
         },
@@ -431,7 +431,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins4"
+                "minecraft:the_end"
             ]
             }
         },
@@ -447,7 +447,7 @@
                 "canSeeSky": false,
                 "minX": 179, "maxX": 214, "minY": 36, "maxY": 41, "minZ": -145, "maxZ": -96,
                 "biomes": [
-                "johto:ruins4"
+                "minecraft:the_end"
             ]
             }
         }

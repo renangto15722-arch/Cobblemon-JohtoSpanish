@@ -21,10 +21,10 @@ function johto:triggers/radio/swarmspawns
 
 #Spawns Unown or not based on how many of the ruin puzzles players have completed.
 execute if entity @e run fillbiome 214 37 -96 179 41 -145 minecraft:jungle
-execute if entity @e[x=-867,y=69,z=-210,dy=3,type=armor_stand,scores={PuzzleTrack=4..}] unless biome 214 37 -96 johto:ruins1 run fillbiome 214 37 -96 179 41 -145 johto:ruins1
-execute if entity @e[x=-867,y=69,z=-212,dy=3,type=armor_stand,scores={PuzzleTrack=7..}] unless biome 214 37 -96 johto:ruins2 run fillbiome 214 37 -96 179 41 -145 johto:ruins2
-execute if entity @e[x=-867,y=69,z=-214,dy=3,type=armor_stand,scores={PuzzleTrack=10..}] unless biome 214 37 -96 johto:ruins3 run fillbiome 214 37 -96 179 41 -145 johto:ruins3
-execute if entity @e[x=-867,y=69,z=-210,dy=3,type=armor_stand,scores={PuzzleTrack=4..}] if entity @e[x=-867,y=69,z=-212,dy=3,type=armor_stand,scores={PuzzleTrack=7..}] if entity @e[x=-867,y=69,z=-214,dy=3,type=armor_stand,scores={PuzzleTrack=10..}] run fillbiome 214 37 -96 179 41 -145 johto:ruins4
+execute if entity @e[x=-867,y=69,z=-210,dy=3,type=armor_stand,scores={PuzzleTrack=4..}] unless biome 214 37 -96 minecraft:end_barrens run fillbiome 214 37 -96 179 41 -145 minecraft:end_barrens
+execute if entity @e[x=-867,y=69,z=-212,dy=3,type=armor_stand,scores={PuzzleTrack=7..}] unless biome 214 37 -96 minecraft:end_highlands run fillbiome 214 37 -96 179 41 -145 minecraft:end_highlands
+execute if entity @e[x=-867,y=69,z=-214,dy=3,type=armor_stand,scores={PuzzleTrack=10..}] unless biome 214 37 -96 minecraft:end_midlands run fillbiome 214 37 -96 179 41 -145 minecraft:end_midlands
+execute if entity @e[x=-867,y=69,z=-210,dy=3,type=armor_stand,scores={PuzzleTrack=4..}] if entity @e[x=-867,y=69,z=-212,dy=3,type=armor_stand,scores={PuzzleTrack=7..}] if entity @e[x=-867,y=69,z=-214,dy=3,type=armor_stand,scores={PuzzleTrack=10..}] run fillbiome 214 37 -96 179 41 -145 minecraft:the_end
 
 
 #Spawns in the Weekday NPCs if player is nearby
