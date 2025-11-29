@@ -177,8 +177,7 @@
                         "action": [
                             "q.dialogue.close();",
                             "q.run_command('tag ' + q.player.username + ' add Dialogue3');",
-                            "q.run_command('tag ' + q.player.username + ' remove InDialogue');",
-                            "q.run_command('openstarterscreen ' + q.player.username + '');"
+                            "q.run_command('tag ' + q.player.username + ' remove InDialogue');"
                             ]
                     }
                 ]

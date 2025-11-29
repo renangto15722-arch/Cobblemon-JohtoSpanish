@@ -1,0 +1,12 @@
+#/summon minecraft:interaction -687 65 -478 {width:1.25,height:1.25,response:1,Tags:[Box1]}
+
+#Resets the player's entire Pokemon prior to picking a starter, should they pick another in the lobby
+execute as @s[x=-687,y=64,z=-478,distance=..10] unless entity @s[scores={StarterPick=1..}] run pokerestart
+
+
+#Pick Chikorita
+execute as @s[x=-687,y=64,z=-478,distance=..10,scores={StarterPick=1..}] run tellraw @s {"text":"You already picked a starter!","italic":true,"color":"gray"}
+execute as @s[x=-687,y=64,z=-478,distance=..10] unless entity @s[scores={StarterPick=1..}] run opendialogue chikorita_pick @s
+
+
+advancement revoke @s only johto:click/box1

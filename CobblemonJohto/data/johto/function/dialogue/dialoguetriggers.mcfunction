@@ -15,82 +15,12 @@
 #Mom first walking downstairs
 execute as @s[x=-736,y=64,z=-491,dx=10,dy=3,dz=6,tag=!Dialogue2] run opendialogue mom_dialogue2 @s
 
-#Elm's Lab
+#Elm's Lab Starter information
 execute as @s[x=-683,y=63,z=-478,distance=..10,tag=!Dialogue3] run opendialogue professorelm_dialogue3 @s
 
-#-----------------
-
 #Dialogue 3 - Elm's Lab after picking a starter
-#Scans player's party for which one they picked
-scoreboard players set @s[x=-683,y=63,z=-478,distance=..10] PokeHave 0
-tag @s[x=-683,y=63,z=-478,distance=..10] remove FireHave
-tag @s[x=-683,y=63,z=-478,distance=..10] remove GrassHave
-tag @s[x=-683,y=63,z=-478,distance=..10] remove WaterHave
-
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Bulbasaur
-tag @s[scores={PokeHave=1..}] add GrassHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Chikorita
-tag @s[scores={PokeHave=1..}] add GrassHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Treecko
-tag @s[scores={PokeHave=1..}] add GrassHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Turtwig
-tag @s[scores={PokeHave=1..}] add GrassHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Snivy
-tag @s[scores={PokeHave=1..}] add GrassHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Chespin
-tag @s[scores={PokeHave=1..}] add GrassHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Rowlet
-tag @s[scores={PokeHave=1..}] add GrassHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Grookey
-tag @s[scores={PokeHave=1..}] add GrassHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Sprigatito
-tag @s[scores={PokeHave=1..}] add GrassHave
-
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Charmander
-tag @s[scores={PokeHave=1..}] add FireHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Cyndaquil
-tag @s[scores={PokeHave=1..}] add FireHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Torchic
-tag @s[scores={PokeHave=1..}] add FireHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Chimchar
-tag @s[scores={PokeHave=1..}] add FireHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Tepig
-tag @s[scores={PokeHave=1..}] add FireHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Fennekin
-tag @s[scores={PokeHave=1..}] add FireHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Litten
-tag @s[scores={PokeHave=1..}] add FireHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Scorbunny
-tag @s[scores={PokeHave=1..}] add FireHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Fuecoco
-tag @s[scores={PokeHave=1..}] add FireHave
-
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Squirtle
-tag @s[scores={PokeHave=1..}] add WaterHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Totodile
-tag @s[scores={PokeHave=1..}] add WaterHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Mudkip
-tag @s[scores={PokeHave=1..}] add WaterHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Piplup
-tag @s[scores={PokeHave=1..}] add WaterHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Oshawott
-tag @s[scores={PokeHave=1..}] add WaterHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Froakie
-tag @s[scores={PokeHave=1..}] add WaterHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Popplio
-tag @s[scores={PokeHave=1..}] add WaterHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Sobble
-tag @s[scores={PokeHave=1..}] add WaterHave
-execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=0}] store result score @s PokeHave run testpartyslot @s 1 Quaxly
-tag @s[scores={PokeHave=1..}] add WaterHave
-
-execute as @s[x=-683,y=63,z=-478,distance=..10,tag=GrassHave] run scoreboard players set @s StarterPick 1
-execute as @s[x=-683,y=63,z=-478,distance=..10,tag=FireHave] run scoreboard players set @s StarterPick 2
-execute as @s[x=-683,y=63,z=-478,distance=..10,tag=WaterHave] run scoreboard players set @s StarterPick 3
-
 execute as @s[x=-683,y=63,z=-478,distance=..10,scores={StarterPick=1..},tag=Dialogue3,tag=!Dialogue4] run opendialogue professorelm_dialogue4 @s
 
-#-----------------
 #Spawns Silver outside of Elm's Lab
 execute as @p[x=-665,y=64,z=-493,distance=..50,tag=!Dialogue6] unless entity @e[x=-665,y=63,z=-493,dy=2,type=cobblemon:npc] run npcspawnat -665 64 -493 newbark_silver 1
 execute as @p[x=-665,y=64,z=-493,distance=50..100,tag=Dialogue6] run tp @e[x=-665,y=63,z=-493,dy=2,type=cobblemon:npc] 10000000 -50000 -10000000
