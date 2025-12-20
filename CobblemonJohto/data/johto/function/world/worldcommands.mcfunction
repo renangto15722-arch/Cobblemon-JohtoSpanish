@@ -85,8 +85,8 @@ execute as @a[tag=Surf] at @s if block ~ ~ ~ minecraft:water run effect give @s 
 
 #Town Map
 team leave @a[team=black]
-execute as @a[nbt={SelectedItem:{components:{"minecraft:custom_name":'{"extra":[{"color":"aqua","italic":false,"text":"Town Map"}],"text":""}'}}}] run function johto:world/townmap
-execute as @a[nbt={Inventory:[{Slot:-106b,components:{"minecraft:custom_name":'{"extra":[{"color":"aqua","italic":false,"text":"Town Map"}],"text":""}'}}]}] run function johto:world/townmap
+execute as @a if items entity @s weapon.mainhand minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] run function johto:world/townmap
+execute as @a unless items entity @s weapon.mainhand minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] if items entity @s weapon.offhand minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] run function johto:world/townmap
 
 
 #MusicTitles function, tracks player around map checking for new areas or music
@@ -316,7 +316,7 @@ execute as @a[scores={DialogueTrigger=1..500}] run function johto:dialogue/dialo
 
 
 #-------------------------------------------------------------------------------------------------------------------------
-#Misc World Events 
+#Misc World Events
 
 #Bellsprout Tower swaying pillar in middle
 execute if entity @a[x=44,y=63,z=4,dx=31,dy=90,dz=31] run setblock -819 65 -265 minecraft:air

@@ -1,5 +1,12 @@
 #Commands that run once a minute, very low priority but also can happen whenever.
 
+#Runs patch updates between minor versions
+#1.3.0 to 1.3.1
+scoreboard objectives add TownMapLast dummy
+
+
+
+
 #Deletes duplicate Pokemon/Trainers if player relogs near where something respawns
 execute at @e[nbt={NoAI:1b},type=cobblemon:pokemon] unless entity @e[type=cobblemon:pokemon,tag=keeper] run tag @e[type=cobblemon:pokemon,distance=..0.01,limit=1] add keeper
 execute at @e[type=cobblemon:npc] unless entity @e[type=cobblemon:npc,tag=keeper] run tag @e[type=cobblemon:npc,distance=..0.01,limit=1] add keeper

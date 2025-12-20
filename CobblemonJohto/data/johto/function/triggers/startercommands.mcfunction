@@ -88,6 +88,8 @@ scoreboard players set @s Air 0
 scoreboard players set @s IP 0
 scoreboard players set @s Farfetchd 0
 scoreboard players set @s BattleStreak 0
+scoreboard players set @s TownMap 0
+scoreboard players set @s TownMapLast 0
 
 #World Events
 scoreboard players set @s BattlePoints 0

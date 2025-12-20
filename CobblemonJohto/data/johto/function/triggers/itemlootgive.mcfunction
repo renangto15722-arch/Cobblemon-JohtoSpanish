@@ -2238,11 +2238,16 @@ execute as @s[x=-3287,y=65,z=-135,distance=..4,tag=!ItemLoot370] run tellraw @s 
 execute as @s[x=-3287,y=65,z=-135,distance=..4,tag=!ItemLoot370] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
 execute as @s[x=-3287,y=65,z=-135,distance=..4,tag=!ItemLoot370] run tag @s add ItemLoot370
 
-execute as @s[x=-270,y=65,z=-505,distance=..5,tag=ItemLoot371] run tellraw @s {"text":"You've already claimed this loot!","italic":true,"color":"gray"}
-execute as @s[x=-270,y=65,z=-505,distance=..5,tag=!ItemLoot371] run function johto:spawn/townmap
-execute as @s[x=-270,y=65,z=-505,distance=..5,tag=!ItemLoot371] run tellraw @s {"text":"You received a Town Map!","italic":true,"color":"gray"}
-execute as @s[x=-270,y=65,z=-505,distance=..5,tag=!ItemLoot371] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
-execute as @s[x=-270,y=65,z=-505,distance=..5,tag=!ItemLoot371] run tag @s add ItemLoot371
+# If they already have the map anywhere, show message once (prevents duplicates)
+execute as @s[x=-270,y=65,z=-505,distance=..5] if items entity @s inventory.* minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] run tellraw @s {"text":"You've already claimed this loot!","italic":true,"color":"gray"}
+execute as @s[x=-270,y=65,z=-505,distance=..5] unless items entity @s inventory.* minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] if items entity @s weapon.mainhand minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] run tellraw @s {"text":"You've already claimed this loot!","italic":true,"color":"gray"}
+execute as @s[x=-270,y=65,z=-505,distance=..5] unless items entity @s inventory.* minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] unless items entity @s weapon.mainhand minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] if items entity @s weapon.offhand minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] run tellraw @s {"text":"You've already claimed this loot!","italic":true,"color":"gray"}
+
+# If they don't have the map anywhere, give it to them (allows recovery if lost)
+execute as @s[x=-270,y=65,z=-505,distance=..5] unless items entity @s inventory.* minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] unless items entity @s weapon.mainhand minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] unless items entity @s weapon.offhand minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] run function johto:spawn/townmap
+execute as @s[x=-270,y=65,z=-505,distance=..5] unless items entity @s inventory.* minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] unless items entity @s weapon.mainhand minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] unless items entity @s weapon.offhand minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] run tellraw @s {"text":"You received a Town Map!","italic":true,"color":"gray"}
+execute as @s[x=-270,y=65,z=-505,distance=..5] unless items entity @s inventory.* minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] unless items entity @s weapon.mainhand minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] unless items entity @s weapon.offhand minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] run playsound minecraft:entity.experience_orb.pickup ambient @s ~ ~ ~ 1 1 1
+execute as @s[x=-270,y=65,z=-505,distance=..5] unless items entity @s inventory.* minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] unless items entity @s weapon.mainhand minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] unless items entity @s weapon.offhand minecraft:filled_map[minecraft:custom_data~{johto_town_map:1b}] run tag @s add ItemLoot371
 
 #ItemLoot372 Flash HM
 
