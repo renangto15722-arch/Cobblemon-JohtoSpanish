@@ -6,6 +6,9 @@ scoreboard players set @s BattleStart 0
 #Tells player their money count after each battle
 execute as @s[scores={BattleEnd=1..3}] unless entity @s[x=858,y=75,z=-15,dx=102,dy=100,dz=143] run tellraw @s ["",{"text":"You now have $","italic":true,"color":"gray"},{"score":{"name":"*","objective":"Money"},"italic":true,"color":"gray"}]
 
+#Lets players know their battle streaks if they're in the tower
+execute as @a[scores={BattleEnd=1..3}] if entity @s[x=858,y=75,z=-15,dx=102,dy=100,dz=143] run tellraw @s ["",{"text":"Your battle streak increased to ","italic":true,"color":"gray"},{"score":{"name":"*","objective":"BattleStreak"},"italic":true,"color":"gray"},{"text":"!","italic":true,"color":"gray"}]
+
 
 #1 - Generic battle ending, majority of trainers especially without a story beat. 
 execute as @s[tag=!RadioOff,scores={BattleEnd=1}] run stopsound @s record

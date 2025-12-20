@@ -24,6 +24,7 @@ execute as @a[scores={TriggerCommand=2,BattleStreak=0..10}] run npcspawnat 908 1
 execute as @a[scores={TriggerCommand=2,BattleStreak=11..20}] run npcspawnat 908 100 67.0 battle_tower_group2
 execute as @a[scores={TriggerCommand=2,BattleStreak=21..}] run npcspawnat 908 100 67.0 battle_tower_group3
 execute as @a[scores={TriggerCommand=2}] run tp @s 894 100 67.0 -90 ~
+execute as @a[scores={TriggerCommand=2}] run tellraw @s ["",{"text":"Your battle streak is currently ","italic":true,"color":"gray"},{"score":{"name":"*","objective":"BattleStreak"},"italic":true,"color":"gray"},{"text":"!","italic":true,"color":"gray"}]
 
 
 
