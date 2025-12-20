@@ -1,7 +1,5 @@
 #Current Map Version
-tellraw @s {"text":"1) Map version: Cobblemon Johto 1.3.0"}
-
-#execute as @e[x=-880,y=64,z=-336,dy=3,type=minecraft:armor_stand] run give Jond minecraft:acacia_boat
+tellraw @s {"text":"1) Map version: Cobblemon Johto 1.3.1"}
 
 #Adds a tag to track player between commands
 tag @s add infoverify
