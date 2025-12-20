@@ -3,7 +3,8 @@
 #Runs patch updates between minor versions
 #1.3.0 to 1.3.1
 scoreboard objectives add TownMapLast dummy
-
+scoreboard objectives setdisplay sidebar.team.green
+scoreboard objectives setdisplay sidebar.team.blue
 
 
 
