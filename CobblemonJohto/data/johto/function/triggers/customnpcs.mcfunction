@@ -1,6 +1,12 @@
 #Function that manages what specific NPCs say when you click on boxes surroung them.
 #Used to have the same NPC say different lines depending on the player's own tags.
 
+
+#Cobblemon Home integration, pre-Pokemon-League
+execute as @s[x=-683,y=64,z=-471,distance=..4,scores={IP=0}] run opendialogue pokemon_home_blocked @s
+execute as @s[x=-683,y=64,z=-471,distance=..4,scores={IP=1..}] run opendialogue pokemon_home_poweron @s
+
+
 #Rock Smash guy before and after clearing Sudowoodo
 execute as @s[x=247,y=64,z=-20,distance=..6,tag=!Dialogue30] run opendialogue route36_blackbelt_interaction @s
 execute as @s[x=247,y=64,z=-20,distance=..6,tag=Dialogue30,tag=!RockSmash] run opendialogue route36_blackbelt_interaction2 @s

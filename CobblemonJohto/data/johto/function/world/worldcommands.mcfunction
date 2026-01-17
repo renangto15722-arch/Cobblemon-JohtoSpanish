@@ -42,6 +42,11 @@ execute as @a[limit=1,x=513,y=60,z=-793,dx=187,dy=10,dz=228] run function johto:
 #Legendary Dog & Eon Grass commands 3.0
 execute as @a[tag=!GrassCooldown] at @s if block ~ ~ ~ minecraft:short_grass run function johto:triggers/roaminglegends
 
+#Integrates Cobblemon-Home compatibility
+execute if block -683 64 -471 air if entity @p[x=-683,y=64,z=-471,distance=..30] run function johto:spawn/pokemonhome
+execute if entity @p[x=-683,y=64,z=-471,distance=..6,scores={IP=0}] unless entity @e[x=-683,y=64,z=-471,distance=..2,type=interaction] run summon minecraft:interaction -683 64 -471 {width:1.25,height:1.25,response:1,Tags:[NPCs]} 
+execute if entity @p[x=-683,y=64,z=-471,distance=..6,scores={IP=1..}] run kill @e[x=-683,y=64,z=-471,distance=..2,type=interaction]
+
 #---------------------
 #Runs infolist command for non-ops
 scoreboard players enable @a Info
