@@ -1,5 +1,5 @@
 {
-    "infiniteStamina": "false",
+    "infiniteStamina": "true",
     "terminalVelocity": "-2.0",
     "rotatePokemonHead": "true",
     "stamReplenishTimeSeconds": "15.0",

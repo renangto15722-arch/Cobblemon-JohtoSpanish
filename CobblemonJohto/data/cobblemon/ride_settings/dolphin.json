@@ -1,5 +1,5 @@
 {
-    "infiniteStamina": "false",
+    "infiniteStamina": "true",
     "canJump": "true",
     "reverseDriveFactor": "0.25",
     "strafeFactor": "0.2",
