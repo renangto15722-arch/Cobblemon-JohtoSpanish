@@ -1,7 +1,7 @@
 {   
     "speakers": {
         "npc": {
-          "name": "     ",
+          "name": "Kurt",
           "face": {
             "type": "artificial",
             "modelType": "npc",
@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "If you arrange apricorns on one of my crafting benches, you can make unique Poke Balls!"
+                "I make Poké Balls from Apricorns. Collect them from trees and bring 'em to me. I'll make Poké Balls out of them."
             ],
             "input": {
                 "type": "option",

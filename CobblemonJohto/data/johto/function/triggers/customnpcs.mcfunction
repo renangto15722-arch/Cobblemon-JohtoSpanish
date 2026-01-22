@@ -13,6 +13,20 @@ execute as @s[x=247,y=64,z=-20,distance=..6,tag=Dialogue30,tag=!RockSmash] run o
 execute as @s[x=247,y=64,z=-20,distance=..6,tag=Dialogue30,tag=RockSmash] run opendialogue route36_blackbelt_interaction @s
 
 
+#Kurt custom-making Apricorn balls
+execute as @s[x=371,y=64,z=-698,distance=..5,nbt={Inventory:[{id:"cobblemon:white_apricorn"}]}] run tag @s add Apricorns
+execute as @s[x=371,y=64,z=-698,distance=..5,nbt={Inventory:[{id:"cobblemon:green_apricorn"}]}] run tag @s add Apricorns
+execute as @s[x=371,y=64,z=-698,distance=..5,nbt={Inventory:[{id:"cobblemon:black_apricorn"}]}] run tag @s add Apricorns
+execute as @s[x=371,y=64,z=-698,distance=..5,nbt={Inventory:[{id:"cobblemon:red_apricorn"}]}] run tag @s add Apricorns
+execute as @s[x=371,y=64,z=-698,distance=..5,nbt={Inventory:[{id:"cobblemon:pink_apricorn"}]}] run tag @s add Apricorns
+execute as @s[x=371,y=64,z=-698,distance=..5,nbt={Inventory:[{id:"cobblemon:blue_apricorn"}]}] run tag @s add Apricorns
+execute as @s[x=371,y=64,z=-698,distance=..5,nbt={Inventory:[{id:"cobblemon:yellow_apricorn"}]}] run tag @s add Apricorns
+
+execute as @s[x=371,y=64,z=-698,distance=..5,tag=!Apricorns] run opendialogue azalea_kurt_interaction @s
+execute as @s[x=371,y=64,z=-698,distance=..5,tag=Apricorns] run opendialogue azalea_kurt_crafting @s
+execute as @s[x=371,y=64,z=-698,distance=..5,tag=Apricorns] run tag @s remove Apricorns
+
+
 #Ilex Forest Cut HM
 execute as @s[x=623,y=64,z=-714,distance=..4,tag=!Bugsy] run opendialogue ilexforest_schoolkid_beforebadge @s
 execute as @s[x=623,y=64,z=-714,distance=..4,tag=Bugsy,scores={Farfetchd=0}] run opendialogue ilexforest_schoolkid_afterbadge @s
