@@ -15,7 +15,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I call my Pidgey Strawberry!"
+                "¡A mi Pidgey lo llamo Strawberry!"
             ],
             "input": {
                 "type": "option",

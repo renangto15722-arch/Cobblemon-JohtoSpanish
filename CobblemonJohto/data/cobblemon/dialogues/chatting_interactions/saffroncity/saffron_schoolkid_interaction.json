@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There's a place called Trainer House in Viridian where trainers gather from all over the place."
+                "Hay un lugar llamado Casa Entrenador en Ciudad Verde donde los entrenadores se reúnen de todas partes."
             ],
             "input": {
                 "type": "option",

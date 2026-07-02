@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Shh! Don't scare off the fish!"
+                "¡Shh! ¡No espantes a los peces!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Ah, Pokémon catching, are you? I prefer fish myself."
+                "Ah, ¿cazando Pokémon? Yo prefiero los peces."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Have you been to Cinnabar?"
+                "¿Has estado en Isla Canela?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's an island way south of here."
+                "Es una isla muy al sur de aquí."
             ],
             "input": {
                 "type": "option",

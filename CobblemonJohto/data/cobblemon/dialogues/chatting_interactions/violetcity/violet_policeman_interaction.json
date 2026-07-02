@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi, guy!"
+                "¡Hola, amigo!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Did you visit Sprout Tower? "
+                "¿Visitaste la Torre Bellsprout? "
             ],
             "input": {
                 "type": "option",

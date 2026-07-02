@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I challenged a Machamp to an arm-wrestling match with three friends."
+                "Reté a un Machamp a un pulso junto con tres amigos."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "He beat us all without breaking a sweat. How did he do that?!"
+                "Nos venció a todos sin despeinarse. ¿¡Cómo lo hizo!?"
             ],
             "input": {
                 "type": "option",

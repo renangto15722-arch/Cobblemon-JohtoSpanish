@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Fast Ship is a great place to meet and battle trainers."
+                "El Fast Ship es un gran lugar para conocer y combatir contra entrenadores."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You can even battle them every day!"
+                "¡Incluso puedes combatir contra ellos todos los días!"
             ],
             "input": {
                 "type": "option",

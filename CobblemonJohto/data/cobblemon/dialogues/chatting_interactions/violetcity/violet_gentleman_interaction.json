@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I traded my best Pokemon to the guy beside me. "
+                "Intercambié mi mejor Pokémon con el tipo de al lado. "
             ],
             "input": {
                 "type": "option",

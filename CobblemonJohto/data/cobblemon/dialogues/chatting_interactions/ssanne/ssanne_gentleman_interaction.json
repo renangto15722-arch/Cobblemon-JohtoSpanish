@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My Pokémon have to be the most powerful, with all the money I've spent on their Poké Balls."
+                "Mis Pokémon tienen que ser los más poderosos, con todo el dinero que he gastado en sus Poké Balls."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Invest money, get a return on investment. Prove me wrong."
+                "Invierte dinero, obtén un retorno de la inversión. Demuéstrame que me equivoco."
             ],
             "input": {
                 "type": "option",

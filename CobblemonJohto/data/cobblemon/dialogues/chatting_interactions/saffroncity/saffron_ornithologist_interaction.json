@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I hear there was big trouble at the Power Plant."
+                "He oído que hubo un gran problema en la Central Eléctrica."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Chew... chew... Haaah, I'm full!"
+                "Ñam... ñam... ¡Aaah, estoy lleno!"
             ],
             "input": {
                 "type": "option",

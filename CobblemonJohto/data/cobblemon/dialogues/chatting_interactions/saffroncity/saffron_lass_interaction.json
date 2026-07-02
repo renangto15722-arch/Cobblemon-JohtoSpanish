@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This is Silph Co, famous for Pokémon merchandise."
+                "Esta es Silph Co, famosa por sus productos Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "In the past, Team Rocket wanted the company because of that."
+                "En el pasado, el Team Rocket quería la compañía por eso."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Do you put a lot of thought into naming your Pokémon?"
+                "¿Le dedicas mucho pensamiento a ponerles nombre a tus Pokémon?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Giving them good nicknames adds to the fun of trading with others."
+                "Ponerles buenos apodos hace más divertido intercambiarlos con otros."
             ],
             "input": {
                 "type": "option",

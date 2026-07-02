@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, kid! I just had a double shot of espresso, and I am wired!"
+                "¡Oye, chico! ¡Acabo de tomarme un espresso doble y estoy a mil!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I need to talk to someone, so you'll have to do!"
+                "¡Necesito hablar con alguien, así que tendrás que servir tú!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I might not look like much now, but I was an expert of catching Pokémon."
+                "Puede que ahora no lo parezca, pero yo era un experto en capturar Pokémon."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Yawn!"
+                "¡Bostezo!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I must have dozed off in the sun. ...I had his dream about a Drowzee eating my dream."
+                "Debí quedarme dormido al sol. ...Tuve un sueño sobre un Drowzee que se comía mi sueño."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Weird, huh? Huh? What's this? Where did this TM come from?"
+                "Raro, ¿no? ¿Eh? ¿Qué es esto? ¿De dónde salió este TM?"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "This is spooky!"
+                "¡Esto da escalofríos!"
             ],
             "input": {
                 "type": "option",

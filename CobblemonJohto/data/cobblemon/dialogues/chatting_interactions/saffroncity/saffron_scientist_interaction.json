@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Whew..."
+                "Uf..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "How many times have I gone back and fourth between Johto and Kanto?"
+                "¿Cuántas veces habré ido y venido entre Johto y Kanto?"
             ],
             "input": {
                 "type": "option",

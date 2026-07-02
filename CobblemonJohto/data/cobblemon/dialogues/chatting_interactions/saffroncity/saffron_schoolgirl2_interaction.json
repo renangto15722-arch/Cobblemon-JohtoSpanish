@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi. Did you buy your ticket?"
+                "Hola. ¿Compraste tu billete?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I have one. All the people in Saffron who ride the Magnet Train get them for free!"
+                "Yo tengo uno. ¡Toda la gente de Ciudad Azafrán que viaja en el Magnetotrén los consigue gratis!"
             ],
             "input": {
                 "type": "option",

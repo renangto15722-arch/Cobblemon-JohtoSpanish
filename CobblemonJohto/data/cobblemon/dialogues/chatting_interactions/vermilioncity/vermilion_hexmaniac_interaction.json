@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm the Chairman of the Pokémon Fan Club. "
+                "Soy el Presidente del Club de Fans Pokémon. "
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I've raised over 150 Pokémon. I'm very fussy when it comes to Pokémon. "
+                "He criado más de 150 Pokémon. Soy muy exigente con los Pokémon. "
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Did you visit just to hear about my Pokémon?"
+                "¿Viniste solo para oír hablar de mis Pokémon?"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Good! Then listen up! So...my precious Rapidash... "
+                "¡Bien! ¡Entonces escucha! Pues...mi precioso Rapidash... "
             ],
             "input": {
                 "type": "option",
@@ -87,7 +87,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "It's...cute...lovely...smart... "
+                "Es...lindo...encantador...inteligente... "
             ],
             "input": {
                 "type": "option",
@@ -105,7 +105,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "adorable...irresistible...plus... "
+                "adorable...irresistible...además... "
             ],
             "input": {
                 "type": "option",
@@ -123,7 +123,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "amazing... "
+                "asombroso... "
             ],
             "input": {
                 "type": "option",
@@ -141,7 +141,7 @@
             "id": "page8",
             "speaker": "npc",
             "lines": [
-                "Don't you think so? "
+                "¿No crees? "
             ],
             "input": {
                 "type": "option",
@@ -159,7 +159,7 @@
             "id": "page9",
             "speaker": "npc",
             "lines": [
-                "Oh, so...wild...beautiful... kind... "
+                "Oh, tan...salvaje...hermoso... amable... "
             ],
             "input": {
                 "type": "option",
@@ -177,7 +177,7 @@
             "id": "page10",
             "speaker": "npc",
             "lines": [
-                "I love it! Hug it... It's warm and cuddly... "
+                "¡Me encanta! Lo abrazo... Es cálido y achuchable... "
             ],
             "input": {
                 "type": "option",
@@ -195,7 +195,7 @@
             "id": "page11",
             "speaker": "npc",
             "lines": [
-                "Oh, it's...spectacular...captivating... simply divine... "
+                "Oh, es...espectacular...cautivador... simplemente divino... "
             ],
             "input": {
                 "type": "option",
@@ -213,7 +213,7 @@
             "id": "page12",
             "speaker": "npc",
             "lines": [
-                "I treasure it... Oops! Look at the time! "
+                "Lo atesoro... ¡Ups! ¡Mira la hora! "
             ],
             "input": {
                 "type": "option",
@@ -231,7 +231,7 @@
             "id": "page13",
             "speaker": "npc",
             "lines": [
-                "I've kept you too long! Thanks for hearing me out."
+                "¡Te he entretenido demasiado! Gracias por escucharme."
             ],
             "input": {
                 "type": "option",
@@ -249,7 +249,7 @@
             "id": "page14",
             "speaker": "npc",
             "lines": [
-                "I want to give you this present!"
+                "¡Quiero darte este regalo!"
             ],
             "input": {
                 "type": "option",
@@ -267,7 +267,7 @@
             "id": "page15",
             "speaker": "npc",
             "lines": [
-                "It's a Rare Candy that makes Pokémon stronger. "
+                "Es un Caramelo Raro que hace más fuertes a los Pokémon. "
             ],
             "input": {
                 "type": "option",
@@ -285,7 +285,7 @@
             "id": "page16",
             "speaker": "npc",
             "lines": [
-                "I prefer making my Pokémon stronger by battling, so you can have it."
+                "Prefiero hacer más fuertes a mis Pokémon combatiendo, así que puedes quedártelo."
             ],
             "input": {
                 "type": "option",

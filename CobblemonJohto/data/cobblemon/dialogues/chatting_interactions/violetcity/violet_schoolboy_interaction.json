@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ghosts are rumored to appear in Sprout Tower."
+                "Se rumorea que aparecen fantasmas en la Torre Bellsprout."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "They said normal-type Pokemon moves had no effect on ghosts."
+                "Decían que los movimientos de tipo normal de los Pokémon no tenían efecto en los fantasmas."
             ],
             "input": {
                 "type": "option",

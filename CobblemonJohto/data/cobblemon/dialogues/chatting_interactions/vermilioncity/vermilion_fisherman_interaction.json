@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Some Pokémon don't just want to walk with you."
+                "Algunos Pokémon no solo quieren caminar contigo."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Some would rather give their Trainer a ride!"
+                "¡Algunos prefieren llevar a su Entrenador montado!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It would be pretty great to take a ride with a Pokémon that could swim across the water or fly through the air..."
+                "Sería genial montar en un Pokémon que pudiera nadar por el agua o volar por el aire..."
             ],
             "input": {
                 "type": "option",

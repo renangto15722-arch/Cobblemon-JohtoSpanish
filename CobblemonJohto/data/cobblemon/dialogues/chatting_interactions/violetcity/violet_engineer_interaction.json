@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pokemon can hold items like Potion and Antidote."
+                "Los Pokémon pueden llevar objetos como Poción y Antídoto."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But they don't appear to know how to use man made items."
+                "Pero no parecen saber cómo usar objetos hechos por el hombre."
             ],
             "input": {
                 "type": "option",

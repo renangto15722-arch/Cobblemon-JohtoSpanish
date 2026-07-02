@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I guess you can't become the Champ unless you go all over the place and battle all kinds of people."
+                "Supongo que no puedes ser Campeón a menos que recorras todas partes y luches contra todo tipo de gente."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The Champion from Pallet traveled to all the cities and towns in Kanto."
+                "El Campeón de Pueblo Paleta viajó a todas las ciudades y pueblos de Kanto."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There's no Steel-type Gym in Kanto, but I love it anyway!"
+                "¡No hay ningún Gimnasio de tipo Acero en Kanto, pero me encanta igual!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Yes, the Steel type!"
+                "¡Sí, el tipo Acero!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Steel-type moves are strong against Fairy types!"
+                "¡Los movimientos de tipo Acero son fuertes contra los de tipo Hada!"
             ],
             "input": {
                 "type": "option",

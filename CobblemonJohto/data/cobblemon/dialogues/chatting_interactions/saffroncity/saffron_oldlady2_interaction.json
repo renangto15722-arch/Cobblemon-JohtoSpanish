@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Before the Magnet Train Station was built, there was a house there."
+                "Antes de que se construyera la Estación del Magnet Train, había una casa allí."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "A little girl named Copycat used to live there."
+                "Allí vivía una niña llamada Copycat."
             ],
             "input": {
                 "type": "option",

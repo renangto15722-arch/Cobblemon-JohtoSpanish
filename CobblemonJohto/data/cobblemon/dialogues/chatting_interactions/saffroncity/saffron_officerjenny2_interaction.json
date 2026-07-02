@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Have you been to Lavendar Town?"
+                "¿Has estado en Pueblo Lavanda?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "There's a tall Radio Tower there."
+                "Allí hay una alta Torre Radio."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Some say it's haunted!"
+                "¡Algunos dicen que está embrujada!"
             ],
             "input": {
                 "type": "option",

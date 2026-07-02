@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There are no Gym Trainers at the Viridian Gym."
+                "No hay Entrenadores de Gimnasio en el Gimnasio de Ciudad Verde."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The League claims his policy is to win without having any underlings."
+                "La Liga afirma que su política es ganar sin tener ningún subordinado."
             ],
             "input": {
                 "type": "option",

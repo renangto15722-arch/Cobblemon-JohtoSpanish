@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Skilled trainers gather in Kanto."
+                "Los entrenadores hábiles se reúnen en Kanto."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Gym Leaders are especially strong. They won't be easy to defeat."
+                "Los Líderes de Gimnasio son especialmente fuertes. No será fácil vencerlos."
             ],
             "input": {
                 "type": "option",

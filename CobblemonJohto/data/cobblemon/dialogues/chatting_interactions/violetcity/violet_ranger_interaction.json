@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "A Bellsprout over 100 feet tall..."
+                "Un Bellsprout de más de 30 metros de altura..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "People say that it became the center pillar here."
+                "La gente dice que se convirtió en el pilar central de aquí."
             ],
             "input": {
                 "type": "option",

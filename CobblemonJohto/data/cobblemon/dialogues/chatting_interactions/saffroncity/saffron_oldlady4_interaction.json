@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Our city was featured on a radio program."
+                "Nuestra ciudad apareció en un programa de radio."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's nice to hear priase for your city, but it's embarrassing too."
+                "Es agradable oír elogios sobre tu ciudad, pero también da vergüenza."
             ],
             "input": {
                 "type": "option",

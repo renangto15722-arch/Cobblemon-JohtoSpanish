@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Do you want a Pokémon developed by our own Silph Co?"
+                "¿Quieres un Pokémon desarrollado por nuestra propia Silph S.A.?"
             ],
             "input": {
                 "type": "option",

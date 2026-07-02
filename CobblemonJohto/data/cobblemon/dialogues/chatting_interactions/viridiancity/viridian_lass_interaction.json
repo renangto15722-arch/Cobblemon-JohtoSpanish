@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Gym Leader here is totally cool."
+                "El Líder de Gimnasio de aquí es totalmente genial."
             ],
             "input": {
                 "type": "option",

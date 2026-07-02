@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "A Pokemon you get in a trade grows quickly."
+                "Un Pokémon que obtienes en un intercambio crece rápido."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But if you don't have the right gym badges, they may disobey you."
+                "Pero si no tienes las medallas de gimnasio adecuadas, puede que te desobedezca."
             ],
             "input": {
                 "type": "option",

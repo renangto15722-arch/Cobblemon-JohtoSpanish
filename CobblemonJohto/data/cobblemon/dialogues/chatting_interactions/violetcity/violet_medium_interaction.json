@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "A Pokemon holding a berry will heal itself in battle."
+                "Un Pokémon que lleva una baya se curará a sí mismo en batalla."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Many other items can be held by Pokemon..."
+                "Los Pokémon pueden llevar muchos otros objetos..."
             ],
             "input": {
                 "type": "option",

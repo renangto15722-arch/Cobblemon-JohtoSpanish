@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It's unsafe to go in there, so I'm standing guard."
+                "Es peligroso entrar ahí, así que estoy montando guardia."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Aren't I a good samaritan?"
+                "¿No soy un buen samaritano?"
             ],
             "input": {
                 "type": "option",

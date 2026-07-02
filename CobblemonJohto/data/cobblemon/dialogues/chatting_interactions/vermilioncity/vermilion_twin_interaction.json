@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I want to go to Saffron to see the Magnet Train."
+                "Quiero ir a Ciudad Azafrán para ver el Magnetotrén."
             ],
             "input": {
                 "type": "option",

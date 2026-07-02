@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Only employees are permitted to go upstairs."
+                "Solo los empleados pueden subir arriba."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But since you came such a long way, have this neat little souvenir."
+                "Pero como has venido de tan lejos, toma este bonito souvenir."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It's Silph Co's latest product."
+                "Es el último producto de Silph Co."
             ],
             "input": {
                 "type": "option",

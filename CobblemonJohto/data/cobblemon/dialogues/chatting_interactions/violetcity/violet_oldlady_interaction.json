@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hello! You are trainer?"
+                "¡Hola! ¿Tú eres entrenador?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Battle Gym Leader, win you did?"
+                "¿Luchaste contra Líder de Gimnasio, ganar lograste?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Ooh la la! Very indeed nice!"
+                "¡Ooh la la! ¡Qué bien, en verdad!"
             ],
             "input": {
                 "type": "option",

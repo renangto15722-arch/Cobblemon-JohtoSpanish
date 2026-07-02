@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I heard that there are many items on the ground in Viridian Forest."
+                "Oí que hay muchos objetos por el suelo en el Bosque Verde."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Dare I go on?"
+                "¿Me atrevo a seguir?"
             ],
             "input": {
                 "type": "option",

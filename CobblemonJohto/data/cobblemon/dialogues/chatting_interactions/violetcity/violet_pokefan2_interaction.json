@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Falkner, from the Violet Pokemon Gym, is a fine trainer!"
+                "¡Falkner, del Gimnasio Pokémon de Ciudad Malva, es un gran entrenador!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "He inherited his father's gym and has done a great job with it."
+                "Heredó el gimnasio de su padre y ha hecho un gran trabajo con él."
             ],
             "input": {
                 "type": "option",

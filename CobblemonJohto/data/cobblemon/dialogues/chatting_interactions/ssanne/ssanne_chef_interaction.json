@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I wish I could stop eating so much of the bread I bake."
+                "Ojalá pudiera dejar de comer tanto pan del que horneo."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Do you think I should go on a diet?"
+                "¿Crees que debería ponerme a dieta?"
             ],
             "input": {
                 "type": "option",

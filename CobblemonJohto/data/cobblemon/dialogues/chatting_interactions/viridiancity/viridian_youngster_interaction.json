@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Viridian is the town closest to Indigo Plateau."
+                "Ciudad Verde es el pueblo más cercano a la Meseta Añil."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "They built this place because so many trainers pass through on their way up to Indigo Plateau."
+                "Construyeron este lugar porque muchísimos entrenadores pasan por aquí de camino a la Meseta Añil."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Just wandering around with your Pokémon can be so much fun!"
+                "¡Solo pasear por ahí con tus Pokémon puede ser muy divertido!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "...But you already know that, right?"
+                "...Pero eso ya lo sabes, ¿verdad?"
             ],
             "input": {
                 "type": "option",

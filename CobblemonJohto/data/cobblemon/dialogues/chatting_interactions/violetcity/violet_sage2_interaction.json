@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Only if you reach the top will you obtain an HM."
+                "Solo si llegas a la cima obtendrás un HM."
             ],
             "input": {
                 "type": "option",

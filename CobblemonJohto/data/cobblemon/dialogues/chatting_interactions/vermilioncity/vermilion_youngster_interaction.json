@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Over many years, Diglett dug a large tunnel."
+                "A lo largo de muchos años, los Diglett cavaron un gran túnel."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "That tunnel goes to a distant town."
+                "Ese túnel lleva a un pueblo lejano."
             ],
             "input": {
                 "type": "option",

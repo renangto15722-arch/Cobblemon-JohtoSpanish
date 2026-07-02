@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I love Clefairy, but I could never catch one."
+                "Me encanta Clefairy, pero nunca pude atrapar uno."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "So I'm making due with a Poke Doll that I found."
+                "Así que me conformo con una Poke Doll que encontré."
             ],
             "input": {
                 "type": "option",

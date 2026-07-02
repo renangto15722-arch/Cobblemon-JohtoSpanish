@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I just caught a Squirtle that was always getting into mischief."
+                "Acabo de atrapar a un Squirtle que siempre andaba haciendo travesuras."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I think it needs a good trainer to set it straight."
+                "Creo que necesita un buen entrenador que lo enderece."
             ],
             "input": {
                 "type": "option",

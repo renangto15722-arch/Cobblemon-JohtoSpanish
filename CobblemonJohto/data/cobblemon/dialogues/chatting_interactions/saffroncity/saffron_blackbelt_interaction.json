@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hello!"
+                "¡Hola!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Karate King, the Fighting Dojo's master, is in a cave in Johto for training."
+                "Karate King, el maestro del Dojo Karate, está en una cueva de Johto entrenando."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "The Gym Leaders do like to stop in and rebattle trainers they lost to, though."
+                "Aunque a los Líderes de Gimnasio les gusta pasarse a luchar de nuevo contra los entrenadores que los vencieron."
             ],
             "input": {
                 "type": "option",

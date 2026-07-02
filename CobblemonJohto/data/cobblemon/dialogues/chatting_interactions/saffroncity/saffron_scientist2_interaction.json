@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I went to the Gym, raring for battles against trainers..."
+                "Fui al Gimnasio, ansioso por combatir contra entrenadores..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It turns out, I stumbled into the unused Gym next door."
+                "Resulta que me metí por error en el Gimnasio abandonado de al lado."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Boy, I was pretty embarrassed."
+                "Vaya, qué vergüenza pasé."
             ],
             "input": {
                 "type": "option",

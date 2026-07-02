@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Look at my darling Bayleef!"
+                "¡Mira a mi querido Bayleef!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The leaf on its head is so cute!"
+                "¡La hoja de su cabeza es tan linda!"
             ],
             "input": {
                 "type": "option",

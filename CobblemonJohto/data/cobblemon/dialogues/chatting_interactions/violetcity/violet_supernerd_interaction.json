@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "See the pillar shaking? "
+                "¿Ves cómo tiembla el pilar? "
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "People are training upstairs."
+                "La gente está entrenando arriba."
             ],
             "input": {
                 "type": "option",

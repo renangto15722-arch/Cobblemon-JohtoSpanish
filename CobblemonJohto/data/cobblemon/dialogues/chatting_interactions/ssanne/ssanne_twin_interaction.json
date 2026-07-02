@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I hear math and writing are super boring. I just want to learn about Pokémon!"
+                "Dicen que las mates y la escritura son aburridísimas. ¡Yo solo quiero aprender sobre Pokémon!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I can't wait to be done with school when I'm 10!"
+                "¡No veo la hora de terminar la escuela cuando cumpla 10!"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Silph Co's Head Office and the Magnet Train Station--"
+                "La Sede Central de Silph S.A. y la Estación del Magnetotrén--"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "They're the places to see in Saffron."
+                "Son los lugares que hay que ver en Ciudad Azafrán."
             ],
             "input": {
                 "type": "option",

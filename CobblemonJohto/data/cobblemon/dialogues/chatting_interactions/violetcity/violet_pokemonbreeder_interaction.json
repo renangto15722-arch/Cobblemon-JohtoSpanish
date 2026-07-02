@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "A guy named Bill made the Pokemon PC storage system."
+                "Un tipo llamado Bill creó el sistema de almacenamiento PC de Pokémon."
             ],
             "input": {
                 "type": "option",

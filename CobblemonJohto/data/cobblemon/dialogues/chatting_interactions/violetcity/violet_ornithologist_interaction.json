@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pokemon are smart. They won't obey a trainer they don't respect."
+                "Los Pokémon son listos. No obedecerán a un entrenador al que no respetan."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Without the right gym badges, they might just do as they please."
+                "Sin las medallas de gimnasio adecuadas, harán lo que les dé la gana."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I saw a wiggly tree up ahead!"
+                "¡Vi un árbol que se movía más adelante!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If you touch it, it squirms and dances! Cool!"
+                "¡Si lo tocas, se retuerce y baila! ¡Genial!"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "She uses the names of her favorite things to eat."
+                "Usa los nombres de sus comidas favoritas."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "For the nicknames she gives to her Pokemon, I mean."
+                "Para los apodos que les pone a sus Pokémon, quiero decir."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It was around three years ago."
+                "Fue hace unos tres años."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Team Rocket was up to no good with Pokemon."
+                "Team Rocket andaba tramando algo malo con los Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "But justice prevailed."
+                "Pero la justicia prevaleció."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "A young kid broke 'em up."
+                "Un chiquillo los desbarató."
             ],
             "input": {
                 "type": "option",

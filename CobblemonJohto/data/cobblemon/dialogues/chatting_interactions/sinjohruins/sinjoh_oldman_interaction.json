@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You seem so out of place, not even knowing why you are here."
+                "Pareces totalmente fuera de lugar, ni siquiera sabes por qué estás aquí."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Do you want my Abra to use a special power to take you home?"
+                "¿Quieres que mi Abra use un poder especial para llevarte a casa?"
             ],
             "input": {
                 "type": "option",
@@ -61,7 +61,7 @@
             "id": "nothanks",
             "speaker": "npc",
             "lines": [
-                "Let me know if you do!"
+                "¡Avísame si cambias de idea!"
             ],
             "input": {
                 "type": "option",

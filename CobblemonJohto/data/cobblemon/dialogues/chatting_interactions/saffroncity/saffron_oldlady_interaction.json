@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I flew here on my Pidgeot instead of taking the train."
+                "Vine volando en mi Pidgeot en lugar de tomar el tren."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It was so much faster!"
+                "¡Fue mucho más rápido!"
             ],
             "input": {
                 "type": "option",

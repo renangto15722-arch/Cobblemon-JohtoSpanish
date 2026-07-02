@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Fast Ship SS Anne is en route."
+                "El barco rápido S.S. Anne está en ruta."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "We will make an announcement when we arrive."
+                "Haremos un anuncio cuando lleguemos."
             ],
             "input": {
                 "type": "option",

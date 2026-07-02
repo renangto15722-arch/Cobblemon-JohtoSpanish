@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There's a big Radio Tower in Lavender."
+                "Hay una gran Torre Radio en Lavanda."
             ],
             "input": {
                 "type": "option",

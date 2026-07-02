@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My teacher's going to take us to a field trip next month!"
+                "¡Mi profesor nos va a llevar de excursión el mes que viene!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "We'll visit a Pokémon ranch. Maybe we'll see cute baby Pokémon?"
+                "Visitaremos un rancho Pokémon. ¿Quizá veamos lindos Pokémon bebé?"
             ],
             "input": {
                 "type": "option",

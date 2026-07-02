@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Magnet Train is the most famous thing about Saffron."
+                "El Magnet Train es lo más famoso de Ciudad Azafrán."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Today Cody from school got his Poké Ball taken away by the teacher."
+                "Hoy el profesor le quitó la Poké Ball a Cody, de la escuela."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "He kept playing with it and bothering everyone."
+                "No paraba de jugar con ella y de molestar a todos."
             ],
             "input": {
                 "type": "option",

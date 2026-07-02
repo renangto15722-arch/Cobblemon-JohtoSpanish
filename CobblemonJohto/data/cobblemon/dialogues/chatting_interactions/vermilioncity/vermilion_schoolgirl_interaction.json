@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Vermilion Port is Kanto's seaside gateway."
+                "El Puerto de Ciudad Carmín es la entrada marítima de Kanto."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Luxury liners from around the world dock here."
+                "Aquí atracan cruceros de lujo de todo el mundo."
             ],
             "input": {
                 "type": "option",

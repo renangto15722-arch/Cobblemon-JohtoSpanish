@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Are you going to battle the Leader?"
+                "¿Vas a luchar contra el Líder?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Good luck to you."
+                "Buena suerte."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "You'll need it."
+                "La vas a necesitar."
             ],
             "input": {
                 "type": "option",

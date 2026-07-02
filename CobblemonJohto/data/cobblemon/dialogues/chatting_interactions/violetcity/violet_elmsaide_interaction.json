@@ -17,7 +17,7 @@
             "lines": [
         {
             "type": "expression",
-            "expression": "'' + q.player.username + ', long time, no see. Professor Elm asked me to find you.';"
+            "expression": "'' + q.player.username + ', cuánto tiempo sin verte. El Profesor Elm me pidió que te buscara.';"
         }
     ],
             "input": {
@@ -36,7 +36,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "He has another favor to ask. Would you take the Pokémon Egg?"
+                "Tiene otro favor que pedir. ¿Te llevarías el Pokémon Egg?"
             ],
             "input": {
                 "type": "option",
@@ -54,7 +54,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "We discovered that a Pokémon will not hatch until it grows in the Egg."
+                "Descubrimos que un Pokémon no eclosiona hasta que crece dentro del Egg."
             ],
             "input": {
                 "type": "option",
@@ -72,7 +72,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "It also has to be with other active Pokémon to hatch."
+                "También tiene que estar con otros Pokémon activos para eclosionar."
             ],
             "input": {
                 "type": "option",
@@ -92,7 +92,7 @@
             "lines": [
         {
             "type": "expression",
-            "expression": "'' + q.player.username + ', you’re the only person we can rely on.';"
+            "expression": "'' + q.player.username + ', eres la única persona en quien podemos confiar.';"
         }
             ],
             "input": {
@@ -111,7 +111,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "I'll be heading back to the lab!"
+                "¡Yo vuelvo al laboratorio!"
             ],
             "input": {
                 "type": "option",

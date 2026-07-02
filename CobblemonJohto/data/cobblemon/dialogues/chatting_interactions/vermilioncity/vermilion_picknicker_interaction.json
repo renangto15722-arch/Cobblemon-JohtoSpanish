@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm thinking about going shopping in Saffron."
+                "Estoy pensando en ir de compras a Ciudad Azafrán."
             ],
             "input": {
                 "type": "option",

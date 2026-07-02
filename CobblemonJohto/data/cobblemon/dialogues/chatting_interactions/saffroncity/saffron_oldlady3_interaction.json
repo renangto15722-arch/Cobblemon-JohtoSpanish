@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Welcome. This is Silph Co's Head Office Building."
+                "Bienvenido. Este es el edificio de la Sede Central de Silph S.A."
             ],
             "input": {
                 "type": "option",

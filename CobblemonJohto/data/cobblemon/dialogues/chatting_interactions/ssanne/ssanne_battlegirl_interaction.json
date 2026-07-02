@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I've practiced my flying kicks to perfection."
+                "He practicado mis patadas voladoras a la perfección."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I can jump so far you'll swear I'll never land! Yaaaaaaa!"
+                "¡Puedo saltar tan lejos que jurarías que nunca voy a aterrizar! ¡Yaaaaaaa!"
             ],
             "input": {
                 "type": "option",

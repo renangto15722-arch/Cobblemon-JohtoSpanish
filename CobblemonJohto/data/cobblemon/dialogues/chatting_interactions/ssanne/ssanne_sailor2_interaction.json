@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Full sail ahead!"
+                "¡A toda vela!"
             ],
             "input": {
                 "type": "option",
