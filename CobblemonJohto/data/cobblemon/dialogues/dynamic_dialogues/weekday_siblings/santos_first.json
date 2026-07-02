@@ -17,7 +17,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "...It's Saturday... I'm Santos of Saturday..."
+                "...Es sábado... Soy Santos del sábado..."
             ],
             "input": {
                 "type": "option",
@@ -37,7 +37,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Take this... ... Soft Sand..."
+                "Toma esto... ... Arena Fina..."
             ],
             "input": {
                 "type": "option",
@@ -55,7 +55,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Ground-type moves get stronger... It will startle you..."
+                "Los movimientos de tipo Tierra se vuelven más fuertes... Te sorprenderá..."
             ],
             "input": {
                 "type": "option",
@@ -75,7 +75,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "... See you again on another Saturday..."
+                "... Nos vemos otra vez en otro sábado..."
             ],
             "input": {
                 "type": "option",

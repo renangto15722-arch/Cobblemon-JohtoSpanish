@@ -17,7 +17,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'll befriend a real Clefairy on my own one day. No worries!"
+                "Algún día me haré amigo de un Clefairy de verdad por mi cuenta. ¡Sin preocupaciones!"
             ],
             "input": {
                 "type": "option",

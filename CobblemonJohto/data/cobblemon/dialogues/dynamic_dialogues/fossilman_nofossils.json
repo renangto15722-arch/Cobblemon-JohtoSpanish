@@ -25,7 +25,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Did you know that you can extract Pokémon from Fossils?"
+                "¿Sabías que puedes extraer Pokémon de los Fossils?"
             ],
             "input": {
                 "type": "option",
@@ -45,7 +45,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Hey! You don't have any Fossils."
+                "¡Oye! No tienes ningún Fossil."
             ],
             "input": {
                 "type": "option",
@@ -65,7 +65,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I heard that sometimes you find Fossils when you smash rocks at the Ruins of Alph and other places."
+                "Oí que a veces encuentras Fossils al romper rocas en las Ruinas Alfa y otros lugares."
             ],
             "input": {
                 "type": "option",

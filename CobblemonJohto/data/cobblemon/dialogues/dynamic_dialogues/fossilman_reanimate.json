@@ -34,7 +34,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Did you know that you can extract Pokémon from Fossils?"
+                "¿Sabías que puedes extraer Pokémon de los Fossils?"
             ],
             "input": {
                 "type": "option",
@@ -54,7 +54,7 @@
             "id": "greeting2",
             "speaker": "npc",
             "lines": [
-                "If you ever need to, let me take care of it for you!"
+                "¡Si alguna vez lo necesitas, deja que me encargue yo!"
             ],
             "input": {
                 "type": "option",
@@ -81,7 +81,7 @@
             "id": "fossilpick1",
             "speaker": "npc",
             "lines": [
-                "Which Fossil should I restore for you?"
+                "¿Qué Fossil quieres que restaure?"
             ],
             "input": {
                 "type": "option",
@@ -151,7 +151,7 @@
             "id": "fossilpick2",
             "speaker": "npc",
             "lines": [
-                "Which Fossil should I restore for you?"
+                "¿Qué Fossil quieres que restaure?"
             ],
             "input": {
                 "type": "option",
@@ -219,7 +219,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I'll extract it for you. Just one second!"
+                "Te lo extraeré. ¡Solo un segundo!"
             ],
             "input": {
                 "type": "option",
@@ -260,7 +260,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "There we go! I have extracted a Pokémon from your Fossil!"
+                "¡Ahí está! ¡He extraído un Pokémon de tu Fossil!"
             ],
             "input": {
                 "type": "option",
@@ -280,7 +280,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Take good care of it!"
+                "¡Cuídalo bien!"
             ],
             "input": {
                 "type": "option",
@@ -310,7 +310,7 @@
             "id": "bye1",
             "speaker": "npc",
             "lines": [
-                "Please come by again if you ever want to extract Pokémon."
+                "Vuelve cuando quieras extraer Pokémon."
             ],
             "input": {
                 "type": "option",

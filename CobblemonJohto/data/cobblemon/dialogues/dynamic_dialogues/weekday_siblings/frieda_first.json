@@ -17,7 +17,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Yahoo! It's Friday! I'm Frieda of Friday!"
+                "¡Yujú! ¡Es viernes! ¡Soy Frieda, la del viernes!"
             ],
             "input": {
                 "type": "option",
@@ -37,7 +37,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Nice to meet you! Here's a Poison Barb for you!"
+                "¡Encantada de conocerte! ¡Aquí tienes un Poison Barb!"
             ],
             "input": {
                 "type": "option",
@@ -55,7 +55,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Give it to a Pokémon that has Poison-type moves."
+                "Dáselo a un Pokémon que tenga movimientos de tipo Veneno."
             ],
             "input": {
                 "type": "option",
@@ -75,7 +75,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Oh! It's wicked! You'll be shocked how good it makes Poison moves!"
+                "¡Oh! ¡Es brutal! ¡Te sorprenderá lo bien que potencia los movimientos Veneno!"
             ],
             "input": {
                 "type": "option",
@@ -93,7 +93,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "I love Friday. No doubt about it! Don't you think it's great too?"
+                "Me encanta el viernes. ¡Sin duda! ¿No crees que también es genial?"
             ],
             "input": {
                 "type": "option",

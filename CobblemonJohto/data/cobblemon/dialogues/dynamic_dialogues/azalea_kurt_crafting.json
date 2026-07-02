@@ -48,7 +48,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You have Apricorns for me? Fine! I'll turn them into Poké Balls."
+                "¿Tienes Apricorns para mí? ¡Bien! Los convertiré en Poké Balls."
             ],
             "input": {
                 "type": "option",
@@ -75,7 +75,7 @@
             "id": "pick1",
             "speaker": "npc",
             "lines": [
-                "Which ball would you like me to craft?"
+                "¿Qué ball quieres que fabrique?"
             ],
             "input": {
                 "type": "option",
@@ -172,7 +172,7 @@
             "id": "whitepick",
             "speaker": "npc",
             "lines": [
-                "A Ball that catches Fast Pokémon. How many did you want me to make you?"
+                "Una Ball que captura Pokémon rápidos. ¿Cuántas querías que te hiciera?"
             ],
             "input": {
                 "type": "option",
@@ -215,7 +215,7 @@
             "id": "greenpick",
             "speaker": "npc",
             "lines": [
-                "A Ball that makes Pokémon like you. How many did you want me to make you?"
+                "Una Ball que hace que los Pokémon te aprecien. ¿Cuántas querías que te hiciera?"
             ],
             "input": {
                 "type": "option",
@@ -258,7 +258,7 @@
             "id": "blackpick",
             "speaker": "npc",
             "lines": [
-                "A Ball that catches Heavier Pokémon Easier. How many did you want me to make you?"
+                "Una Ball que captura más fácil a Pokémon más pesados. ¿Cuántas querías que te hiciera?"
             ],
             "input": {
                 "type": "option",
@@ -301,7 +301,7 @@
             "id": "redpick",
             "speaker": "npc",
             "lines": [
-                "The bigger the difference in level between your Pokémon and the Capture Target, the more likely the capture. How many did you want me to make you?"
+                "Cuanto mayor sea la diferencia de nivel entre tu Pokémon y el objetivo de captura, más probable es la captura. ¿Cuántas querías que te hiciera?"
             ],
             "input": {
                 "type": "option",
@@ -344,7 +344,7 @@
             "id": "pinkpick",
             "speaker": "npc",
             "lines": [
-                "This ball works better on Pokémon of the opposite Gender. How many did you want me to make you?"
+                "Esta ball funciona mejor con Pokémon del género opuesto. ¿Cuántas querías que te hiciera?"
             ],
             "input": {
                 "type": "option",
@@ -387,7 +387,7 @@
             "id": "bluepick",
             "speaker": "npc",
             "lines": [
-                "This ball works better on Pokémon snagged with Fishing Rod. How many did you want me to make you?"
+                "Esta ball funciona mejor con Pokémon pescados con caña. ¿Cuántas querías que te hiciera?"
             ],
             "input": {
                 "type": "option",
@@ -430,7 +430,7 @@
             "id": "yellowpick",
             "speaker": "npc",
             "lines": [
-                "This ball works better on Pokémon that evolve with Moon Stone. How many did you want me to make you?"
+                "Esta ball funciona mejor con Pokémon que evolucionan con Moon Stone. ¿Cuántas querías que te hiciera?"
             ],
             "input": {
                 "type": "option",
@@ -474,7 +474,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Just one second!"
+                "¡Solo un segundo!"
             ],
             "input": {
                 "type": "option",
@@ -515,7 +515,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "I just finished your Poké Ball. Here!"
+                "Acabo de terminar tu Poké Ball. ¡Toma!"
             ],
             "input": {
                 "type": "option",
@@ -536,7 +536,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "That turned out great. Try catching Pokémon with it."
+                "Quedó genial. Intenta capturar Pokémon con ella."
             ],
             "input": {
                 "type": "option",
@@ -566,7 +566,7 @@
             "id": "bye1",
             "speaker": "npc",
             "lines": [
-                "Oh... That's a letdown."
+                "Oh... Qué decepción."
             ],
             "input": {
                 "type": "option",

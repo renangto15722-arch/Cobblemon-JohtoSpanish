@@ -17,7 +17,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi! I'm Sunny of Sunday, meaning it's Sunday today!"
+                "¡Hola! Soy Sunny del domingo, ¡lo que significa que hoy es domingo!"
             ],
             "input": {
                 "type": "option",
@@ -37,7 +37,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I was told to give you this if I saw you!"
+                "¡Me dijeron que te diera esto si te veía!"
             ],
             "input": {
                 "type": "option",
@@ -55,7 +55,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "That thing... Um... ...What was it now..."
+                "Esa cosa... Em... ...¿Qué era ahora..."
             ],
             "input": {
                 "type": "option",
@@ -75,7 +75,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "... Oh! I remember now!"
+                "... ¡Oh! ¡Ya me acuerdo!"
             ],
             "input": {
                 "type": "option",
@@ -93,7 +93,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "A Pokémon that knows Electric moves should hold it."
+                "Un Pokémon que conozca movimientos Eléctricos debería llevarlo."
             ],
             "input": {
                 "type": "option",
@@ -111,7 +111,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "My sis Monica said it powers up Electric-type moves!"
+                "¡Mi hermana Monica dijo que potencia los movimientos de tipo Eléctrico!"
             ],
             "input": {
                 "type": "option",

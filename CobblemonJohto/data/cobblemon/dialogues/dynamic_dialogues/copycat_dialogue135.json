@@ -17,7 +17,7 @@
             "id": "greeting",
             "speaker": "copycat",
             "lines": [
-                "Yay! That's my Clefairy Poké Doll!"
+                "¡Bien! ¡Ese es mi Poke Doll de Clefairy!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "page2",
             "speaker": "copycat",
             "lines": [
-                "See the tear where the right arm is sewn on? That's proof!"
+                "¿Ves el roto donde está cosido el brazo derecho? ¡Esa es la prueba!"
             ],
             "input": {
                 "type": "option",
@@ -56,7 +56,7 @@
             "id": "page3",
             "speaker": "copycat",
             "lines": [
-                "OK. Here's the Magnet Train Pass like I promised!"
+                "Vale. ¡Aquí tienes el Magnet Train Pass como prometí!"
             ],
             "input": {
                 "type": "option",
@@ -78,7 +78,7 @@
             "id": "page4",
             "speaker": "copycat",
             "lines": [
-                "That's the Pass for the Magnet Train."
+                "Ese es el pase para el Magnetotrén."
             ],
             "input": {
                 "type": "option",
@@ -96,7 +96,7 @@
             "id": "page5",
             "speaker": "copycat",
             "lines": [
-                "The rail company man gave me that when they tore down our old house for the Station."
+                "El hombre de la compañía de trenes me lo dio cuando derribaron nuestra vieja casa para la Estación."
             ],
             "input": {
                 "type": "option",

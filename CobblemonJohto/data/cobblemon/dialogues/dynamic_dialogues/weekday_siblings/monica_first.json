@@ -17,7 +17,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Glad to meet you. I'm Monica of Monday."
+                "Encantada de conocerte. Soy Monica, la del lunes."
             ],
             "input": {
                 "type": "option",
@@ -37,7 +37,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "As a token of our friendship, I have a gift for you!"
+                "¡Como muestra de nuestra amistad, tengo un regalo para ti!"
             ],
             "input": {
                 "type": "option",
@@ -55,7 +55,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It's an item that raises the power of Flying-type moves."
+                "Es un objeto que aumenta el poder de los movimientos de tipo Volador."
             ],
             "input": {
                 "type": "option",
@@ -75,7 +75,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "You should equip a bird Pokémon with that item."
+                "Deberías equipar ese objeto a un Pokémon pájaro."
             ],
             "input": {
                 "type": "option",
@@ -93,7 +93,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "My brothers and sisters are all over the place. See if you could find them all!"
+                "Mis hermanos y hermanas están repartidos por todas partes. ¡A ver si puedes encontrarlos a todos!"
             ],
             "input": {
                 "type": "option",

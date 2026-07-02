@@ -17,7 +17,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I love Clefairy, but I could never catch one."
+                "Me encanta Clefairy, pero nunca pude capturar uno."
             ],
             "input": {
                 "type": "option",
@@ -37,7 +37,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "So I'm making due with a Poke Doll that I found."
+                "Así que me conformo con un Poke Doll que encontré."
             ],
             "input": {
                 "type": "option",
@@ -55,7 +55,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Oh, I see now. The girl who lost this Poke Doll is sad..."
+                "Oh, ya veo. La niña que perdió este Poke Doll está triste..."
             ],
             "input": {
                 "type": "option",
@@ -75,7 +75,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "OK. Could you take this Poke Doll back to that poor little girl?"
+                "Vale. ¿Podrías devolverle este Poke Doll a esa pobre niña?"
             ],
             "input": {
                 "type": "option",
@@ -93,7 +93,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "I'll befriend a real Clefairy on my own one day. No worries!"
+                "Algún día me haré amigo de un Clefairy de verdad por mi cuenta. ¡Sin preocupaciones!"
             ],
             "input": {
                 "type": "option",

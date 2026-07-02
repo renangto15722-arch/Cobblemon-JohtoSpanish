@@ -17,7 +17,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Since you found me, you must have met my brothers and sisters."
+                "Ya que me encontraste, debes haber conocido a mis hermanos y hermanas."
             ],
             "input": {
                 "type": "option",
@@ -35,7 +35,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Or did you just get lucky?"
+                "¿O solo tuviste suerte?"
             ],
             "input": {
                 "type": "option",

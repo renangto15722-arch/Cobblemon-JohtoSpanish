@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "player",
             "lines": [
-                "Hi! Do you like Pokémon?"
+                "¡Hola! ¿Te gustan los Pokémon?"
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "player",
             "lines": [
-                "Uh, no, I just asked you. "
+                "Eh, no, yo te pregunté a ti. "
             ],
             "input": {
                 "type": "option",
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "copycat",
             "lines": [
-                "Huh? You're strange!"
+                "¿Eh? ¡Qué raro eres!"
             ],
               "input": {
                 "type": "option",

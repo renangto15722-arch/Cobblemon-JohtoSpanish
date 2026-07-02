@@ -17,7 +17,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm Wesley of Wednesday. Pleased to meet you."
+                "Soy Wesley del miércoles. Encantado de conocerte."
             ],
             "input": {
                 "type": "option",
@@ -37,7 +37,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Please take a souvenir."
+                "Por favor, toma un recuerdo."
             ],
             "input": {
                 "type": "option",
@@ -55,7 +55,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Black Belt beefs up the power of Fighting moves."
+                "El Cinturón Negro aumenta la potencia de los movimientos de tipo Lucha."
             ],
             "input": {
                 "type": "option",
@@ -75,7 +75,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Since you found me, you must have met my brothers and sisters."
+                "Ya que me encontraste, debes haber conocido a mis hermanos y hermanas."
             ],
             "input": {
                 "type": "option",
@@ -93,7 +93,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Or did you just get lucky?"
+                "¿O solo tuviste suerte?"
             ],
             "input": {
                 "type": "option",

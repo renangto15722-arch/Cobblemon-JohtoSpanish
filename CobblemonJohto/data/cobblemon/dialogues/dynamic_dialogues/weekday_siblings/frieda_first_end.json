@@ -17,7 +17,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I love Friday. No doubt about it! Don't you think it's great too?"
+                "Me encanta el viernes. ¡Sin duda! ¿No crees que también es genial?"
             ],
             "input": {
                 "type": "option",

@@ -24,7 +24,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, you! The one who found all of my siblings!"
+                "¡Oye, tú! ¡El que encontró a todos mis hermanos!"
             ],
             "input": {
                 "type": "option",
@@ -44,7 +44,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Yeah, you! We're pretty good friends now, don't you agree?"
+                "¡Sí, tú! Ya somos bastante buenos amigos, ¿no crees?"
             ],
             "input": {
                 "type": "option",
@@ -62,7 +62,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Since we're such good friends, I'll give you this Shock Ribbon!"
+                "¡Como somos tan buenos amigos, te daré este Shock Ribbon!"
             ],
             "input": {
                 "type": "option",
@@ -82,7 +82,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "What Pokémon should I pin it on?"
+                "¿A qué Pokémon se lo pongo?"
             ],
             "input": {
                 "type": "option",
@@ -183,7 +183,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'That Shock Ribbon looks great on your ' + v.slot1.species.name + '!';"
+                    "expression": "'¡Ese Shock Ribbon le queda genial a tu ' + v.slot1.species.name + '!';"
                 }
             ],
             "input": {
@@ -206,7 +206,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'That Shock Ribbon looks great on your ' + v.slot2.species.name + '!';"
+                    "expression": "'¡Ese Shock Ribbon le queda genial a tu ' + v.slot2.species.name + '!';"
                 }
             ],
             "input": {
@@ -229,7 +229,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'That Shock Ribbon looks great on your ' + v.slot3.species.name + '!';"
+                    "expression": "'¡Ese Shock Ribbon le queda genial a tu ' + v.slot3.species.name + '!';"
                 }
             ],
             "input": {
@@ -252,7 +252,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'That Shock Ribbon looks great on your ' + v.slot4.species.name + '!';"
+                    "expression": "'¡Ese Shock Ribbon le queda genial a tu ' + v.slot4.species.name + '!';"
                 }
             ],
             "input": {
@@ -275,7 +275,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'That Shock Ribbon looks great on your ' + v.slot5.species.name + '!';"
+                    "expression": "'¡Ese Shock Ribbon le queda genial a tu ' + v.slot5.species.name + '!';"
                 }
             ],
             "input": {
@@ -298,7 +298,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'That Shock Ribbon looks great on your ' + v.slot6.species.name + '!';"
+                    "expression": "'¡Ese Shock Ribbon le queda genial a tu ' + v.slot6.species.name + '!';"
                 }
             ],
             "input": {

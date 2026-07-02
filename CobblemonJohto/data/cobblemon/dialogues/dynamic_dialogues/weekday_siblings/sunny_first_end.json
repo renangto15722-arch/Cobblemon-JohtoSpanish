@@ -17,7 +17,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "A Pokémon that knows Electric moves should hold that."
+                "Un Pokémon que conozca movimientos Eléctricos debería llevar eso."
             ],
             "input": {
                 "type": "option",
@@ -35,7 +35,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "My sis Monica said it powers up Electric-type moves!"
+                "¡Mi hermana Monica dijo que potencia los movimientos de tipo Eléctrico!"
             ],
             "input": {
                 "type": "option",

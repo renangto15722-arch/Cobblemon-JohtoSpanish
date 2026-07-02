@@ -17,7 +17,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Who are you? I'm Arthur of Thursday."
+                "¿Quién eres? Yo soy Arthur, el del jueves."
             ],
             "input": {
                 "type": "option",
@@ -37,7 +37,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Here. You can have this."
+                "Toma. Puedes quedarte con esto."
             ],
             "input": {
                 "type": "option",
@@ -55,7 +55,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "A Pokémon that uses Rock-type moves should hold on to that. It pumps up Rock-type attacks."
+                "Un Pokémon que usa movimientos de tipo Roca debería llevar eso. Potencia los ataques de tipo Roca."
             ],
             "input": {
                 "type": "option",

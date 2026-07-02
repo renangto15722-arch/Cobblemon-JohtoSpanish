@@ -17,7 +17,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Please allow me to introduce myself. I am Tuscany of Tuesday."
+                "Permíteme presentarme. Soy Tuscany del martes."
             ],
             "input": {
                 "type": "option",
@@ -37,7 +37,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "By way of introduction please accept this gift, a TwistedSpoon."
+                "Como presentación, por favor acepta este regalo, una Cuchara Torcida."
             ],
             "input": {
                 "type": "option",
@@ -55,7 +55,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Wouldn't you agree that it is most adorable? It strengthens Psychic-type moves."
+                "¿No te parece de lo más adorable? Potencia los movimientos de tipo Psíquico."
             ],
             "input": {
                 "type": "option",
@@ -75,7 +75,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "I am certain it will be of use."
+                "Estoy segura de que te será de utilidad."
             ],
             "input": {
                 "type": "option",
@@ -93,7 +93,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Have you met Monica, my older sister?"
+                "¿Has conocido a Monica, mi hermana mayor?"
             ],
             "input": {
                 "type": "option",
@@ -111,7 +111,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Or my younger brother, Wesley? I am the second of seven children."
+                "¿O a mi hermano menor, Wesley? Soy la segunda de siete hermanos."
             ],
             "input": {
                 "type": "option",

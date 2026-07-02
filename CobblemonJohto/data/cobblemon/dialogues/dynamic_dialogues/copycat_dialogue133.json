@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "player",
             "lines": [
-                "Hi! I heard you lost your cherished Poké Doll."
+                "¡Hola! Oí que perdiste tu querido Poke Doll."
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "player",
             "lines": [
-                "If I find it, you'll give me a rail Pass?"
+                "¿Si lo encuentro, me darás un pase de tren?"
             ],
             "input": {
                 "type": "option",
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "player",
             "lines": [
-                "I'll go find it for you. You think you lost it when you went to Vermilion City?"
+                "Iré a buscarlo por ti. ¿Crees que lo perdiste cuando fuiste a Ciudad Carmín?"
             ],
             "input": {
                 "type": "option",
@@ -76,7 +76,7 @@
             "id": "page4",
             "speaker": "copycat",
             "lines": [
-                "Pardon? I shouldn't decide what you should do?"
+                "¿Perdón? ¿No debería decidir lo que tienes que hacer?"
             ],
             "input": {
                 "type": "option",
@@ -94,7 +94,7 @@
             "id": "page5",
             "speaker": "copycat",
             "lines": [
-                "But I'm really worried... What if someone finds it?"
+                "Pero estoy muy preocupada... ¿Y si alguien lo encuentra?"
             ],
             "input": {
                 "type": "option",

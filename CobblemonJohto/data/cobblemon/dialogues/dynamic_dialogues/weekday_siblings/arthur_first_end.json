@@ -17,7 +17,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "A Pokémon that uses Rock-type moves should hold on to that. It pumps up Rock-type attacks."
+                "Un Pokémon que usa movimientos de tipo Roca debería llevar eso. Potencia los ataques de tipo Roca."
             ],
             "input": {
                 "type": "option",

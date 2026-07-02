@@ -17,7 +17,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Have you met Monica, my older sister?"
+                "¿Has conocido a Monica, mi hermana mayor?"
             ],
             "input": {
                 "type": "option",
@@ -35,7 +35,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Or my younger brother, Wesley? I am the second of seven children."
+                "¿O a mi hermano menor, Wesley? Soy la segunda de siete hermanos."
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "copycat",
             "lines": [
-                "You show it at the ticket gate to get on the Magnet Train. "
+                "Lo muestras en el control de billetes para subir al Magnetotrén. "
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "copycat",
             "lines": [
-                "The rail-company man gave me that when they tore down our old house for the station."
+                "El hombre de la compañía de trenes me lo dio cuando derribaron nuestra vieja casa para la estación."
             ],
               "input": {
                 "type": "option",

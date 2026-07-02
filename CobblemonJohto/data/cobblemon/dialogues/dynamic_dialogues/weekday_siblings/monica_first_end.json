@@ -17,7 +17,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You should equip a bird Pokémon with that item."
+                "Deberías equipar ese objeto a un Pokémon pájaro."
             ],
             "input": {
                 "type": "option",
@@ -35,7 +35,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "My brothers and sisters are all over the place. See if you could find them all!"
+                "Mis hermanos y hermanas están repartidos por todas partes. ¡A ver si puedes encontrarlos a todos!"
             ],
             "input": {
                 "type": "option",

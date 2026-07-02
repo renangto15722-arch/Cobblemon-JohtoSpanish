@@ -16,7 +16,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You can only get one ribbon per week..."
+                "Solo puedes conseguir una cinta por semana..."
             ],
             "input": {
                 "type": "option",
@@ -36,7 +36,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If you want another ribbon, come find me again next week!"
+                "¡Si quieres otra cinta, ven a buscarme de nuevo la próxima semana!"
             ],
             "input": {
                 "type": "option",
