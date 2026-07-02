@@ -3,7 +3,7 @@
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
     "q.run_command('execute as ' + q.player.username + ' run tag @s add Dialogue66');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $1,200 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $1,200 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 1200');"
         ],
   "speakers": {
@@ -21,7 +21,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["OK, OK. I'll tell you where he is."],
+      "lines": ["Vale, vale. Te diré dónde está."],
             "input": {
                 "type": "option",
                 "vertical": false,
@@ -37,7 +37,7 @@
         {
           "id": "page2",
           "speaker": "npc",
-          "lines": ["We stashed the Director in the underground warehouse. It's at the far end of the Goldenrod Tunnel. "],
+          "lines": ["Escondimos al Director en el almacén subterráneo. Está al fondo del Túnel de Ciudad Trigal. "],
                 "input": {
                     "type": "option",
                     "vertical": false,
@@ -53,7 +53,7 @@
         {
           "id": "page3",
           "speaker": "npc",
-          "lines": ["Hahaha... I doubt a child like you'll get that far."],
+          "lines": ["Jajaja... Dudo que un niño como tú llegue tan lejos."],
                 "input": {
                     "type": "option",
                     "vertical": false,
@@ -62,7 +62,7 @@
                             "text": "Close",
                             "value": "close",
                             "action": [              
-                                "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You received a key to the Underground!\",\"italic\":true,\"color\":\"gray\"}');",
+                                "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Recibiste una llave del Subterráneo!\",\"italic\":true,\"color\":\"gray\"}');",
                                 "q.dialogue.close();"]
                         }
                     ]

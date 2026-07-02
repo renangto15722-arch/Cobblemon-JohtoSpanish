@@ -3,7 +3,7 @@
         "c.npc.set_chatting();",
         "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
         "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $3,040 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $3,040 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 3040');"
     ],
     "speakers": {
@@ -31,7 +31,7 @@
             "id": "greeting",
             "speaker": "archer",
             "lines": [
-                "How could this be...? Our dreams have come to naught."
+                "¿Cómo puede ser esto...? Nuestros sueños se han desvanecido."
             ],
             "input": {
                 "type": "option",
@@ -49,7 +49,7 @@
             "id": "page2",
             "speaker": "archer",
             "lines": [
-                "I was not up to the task after all."
+                "Después de todo, no estuve a la altura."
             ],
             "input": {
                 "type": "option",
@@ -67,7 +67,7 @@
             "id": "page3",
             "speaker": "archer",
             "lines": [
-                "Like Giovanni has done before me, I will disband Team Rocket here today."
+                "Como hizo Giovanni antes que yo, hoy disolveré aquí al Team Rocket."
             ],
             "input": {
                 "type": "option",
@@ -85,7 +85,7 @@
             "id": "page4",
             "speaker": "archer",
             "lines": [
-                "Farewell..."
+                "Adiós..."
             ],
             "input": {
                 "type": "option",
@@ -130,7 +130,7 @@
             "id": "page6",
             "speaker": "director",
             "lines": [
-                "Your courageous actions have saved Pokémon nationwide."
+                "Tus valientes acciones han salvado a los Pokémon de todo el país."
             ],
             "input": {
                 "type": "option",
@@ -148,7 +148,7 @@
             "id": "page7",
             "speaker": "director",
             "lines": [
-                "I know it's not much, but please take one of these."
+                "Sé que no es mucho, pero por favor toma uno de estos."
             ],
             "input": {
                 "type": "option",
@@ -181,7 +181,7 @@
             "id": "pickrainbow1",
             "speaker": "director",
             "lines": [
-                "There used to be a tower right here."
+                "Antes había una torre justo aquí."
             ],
             "input": {
                 "type": "option",
@@ -199,7 +199,7 @@
             "id": "pickrainbow2",
             "speaker": "director",
             "lines": [
-                "When the tower was replaced with the Radio Tower, that Rainbow Wing was found at the top of the tower."
+                "Cuando la torre fue reemplazada por la Torre Radio, esa Rainbow Wing fue encontrada en lo alto de la torre."
             ],
             "input": {
                 "type": "option",
@@ -217,7 +217,7 @@
             "id": "pickrainbow3",
             "speaker": "director",
             "lines": [
-                "I heard from a friend from Cianwood City that you can climb the Bell Tower in  Ecruteak City when you have a Rainbow Wing."
+                "Un amigo de Ciudad Orquídea me dijo que puedes subir a la Torre Campana en Ciudad Iris cuando tienes una Rainbow Wing."
             ],
             "input": {
                 "type": "option",
@@ -236,7 +236,7 @@
             "id": "picksilver1",
             "speaker": "director",
             "lines": [
-                "There used to be a tower right here."
+                "Antes había una torre justo aquí."
             ],
             "input": {
                 "type": "option",
@@ -254,7 +254,7 @@
             "id": "picksilver2",
             "speaker": "director",
             "lines": [
-                "When the tower was replaced with the Radio Tower, that Silver Wing was found at the top of the tower."
+                "Cuando la torre fue reemplazada por la Torre Radio, esa Silver Wing fue encontrada en lo alto de la torre."
             ],
             "input": {
                 "type": "option",
@@ -272,7 +272,7 @@
             "id": "picksilver3",
             "speaker": "director",
             "lines": [
-                "I heard from a friend from Cianwood City that you can go down the cave at Whirl Islands when you have a Silver Wing."
+                "Un amigo de Ciudad Orquídea me dijo que puedes bajar a la cueva de las Islas Remolino cuando tienes una Silver Wing."
             ],
             "input": {
                 "type": "option",
@@ -291,7 +291,7 @@
             "id": "ending",
             "speaker": "director",
             "lines": [
-                "I have to get back to my office. See you!"
+                "Tengo que volver a mi oficina. ¡Hasta pronto!"
             ],
             "input": {
                 "type": "option",

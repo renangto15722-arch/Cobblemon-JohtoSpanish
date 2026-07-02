@@ -3,7 +3,7 @@
     "q.run_command('execute as ' + q.player.username + ' run tag @s add RocketPW1');",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $720 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $720 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 720');"
         ],
   "speakers": {
@@ -21,7 +21,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["The password to the boss's room is SLOWPOKETAIL."],
+      "lines": ["La contraseña de la sala del jefe es SLOWPOKETAIL."],
             "input": {
                 "type": "option",
                 "vertical": false,
@@ -37,7 +37,7 @@
         {
           "id": "page2",
           "speaker": "npc",
-          "lines": ["But it's useless unless you have two passwords."],
+          "lines": ["Pero es inútil a menos que tengas las dos contraseñas."],
             "input": {
                 "type": "option",
                 "vertical": false,

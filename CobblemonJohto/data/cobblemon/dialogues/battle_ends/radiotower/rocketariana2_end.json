@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $2,560 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $2,560 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 2560');"
         ],
   "speakers": {
@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["What a waste... not to use your strength to do bad things! Feh... "],
+      "lines": ["¡Qué desperdicio... no usar tu fuerza para hacer cosas malas! Bah... "],
             "input": {
                 "type": "option",
                 "vertical": false,
@@ -36,7 +36,7 @@
         {
           "id": "page2",
           "speaker": "npc",
-          "lines": ["People like you will never in a million years understand our brilliance!"],
+          "lines": ["¡La gente como tú jamás en un millón de años entenderá nuestra genialidad!"],
                 "input": {
                     "type": "option",
                     "vertical": false,
@@ -52,7 +52,7 @@
         {
           "id": "page3",
           "speaker": "npc",
-          "lines": ["It's too bad... I've really come to respect your strength."],
+          "lines": ["Es una lástima... realmente he llegado a respetar tu fuerza."],
                 "input": {
                     "type": "option",
                     "vertical": false,

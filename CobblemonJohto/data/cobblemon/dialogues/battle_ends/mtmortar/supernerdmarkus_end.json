@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $912 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $912 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 912');"
         ],
   "speakers": {
@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["I came to explore Mt. Mortar, but I got separated from my partner..."],
+      "lines": ["Vine a explorar el Monte Mortero, pero me separé de mi compañero..."],
             "input": {
                 "type": "option",
                 "vertical": false,
@@ -36,7 +36,7 @@
         {
           "id": "page2",
           "speaker": "npc",
-          "lines": ["Did you run into a Trainer who uses a Seadra? That Seadra is really good at using Waterfall."],
+          "lines": ["¿Te encontraste con un Entrenador que usa un Seadra? Ese Seadra es muy bueno usando Waterfall."],
                 "input": {
                     "type": "option",
                     "vertical": false,

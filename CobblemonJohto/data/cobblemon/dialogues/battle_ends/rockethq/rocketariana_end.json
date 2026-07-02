@@ -4,7 +4,7 @@
         "q.run_command('execute as ' + q.player.username + ' run tag @s add Dialogue62');",
         "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
         "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $1,800 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $1,800 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 1800');"
     ],
     "speakers": {
@@ -32,7 +32,7 @@
             "id": "greeting",
             "speaker": "ariana",
             "lines": [
-                "Tch, you really are strong."
+                "Tsk, de verdad eres fuerte."
             ],
             "input": {
                 "type": "option",
@@ -50,7 +50,7 @@
             "id": "page2",
             "speaker": "ariana",
             "lines": [
-                "It's too bad. If you were to join Team Rocket, you could become an Executive."
+                "Es una lástima. Si te unieras al Team Rocket, podrías llegar a ser un Ejecutivo."
             ],
             "input": {
                 "type": "option",
@@ -68,7 +68,7 @@
             "id": "page3",
             "speaker": "ariana",
             "lines": [
-                "But that's fine. The broadcast experiment was a total success."
+                "Pero está bien. El experimento de transmisión fue un éxito total."
             ],
             "input": {
                 "type": "option",
@@ -86,7 +86,7 @@
             "id": "page4",
             "speaker": "ariana",
             "lines": [
-                "It doesn't matter what happens to this hideout now. We have much bigger plans."
+                "Ya no importa qué le pase a este escondite. Tenemos planes mucho más grandes."
             ],
             "input": {
                 "type": "option",
@@ -104,7 +104,7 @@
             "id": "page5",
             "speaker": "ariana",
             "lines": [
-                "You'll come to appreciate Team Rocket's true power soon enough."
+                "Muy pronto apreciarás el verdadero poder del Team Rocket."
             ],
             "input": {
                 "type": "option",
@@ -122,7 +122,7 @@
             "id": "page6",
             "speaker": "ariana",
             "lines": [
-                "Enjoy yourself while you can... Hee hee hee..."
+                "Diviértete mientras puedas... Ji ji ji..."
             ],
             "input": {
                 "type": "option",
@@ -146,7 +146,7 @@
             "id": "page7",
             "speaker": "lance",
             "lines": [
-                "That did it. We defeated all the rockets here."
+                "Eso fue todo. Derrotamos a todos los rockets de aquí."
             ],
             "input": {
                 "type": "option",
@@ -164,7 +164,7 @@
             "id": "page8",
             "speaker": "lance",
             "lines": [
-                "But I'm concerned about the young guy I battled in the process..."
+                "Pero me preocupa el joven con el que luché en el proceso..."
             ],
             "input": {
                 "type": "option",
@@ -182,7 +182,7 @@
             "id": "page9",
             "speaker": "lance",
             "lines": [
-                "Sorry. I saw how well you were doing, so I just hung back."
+                "Perdona. Vi lo bien que lo estabas haciendo, así que me mantuve al margen."
             ],
             "input": {
                 "type": "option",
@@ -200,7 +200,7 @@
             "id": "page10",
             "speaker": "lance",
             "lines": [
-                "Now all there is left to do is to turn off that odd radio signal."
+                "Ahora lo único que queda por hacer es apagar esa extraña señal de radio."
             ],
             "input": {
                 "type": "option",
