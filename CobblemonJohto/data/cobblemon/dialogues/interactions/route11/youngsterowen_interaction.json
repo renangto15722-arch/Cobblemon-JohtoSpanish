@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There's no cheating with Pokémon. Let's keep it fair and square!"
+                "¡No se hace trampa con los Pokémon. Juguemos limpio!"
             ],
             "input": {
                 "type": "option",

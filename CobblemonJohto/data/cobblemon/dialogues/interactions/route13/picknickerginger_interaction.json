@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Why is it I always get the urge to whistle when walking through nature?"
+                "¿Por qué siempre me dan ganas de silbar cuando camino por la naturaleza?"
             ],
             "input": {
                 "type": "option",

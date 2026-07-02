@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I can see it... Everything there is to see about you..."
+                "Puedo verlo... Todo lo que hay que ver sobre ti..."
             ],
             "input": {
                 "type": "option",

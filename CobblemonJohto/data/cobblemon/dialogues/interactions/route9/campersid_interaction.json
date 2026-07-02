@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, you! Don't litter!"
+                "¡Oye, tú! ¡No tires basura!"
             ],
             "input": {
                 "type": "option",

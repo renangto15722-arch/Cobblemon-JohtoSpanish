@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "If you walk in tall grass wearing shorts, do you get nicks and cuts?"
+                "Si caminas por la hierba alta con pantalones cortos, ¿te haces rasguños y cortes?"
             ],
             "input": {
                 "type": "option",

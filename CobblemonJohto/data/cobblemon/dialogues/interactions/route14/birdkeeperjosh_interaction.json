@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My dream is to fly with my beloved bird Pokémon."
+                "Mi sueño es volar con mis queridos Pokémon pájaro."
             ],
             "input": {
                 "type": "option",

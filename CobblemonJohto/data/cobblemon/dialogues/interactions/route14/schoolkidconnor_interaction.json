@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I can't wait to go home and drop off my Bag!"
+                "¡No veo la hora de llegar a casa y dejar mi mochila!"
             ],
             "input": {
                 "type": "option",

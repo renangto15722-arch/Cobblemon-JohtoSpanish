@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Are you going to beat us?"
+                "¿Vas a vencernos?"
             ],
             "input": {
                 "type": "option",

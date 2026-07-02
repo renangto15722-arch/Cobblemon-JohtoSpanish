@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This was once a ninja hideout. There are traps to confound intruders like you."
+                "Esto fue una vez un escondite ninja. Hay trampas para confundir a intrusos como tú."
             ],
             "input": {
                 "type": "option",

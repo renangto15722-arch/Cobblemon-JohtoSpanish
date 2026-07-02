@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I should go to Rock Tunnel to get myself an Onix."
+                "Debería ir al Túnel Roca para conseguirme un Onix."
             ],
             "input": {
                 "type": "option",

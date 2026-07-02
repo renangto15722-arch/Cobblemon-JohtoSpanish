@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Bow down before my regal Pokémon!"
+                "¡Inclínate ante mis majestuosos Pokémon!"
             ],
             "input": {
                 "type": "option",

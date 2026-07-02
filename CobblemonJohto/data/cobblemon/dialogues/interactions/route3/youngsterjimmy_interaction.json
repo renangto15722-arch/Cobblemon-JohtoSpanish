@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I can run like the wind!"
+                "¡Puedo correr como el viento!"
             ],
             "input": {
                 "type": "option",

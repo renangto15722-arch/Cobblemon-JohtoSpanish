@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'll give you a little hint. Don't you think my girlfriend's much stronger than I am?"
+                "Te daré una pequeña pista. ¿No crees que mi novia es mucho más fuerte que yo?"
             ],
             "input": {
                 "type": "option",

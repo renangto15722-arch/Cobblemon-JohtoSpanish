@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hyuck-hyuck-hyuck! You're challenging me to a battle?"
+                "¡Juac-juac-juac! ¿Me estás retando a un combate?"
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Hah! You're nuts, but you have guts! I like that! If you can beat me, I'll tell you a password to the boss's room!"
+                "¡Ja! ¡Estás loco, pero tienes agallas! ¡Eso me gusta! ¡Si puedes vencerme, te diré una contraseña para la sala del jefe!"
             ],
             "input": {
                 "type": "option",

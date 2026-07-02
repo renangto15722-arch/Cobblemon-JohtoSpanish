@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Wait a moment! Come fight us!"
+                "¡Espera un momento! ¡Ven a luchar contra nosotros!"
             ],
             "input": {
                 "type": "option",

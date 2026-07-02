@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I used to work for Silph, but now I run research for Team Rocket. A meddlesome child like you needs to be punished."
+                "Antes trabajaba para Silph S.A., pero ahora dirijo la investigación del Team Rocket. Un niño entrometido como tú merece un castigo."
             ],
             "input": {
                 "type": "option",

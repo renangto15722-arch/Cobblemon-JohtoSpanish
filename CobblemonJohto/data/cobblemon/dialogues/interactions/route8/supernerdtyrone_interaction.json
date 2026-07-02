@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hmm... You've got many Gym Badges."
+                "Mmm... Tienes muchas Medallas de Gimnasio."
             ],
             "input": {
                 "type": "option",

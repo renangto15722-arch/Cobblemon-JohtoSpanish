@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "What's most important in our everyday lives?"
+                "¿Qué es lo más importante en nuestra vida diaria?"
             ],
             "input": {
                 "type": "option",

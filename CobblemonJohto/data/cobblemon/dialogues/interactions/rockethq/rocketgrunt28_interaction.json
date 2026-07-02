@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The door won't open? Well, duh. It has to have a password that only Team Rocket knows."
+                "¿La puerta no se abre? Obvio. Tiene que tener una contraseña que solo el Team Rocket conoce."
             ],
             "input": {
                 "type": "option",

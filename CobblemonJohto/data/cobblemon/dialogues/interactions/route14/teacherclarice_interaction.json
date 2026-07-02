@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "All right, let's get this Pokémon battle started!"
+                "¡Muy bien, comencemos este combate Pokémon!"
             ],
             "input": {
                 "type": "option",

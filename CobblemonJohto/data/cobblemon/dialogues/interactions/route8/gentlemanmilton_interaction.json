@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I am but a Gentleman stopped on the road. Would you care to join me in a quick contest?"
+                "No soy más que un caballero detenido en el camino. ¿Te gustaría acompañarme en un breve combate?"
             ],
             "input": {
                 "type": "option",

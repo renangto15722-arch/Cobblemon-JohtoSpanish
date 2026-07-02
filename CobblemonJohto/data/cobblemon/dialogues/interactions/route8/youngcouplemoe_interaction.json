@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Do I look weak? Don't make me laugh! When I'm with Lulu, I've got a hundred times more courage!"
+                "¿Parezco débil? ¡No me hagas reír! Cuando estoy con Lulu, ¡tengo cien veces más valor!"
             ],
             "input": {
                 "type": "option",

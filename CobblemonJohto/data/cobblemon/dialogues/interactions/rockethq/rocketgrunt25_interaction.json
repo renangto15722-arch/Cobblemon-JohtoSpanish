@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey! Intruder alert!"
+                "¡Eh! ¡Alerta de intruso!"
             ],
             "input": {
                 "type": "option",

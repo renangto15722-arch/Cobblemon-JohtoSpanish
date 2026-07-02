@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You really love Pokémon, don't you? I love Pokémon, too!"
+                "Te encantan los Pokémon, ¿verdad? ¡A mí también me encantan los Pokémon!"
             ],
             "input": {
                 "type": "option",

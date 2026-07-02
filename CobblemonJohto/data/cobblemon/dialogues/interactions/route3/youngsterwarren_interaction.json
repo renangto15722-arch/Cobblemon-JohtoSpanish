@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hmmm... I don't know what to do..."
+                "Mmmm... No sé qué hacer..."
             ],
             "input": {
                 "type": "option",

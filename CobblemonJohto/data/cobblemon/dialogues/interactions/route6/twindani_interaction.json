@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We'll knock you flat!"
+                "¡Te dejaremos por los suelos!"
             ],
             "input": {
                 "type": "option",

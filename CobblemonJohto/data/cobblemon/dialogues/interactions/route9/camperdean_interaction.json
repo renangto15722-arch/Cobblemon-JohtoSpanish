@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I came to explore Rock Tunnel."
+                "Vine a explorar el Túnel Roca."
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "How does the Magnet Train work?"
+                "¿Cómo funciona el Magnetotrén?"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Youngster? Goodness, how rude! Call me Shorts Boy!"
+                "¿Chico? ¡Por favor, qué grosero! ¡Llámame el Chico de los Shorts!"
             ],
             "input": {
                 "type": "option",

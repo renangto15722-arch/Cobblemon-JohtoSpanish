@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'll tell you a secret. But first, we battle!"
+                "Te contaré un secreto. Pero primero, ¡luchamos!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "All right! I'll be able to show off for Tara!"
+                "¡Muy bien! ¡Podré lucirme delante de Tara!"
             ],
             "input": {
                 "type": "option",

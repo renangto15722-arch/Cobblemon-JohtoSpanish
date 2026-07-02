@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Peace! ... ...Huh? When you meet the unknown on a mountain road, all you want is peace, right?"
+                "¡Paz! ... ...¿Eh? Cuando te encuentras con lo desconocido en un camino de montaña, todo lo que quieres es paz, ¿verdad?"
             ],
             "input": {
                 "type": "option",

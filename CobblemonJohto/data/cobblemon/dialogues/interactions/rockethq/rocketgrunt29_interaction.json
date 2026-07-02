@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh, a kid? I don't really like this, but eliminate you I must."
+                "Oh, ¿un niño? No es que me guste esto, pero debo eliminarte."
             ],
             "input": {
                 "type": "option",

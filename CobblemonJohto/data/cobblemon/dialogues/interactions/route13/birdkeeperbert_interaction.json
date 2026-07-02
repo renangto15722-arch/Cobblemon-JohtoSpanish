@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Check out my Pokémon. Just look at their coloring and plumage."
+                "Mira mis Pokémon. Solo fíjate en su colorido y su plumaje."
             ],
             "input": {
                 "type": "option",

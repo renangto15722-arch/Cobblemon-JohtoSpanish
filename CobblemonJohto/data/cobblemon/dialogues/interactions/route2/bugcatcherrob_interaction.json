@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My bug Pokémon are tough. Prepare to lose!"
+                "Mis Pokémon de tipo bicho son duros. ¡Prepárate para perder!"
             ],
             "input": {
                 "type": "option",

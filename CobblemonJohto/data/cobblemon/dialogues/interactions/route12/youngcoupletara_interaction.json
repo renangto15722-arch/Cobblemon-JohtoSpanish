@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I love to look at my boyfriend's face in profile while he's battling!"
+                "¡Me encanta ver el perfil de la cara de mi novio mientras combate!"
             ],
             "input": {
                 "type": "option",

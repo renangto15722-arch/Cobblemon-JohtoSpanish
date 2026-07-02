@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Agility is the key attribute of bird Pokémon."
+                "La agilidad es el atributo clave de los Pokémon pájaro."
             ],
             "input": {
                 "type": "option",

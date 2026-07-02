@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "If Trainers meet, the first thing to do is battle."
+                "Si dos Entrenadores se encuentran, lo primero que hay que hacer es combatir."
             ],
             "input": {
                 "type": "option",

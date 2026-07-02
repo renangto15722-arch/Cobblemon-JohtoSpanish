@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I have a feeling that I can win. Let's see if I'm right!"
+                "Tengo el presentimiento de que puedo ganar. ¡Veamos si tengo razón!"
             ],
             "input": {
                 "type": "option",

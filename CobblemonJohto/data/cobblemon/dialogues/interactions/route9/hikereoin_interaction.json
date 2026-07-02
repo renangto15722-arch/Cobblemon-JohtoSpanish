@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Mt. Silver is in Johto, right? It must be a silver mountain!"
+                "El Monte Plateado está en Johto, ¿verdad? ¡Debe de ser una montaña plateada!"
             ],
             "input": {
                 "type": "option",

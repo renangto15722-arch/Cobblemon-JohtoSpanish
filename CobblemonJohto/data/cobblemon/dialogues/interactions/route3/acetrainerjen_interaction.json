@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Huh? You'd like to go up against us? Great!"
+                "¿Eh? ¿Te gustaría enfrentarte a nosotros? ¡Genial!"
             ],
             "input": {
                 "type": "option",

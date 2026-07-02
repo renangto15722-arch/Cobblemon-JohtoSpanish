@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My weight puts me in the featherweight class! ...Huh? What do you mean that doesn't sound very strong?"
+                "¡Mi peso me coloca en la categoría peso pluma! ...¿Eh? ¿Cómo que eso no suena muy fuerte?"
             ],
             "input": {
                 "type": "option",

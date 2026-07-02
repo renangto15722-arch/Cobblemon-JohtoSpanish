@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I can fit in a quick battle while I'm in the midst of preparing a meal!"
+                "¡Puedo meter un combate rápido mientras estoy en plena preparación de una comida!"
             ],
             "input": {
                 "type": "option",

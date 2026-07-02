@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pokémon battles lure people in!"
+                "¡Los combates Pokémon atraen a la gente!"
             ],
             "input": {
                 "type": "option",

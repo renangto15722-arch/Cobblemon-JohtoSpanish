@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "People shouldn't leave any litter behind."
+                "La gente no debería dejar basura por ahí."
             ],
             "input": {
                 "type": "option",

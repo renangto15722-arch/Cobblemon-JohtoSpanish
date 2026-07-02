@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My Bag is digging into my shoulders! When that happens, I like to take a break and have a battle!"
+                "¡Mi mochila se me está clavando en los hombros! Cuando eso pasa, me gusta tomar un descanso y tener una batalla!"
             ],
             "input": {
                 "type": "option",

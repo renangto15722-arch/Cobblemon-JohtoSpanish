@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pokémon are tools. What use is treating them well?"
+                "Los Pokémon son herramientas. ¿De qué sirve tratarlos bien?"
             ],
             "input": {
                 "type": "option",

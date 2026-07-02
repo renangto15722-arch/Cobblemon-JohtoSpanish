@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Huh? The wind has changed direction!"
+                "¿Eh? ¡El viento ha cambiado de dirección!"
             ],
             "input": {
                 "type": "option",

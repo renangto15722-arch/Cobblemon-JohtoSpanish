@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You! I've been waiting for someone like you!"
+                "¡Tú! ¡He estado esperando a alguien como tú!"
             ],
             "input": {
                 "type": "option",

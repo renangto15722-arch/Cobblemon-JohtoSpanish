@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We're the Kanto Pokémon Federation! Rock on!"
+                "¡Somos la Kanto Pokémon Federation! ¡A darlo todo!"
             ],
             "input": {
                 "type": "option",

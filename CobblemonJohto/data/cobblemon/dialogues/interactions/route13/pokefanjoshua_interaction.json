@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ha ha ha ha! Would you like to fight my pack of Pikachu?"
+                "¡Ja ja ja ja! ¿Te gustaría enfrentarte a mi manada de Pikachu?"
             ],
             "input": {
                 "type": "option",

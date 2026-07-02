@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Do you have after-school study sessions?"
+                "¿Tienes sesiones de estudio después de clase?"
             ],
             "input": {
                 "type": "option",

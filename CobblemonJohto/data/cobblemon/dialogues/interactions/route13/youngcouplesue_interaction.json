@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Women who don't take love seriously and who are reckless might get hurt."
+                "Las mujeres que no se toman el amor en serio y que son imprudentes podrían salir lastimadas."
             ],
             "input": {
                 "type": "option",

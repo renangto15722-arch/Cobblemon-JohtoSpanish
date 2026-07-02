@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Really, you want to battle us? You've got a lot of courage for someone so young."
+                "¿De verdad quieres luchar contra nosotros? Tienes mucho valor para ser tan joven."
             ],
             "input": {
                 "type": "option",

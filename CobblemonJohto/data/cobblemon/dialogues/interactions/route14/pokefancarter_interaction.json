@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Let me tell you, I had a hard time catching my prized Pokémon."
+                "Déjame decirte, me costó mucho atrapar a mi preciado Pokémon."
             ],
             "input": {
                 "type": "option",

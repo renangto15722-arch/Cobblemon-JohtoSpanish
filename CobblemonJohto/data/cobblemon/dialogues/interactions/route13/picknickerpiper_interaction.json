@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, hey, how about we bring out your Pokémon and mine for a battle?"
+                "¡Oye, oye! ¿Qué tal si sacamos tus Pokémon y los míos para un combate?"
             ],
             "input": {
                 "type": "option",

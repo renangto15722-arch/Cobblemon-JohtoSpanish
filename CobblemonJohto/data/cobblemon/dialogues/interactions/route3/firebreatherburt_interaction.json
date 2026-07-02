@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Step right up and take a look!"
+                "¡Acércate y echa un vistazo!"
             ],
             "input": {
                 "type": "option",

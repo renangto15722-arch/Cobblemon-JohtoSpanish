@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I feel so content, fishing while listening to some tunes on my radio."
+                "Me siento tan a gusto, pescando mientras escucho algo de música en mi radio."
             ],
             "input": {
                 "type": "option",

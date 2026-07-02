@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Have you ever been to a picnic? They're so much fun!"
+                "¿Has ido alguna vez de picnic? ¡Son muy divertidos!"
             ],
             "input": {
                 "type": "option",

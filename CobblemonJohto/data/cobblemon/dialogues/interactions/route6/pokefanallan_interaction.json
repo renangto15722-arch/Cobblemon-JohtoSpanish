@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My Teddiursa is the cutest in the world!"
+                "¡Mi Teddiursa es el más adorable del mundo!"
             ],
             "input": {
                 "type": "option",

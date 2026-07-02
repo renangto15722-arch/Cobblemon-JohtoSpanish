@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It's good to put what you learn to use immediately!"
+                "¡Es bueno poner en práctica de inmediato lo que aprendes!"
             ],
             "input": {
                 "type": "option",

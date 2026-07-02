@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ah! The weather's as fine as ever."
+                "¡Ah! El clima está tan bueno como siempre."
             ],
             "input": {
                 "type": "option",

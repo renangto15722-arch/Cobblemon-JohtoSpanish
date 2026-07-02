@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Right after learning it in class, I head outside to practice!"
+                "¡Justo después de aprenderlo en clase, salgo a practicar!"
             ],
             "input": {
                 "type": "option",

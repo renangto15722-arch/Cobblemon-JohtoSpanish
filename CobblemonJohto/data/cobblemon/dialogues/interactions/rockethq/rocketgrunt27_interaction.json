@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You rotten little pest!"
+                "¡Maldita pequeña plaga!"
             ],
             "input": {
                 "type": "option",

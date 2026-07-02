@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I don't care that Pokémon are hurt by our experiment."
+                "No me importa que los Pokémon resulten heridos por nuestro experimento."
             ],
             "input": {
                 "type": "option",

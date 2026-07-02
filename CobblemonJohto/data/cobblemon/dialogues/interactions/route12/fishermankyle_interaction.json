@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Do you remember?"
+                "¿Te acuerdas?"
             ],
             "input": {
                 "type": "option",

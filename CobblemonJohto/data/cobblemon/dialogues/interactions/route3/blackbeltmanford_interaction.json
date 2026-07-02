@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "How about you just slow down and give me the chance to defeat you!"
+                "¡Qué tal si bajas el ritmo y me das la oportunidad de derrotarte!"
             ],
             "input": {
                 "type": "option",

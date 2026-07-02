@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Do I know the password? Maybe. But no weakling's going to get it!"
+                "¿Que si sé la contraseña? Quizás. ¡Pero ningún debilucho la va a conseguir!"
             ],
             "input": {
                 "type": "option",

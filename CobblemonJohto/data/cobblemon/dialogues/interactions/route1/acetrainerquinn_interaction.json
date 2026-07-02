@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You there! Want to battle?"
+                "¡Tú! ¿Quieres combatir?"
             ],
             "input": {
                 "type": "option",

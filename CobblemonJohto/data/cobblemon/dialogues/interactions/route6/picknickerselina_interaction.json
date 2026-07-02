@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm headed out on a picnic. Do you know why?"
+                "Voy a salir de picnic. ¿Sabes por qué?"
             ],
             "input": {
                 "type": "option",

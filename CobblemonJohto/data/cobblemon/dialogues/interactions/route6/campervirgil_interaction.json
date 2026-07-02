@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Walking along with luggage and your companion Pokémon gives a great feeling of outdoor life!"
+                "¡Caminar con tu equipaje y tus Pokémon como compañeros da una gran sensación de vida al aire libre!"
             ],
             "input": {
                 "type": "option",

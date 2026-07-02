@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It's my turn! There's no escape!"
+                "¡Es mi turno! ¡No hay escapatoria!"
             ],
             "input": {
                 "type": "option",

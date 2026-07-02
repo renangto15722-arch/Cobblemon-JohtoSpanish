@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Collect water! Don't let the fire go out! Look out for wild Pokémon! Let's go, Campfire!"
+                "¡Recoge agua! ¡No dejes que el fuego se apague! ¡Cuidado con los Pokémon salvajes! ¡Vamos, fogata!"
             ],
             "input": {
                 "type": "option",

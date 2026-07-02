@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Sometimes I go back to the places I met my Pokémon. They bring back good memories."
+                "A veces vuelvo a los lugares donde conocí a mis Pokémon. Me traen buenos recuerdos."
             ],
             "input": {
                 "type": "option",

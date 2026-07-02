@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Moe and I make a great pair! You should prepare yourself!"
+                "¡Moe y yo hacemos una gran pareja! ¡Más te vale prepararte!"
             ],
             "input": {
                 "type": "option",

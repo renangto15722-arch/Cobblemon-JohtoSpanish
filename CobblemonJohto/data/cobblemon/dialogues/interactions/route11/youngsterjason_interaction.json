@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It itches and tickles a bit when I wear shorts in the grass."
+                "Pica y hace un poco de cosquillas cuando llevo pantalones cortos entre la hierba."
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We're the Kanto Pokémon Federation Trainer group. We'll drive you under our wheels!"
+                "Somos el grupo de entrenadores de la Kanto Pokémon Federation. ¡Te aplastaremos bajo nuestras ruedas!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Why do girls dislike bug Pokémon so much?"
+                "¿Por qué las chicas odian tanto a los Pokémon de tipo bicho?"
             ],
             "input": {
                 "type": "option",

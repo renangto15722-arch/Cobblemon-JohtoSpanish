@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The cops shut down our Underground Path! That really annoys me!"
+                "¡Los policías cerraron nuestro Underground Path! ¡Eso me fastidia muchísimo!"
             ],
             "input": {
                 "type": "option",

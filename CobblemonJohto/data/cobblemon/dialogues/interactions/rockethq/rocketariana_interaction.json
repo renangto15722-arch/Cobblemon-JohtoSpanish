@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We can't let a brat like you do as you please forever."
+                "No podemos dejar que un mocoso como tú haga lo que quiera para siempre."
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It'll hurt Team Rocket's pride over and over again. Making it lessen, you see. "
+                "Heriría el orgullo del Team Rocket una y otra vez. Disminuyéndolo, ya ves. "
             ],
             "input": {
                 "type": "option",
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "...So, it's time to finish you. Sorry, baby. Now, get ready to be thrashed."
+                "...Así que es hora de acabar contigo. Lo siento, nene. Ahora, prepárate para recibir una paliza."
             ],
             "input": {
                 "type": "option",

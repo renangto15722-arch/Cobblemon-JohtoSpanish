@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "What? Who are you? This is the office of our leader, Giovanni."
+                "¿Qué? ¿Quién eres? Esta es la oficina de nuestro líder, Giovanni."
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Since disbanding Team Rocket three years ago, he has been in training."
+                "Desde que disolvió el Team Rocket hace tres años, ha estado entrenando."
             ],
             "input": {
                 "type": "option",
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "But we're certain he will be back some day to assume command again."
+                "Pero estamos seguros de que algún día volverá para asumir el mando de nuevo."
             ],
             "input": {
                 "type": "option",
@@ -76,7 +76,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "That's why we're standing guard. I won't let any- one disturb this place!"
+                "Por eso montamos guardia. ¡No dejaré que nadie perturbe este lugar!"
             ],
             "input": {
                 "type": "option",
