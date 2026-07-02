@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $2,560 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $2,560 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 2560');"
         ],
   "speakers": {
@@ -39,7 +39,7 @@
     "id": "page2",
     "speaker": "npc",
     "lines": [
-        "... I haven't given up on becoming the greatest Trainer..."
+        "... No he renunciado a convertirme en el mejor Entrenador..."
     ],
     "input": {
         "type": "option",
@@ -57,7 +57,7 @@
   "id": "page3",
   "speaker": "npc",
   "lines": [
-      "I'm going to find out why I can't win and become stronger..."
+      "Voy a descubrir por qué no puedo ganar y me haré más fuerte..."
   ],
   "input": {
       "type": "option",
@@ -75,7 +75,7 @@
   "id": "page4",
   "speaker": "npc",
   "lines": [
-      "When I do, I will challenge you. I'll beat you down with all my power."
+      "Cuando lo haga, te desafiaré. Te derrotaré con todo mi poder."
   ],
   "input": {
       "type": "option",
@@ -92,7 +92,7 @@
     {
       "id": "page5",
       "speaker": "npc",
-      "lines": ["...Humph! You keep at it until then."],
+      "lines": ["...¡Hum! Sigue esforzándote hasta entonces."],
             "input": {
                 "type": "option",
                 "vertical": false,

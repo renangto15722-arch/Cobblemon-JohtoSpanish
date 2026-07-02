@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 2');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $800 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $800 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 800');"
         ],
   "speakers": {
@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["From Bug-type Pokémon come the sounds of munching on grass, walking on crunchy leaves, swimming in puddles..."],
+      "lines": ["De los Pokémon de tipo Bicho vienen los sonidos de mordisquear hierba, caminar sobre hojas crujientes, nadar en charcos..."],
             "input": {
                 "type": "option",
                 "vertical": false,
@@ -36,7 +36,7 @@
         {
           "id": "page2",
           "speaker": "npc",
-          "lines": ["For bug Pokémon fans, knowing how to distinguish these sounds is key!"],
+          "lines": ["¡Para los fans de los Pokémon de tipo Bicho, saber distinguir estos sonidos es clave!"],
                 "input": {
                     "type": "option",
                     "vertical": false,

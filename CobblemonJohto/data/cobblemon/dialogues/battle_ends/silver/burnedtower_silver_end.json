@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $1,408 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $1,408 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 1408');"
         ],
   "speakers": {
@@ -21,7 +21,7 @@
       "id": "greeting",
       "speaker": "npc",
       "lines": [
-          "...Aw, whatever."
+          "...Bah, como sea."
       ],
       "input": {
           "type": "option",
@@ -38,7 +38,7 @@
     {
       "id": "page2",
       "speaker": "npc",
-      "lines": ["You would never be able to catch a legendary Pokémon anyway."],
+      "lines": ["De todos modos, nunca podrías atrapar a un Pokémon legendario."],
             "input": {
                 "type": "option",
                 "vertical": false,

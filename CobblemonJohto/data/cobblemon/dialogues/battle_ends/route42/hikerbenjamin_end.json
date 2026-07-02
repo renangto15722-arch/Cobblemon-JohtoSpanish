@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $544 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $544 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 544');"
         ],
   "speakers": {
@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["I said a pretty boastful lie. I'm sorry! There's this huge waterfall in the way, so I've never been on the other side of Mt. Mortar!"],
+      "lines": ["Dije una mentira bastante presumida. ¡Lo siento! ¡Hay una catarata enorme en el camino, asi que nunca he estado al otro lado del Monte Mortero!"],
             "input": {
                 "type": "option",
                 "vertical": false,

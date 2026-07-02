@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $2,176 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $2,176 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 2176');"
         ],
   "speakers": {
@@ -21,7 +21,7 @@
       "id": "greeting",
       "speaker": "npc",
       "lines": [
-          "...I don't understand. Is what that Lance guy said true?"
+          "...No lo entiendo. ¿Es verdad lo que dijo ese tal Lance?"
       ],
       "input": {
           "type": "option",
@@ -39,7 +39,7 @@
     "id": "page2",
     "speaker": "npc",
     "lines": [
-        "That I don't treat Pokémon properly?"
+        "¿Que no trato bien a mis Pokémon?"
     ],
     "input": {
         "type": "option",
@@ -57,7 +57,7 @@
   "id": "page3",
   "speaker": "npc",
   "lines": [
-      "Love... Trust... Are they really what I lack?"
+      "Amor... Confianza... ¿De verdad es eso lo que me falta?"
   ],
   "input": {
       "type": "option",
@@ -75,7 +75,7 @@
   "id": "page4",
   "speaker": "npc",
   "lines": [
-      "Are they keeping me from winning?"
+      "¿Es eso lo que me impide ganar?"
   ],
   "input": {
       "type": "option",
@@ -93,7 +93,7 @@
   "id": "page5",
   "speaker": "npc",
   "lines": [
-      "I... I just don't understand. But it's not going to end here."
+      "Yo... Simplemente no lo entiendo. Pero esto no va a terminar aquí."
   ],
   "input": {
       "type": "option",
@@ -111,7 +111,7 @@
   "id": "page6",
   "speaker": "npc",
   "lines": [
-      "Not now. Not because of this."
+      "No ahora. No por esto."
   ],
   "input": {
       "type": "option",
@@ -128,7 +128,7 @@
     {
       "id": "page7",
       "speaker": "npc",
-      "lines": ["I won't give up my dream of becoming the world's best Pokémon Trainer!"],
+      "lines": ["¡No renunciaré a mi sueño de convertirme en el mejor Entrenador Pokémon del mundo!"],
             "input": {
                 "type": "option",
                 "vertical": false,

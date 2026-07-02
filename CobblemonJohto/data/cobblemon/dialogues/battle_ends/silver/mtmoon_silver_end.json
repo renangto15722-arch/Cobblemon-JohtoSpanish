@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $3,200 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $3,200 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 3200');"
         ],
   "speakers": {
@@ -21,7 +21,7 @@
       "id": "greeting",
       "speaker": "npc",
       "lines": [
-          "My training's still not good enough...?"
+          "¿Mi entrenamiento todavía no es suficiente...?"
       ],
       "input": {
           "type": "option",
@@ -39,7 +39,7 @@
     "id": "page2",
     "speaker": "npc",
     "lines": [
-        "My Pokémon are so weak, it makes me frustrated..."
+        "Mis Pokémon son tan débiles que me frustra..."
     ],
     "input": {
         "type": "option",
@@ -57,7 +57,7 @@
   "id": "page3",
   "speaker": "npc",
   "lines": [
-      "But I can feel that they are getting better after each battle..."
+      "Pero puedo sentir que mejoran después de cada combate..."
   ],
   "input": {
       "type": "option",
@@ -93,7 +93,7 @@
   "id": "page5",
   "speaker": "npc",
   "lines": [
-      "They're still too weak! I need to give them more training..."
+      "¡Todavía son demasiado débiles! Necesito entrenarlos más..."
   ],
   "input": {
       "type": "option",
@@ -113,7 +113,7 @@
       "lines": [
         {
             "type": "expression",
-            "expression": "'See ya, ' + q.player.username + '!';"
+            "expression": "'¡Nos vemos, ' + q.player.username + '!';"
         }
     ],
             "input": {

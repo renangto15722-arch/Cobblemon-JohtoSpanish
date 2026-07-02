@@ -4,7 +4,7 @@
       "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
       "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
       "q.run_command('execute as ' + q.player.username + ' run function johto:spawn/flashhm');",
-      "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $1,200 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+      "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $1,200 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
       "q.run_command('scoreboard players add ' + q.player.username + ' Money 1200');"
   ],
   "escapeAction": [],
@@ -24,7 +24,7 @@
           "id": "greeting",
           "speaker": "npc",
           "lines": [
-              "You and your Pokémon should have no problem using this move."
+              "Tú y tus Pokémon no deberían tener problema para usar este movimiento."
           ],
           "input": {
               "type": "option",
@@ -42,7 +42,7 @@
           "id": "page2",
           "speaker": "npc",
           "lines": [
-              "Take this Flash HM."
+              "Toma esta Flash HM."
           ],
           "input": {
               "type": "option",
@@ -60,7 +60,7 @@
           "id": "page3",
           "speaker": "npc",
           "lines": [
-              "Flash illuminates even the darkest of all places."
+              "Flash ilumina hasta el más oscuro de los lugares."
           ],
           "input": {
               "type": "option",
@@ -78,7 +78,7 @@
           "id": "page4",
           "speaker": "npc",
           "lines": [
-              "I hope you learn and grow from your journey."
+              "Espero que aprendas y crezcas en tu viaje."
           ],
           "input": {
               "type": "option",

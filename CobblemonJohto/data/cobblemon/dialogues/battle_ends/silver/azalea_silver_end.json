@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $1,152 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $1,152 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 1152');"
         ],
   "speakers": {
@@ -21,7 +21,7 @@
       "id": "greeting",
       "speaker": "npc",
       "lines": [
-          "I hate the weak. Pokémon, Trainers. "
+          "Odio a los débiles. Pokémon, Entrenadores. "
       ],
       "input": {
           "type": "option",
@@ -39,7 +39,7 @@
     "id": "page2",
     "speaker": "npc",
     "lines": [
-        "It doesn't matter who or what."
+        "No importa quién ni qué."
     ],
     "input": {
         "type": "option",
@@ -57,7 +57,7 @@
   "id": "page3",
   "speaker": "npc",
   "lines": [
-      "I hate to see them hanging around."
+      "Odio verlos rondando por ahí."
   ],
   "input": {
       "type": "option",
@@ -75,7 +75,7 @@
   "id": "page4",
   "speaker": "npc",
   "lines": [
-      "That goes for Team Rocket, too. They think they are big and tough as long as they are in a group."
+      "Eso también va para el Team Rocket. Se creen grandes y fuertes mientras están en grupo."
   ],
   "input": {
       "type": "option",
@@ -93,7 +93,7 @@
   "id": "page5",
   "speaker": "npc",
   "lines": [
-      "But get them alone, and they're weak."
+      "Pero atrápalos a solas, y son débiles."
   ],
   "input": {
       "type": "option",
@@ -111,7 +111,7 @@
   "id": "page6",
   "speaker": "npc",
   "lines": [
-      "I hate them all. You stay out of my way."
+      "Los odio a todos. Mantente fuera de mi camino."
   ],
   "input": {
       "type": "option",
@@ -128,7 +128,7 @@
     {
       "id": "page7",
       "speaker": "npc",
-      "lines": ["You won't be an exception if you get in my way."],
+      "lines": ["No serás una excepción si te interpones en mi camino."],
             "input": {
                 "type": "option",
                 "vertical": false,
