@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Are you seeking the secrets of the Whirl Islands?"
+                "¿Buscas los secretos de las Islas Remolino?"
             ],
             "input": {
                 "type": "option",

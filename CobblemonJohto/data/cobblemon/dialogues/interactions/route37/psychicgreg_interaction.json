@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pokémon can't do a thing if they are asleep. I'll show you how scary that is!"
+                "Los Pokémon no pueden hacer nada si están dormidos. ¡Te mostraré lo aterrador que es eso!"
             ],
             "input": {
                 "type": "option",

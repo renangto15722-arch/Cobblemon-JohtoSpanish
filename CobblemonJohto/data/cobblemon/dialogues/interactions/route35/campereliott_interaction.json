@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm gonna show my girlfriend I'm hot stuff!"
+                "¡Voy a demostrarle a mi novia que soy todo un fenómeno!"
             ],
             "input": {
                 "type": "option",

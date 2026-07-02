@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm on patrol for suspicious individuals."
+                "Estoy patrullando en busca de individuos sospechosos."
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My heart's feelings for my boyfriend are as wide and deep as the ocean."
+                "Los sentimientos de mi corazón por mi novio son tan amplios y profundos como el océano."
             ],
             "input": {
                 "type": "option",

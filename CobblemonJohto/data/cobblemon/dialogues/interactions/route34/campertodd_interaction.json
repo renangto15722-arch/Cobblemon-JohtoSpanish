@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm confident in my ability to raise Pokémon. Want to see?"
+                "Confío en mi habilidad para criar Pokémon. ¿Quieres verlo?"
             ],
             "input": {
                 "type": "option",

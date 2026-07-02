@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Let me guess what you're thinking!"
+                "¡Déjame adivinar lo que estás pensando!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Is it OK to brag about my Pokémon?"
+                "¿Está bien presumir de mis Pokémon?"
             ],
             "input": {
                 "type": "option",

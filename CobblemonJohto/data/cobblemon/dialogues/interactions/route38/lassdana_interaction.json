@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, are you good at Pokémon? If you're really good, I want you to teach me some things."
+                "Oye, ¿se te da bien lo de los Pokémon? Si eres realmente bueno, quiero que me enseñes algunas cosas."
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Let me demonstrate the power of the Pokémon I caught!"
+                "¡Déjame demostrar el poder de los Pokémon que atrapé!"
             ],
             "input": {
                 "type": "option",

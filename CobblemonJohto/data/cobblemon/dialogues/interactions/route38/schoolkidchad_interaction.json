@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Let me try something I learned today."
+                "Déjame probar algo que aprendí hoy."
             ],
             "input": {
                 "type": "option",

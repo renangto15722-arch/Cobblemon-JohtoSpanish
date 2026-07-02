@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The weather is so beautiful, I'm in a daze!"
+                "¡El clima es tan hermoso que estoy en las nubes!"
             ],
             "input": {
                 "type": "option",

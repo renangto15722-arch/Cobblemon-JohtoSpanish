@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The two of us aren't just some boring pair!"
+                "¡Nosotros dos no somos una pareja cualquiera!"
             ],
             "input": {
                 "type": "option",

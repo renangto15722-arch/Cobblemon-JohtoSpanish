@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Who are you?!"
+                "¡¿Quién eres?!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm a bit tired. If I win, lend me your Pokémon."
+                "Estoy un poco cansado. Si gano, préstame tus Pokémon."
             ],
             "input": {
                 "type": "option",

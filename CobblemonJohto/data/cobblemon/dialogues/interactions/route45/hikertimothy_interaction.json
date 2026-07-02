@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Why do I climb mountains? Because they're there. Why do I train Pokémon? Because they're there!"
+                "¿Por qué escalo montañas? Porque están ahí. ¿Por qué entreno Pokémon? ¡Porque están ahí!"
             ],
             "input": {
                 "type": "option",

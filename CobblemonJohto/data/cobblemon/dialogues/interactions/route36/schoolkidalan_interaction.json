@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I can properly prepare for any Pokémon adversary!"
+                "¡Puedo prepararme adecuadamente para cualquier adversario Pokémon!"
             ],
             "input": {
                 "type": "option",

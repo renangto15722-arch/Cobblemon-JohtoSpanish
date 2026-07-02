@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "...You are a better Trainer than me, in both skill and kindness. In accordance with League rules, I confer upon you this Badge."
+                "...Eres mejor entrenador que yo, tanto en habilidad como en bondad. Conforme a las reglas de la Liga, te otorgo esta Medalla."
             ],
             "input": {
                 "type": "option",

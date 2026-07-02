@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Be prepared for anything! Let me see if your Pokémon have been raised properly!"
+                "¡Prepárate para cualquier cosa! ¡Veamos si tus Pokémon han sido criados como es debido!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I was training here alone. Behold the result of my hard work!"
+                "Estaba entrenando aquí a solas. ¡Contempla el resultado de mi duro esfuerzo!"
             ],
             "input": {
                 "type": "option",

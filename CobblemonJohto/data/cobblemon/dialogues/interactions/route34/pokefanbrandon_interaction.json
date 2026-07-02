@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I just got my Pokémon back from Day Care. Let's see how much stronger it got!"
+                "Acabo de recuperar a mi Pokémon de la Guardería. ¡Veamos cuánto más fuerte se volvió!"
             ],
             "input": {
                 "type": "option",

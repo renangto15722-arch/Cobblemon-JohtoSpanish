@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "See those islands that are blocked by whirlpools? There just has to be a secret!"
+                "¿Ves esas islas bloqueadas por remolinos? ¡Tiene que haber un secreto!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey hey there, you young Trainer! Won't you battle with me?"
+                "¡Eh, eh, joven Entrenador! ¿No quieres luchar conmigo?"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm in a slump. Maybe it's the gear I'm using. Let's battle for a change of pace!"
+                "Estoy en una mala racha. Quizás sea el equipo que uso. ¡Luchemos para cambiar un poco!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Yo! You're tough! But you know what? When it comes to sheer toughness, I'm the man!"
+                "¡Eh! ¡Eres fuerte! Pero ¿sabes qué? Cuando se trata de pura fuerza, ¡yo soy el mejor!"
             ],
             "input": {
                 "type": "option",

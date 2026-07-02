@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I just got back to Olivine. So, how about a Pokémon battle?"
+                "Acabo de volver a Ciudad Olivo. Entonces, ¿qué tal una batalla Pokémon?"
             ],
             "input": {
                 "type": "option",

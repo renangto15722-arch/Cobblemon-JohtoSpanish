@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Watching over my girlfriend makes my heart soar!"
+                "¡Cuidar de mi novia hace que mi corazón se eleve!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Such darling Pokémon. Let's show our Pokémon together at the same time."
+                "Qué Pokémon tan encantadores. Mostremos nuestros Pokémon juntos al mismo tiempo."
             ],
             "input": {
                 "type": "option",

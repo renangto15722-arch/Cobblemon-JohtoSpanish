@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I fish until I can't anymore. I also battle until I drop. That's my relationship with my Pokémon."
+                "Pesco hasta no poder más. También lucho hasta caer rendido. Esa es mi relación con mis Pokémon."
             ],
             "input": {
                 "type": "option",

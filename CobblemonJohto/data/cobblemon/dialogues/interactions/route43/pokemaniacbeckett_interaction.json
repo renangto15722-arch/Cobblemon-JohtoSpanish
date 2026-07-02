@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I love Pokémon! That's why I started--and why I'll keep on collecting Pokémon!"
+                "¡Me encantan los Pokémon! ¡Por eso empecé, y por eso seguiré coleccionando Pokémon!"
             ],
             "input": {
                 "type": "option",

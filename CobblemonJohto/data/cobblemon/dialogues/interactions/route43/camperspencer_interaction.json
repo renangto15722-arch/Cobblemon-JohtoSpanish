@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I can do so much with my Pokémon! It's super fun!"
+                "¡Puedo hacer tantas cosas con mis Pokémon! ¡Es superdivertido!"
             ],
             "input": {
                 "type": "option",

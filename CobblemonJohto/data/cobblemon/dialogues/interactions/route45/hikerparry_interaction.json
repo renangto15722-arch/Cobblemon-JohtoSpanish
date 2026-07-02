@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My Pokémon are power packed!"
+                "¡Mis Pokémon están llenos de poder!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Are you going to Lake of Rage, too? Let's play for a little while!"
+                "¿Tú también vas al Lago de la Furia? ¡Juguemos un ratito!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Do you know about the legendary bird Pokémon?"
+                "¿Sabes algo sobre los Pokémon pájaro legendarios?"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Are you going to Cianwood? How about a quick battle first?"
+                "¿Vas a Ciudad Orquídea? ¿Qué tal una batalla rápida primero?"
             ],
             "input": {
                 "type": "option",

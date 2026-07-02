@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You look so elegant riding your Pokémon."
+                "Te ves tan elegante montando tu Pokémon."
             ],
             "input": {
                 "type": "option",

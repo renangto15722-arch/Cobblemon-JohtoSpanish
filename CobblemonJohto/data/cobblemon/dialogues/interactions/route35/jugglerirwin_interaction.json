@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Behold my dexterity and grace!"
+                "¡Contempla mi destreza y mi gracia!"
             ],
             "input": {
                 "type": "option",

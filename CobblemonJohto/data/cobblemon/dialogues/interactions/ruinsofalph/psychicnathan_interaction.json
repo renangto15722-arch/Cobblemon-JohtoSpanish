@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hmmm... This is a strange place."
+                "Mmm... Este es un lugar extraño."
             ],
             "input": {
                 "type": "option",

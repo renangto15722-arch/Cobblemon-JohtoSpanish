@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm not good with large crowds, so I'm camping out here with my Pokémon! Are you the same way?"
+                "No me llevo bien con las multitudes, ¡así que estoy acampando aquí con mis Pokémon! ¿Tú también eres así?"
             ],
             "input": {
                 "type": "option",

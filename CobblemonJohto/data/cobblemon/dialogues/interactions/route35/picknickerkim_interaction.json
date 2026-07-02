@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Are you going to the Gym? Me, too!"
+                "¿Vas al Gimnasio? ¡Yo también!"
             ],
             "input": {
                 "type": "option",

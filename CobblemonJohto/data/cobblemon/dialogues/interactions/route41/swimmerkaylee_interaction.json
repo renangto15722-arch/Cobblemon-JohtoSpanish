@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm on my way to the Whirl Islands. I'm going exploring with friends."
+                "Voy de camino a las Islas Remolino. Voy a explorar con amigos."
             ],
             "input": {
                 "type": "option",

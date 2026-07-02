@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You have to warm up before going into the water. That's basic."
+                "Tienes que calentar antes de meterte al agua. Eso es básico."
             ],
             "input": {
                 "type": "option",

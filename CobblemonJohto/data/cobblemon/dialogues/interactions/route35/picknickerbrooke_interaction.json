@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My boyfriend's weak, so I can't rely on him."
+                "Mi novio es débil, así que no puedo contar con él."
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'll go anywhere if bug Pokémon appear there."
+                "Iré a cualquier lugar donde aparezcan Pokémon bicho."
             ],
             "input": {
                 "type": "option",

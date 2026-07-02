@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Awright! I'll show you the power of mountain Pokémon!"
+                "¡Muy bien! ¡Te mostraré el poder de los Pokémon de montaña!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You look strong. Good Trainers seek tough opponents instinctively."
+                "Te ves fuerte. Los buenos Entrenadores buscan rivales difíciles por instinto."
             ],
             "input": {
                 "type": "option",

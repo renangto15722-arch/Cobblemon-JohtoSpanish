@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Would you get this? Some red-haired kid made fun of my precious Pokémon! Humph! My Pokémon's great!"
+                "¿Puedes creerlo? ¡Un chico pelirrojo se burló de mis preciosos Pokémon! ¡Bah! ¡Mis Pokémon son geniales!"
             ],
             "input": {
                 "type": "option",

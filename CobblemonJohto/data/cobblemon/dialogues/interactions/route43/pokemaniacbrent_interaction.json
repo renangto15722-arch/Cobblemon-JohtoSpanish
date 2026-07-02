@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey! Do you have any rare Pokémon?"
+                "¡Oye! ¿Tienes algún Pokémon raro?"
             ],
             "input": {
                 "type": "option",

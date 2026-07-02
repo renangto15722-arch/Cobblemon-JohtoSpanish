@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm practicing my fire breathing."
+                "Estoy practicando mi escupir fuego."
             ],
             "input": {
                 "type": "option",

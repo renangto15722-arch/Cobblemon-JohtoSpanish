@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Fly high into the sky, my beloved bird Pokémon!"
+                "¡Vuela alto hacia el cielo, mi querido Pokémon pájaro!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm raising Pokémon, too! Will you battle with me?"
+                "¡Yo también crío Pokémon! ¿Quieres luchar conmigo?"
             ],
             "input": {
                 "type": "option",

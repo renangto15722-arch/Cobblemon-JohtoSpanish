@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "No inflatable tube for me. I'm hanging on to a sea Pokémon!"
+                "Nada de flotador para mí. ¡Me agarro a un Pokémon marino!"
             ],
             "input": {
                 "type": "option",

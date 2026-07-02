@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I can tell you're a good Trainer by looking at you. I'm good at Pokémon, and I can see that you are, too."
+                "Con solo mirarte puedo decir que eres un buen Entrenador. Yo soy bueno con los Pokémon, y veo que tú también lo eres."
             ],
             "input": {
                 "type": "option",

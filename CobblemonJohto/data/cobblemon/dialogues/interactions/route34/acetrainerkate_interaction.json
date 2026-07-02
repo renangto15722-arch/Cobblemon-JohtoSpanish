@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I must pay you back for taking care of my sisters!"
+                "¡Debo devolverte el favor por haberte ocupado de mis hermanas!"
             ],
             "input": {
                 "type": "option",

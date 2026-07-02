@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm really, really tough!"
+                "¡Soy muy, muy fuerte!"
             ],
             "input": {
                 "type": "option",

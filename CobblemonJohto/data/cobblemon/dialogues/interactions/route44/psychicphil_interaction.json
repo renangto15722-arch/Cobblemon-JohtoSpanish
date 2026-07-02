@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm gonna win for sure!"
+                "¡Voy a ganar sin duda!"
             ],
             "input": {
                 "type": "option",

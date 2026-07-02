@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey! This is my secret place! Get lost, you outsider!"
+                "¡Oye! ¡Este es mi lugar secreto! ¡Lárgate, intruso!"
             ],
             "input": {
                 "type": "option",

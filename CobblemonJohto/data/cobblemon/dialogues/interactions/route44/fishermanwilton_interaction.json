@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Aack! You made me lose a Poliwag! What are you going to do about it?"
+                "¡Aaah! ¡Me hiciste perder un Poliwag! ¿Qué vas a hacer al respecto?"
             ],
             "input": {
                 "type": "option",

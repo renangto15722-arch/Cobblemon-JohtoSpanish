@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Let me see what your Pokémon are capable of."
+                "Déjame ver de qué son capaces tus Pokémon."
             ],
             "input": {
                 "type": "option",

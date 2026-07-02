@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "If you need to rest, just tread water. You'll get your breath back so you can keep on going strong."
+                "Si necesitas descansar, solo flota en el agua. Recuperarás el aliento para seguir con fuerza."
             ],
             "input": {
                 "type": "option",

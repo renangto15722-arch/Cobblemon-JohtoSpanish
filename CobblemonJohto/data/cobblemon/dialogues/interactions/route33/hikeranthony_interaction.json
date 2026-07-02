@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I came through the cave, but I still have plenty of energy left."
+                "Pasé por la cueva, pero todavía me queda mucha energía."
             ],
             "input": {
                 "type": "option",

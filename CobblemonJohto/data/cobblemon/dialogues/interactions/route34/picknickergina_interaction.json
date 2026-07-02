@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Are you a Trainer? Let's have a practice battle."
+                "¿Eres un Entrenador? Tengamos una batalla de práctica."
             ],
             "input": {
                 "type": "option",

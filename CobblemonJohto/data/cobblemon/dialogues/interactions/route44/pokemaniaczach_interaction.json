@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'll do anything to get my hands on rare Pokémon!"
+                "¡Haría cualquier cosa por conseguir Pokémon raros!"
             ],
             "input": {
                 "type": "option",

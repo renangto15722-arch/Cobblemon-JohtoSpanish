@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "All right, I'm bringing out a Pokémon."
+                "Muy bien, voy a sacar un Pokémon."
             ],
             "input": {
                 "type": "option",

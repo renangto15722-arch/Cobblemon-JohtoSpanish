@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, you're young and fit! Don't ride your Pokémon! Swim!"
+                "¡Oye, eres joven y estás en forma! ¡No montes en tus Pokémon! ¡Nada!"
             ],
             "input": {
                 "type": "option",

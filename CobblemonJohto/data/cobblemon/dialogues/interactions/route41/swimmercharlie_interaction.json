@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The water's warm here. I'm loose and limber. Sure, I'll take you on!"
+                "El agua está caliente aquí. Estoy suelto y ágil. ¡Claro, te acepto el reto!"
             ],
             "input": {
                 "type": "option",

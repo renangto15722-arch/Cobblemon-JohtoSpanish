@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Don't you think my Pokémon and I are beautiful?"
+                "¿No crees que mis Pokémon y yo somos hermosos?"
             ],
             "input": {
                 "type": "option",

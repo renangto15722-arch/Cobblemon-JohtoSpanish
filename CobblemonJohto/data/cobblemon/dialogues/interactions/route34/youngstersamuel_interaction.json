@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This is where I do my training!"
+                "¡Aquí es donde hago mi entrenamiento!"
             ],
             "input": {
                 "type": "option",

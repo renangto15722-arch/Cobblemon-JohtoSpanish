@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "What's the other side of Mt. Mortar like, do you know? If you can beat me, I'll let you know."
+                "¿Cómo es el otro lado del Monte Mortero, lo sabes? Si puedes vencerme, te lo diré."
             ],
             "input": {
                 "type": "option",

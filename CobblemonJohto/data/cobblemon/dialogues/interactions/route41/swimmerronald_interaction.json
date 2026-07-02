@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The waves are wild here. They tire you out as you swim."
+                "Las olas son salvajes aquí. Te agotan mientras nadas."
             ],
             "input": {
                 "type": "option",

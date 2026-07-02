@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "One plus one is two. But the two of us together is much stronger!"
+                "Uno más uno son dos. ¡Pero nosotros dos juntos somos mucho más fuertes!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You came at just the right time. Let's battle."
+                "Llegaste justo a tiempo. Vamos a luchar."
             ],
             "input": {
                 "type": "option",

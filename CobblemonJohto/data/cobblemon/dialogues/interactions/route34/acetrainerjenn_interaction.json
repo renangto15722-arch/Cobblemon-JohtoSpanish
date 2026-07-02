@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "What the...? What are you doing?"
+                "¿Pero qué...? ¿Qué estás haciendo?"
             ],
             "input": {
                 "type": "option",

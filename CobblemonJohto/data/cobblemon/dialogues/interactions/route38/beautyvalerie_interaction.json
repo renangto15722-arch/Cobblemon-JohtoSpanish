@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi! Aren't you a cute Trainer! May I see your Pokémon?"
+                "¡Hola! ¡Qué Entrenador tan lindo eres! ¿Puedo ver tus Pokémon?"
             ],
             "input": {
                 "type": "option",

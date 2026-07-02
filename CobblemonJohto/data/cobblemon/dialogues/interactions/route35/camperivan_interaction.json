@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I've been getting Pokémon data off my radio. I think I'm good."
+                "He estado obteniendo datos de Pokémon por mi radio. Creo que estoy listo."
             ],
             "input": {
                 "type": "option",
