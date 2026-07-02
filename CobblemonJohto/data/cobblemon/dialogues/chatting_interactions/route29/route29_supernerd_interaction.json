@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm waiting for Pokemon that appear only in the morning."
+                "Estoy esperando a los Pokémon que solo aparecen por la mañana."
             ],
             "input": {
                 "type": "option",

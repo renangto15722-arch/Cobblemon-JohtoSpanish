@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I found a good Pokemon in Dark Cave."
+                "Encontré un buen Pokémon en la Cueva Oscura."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I'm going to raise it to take on Falkner."
+                "Voy a criarlo para enfrentarme a Falkner."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "He's the leader of Violet City's Gym. "
+                "Es el líder del Gimnasio de Ciudad Malva. "
             ],
             "input": {
                 "type": "option",

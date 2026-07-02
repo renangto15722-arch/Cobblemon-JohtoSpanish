@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We'll have to beef up our security presence so something like this will never happen again!"
+                "¡Tendremos que reforzar nuestra seguridad para que algo así no vuelva a pasar nunca!"
             ],
             "input": {
                 "type": "option",

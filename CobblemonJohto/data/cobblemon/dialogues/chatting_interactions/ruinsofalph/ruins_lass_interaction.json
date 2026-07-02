@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This place has a mystical quality to it."
+                "Este lugar tiene algo místico."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It feels sort of ethereal even."
+                "Hasta se siente algo etéreo."
             ],
             "input": {
                 "type": "option",

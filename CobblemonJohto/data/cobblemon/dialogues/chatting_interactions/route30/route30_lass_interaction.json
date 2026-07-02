@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm not a trainer."
+                "No soy entrenadora."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But if you look one in the eyes, prepare to battle."
+                "Pero si miras a uno a los ojos, prepárate para luchar."
             ],
             "input": {
                 "type": "option",

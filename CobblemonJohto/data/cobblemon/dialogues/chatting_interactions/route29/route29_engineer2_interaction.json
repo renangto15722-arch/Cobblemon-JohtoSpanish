@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You can't climb ledges."
+                "No puedes trepar los salientes."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But you can jump down from them to take a shortcut."
+                "Pero puedes saltar desde ellos para tomar un atajo."
             ],
             "input": {
                 "type": "option",

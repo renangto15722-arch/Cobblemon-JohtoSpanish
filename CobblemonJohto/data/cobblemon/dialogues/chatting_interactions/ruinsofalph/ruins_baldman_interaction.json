@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You're studying the ruins?"
+                "¿Estás estudiando las ruinas?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I see a scientist in the making."
+                "Veo un científico en formación."
             ],
             "input": {
                 "type": "option",

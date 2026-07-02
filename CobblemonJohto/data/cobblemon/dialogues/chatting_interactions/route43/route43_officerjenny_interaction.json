@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Use this gate to avoid the grass."
+                "Usa esta puerta para evitar la hierba."
             ],
             "input": {
                 "type": "option",

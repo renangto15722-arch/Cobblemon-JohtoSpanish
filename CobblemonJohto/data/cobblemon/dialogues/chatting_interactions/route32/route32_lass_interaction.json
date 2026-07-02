@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "What should I make my Pokemon hold?"
+                "¿Qué debería hacer que sostenga mi Pokémon?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Maybe an item that increases Attack power..."
+                "Tal vez un objeto que aumente el poder de Ataque..."
             ],
             "input": {
                 "type": "option",

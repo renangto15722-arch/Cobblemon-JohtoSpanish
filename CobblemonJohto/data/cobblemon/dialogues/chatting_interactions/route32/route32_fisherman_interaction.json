@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This is a great fishing spot."
+                "Este es un gran sitio para pescar."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Would you like one of my Rods?"
+                "¿Te gustaría una de mis Rods?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Now you can be an angler too!"
+                "¡Ahora tú también puedes ser pescador!"
             ],
             "input": {
                 "type": "option",

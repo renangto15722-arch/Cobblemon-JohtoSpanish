@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Welcome to this chamber. "
+                "Bienvenido a esta cámara. "
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "There are sliding panels that depict a Pokemon drawn by the ancients."
+                "Hay paneles deslizantes que muestran un Pokémon dibujado por los antiguos."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Slide the panels around to form the picture. To the right is a description of the Pokemon."
+                "Desliza los paneles para formar la imagen. A la derecha hay una descripción del Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Scientists in the back are examining some newly found patterns."
+                "Los científicos del fondo están examinando unos patrones recién descubiertos."
             ],
             "input": {
                 "type": "option",

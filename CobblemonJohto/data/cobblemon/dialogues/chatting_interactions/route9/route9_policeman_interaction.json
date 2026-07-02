@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "A thief broke into the Power Plant..."
+                "Un ladrón irrumpió en la Central Eléctrica..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "What is the world coming to?"
+                "¿A dónde va a parar el mundo?"
             ],
             "input": {
                 "type": "option",

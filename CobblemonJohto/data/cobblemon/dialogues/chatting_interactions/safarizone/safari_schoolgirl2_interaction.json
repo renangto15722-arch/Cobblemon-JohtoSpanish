@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Safari, safari, it is so much fun."
+                "Safari, safari, es tan divertido."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Safari, safari, so interesting, huh!"
+                "Safari, safari, ¡qué interesante, eh!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "So many Pokémon are waiting for us!"
+                "¡Tantos Pokémon nos esperan!"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "...That's a song I made up. I sing it when I am in the Safari Zone."
+                "...Es una canción que inventé. La canto cuando estoy en la Zona Safari."
             ],
             "input": {
                 "type": "option",

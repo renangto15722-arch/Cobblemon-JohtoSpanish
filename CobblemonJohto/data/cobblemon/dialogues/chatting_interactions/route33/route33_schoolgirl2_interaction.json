@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pant, pant..."
+                "Jadeo, jadeo..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I finally got through that cave. It was much bigger than I'd expected."
+                "Por fin logré atravesar esa cueva. Era mucho más grande de lo que esperaba."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I got too tired to explore the whole thing so I came outside."
+                "Me cansé demasiado para explorarla entera, así que salí fuera."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There are so many runes on the wall."
+                "Hay tantas runas en la pared."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You don't think they could be Pokemon, could they?"
+                "¿No crees que podrían ser Pokémon, verdad?"
             ],
             "input": {
                 "type": "option",

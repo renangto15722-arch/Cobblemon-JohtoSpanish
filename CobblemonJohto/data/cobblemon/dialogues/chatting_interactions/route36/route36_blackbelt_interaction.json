@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Yo! Haven't you had trouble with a boulder blocking your way?"
+                "¡Eh! ¿No has tenido problemas con una roca enorme bloqueando tu camino?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Of course you have!"
+                "¡Claro que sí!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "For people like you, there's an HM that will come to your rescue!"
+                "¡Para gente como tú, hay una HM que vendrá a tu rescate!"
             ],
             "input": {
                 "type": "option",

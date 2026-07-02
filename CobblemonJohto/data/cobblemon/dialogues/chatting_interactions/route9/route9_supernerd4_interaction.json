@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This Power Plant had been abandoned in the past."
+                "Esta Central Eléctrica había estado abandonada en el pasado."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "We got it back up and running to provide power to the Magnet Train."
+                "La pusimos de nuevo en marcha para suministrar energía al Magnet Train."
             ],
             "input": {
                 "type": "option",

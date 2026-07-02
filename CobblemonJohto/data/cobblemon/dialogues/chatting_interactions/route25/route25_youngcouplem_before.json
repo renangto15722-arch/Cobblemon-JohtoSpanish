@@ -17,7 +17,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I've got a big date coming up!"
+                "¡Tengo una gran cita en camino!"
             ],
             "input": {
                 "type": "option",
@@ -35,7 +35,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Misty should be here any minute now!"
+                "¡Misty debería llegar en cualquier momento!"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Different kinds of Pokemon appear past here."
+                "Más allá de aquí aparecen distintos tipos de Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If you want to catch them all, you have to look everywhere."
+                "Si quieres atraparlos a todos, tienes que buscar por todas partes."
             ],
             "input": {
                 "type": "option",

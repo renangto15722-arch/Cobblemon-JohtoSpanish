@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "After a long walk in the mountains to find a Pokémon Center, when you're just about to fall flat..."
+                "Tras una larga caminata por las montañas buscando un Centro Pokémon, justo cuando estás a punto de desplomarte..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Then it feels like you are in paradise!"
+                "¡Entonces sientes que estás en el paraíso!"
             ],
             "input": {
                 "type": "option",

@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I am not a talker."
+                "No soy de hablar mucho."
             ],
             "input": {
                 "type": "option",

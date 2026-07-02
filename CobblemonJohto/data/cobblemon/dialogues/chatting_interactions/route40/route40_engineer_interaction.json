@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Battle Frontier is open!"
+                "¡El Frente Batalla está abierto!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Please go ahead."
+                "Adelante, por favor."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "How'd you like my Moomoo Milk?"
+                "¿Qué te pareció mi Moomoo Milk?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's my pride and joy, there."
+                "Es mi mayor orgullo, eso sí."
             ],
             "input": {
                 "type": "option",

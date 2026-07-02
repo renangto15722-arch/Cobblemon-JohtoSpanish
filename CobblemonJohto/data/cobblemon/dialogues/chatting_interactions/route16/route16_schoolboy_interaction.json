@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "If you cruise down Cycling Road, you will end up in Fuchsia City."
+                "Si bajas por la Ruta Ciclista, acabarás en Ciudad Fucsia."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "One day I'm gonna catch them all!"
+                "¡Algún día los atraparé a todos!"
             ],
             "input": {
                 "type": "option",

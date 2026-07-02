@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I wanted to take a break, so I saved to record my progress."
+                "Quería tomar un descanso, así que guardé para registrar mi progreso."
             ],
             "input": {
                 "type": "option",

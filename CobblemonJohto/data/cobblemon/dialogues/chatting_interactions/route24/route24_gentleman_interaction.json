@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Who is this guy in black?"
+                "¿Quién es este tipo de negro?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Coming between me and my girlfriend...!"
+                "¡Interponerse entre mi novia y yo...!"
             ],
             "input": {
                 "type": "option",

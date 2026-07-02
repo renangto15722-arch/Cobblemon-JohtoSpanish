@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The ruins are 1500 years old. "
+                "Las ruinas tienen 1500 años de antigüedad. "
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But it's not know why they were built--or by whom."
+                "Pero no se sabe por qué fueron construidas, ni por quién."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "There are odd patterns drawn on the walls of the ruins."
+                "Hay extraños patrones dibujados en las paredes de las ruinas."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "They must be the keys for unraveling the mystery of the ruins."
+                "Deben de ser las claves para desentrañar el misterio de las ruinas."
             ],
             "input": {
                 "type": "option",

@@ -18,7 +18,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Aww! Why did you have to show up and bug us now?"
+                "¡Ay! ¿Por qué tuviste que aparecer y molestarnos justo ahora?"
             ],
             "input": {
                 "type": "option",
@@ -36,7 +36,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Do you know what they call people like you?"
+                "¿Sabes cómo llaman a la gente como tú?"
             ],
             "input": {
                 "type": "option",
@@ -54,7 +54,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Pests! You heard me right, pest! ..."
+                "¡Plagas! Me oíste bien, ¡plaga! ..."
             ],
             "input": {
                 "type": "option",
@@ -72,7 +72,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "...Oh! Those Badges you have... Are they Johto Gym Badges?"
+                "...¡Oh! Esas Medallas que tienes... ¿Son Medallas de Gimnasio de Johto?"
             ],
             "input": {
                 "type": "option",
@@ -90,7 +90,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "If you have eight, you must be good."
+                "Si tienes ocho, debes de ser bueno."
             ],
             "input": {
                 "type": "option",
@@ -108,7 +108,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "OK, then. Come to Cerulean Gym."
+                "Muy bien, entonces. Ven al Gimnasio de Ciudad Celeste."
             ],
             "input": {
                 "type": "option",
@@ -126,7 +126,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "I'm Misty, the Gym Leader in Cerulean. I will meet you there."
+                "Soy Misty, la Líder de Gimnasio de Ciudad Celeste. Nos vemos allí."
             ],
             "input": {
                 "type": "option",

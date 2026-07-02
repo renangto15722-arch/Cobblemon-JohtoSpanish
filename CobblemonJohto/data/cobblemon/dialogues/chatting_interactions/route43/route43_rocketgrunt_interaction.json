@@ -21,7 +21,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hold it there, kiddo!"
+                "¡Alto ahí, chaval!"
             ],
             "input": {
                 "type": "option",
@@ -39,7 +39,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The toll is $1000 to go through."
+                "El peaje para pasar es de $1000."
             ],
             "input": {
                 "type": "option",
@@ -57,7 +57,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Thank you very much!"
+                "¡Muchas gracias!"
             ],
             "input": {
                 "type": "option",

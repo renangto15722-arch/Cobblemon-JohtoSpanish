@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Did you know? There's a Safari Zone just around the corner."
+                "¿Sabías? Hay una Zona Safari a la vuelta de la esquina."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's really fun! You will see many different kinds of Pokémon, and it's all you can catch!"
+                "¡Es muy divertido! ¡Verás muchas clases distintas de Pokémon, y puedes capturar todos los que quieras!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "There is no reason not to go, right?"
+                "No hay razón para no ir, ¿verdad?"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Just around the corner."
+                "Justo a la vuelta de la esquina."
             ],
             "input": {
                 "type": "option",

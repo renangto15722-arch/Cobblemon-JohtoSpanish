@@ -17,7 +17,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Just keep on going. Thank you."
+                "Solo sigue tu camino. Gracias."
             ],
             "input": {
                 "type": "option",
@@ -35,7 +35,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "No need to spoil this chemistry."
+                "No hace falta arruinar esta química."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm Arthur of Thursday."
+                "Soy Arthur, el del jueves."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I'm the second son out of seven children."
+                "Soy el segundo hijo de siete hermanos."
             ],
             "input": {
                 "type": "option",

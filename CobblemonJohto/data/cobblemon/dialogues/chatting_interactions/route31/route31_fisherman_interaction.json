@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Dark Cave..."
+                "Cueva Oscura..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If Pokemon could light it up, I'd explore it."
+                "Si un Pokémon pudiera iluminarla, la exploraría."
             ],
             "input": {
                 "type": "option",

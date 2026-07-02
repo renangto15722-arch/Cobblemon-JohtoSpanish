@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "People run when I road! But you came looking!"
+                "¡La gente huye cuando rujo! ¡Pero tú viniste a buscarme!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "That pleases me!"
+                "¡Eso me agrada!"
             ],
             "input": {
                 "type": "option",

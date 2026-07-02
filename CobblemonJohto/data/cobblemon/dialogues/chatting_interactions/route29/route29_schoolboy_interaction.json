@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pokemon hide in the grass."
+                "Los Pokémon se esconden en la hierba."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Who knows when they'll pop out..."
+                "Quién sabe cuándo van a saltar..."
             ],
             "input": {
                 "type": "option",

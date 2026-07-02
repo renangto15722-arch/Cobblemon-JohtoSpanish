@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Recently, strange cryptic patterns have appeared."
+                "Recientemente han aparecido extraños patrones crípticos."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's odd. They weren't here a little while ago. You should take a look at the walls."
+                "Es raro. No estaban aquí hace un rato. Deberías echar un vistazo a las paredes."
             ],
             "input": {
                 "type": "option",

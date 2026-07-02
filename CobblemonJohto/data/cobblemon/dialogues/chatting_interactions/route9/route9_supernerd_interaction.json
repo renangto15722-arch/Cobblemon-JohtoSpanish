@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Power Plant's Manager is up ahead."
+                "El Encargado de la Central Eléctrica está más adelante."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But since someone wrecked the generator, he's been both sad and, at times, furious..."
+                "Pero desde que alguien destrozó el generador, ha estado triste y, a veces, furioso..."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Sometimes he would burst out laughing out of desperation. We've had to go through so much..."
+                "A veces rompía a reír por pura desesperación. Hemos tenido que pasar por tanto..."
             ],
             "input": {
                 "type": "option",

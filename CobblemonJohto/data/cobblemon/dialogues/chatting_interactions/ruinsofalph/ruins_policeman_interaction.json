@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ruins of Alph."
+                "Ruinas Alfa."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "A look-and-touch tourist site."
+                "Un sitio turístico para mirar y tocar."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Try the sliding stone panels!"
+                "¡Prueba los paneles de piedra deslizantes!"
             ],
             "input": {
                 "type": "option",

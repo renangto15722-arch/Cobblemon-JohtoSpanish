@@ -18,7 +18,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ah, so that is Oddish? Isn't it cute!"
+                "Ah, ¿así que ese es Oddish? ¡Qué lindo!"
             ],
             "input": {
                 "type": "option",
@@ -36,7 +36,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Thanks! This is a token of my appreciation."
+                "¡Gracias! Esto es una muestra de mi agradecimiento."
             ],
             "input": {
                 "type": "option",

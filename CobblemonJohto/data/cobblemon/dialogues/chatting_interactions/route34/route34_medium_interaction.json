@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh, honey. You're making a Pokédex? You must be battling all kinds of Pokémon."
+                "Ay, cariño. ¿Estás completando una Pokédex? Debes estar combatiendo contra toda clase de Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Try using this TM for a change."
+                "Prueba a usar esta TM para variar."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It's Taunt. Use it and the target Pokémon can only use moves that do damage to your Pokémon for a while."
+                "Es Mofa. Úsala y el Pokémon objetivo solo podrá usar movimientos que hagan daño a tu Pokémon durante un rato."
             ],
             "input": {
                 "type": "option",

@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I sense a sinister shadow hovering over you."
+                "Percibo una sombra siniestra cerniéndose sobre ti."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Take this to ward it off!"
+                "¡Toma esto para ahuyentarla!"
             ],
             "input": {
                 "type": "option",

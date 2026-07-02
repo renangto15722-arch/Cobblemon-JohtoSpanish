@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My Grandpa is into warding off what he believes to be evil spirits."
+                "A mi abuelo le da por ahuyentar lo que él cree que son espíritus malignos."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I'm so sorry that he startled you."
+                "Siento mucho que te haya asustado."
             ],
             "input": {
                 "type": "option",

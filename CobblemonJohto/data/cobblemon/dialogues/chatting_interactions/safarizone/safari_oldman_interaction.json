@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Safari Zone is great!"
+                "¡La Zona Safari es genial!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I just kept going after Pokémon!"
+                "¡No paraba de perseguir Pokémon!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "That made my Jigglypuff upset though."
+                "Aunque eso molestó a mi Jigglypuff."
             ],
             "input": {
                 "type": "option",

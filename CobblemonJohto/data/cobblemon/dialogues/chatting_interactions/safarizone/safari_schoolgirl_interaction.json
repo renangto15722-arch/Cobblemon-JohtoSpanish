@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Those who come to a Pokémon Center often take good care of their Pokémon."
+                "Quienes vienen a un Centro Pokémon suelen cuidar bien de sus Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Wouldn't you agree?"
+                "¿No estás de acuerdo?"
             ],
             "input": {
                 "type": "option",

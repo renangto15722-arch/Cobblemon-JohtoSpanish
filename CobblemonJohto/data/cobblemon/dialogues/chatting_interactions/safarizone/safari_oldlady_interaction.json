@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Safari Zone..."
+                "Zona Safari..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It makes me feel like I am in a foreign country."
+                "Me hace sentir como si estuviera en un país extranjero."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It brings up a strange feeling."
+                "Me produce una sensación extraña."
             ],
             "input": {
                 "type": "option",

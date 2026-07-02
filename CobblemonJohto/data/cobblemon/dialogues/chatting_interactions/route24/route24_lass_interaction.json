@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Can you leave us alone?"
+                "¿Puedes dejarnos solos?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I am building a chemistry between us, and it's finally working."
+                "Estoy creando una química entre nosotros, y por fin está funcionando."
             ],
             "input": {
                 "type": "option",

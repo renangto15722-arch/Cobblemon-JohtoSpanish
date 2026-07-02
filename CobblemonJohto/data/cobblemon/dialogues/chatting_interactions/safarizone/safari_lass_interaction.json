@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I have always wanted to catch my first Pokémon at the Safari Zone."
+                "Siempre quise capturar mi primer Pokémon en la Zona Safari."
             ],
             "input": {
                 "type": "option",

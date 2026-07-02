@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Magnet Train consumes a lot of electricity."
+                "El Magnet Train consume mucha electricidad."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It can't move if the new generator isn't operating."
+                "No puede moverse si el nuevo generador no está en funcionamiento."
             ],
             "input": {
                 "type": "option",

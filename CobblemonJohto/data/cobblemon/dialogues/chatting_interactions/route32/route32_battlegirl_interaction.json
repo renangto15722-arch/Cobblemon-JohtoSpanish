@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You have some good Pokemon there."
+                "Tienes unos buenos Pokémon ahí."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It must be from the training you gave them around Violet City."
+                "Debe de ser por el entrenamiento que les diste por Ciudad Malva."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "The training at the gym must have been especially helpful."
+                "El entrenamiento en el gimnasio debió de ser especialmente útil."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Take this. It increases the power of grass-type moves."
+                "Toma esto. Aumenta el poder de los movimientos de tipo planta."
             ],
             "input": {
                 "type": "option",

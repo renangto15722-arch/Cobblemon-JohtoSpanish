@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Welcome to the Safari Zone! Catch Pokémon that can't be found anywhere else here!"
+                "¡Bienvenido a la Zona Safari! ¡Captura aquí Pokémon que no se encuentran en ningún otro lugar!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Once you start a session, you can arrange the biomes however you like!"
+                "¡Una vez que inicies una sesión, puedes organizar los biomas como quieras!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "You get 64 Safari Balls on the house, but can use whatever you bring with you too."
+                "Recibes 64 Safari Balls gratis, pero también puedes usar las que traigas contigo."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "There's no time or step limit, just a $500 admission fee, so get hunting today!"
+                "No hay límite de tiempo ni de pasos, solo una entrada de $500, ¡así que ponte a cazar hoy mismo!"
             ],
             "input": {
                 "type": "option",
@@ -97,7 +97,7 @@
             "id": "nothanks",
             "speaker": "npc",
             "lines": [
-                "Come again soon!"
+                "¡Vuelve pronto!"
             ],
             "input": {
                 "type": "option",

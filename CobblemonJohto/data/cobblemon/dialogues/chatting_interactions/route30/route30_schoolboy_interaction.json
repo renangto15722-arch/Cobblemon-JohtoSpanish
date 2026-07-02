@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I just lost, so I'm trying to find more Pokemon."
+                "Acabo de perder, así que intento encontrar más Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You should too!"
+                "¡Tú también deberías!"
             ],
             "input": {
                 "type": "option",

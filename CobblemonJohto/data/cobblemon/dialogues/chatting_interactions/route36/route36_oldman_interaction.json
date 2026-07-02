@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Did you see that strange tree in the road?"
+                "¿Viste ese árbol extraño en el camino?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "That may explain why fewer people are visiting Ruins of Alph."
+                "Eso podría explicar por qué cada vez menos gente visita las Ruinas Alfa."
             ],
             "input": {
                 "type": "option",

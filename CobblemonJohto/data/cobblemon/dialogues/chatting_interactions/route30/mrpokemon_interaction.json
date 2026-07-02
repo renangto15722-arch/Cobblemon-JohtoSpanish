@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Life is delightful! Always, new discoveries to be made!"
+                "¡La vida es maravillosa! ¡Siempre hay nuevos descubrimientos por hacer!"
             ],
             "input": {
                 "type": "option",

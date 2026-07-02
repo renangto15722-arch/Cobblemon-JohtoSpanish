@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There are many Pokémon to choose from, but nothing beats the cuteness of Slowpoke."
+                "Hay muchos Pokémon entre los que elegir, pero nada supera la ternura de Slowpoke."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "People often say that I look like one!"
+                "¡La gente suele decir que me parezco a uno!"
             ],
             "input": {
                 "type": "option",

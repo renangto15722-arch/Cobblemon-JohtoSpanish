@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Did you see the shrine honoring the protector?"
+                "¿Viste el santuario que honra al protector?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It watches over the Forest from across time."
+                "Vela por el Bosque a través del tiempo."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I think that it must be a grass-type Pokemon"
+                "Creo que debe de ser un Pokémon de tipo planta"
             ],
             "input": {
                 "type": "option",

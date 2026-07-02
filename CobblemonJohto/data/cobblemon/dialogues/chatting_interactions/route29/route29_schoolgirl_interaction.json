@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "See those ledges?"
+                "¿Ves esos salientes?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's scary to jump off them."
+                "Da miedo saltar desde ellos."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "But you can go to New Bark without walking through the grass."
+                "Pero puedes ir a Pueblo Primavera sin caminar por la hierba."
             ],
             "input": {
                 "type": "option",

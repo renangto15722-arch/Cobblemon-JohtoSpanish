@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Many cities in Johto have long histories."
+                "Muchas ciudades de Johto tienen largas historias."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I'd love to visit!"
+                "¡Me encantaría visitarlas!"
             ],
             "input": {
                 "type": "option",

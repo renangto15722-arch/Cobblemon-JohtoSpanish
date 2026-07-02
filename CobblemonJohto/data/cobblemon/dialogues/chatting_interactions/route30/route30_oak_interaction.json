@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh! I've stayed too long. I have to get to Goldenrod for my usual radio show."
+                "¡Oh! Me he quedado demasiado tiempo. Tengo que llegar a Ciudad Trigal para mi programa de radio de siempre."
             ],
             "input": {
                 "type": "option",

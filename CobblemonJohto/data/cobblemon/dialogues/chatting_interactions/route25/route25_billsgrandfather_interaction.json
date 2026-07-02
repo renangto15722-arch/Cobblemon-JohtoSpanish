@@ -18,7 +18,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My grandson told me about all sorts of cool Pokémon!"
+                "¡Mi nieto me habló de todo tipo de Pokémon geniales!"
             ],
             "input": {
                 "type": "option",
@@ -36,7 +36,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Maybe you have some of them!"
+                "¡Quizás tengas algunos de ellos!"
             ],
             "input": {
                 "type": "option",

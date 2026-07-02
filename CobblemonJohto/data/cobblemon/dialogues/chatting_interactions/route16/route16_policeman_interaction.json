@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Cycling Road starts here."
+                "La Ruta Ciclista empieza aquí."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's all downhill, so it's totally exhilarating."
+                "Es todo cuesta abajo, así que es totalmente emocionante."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It's a great sort of feeling that you can't get from a ship or train."
+                "Es una sensación genial que no consigues en un barco ni en un tren."
             ],
             "input": {
                 "type": "option",
