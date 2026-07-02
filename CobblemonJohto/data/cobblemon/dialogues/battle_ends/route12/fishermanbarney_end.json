@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $1,184 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $1,184 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 1184');"
         ],
   "speakers": {
@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["I think electricity is the most important thing in our daily lives."],
+      "lines": ["Creo que la electricidad es lo más importante en nuestra vida diaria."],
             "input": {
                 "type": "option",
                 "vertical": false,
@@ -36,7 +36,7 @@
         {
           "id": "page2",
           "speaker": "npc",
-          "lines": ["If it weren't, people wouldn't have made such a fuss when the Power Plant went out of commission."],
+          "lines": ["Si no lo fuera, la gente no habría armado tanto alboroto cuando la Central Eléctrica dejó de funcionar."],
                 "input": {
                     "type": "option",
                     "vertical": false,
