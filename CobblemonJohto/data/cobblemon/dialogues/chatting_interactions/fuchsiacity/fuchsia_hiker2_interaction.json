@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "One of he Elite Four use to be the Leader of Fuchsia's Gym."
+                "Uno de los miembros del Alto Mando solía ser el Líder del Gimnasio de Ciudad Fucsia."
             ],
             "input": {
                 "type": "option",

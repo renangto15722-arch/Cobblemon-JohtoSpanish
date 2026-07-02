@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Cycling Road"
+                "Ruta Ciclista"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Uphill starts here."
+                "La subida empieza aquí."
             ],
             "input": {
                 "type": "option",

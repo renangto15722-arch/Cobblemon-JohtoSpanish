@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My Eevee evolved into an Espeon."
+                "Mi Eevee evolucionó a Espeon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But my friend's Eevee turned into an Umbreon."
+                "Pero el Eevee de mi amigo se convirtió en Umbreon."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I wonder why? We both were raising our Eevee in the same way..."
+                "¿Por qué será? Los dos criábamos a nuestro Eevee de la misma forma..."
             ],
             "input": {
                 "type": "option",

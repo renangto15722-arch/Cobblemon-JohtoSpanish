@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My grandpa is at my brother Bill's house on Cerulean Cape."
+                "Mi abuelo está en la casa de mi hermano Bill, en el Cerulean Cape."
             ],
             "input": {
                 "type": "option",

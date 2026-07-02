@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ah. You're on an adventure with your Pokémon?"
+                "Ah. ¿Estás de aventura con tus Pokémon?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Well, what's an adventure without treasure hunting?"
+                "Bueno, ¿qué es una aventura sin buscar tesoros?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Am I right, or am I right?"
+                "¿Tengo razón o tengo razón?"
             ],
             "input": {
                 "type": "option",

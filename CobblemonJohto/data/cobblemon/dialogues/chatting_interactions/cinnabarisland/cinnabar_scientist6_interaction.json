@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Maybe when I become a fossil they'll revive me in the distant future."
+                "Quizás cuando me convierta en fósil me revivan en un futuro lejano."
             ],
             "input": {
                 "type": "option",

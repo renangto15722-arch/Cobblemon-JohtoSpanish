@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Koga's daughter succeeded him as the Gym Leader after he joined the Elite Four."
+                "La hija de Koga lo sucedió como Líder de Gimnasio después de que él se uniera al Alto Mando."
             ],
             "input": {
                 "type": "option",

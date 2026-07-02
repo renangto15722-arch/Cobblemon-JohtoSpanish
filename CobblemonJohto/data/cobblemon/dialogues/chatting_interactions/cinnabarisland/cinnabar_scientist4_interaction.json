@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey! No running in the hallways!"
+                "¡Oye! ¡No se corre por los pasillos!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "... Boy, I've always wanted the chance to say something like that!"
+                "... ¡Vaya, siempre quise tener la oportunidad de decir algo así!"
             ],
             "input": {
                 "type": "option",

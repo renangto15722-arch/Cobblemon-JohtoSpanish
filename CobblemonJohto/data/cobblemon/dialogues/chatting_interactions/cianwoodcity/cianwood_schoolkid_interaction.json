@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "If you use Fly, you can get back to Olivine instantly."
+                "Si usas Fly, puedes volver a Ciudad Olivo al instante."
             ],
             "input": {
                 "type": "option",

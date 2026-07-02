@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Scientists sometimes go into the Pokémon Mansion to carry out different experiments."
+                "A veces los científicos entran en la Mansión Pokémon para llevar a cabo distintos experimentos."
             ],
             "input": {
                 "type": "option",

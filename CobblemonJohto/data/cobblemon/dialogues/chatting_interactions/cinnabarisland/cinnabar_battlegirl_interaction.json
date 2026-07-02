@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I feel so sorry for Blaine. He lost his Gym..."
+                "Me da mucha pena Blaine. Perdió su Gimnasio..."
             ],
             "input": {
                 "type": "option",

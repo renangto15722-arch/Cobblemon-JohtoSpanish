@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Who are you?"
+                "¿Quién eres tú?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "My name's Blue. I was once the Kanto Champion."
+                "Me llamo Blue. Una vez fui el Campeón de Kanto."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Although it was short-lived thanks to Red..."
+                "Aunque duró poco gracias a Red..."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Anyway, take a good look around you..."
+                "En fin, echa un buen vistazo a tu alrededor..."
             ],
             "input": {
                 "type": "option",
@@ -87,7 +87,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "A volcano erupts, and just like that, a whole town disappears."
+                "Un volcán entra en erupción y, así sin más, un pueblo entero desaparece."
             ],
             "input": {
                 "type": "option",
@@ -105,7 +105,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "We can go on winning and losing in Pokémon, but if nature so much as twitches, we can be overwhelmed in a second..."
+                "Podemos seguir ganando y perdiendo en Pokémon, pero si la naturaleza apenas se mueve, podemos ser arrasados en un segundo..."
             ],
             "input": {
                 "type": "option",
@@ -123,7 +123,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "That's the way it is..."
+                "Así son las cosas..."
             ],
             "input": {
                 "type": "option",
@@ -141,7 +141,7 @@
             "id": "page8",
             "speaker": "npc",
             "lines": [
-                "But, anyway, I'm still a Trainer."
+                "Pero, en fin, sigo siendo un Entrenador."
             ],
             "input": {
                 "type": "option",
@@ -159,7 +159,7 @@
             "id": "page9",
             "speaker": "npc",
             "lines": [
-                "If I see a strong opponent, it makes me want to battle."
+                "Si veo a un oponente fuerte, me dan ganas de combatir."
             ],
             "input": {
                 "type": "option",
@@ -177,7 +177,7 @@
             "id": "page10",
             "speaker": "npc",
             "lines": [
-                "If you want to battle me...for real, come to the Viridian Gym."
+                "Si quieres combatir contra mí... de verdad, ven al Gimnasio de Ciudad Verde."
             ],
             "input": {
                 "type": "option",
@@ -195,7 +195,7 @@
             "id": "page11",
             "speaker": "npc",
             "lines": [
-                "I'll be waiting for you!"
+                "¡Te estaré esperando!"
             ],
             "input": {
                 "type": "option",

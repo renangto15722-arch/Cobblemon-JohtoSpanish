@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "According to legend... When the souls of Pokémon and humans commune, from the heavens descends a Pokémon of rainbow colors..."
+                "Según la leyenda... Cuando las almas de los Pokémon y los humanos se comunican, de los cielos desciende un Pokémon de colores del arcoíris..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Could it mean the legendary Pokémon are testing us humans?"
+                "¿Podría significar que los Pokémon legendarios nos están poniendo a prueba a los humanos?"
             ],
             "input": {
                 "type": "option",

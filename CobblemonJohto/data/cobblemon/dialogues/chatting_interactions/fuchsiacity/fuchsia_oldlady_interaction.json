@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "That Poke Ball over there..."
+                "Esa Poké Ball de allí..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Were you wanting that?"
+                "¿La querías?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Well, so was I!"
+                "¡Pues yo también!"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "...huh? That's actually a Pokémon?"
+                "...¿eh? ¿Eso es en realidad un Pokémon?"
             ],
             "input": {
                 "type": "option",

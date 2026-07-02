@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Tin Tower shook!"
+                "¡La Torre Hojalata tembló!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "A Pokémon must have returned to the top!"
+                "¡Un Pokémon debe de haber regresado a la cima!"
             ],
             "input": {
                 "type": "option",

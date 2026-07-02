@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Pokémon at the Olivine Lighthouse is sick."
+                "El Pokémon del Faro de Ciudad Olivo está enfermo."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Boats aren't able to safely sail out to see at night now."
+                "Ahora los barcos no pueden navegar con seguridad por la noche."
             ],
             "input": {
                 "type": "option",

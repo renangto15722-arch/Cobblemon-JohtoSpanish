@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm going to practice at the Dance Theater."
+                "Voy a practicar en el Teatro de Danza."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Care to join me?"
+                "¿Quieres acompañarme?"
             ],
             "input": {
                 "type": "option",

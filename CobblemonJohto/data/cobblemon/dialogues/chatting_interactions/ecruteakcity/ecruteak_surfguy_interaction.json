@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Not only are the Kimono Girls great dancers, they're also skilled at Pokémon."
+                "Las Kimono Girls no solo son grandes bailarinas, también son hábiles con los Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I always challenge them, but I've never even left a scratch..."
+                "Siempre las desafío, pero nunca les he hecho ni un rasguño..."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Lad! If you can defeat all the Kimono Girls, I'll give you a gift."
+                "¡Muchacho! Si logras derrotar a todas las Kimono Girls, te daré un regalo."
             ],
             "input": {
                 "type": "option",

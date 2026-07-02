@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Chuck, the Gym Leader, spars with his fighting Pokémon."
+                "Chuck, el Líder de Gimnasio, entrena combatiendo con sus Pokémon de tipo lucha."
             ],
             "input": {
                 "type": "option",

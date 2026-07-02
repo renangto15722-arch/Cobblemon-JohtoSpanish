@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Pokémon Gym trainers here are macho bullies."
+                "Los entrenadores del Gimnasio Pokémon de aquí son unos matones machotes."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If I stick around, they might come after me. Here's some advice: the Gym Leader uses the fighting-type."
+                "Si me quedo por aquí, podrían venir a por mí. Un consejo: el Líder de Gimnasio usa el tipo lucha."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "So you should confound him with psychic Pokémon. "
+                "Así que deberías confundirlo con Pokémon de tipo psíquico. "
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Wipe out his Pokémon before they can use their physical strength."
+                "Acaba con sus Pokémon antes de que puedan usar su fuerza física."
             ],
             "input": {
                 "type": "option",

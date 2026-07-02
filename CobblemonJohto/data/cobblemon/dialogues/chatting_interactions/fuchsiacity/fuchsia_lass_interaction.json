@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It sure is convenient having a Pokémon Center next door!"
+                "¡Es muy cómodo tener un Centro Pokémon al lado!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But it means my rent is really high..."
+                "Pero eso hace que mi alquiler sea muy alto..."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I, I'm in shock!"
+                "¡Es, estoy en shock!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "A guy about your age with piercing eyes and long hair came in."
+                "Entró un tipo más o menos de tu edad, con ojos penetrantes y pelo largo."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "He scared me into giving him my prized Pokemon!"
+                "¡Me asustó tanto que le di mi preciado Pokémon!"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "I still have one left, but what if he comes back?"
+                "Todavía me queda uno, pero ¿y si vuelve?"
             ],
             "input": {
                 "type": "option",
@@ -87,7 +87,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "You look strong. Could you look after my Pokemon for a while?"
+                "Pareces fuerte. ¿Podrías cuidar de mi Pokémon por un tiempo?"
             ],
             "input": {
                 "type": "option",

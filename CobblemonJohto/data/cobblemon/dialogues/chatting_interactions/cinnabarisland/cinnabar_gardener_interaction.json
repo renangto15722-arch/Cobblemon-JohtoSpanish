@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pokémon can keep on learning new moves, even if you stop them from evolving."
+                "Los Pokémon pueden seguir aprendiendo nuevos movimientos, aunque les impidas evolucionar."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's a trick that experienced trainers know!"
+                "¡Es un truco que conocen los entrenadores experimentados!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Wait till your Pokémon learns a move it wouldn't otherwise, and only then do you evolve it!"
+                "¡Espera a que tu Pokémon aprenda un movimiento que de otro modo no aprendería, y solo entonces lo evolucionas!"
             ],
             "input": {
                 "type": "option",

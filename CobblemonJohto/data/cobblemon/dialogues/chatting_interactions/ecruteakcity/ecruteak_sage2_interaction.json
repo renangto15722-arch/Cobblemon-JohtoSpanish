@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Brass Tower, which was said to awaken Pokémon, and Tin Tower, where Pokémon were said to rest."
+                "La Torre Latón, de la que se decía que despertaba a los Pokémon, y la Torre Hojalata, donde se decía que los Pokémon descansaban."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The view from the tops of the Towers must have been significant."
+                "La vista desde lo alto de las Torres debió de ser impresionante."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "At the time, an immense, silver-colored Pokémon was said to make its roost atop the Brass Tower."
+                "En aquel entonces, se decía que un Pokémon inmenso de color plateado anidaba en lo alto de la Torre Latón."
             ],
             "input": {
                 "type": "option",

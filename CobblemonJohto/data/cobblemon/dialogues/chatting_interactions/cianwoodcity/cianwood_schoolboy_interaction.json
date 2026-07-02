@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "A rare Pokémon spawns at the entrance of one of these islands!"
+                "¡Un Pokémon raro aparece en la entrada de una de estas islas!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I've only seen it on Fridays though... I wonder where it goes?"
+                "Aunque solo lo he visto los viernes... ¿adónde irá?"
             ],
             "input": {
                 "type": "option",

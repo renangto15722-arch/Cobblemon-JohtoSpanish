@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I hear Pokémon are rampaging at the Lake of Rage."
+                "He oído que los Pokémon están alborotados en el Lago de la Furia."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I'd like to see that."
+                "Me gustaría verlo."
             ],
             "input": {
                 "type": "option",

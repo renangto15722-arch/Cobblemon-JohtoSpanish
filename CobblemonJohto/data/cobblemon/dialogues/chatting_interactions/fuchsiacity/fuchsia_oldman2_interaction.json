@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I was hoping to buy some Safari Zone souvenirs, but it's closed..."
+                "Esperaba comprar algunos recuerdos de la Zona Safari, pero está cerrada..."
             ],
             "input": {
                 "type": "option",

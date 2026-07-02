@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm all sweaty."
+                "Estoy todo sudado."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Time for a swim."
+                "Hora de nadar."
             ],
             "input": {
                 "type": "option",

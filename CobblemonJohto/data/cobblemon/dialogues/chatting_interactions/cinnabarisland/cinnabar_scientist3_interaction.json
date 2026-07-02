@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Did you come to have a look at our lab?"
+                "¿Viniste a echar un vistazo a nuestro laboratorio?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Most impressive! I like to see that kind of drive!"
+                "¡Muy impresionante! ¡Me gusta ver ese tipo de empuje!"
             ],
             "input": {
                 "type": "option",

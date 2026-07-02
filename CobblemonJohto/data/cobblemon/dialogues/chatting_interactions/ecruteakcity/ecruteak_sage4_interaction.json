@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "When Brass Tower burned down, three nameless Pokémon were said to have perished. It was tragic."
+                "Cuando la Torre Latón se incendió, se dice que tres Pokémon sin nombre perecieron. Fue trágico."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "However, a rainbow-colored Pokémon..."
+                "Sin embargo, un Pokémon de colores del arcoíris..."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "In other words... Ho-Oh descended from the sky and gave life to the three Pokémon."
+                "En otras palabras... Ho-Oh descendió del cielo y dio vida a los tres Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "They are... Suicune, Entei, and Raikou. That is what they say."
+                "Ellos son... Suicune, Entei y Raikou. Eso es lo que dicen."
             ],
             "input": {
                 "type": "option",

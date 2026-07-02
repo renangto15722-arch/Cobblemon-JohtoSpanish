@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The way the Kimono Girls fance is marvelous."
+                "La forma en que las Kimono Girls bailan es maravillosa."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Just like the way they use their Pokémon."
+                "Igual que la forma en que usan a sus Pokémon."
             ],
             "input": {
                 "type": "option",

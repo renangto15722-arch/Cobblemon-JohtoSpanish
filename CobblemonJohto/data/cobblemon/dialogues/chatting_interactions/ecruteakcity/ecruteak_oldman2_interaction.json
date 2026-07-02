@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ah, youngster."
+                "Ah, jovencito."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Have you learned to dance like the Kimono Girls?"
+                "¿Has aprendido a bailar como las Kimono Girls?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "If you go to their Dance Theater, an odd old man will give you something nice, I hear."
+                "Si vas a su Teatro de Danza, un anciano peculiar te dará algo bonito, según he oído."
             ],
             "input": {
                 "type": "option",

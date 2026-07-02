@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm so glad to hear that no Cinnabar citizens were injured by the eruption!"
+                "¡Me alegra mucho saber que ningún ciudadano de Isla Canela resultó herido por la erupción!"
             ],
             "input": {
                 "type": "option",

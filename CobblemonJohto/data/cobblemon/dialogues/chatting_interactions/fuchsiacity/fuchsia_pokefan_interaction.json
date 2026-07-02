@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I got quite a shock at the Gym."
+                "Me llevé un buen susto en el Gimnasio."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "There were all these girls who looked identical.."
+                "Había un montón de chicas que parecían idénticas.."
             ],
             "input": {
                 "type": "option",

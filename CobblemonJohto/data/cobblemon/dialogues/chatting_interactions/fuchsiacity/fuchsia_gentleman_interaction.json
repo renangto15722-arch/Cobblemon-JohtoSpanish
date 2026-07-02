@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "A forgetful old man use to live here, but I heard he moved to Route 12."
+                "Un viejo olvidadizo vivía aquí, pero oí que se mudó a la Ruta 12."
             ],
             "input": {
                 "type": "option",

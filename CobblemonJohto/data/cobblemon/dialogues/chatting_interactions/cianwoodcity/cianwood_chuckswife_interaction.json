@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You crossed the sea to get here? That must have been hard."
+                "¿Cruzaste el mar para llegar aquí? Eso debió ser difícil."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It would be much easier if you had the HM Fly."
+                "Sería mucho más fácil si tuvieras el HM Fly."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "If you beat the Gym Leader here, come see me."
+                "Si vences al Líder de Gimnasio de aquí, ven a verme."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "I'll have a nice gift for you."
+                "Tendré un bonito regalo para ti."
             ],
             "input": {
                 "type": "option",

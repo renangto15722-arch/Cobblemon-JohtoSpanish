@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It's been a year since the volcano erupted."
+                "Ha pasado un año desde que el volcán entró en erupción."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It is so fortunate that everyone evacuated in time."
+                "Qué afortunado que todos evacuaron a tiempo."
             ],
             "input": {
                 "type": "option",

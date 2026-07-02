@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My eyes get so tired when I look at a computer for too long."
+                "Se me cansan mucho los ojos cuando miro una computadora demasiado tiempo."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Resting your eyes is important, you know!"
+                "¡Descansar la vista es importante, que lo sepas!"
             ],
             "input": {
                 "type": "option",

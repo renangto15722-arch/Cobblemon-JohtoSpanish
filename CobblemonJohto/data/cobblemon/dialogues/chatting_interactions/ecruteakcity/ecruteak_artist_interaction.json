@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "If you use Revive, a Pokémon that's fainted will wake right up."
+                "Si usas un Revivir, un Pokémon que se ha debilitado despertará al instante."
             ],
             "input": {
                 "type": "option",

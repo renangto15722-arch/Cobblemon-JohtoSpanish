@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi, I'm Bill. And who are you?"
+                "Hola, soy Bill. ¿Y tú quién eres?"
             ],
             "input": {
                 "type": "option",
@@ -35,7 +35,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'Hmm, ' + q.player.username + ', huh?';"
+                    "expression": "'Mmm, ' + q.player.username + ', ¿eh?';"
                 }
             ],
             "input": {
@@ -54,7 +54,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "You know what? I'm the one who developed the system to transfer Pokémon."
+                "¿Sabes qué? Yo soy quien desarrolló el sistema para transferir Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -72,7 +72,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "But it couldn't have been done by me alone. For example, do you know the Hoenn region?"
+                "Pero no podría haberlo hecho yo solo. Por ejemplo, ¿conoces la región de Hoenn?"
             ],
             "input": {
                 "type": "option",
@@ -90,7 +90,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "This girl Lanette from Hoenn made the Pokémon Storage System easier to use."
+                "Una chica llamada Lanette, de Hoenn, hizo que el Sistema de Almacenamiento Pokémon fuera más fácil de usar."
             ],
             "input": {
                 "type": "option",
@@ -108,7 +108,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "My friends all over the world are working together to improve the Pokémon trade and storage systems."
+                "Mis amigos de todo el mundo están trabajando juntos para mejorar los sistemas de intercambio y almacenamiento de Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -126,7 +126,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "I have to hurry on back to Goldenrod and see my folks. Buh-bye!"
+                "Tengo que volver deprisa a Ciudad Trigal para ver a mi familia. ¡Adiós!"
             ],
             "input": {
                 "type": "option",

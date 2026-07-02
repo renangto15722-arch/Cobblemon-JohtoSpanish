@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I wonder if I can pick up any X Attacks here..."
+                "Me pregunto si podré conseguir algún X Attack por aquí..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I like using X Attacks because you can boost your Pokémon's Attack stat with them!"
+                "¡Me gusta usar los X Attack porque con ellos puedes subir la estadística de Ataque de tu Pokémon!"
             ],
             "input": {
                 "type": "option",

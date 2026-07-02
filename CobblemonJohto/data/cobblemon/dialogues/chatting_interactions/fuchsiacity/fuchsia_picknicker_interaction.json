@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The roadwork is finally finished."
+                "Por fin terminaron las obras de la carretera."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Now I can go fishing again."
+                "Ahora puedo volver a pescar."
             ],
             "input": {
                 "type": "option",

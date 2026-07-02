@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "A bunch of Diglett popped out of the ground!"
+                "¡Un montón de Diglett salieron del suelo!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "That was shocking."
+                "Eso fue impactante."
             ],
             "input": {
                 "type": "option",

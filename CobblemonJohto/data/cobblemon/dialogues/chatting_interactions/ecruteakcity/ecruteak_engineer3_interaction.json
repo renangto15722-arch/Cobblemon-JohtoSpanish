@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Where did you say you're from?"
+                "¿De dónde dijiste que eres?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "New Bark Town? Professor Elm lives over there, right?"
+                "¿Pueblo Primavera? El Profesor Elm vive allí, ¿verdad?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "You've come a long way to get here."
+                "Has recorrido un largo camino para llegar aquí."
             ],
             "input": {
                 "type": "option",

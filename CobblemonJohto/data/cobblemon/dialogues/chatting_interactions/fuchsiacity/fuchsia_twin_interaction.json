@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Safari Zone Warden's grand daughter lives in town."
+                "La nieta del Guardián de la Zona Safari vive en la ciudad."
             ],
             "input": {
                 "type": "option",

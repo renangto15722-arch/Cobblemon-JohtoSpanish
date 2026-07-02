@@ -18,7 +18,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "That's Cianwood's Gym Badge! Then you should take this HM."
+                "¡Esa es la Medalla del Gimnasio de Ciudad Orquídea! Entonces deberías llevarte este HM."
             ],
             "input": {
                 "type": "option",
@@ -36,7 +36,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You will be able to Fly instantly to anywhere you have visited."
+                "Podrás usar Fly para ir al instante a cualquier lugar que hayas visitado."
             ],
             "input": {
                 "type": "option",
@@ -54,7 +54,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "My husband lost to you, so he needs to train harder."
+                "Mi esposo perdió contra ti, así que necesita entrenar más duro."
             ],
             "input": {
                 "type": "option",
@@ -72,7 +72,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "That's good, since he was getting a little chubby."
+                "Eso está bien, porque se estaba poniendo un poco regordete."
             ],
             "input": {
                 "type": "option",

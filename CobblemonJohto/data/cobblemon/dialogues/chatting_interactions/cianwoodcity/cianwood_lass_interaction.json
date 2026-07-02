@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Did you meet the Pokemaniac?"
+                "¿Conociste al Pokemaníaco?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "He's always bragging about his rare Pokémon."
+                "Siempre está presumiendo de sus Pokémon raros."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My SecretPotion is a tad too strong."
+                "Mi SecretPotion es un poco demasiado fuerte."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I only offer it in an emergency."
+                "Solo lo ofrezco en una emergencia."
             ],
             "input": {
                 "type": "option",

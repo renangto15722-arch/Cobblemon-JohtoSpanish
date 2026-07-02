@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey! You have a brand new kind of Pokedex."
+                "¡Eh! Tienes un tipo de Pokédex completamente nuevo."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Did Professor Oak give that to you?"
+                "¿Te lo dio el Profesor Oak?"
             ],
             "input": {
                 "type": "option",

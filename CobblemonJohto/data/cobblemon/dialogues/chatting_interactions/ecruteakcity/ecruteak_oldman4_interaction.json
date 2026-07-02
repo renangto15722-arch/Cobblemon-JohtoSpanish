@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Two towers..."
+                "Dos torres..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Two Pokémon..."
+                "Dos Pokémon..."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "But when one burned down, both Pokémon flew away, never to return."
+                "Pero cuando una se incendió, ambos Pokémon huyeron volando, para no volver jamás."
             ],
             "input": {
                 "type": "option",

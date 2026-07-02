@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The two Towers are said to have been built to foster friendship and hope between Pokémon and people."
+                "Se dice que las dos Torres fueron construidas para fomentar la amistad y la esperanza entre los Pokémon y las personas."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "That was 700 years ago, but the ideal still remains today."
+                "Eso fue hace 700 años, pero el ideal aún perdura hoy."
             ],
             "input": {
                 "type": "option",
