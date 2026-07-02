@@ -28,7 +28,7 @@
             "id": "greeting",
             "speaker": "pokemon",
             "lines": [
-                "So, you like Totodile, the Water-type Pokémon?"
+                "¿Así que te gusta Totodile, el Pokémon de tipo Agua?"
             ],
             "input": {
                 "type": "option",
@@ -57,7 +57,7 @@
             "id": "accept",
             "speaker": "elm",
             "lines": [
-                "I think that's a great Pokémon too!"
+                "¡Creo que ese también es un gran Pokémon!"
             ],
             "input": {
                 "type": "option",
@@ -83,7 +83,7 @@
             "id": "decline",
             "speaker": "elm",
             "lines": [
-                "Think it over carefully. Your partner is important."
+                "Piénsalo bien. Tu compañero es importante."
             ],
             "input": {
                 "type": "option",
