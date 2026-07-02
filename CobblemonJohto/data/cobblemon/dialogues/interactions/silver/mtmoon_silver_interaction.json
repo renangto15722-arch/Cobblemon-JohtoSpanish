@@ -29,7 +29,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey! You're here in Kanto, too?"
+                "¡Eh! ¿Tú también estás aquí en Kanto?"
             ],
             "input": {
                 "type": "option",
@@ -47,7 +47,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Some of the Trainers here are tough, which makes it easy to train my Pokémon!"
+                "¡Algunos de los Entrenadores de aquí son duros, lo que facilita entrenar a mis Pokémon!"
             ],
             "input": {
                 "type": "option",
@@ -65,7 +65,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I know that you are strong..."
+                "Sé que eres fuerte..."
             ],
             "input": {
                 "type": "option",
@@ -83,7 +83,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "But... I can't help but challenge you!"
+                "¡Pero... no puedo evitar desafiarte!"
             ],
             "input": {
                 "type": "option",

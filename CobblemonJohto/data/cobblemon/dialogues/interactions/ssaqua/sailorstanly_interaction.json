@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "What? You're saying I was asleep? Show some respect!"
+                "¿Qué? ¿Dices que estaba dormido? ¡Ten un poco de respeto!"
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "A crewman on duty would never be so unmindful as to take a nap in a place like this! I resent your implication! I challenge you!"
+                "¡Un marinero de servicio jamás sería tan descuidado como para echarse una siesta en un lugar así! ¡Me ofende lo que insinúas! ¡Te reto!"
             ],
             "input": {
                 "type": "option",

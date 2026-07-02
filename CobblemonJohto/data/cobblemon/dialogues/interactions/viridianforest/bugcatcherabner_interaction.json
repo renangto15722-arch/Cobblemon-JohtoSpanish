@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There are many people out there who prefer solid bug Pokémon over squishy bug Pokémon."
+                "Hay mucha gente por ahí que prefiere los Pokémon insecto duros antes que los Pokémon insecto blandos."
             ],
             "input": {
                 "type": "option",

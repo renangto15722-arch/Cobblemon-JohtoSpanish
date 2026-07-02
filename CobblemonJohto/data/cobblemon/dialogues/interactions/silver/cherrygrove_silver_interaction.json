@@ -34,7 +34,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "... You got a Pokémon at the Lab."
+                "... Conseguiste un Pokémon en el Laboratorio."
             ],
             "input": {
                 "type": "option",
@@ -52,7 +52,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "What a waste."
+                "Qué desperdicio."
             ],
             "input": {
                 "type": "option",
@@ -70,7 +70,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "That's a Pokémon that's too good for a wimp like you."
+                "Ese es un Pokémon demasiado bueno para un debilucho como tú."
             ],
             "input": {
                 "type": "option",
@@ -88,7 +88,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "... Don't you get what I'm saying? "
+                "... ¿No entiendes lo que digo? "
             ],
             "input": {
                 "type": "option",
@@ -106,7 +106,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Well, I too have a good Pokémon. "
+                "Pues bien, yo también tengo un buen Pokémon. "
             ],
             "input": {
                 "type": "option",
@@ -124,7 +124,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "I'll show you what I mean!"
+                "¡Te mostraré a qué me refiero!"
             ],
             "input": {
                 "type": "option",

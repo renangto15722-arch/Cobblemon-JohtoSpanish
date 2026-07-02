@@ -29,7 +29,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hold it!"
+                "¡Alto ahí!"
             ],
             "input": {
                 "type": "option",
@@ -47,7 +47,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "What I told you before was to deceive you."
+                "Lo que te dije antes era para engañarte."
             ],
             "input": {
                 "type": "option",
@@ -65,7 +65,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I thought it would let me tail you, and it would lead me to Lance."
+                "Pensé que así podría seguirte y que me llevarías hasta Lance."
             ],
             "input": {
                 "type": "option",
@@ -83,7 +83,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Well, he never showed up. ...No matter."
+                "Pues nunca apareció. ...No importa."
             ],
             "input": {
                 "type": "option",
@@ -101,7 +101,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "I was planning to beat you after Lance, but since you are here, I will repay my debts!"
+                "¡Planeaba vencerte después de Lance, pero ya que estás aquí, saldaré mis deudas!"
             ],
             "input": {
                 "type": "option",

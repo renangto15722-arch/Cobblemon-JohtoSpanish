@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You think I'm a baby? That's not fair!"
+                "¿Crees que soy una bebé? ¡Eso no es justo!"
             ],
             "input": {
                 "type": "option",

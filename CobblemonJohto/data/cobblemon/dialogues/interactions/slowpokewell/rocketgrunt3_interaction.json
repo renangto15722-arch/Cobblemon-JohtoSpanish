@@ -18,7 +18,7 @@
         {
           "id": "greeting",
           "speaker": "npc",
-          "lines": ["Quit taking SlowpokeTails?"],
+          "lines": ["¿Que dejemos de quitar SlowpokeTails?"],
                 "input": {
                     "type": "option",
                     "vertical": false,
@@ -35,7 +35,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If we listened to you, Team Rocket's rep would be ruined!"
+                "¡Si te hiciéramos caso, la reputación del Team Rocket quedaría arruinada!"
             ],
             "input": {
                 "type": "option",

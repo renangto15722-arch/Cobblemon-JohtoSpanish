@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "To beat the cold, try warm clothes and a hot drink!"
+                "¡Para combatir el frío, prueba con ropa abrigada y una bebida caliente!"
             ],
             "input": {
                 "type": "option",

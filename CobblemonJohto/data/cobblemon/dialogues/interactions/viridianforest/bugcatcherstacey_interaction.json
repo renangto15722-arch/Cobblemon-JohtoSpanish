@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Wow, that's a HUGE Pokémon! ... ...What kind of Trainer?!"
+                "¡Vaya, qué Pokémon tan ENORME! ... ...¿¡Qué clase de Entrenador!?"
             ],
             "input": {
                 "type": "option",

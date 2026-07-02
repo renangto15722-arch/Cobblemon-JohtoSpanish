@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Who's there? Leave me and my Pokemon alone!"
+                "¿Quién anda ahí? ¡Déjanos en paz a mí y a mis Pokémon!"
             ],
             "input": {
                 "type": "option",

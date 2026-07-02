@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "If the Pokemon I liked were there, I'd go anywhere. That's what a real trainer does."
+                "Si allí estuvieran los Pokémon que me gustan, iría a cualquier parte. Eso es lo que hace un verdadero entrenador."
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm going to Kanto to put on fire-breathing shows!"
+                "¡Voy a Kanto a hacer espectáculos de escupir fuego!"
             ],
             "input": {
                 "type": "option",

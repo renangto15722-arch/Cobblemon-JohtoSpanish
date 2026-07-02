@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It's been a while since I last saw another person. Don't be shy. Let's battle!"
+                "Hace tiempo que no veía a otra persona. No seas tímido. ¡Luchemos!"
             ],
             "input": {
                 "type": "option",

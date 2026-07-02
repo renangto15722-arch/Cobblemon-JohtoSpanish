@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Lt. Surge saw my potential with Electric-type Pokémon. Think you can beat me?"
+                "Lt. Surge vio mi potencial con los Pokémon de tipo Eléctrico. ¿Crees que puedes vencerme?"
             ],
             "input": {
                 "type": "option",

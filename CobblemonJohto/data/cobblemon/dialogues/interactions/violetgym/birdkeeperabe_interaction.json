@@ -21,7 +21,7 @@
         {
           "id": "greeting",
           "speaker": "npc",
-          "lines": ["I can't believe how ridiculously high this is! But from up here, you can tell what it feels like to be a bird Pokémon!"],
+          "lines": ["¡No puedo creer lo ridículamente alto que está esto! ¡Pero desde aquí arriba puedes sentir lo que es ser un Pokémon pájaro!"],
                 "input": {
                     "type": "option",
                     "vertical": false,
@@ -38,7 +38,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Let me see if you're good enough to face Falkner!"
+                "¡Déjame ver si eres lo bastante bueno para enfrentarte a Falkner!"
             ],
             "input": {
                 "type": "option",

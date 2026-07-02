@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I came all the way here to conduct my Pokemon research! Let me demonstrate my findings in a real battle!"
+                "¡Vine hasta aquí para llevar a cabo mi investigación Pokémon! ¡Déjame demostrar mis hallazgos en una batalla de verdad!"
             ],
             "input": {
                 "type": "option",

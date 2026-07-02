@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Welcome to Viridian Forest. Enjoy my Bug-type Pokémon!"
+                "Bienvenido al Bosque Verde. ¡Disfruta de mis Pokémon de tipo Bicho!"
             ],
             "input": {
                 "type": "option",

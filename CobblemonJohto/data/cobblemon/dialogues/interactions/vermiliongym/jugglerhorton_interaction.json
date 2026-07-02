@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm going to take you down! Prepare to be shocked!"
+                "¡Voy a derribarte! ¡Prepárate para una descarga!"
             ],
             "input": {
                 "type": "option",

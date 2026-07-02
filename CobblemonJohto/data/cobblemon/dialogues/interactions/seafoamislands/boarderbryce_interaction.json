@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "What did you come all the way out here for, I wonder."
+                "Me pregunto a qué habrás venido hasta aquí."
             ],
             "input": {
                 "type": "option",

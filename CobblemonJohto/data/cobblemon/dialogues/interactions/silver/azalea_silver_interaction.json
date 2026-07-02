@@ -31,7 +31,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "...Tell me something."
+                "...Dime una cosa."
             ],
             "input": {
                 "type": "option",
@@ -49,7 +49,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Is it true that Team Rocket has returned?"
+                "¿Es cierto que Team Rocket ha regresado?"
             ],
             "input": {
                 "type": "option",
@@ -67,7 +67,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "What? You beat them? Hah! Quit lying."
+                "¿Qué? ¿Que los venciste? ¡Bah! Deja de mentir."
             ],
             "input": {
                 "type": "option",
@@ -85,7 +85,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "Are you serious? Then let's see how good you are."
+                "¿Hablas en serio? Entonces veamos qué tan bueno eres."
             ],
             "input": {
                 "type": "option",

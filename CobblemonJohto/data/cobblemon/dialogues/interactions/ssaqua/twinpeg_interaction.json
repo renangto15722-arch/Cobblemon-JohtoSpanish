@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm not a baby! That's not a nice thing to say!"
+                "¡No soy una bebé! ¡No está bien decir eso!"
             ],
             "input": {
                 "type": "option",

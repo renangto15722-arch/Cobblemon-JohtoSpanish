@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You're here to defeat Lt. Surge? Not if I can help it!"
+                "¿Has venido a derrotar a Lt. Surge? ¡No si puedo evitarlo!"
             ],
             "input": {
                 "type": "option",

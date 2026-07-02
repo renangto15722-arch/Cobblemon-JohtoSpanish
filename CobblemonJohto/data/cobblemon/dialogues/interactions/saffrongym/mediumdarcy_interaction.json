@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Fufufufu... I see it clearly. I can see into your spirit!"
+                "Jujuju... Lo veo con claridad. ¡Puedo ver dentro de tu espíritu!"
             ],
             "input": {
                 "type": "option",

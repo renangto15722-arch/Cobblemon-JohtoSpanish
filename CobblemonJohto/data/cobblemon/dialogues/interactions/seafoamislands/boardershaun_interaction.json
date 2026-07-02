@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, hey, you're in my way! Right!"
+                "¡Oye, oye, me estás estorbando! ¡Eso es!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You're headed to Azalea, are you? Let my Pokémon see if you are good enough to battle."
+                "Vas rumbo a Pueblo Azalea, ¿verdad? Deja que mis Pokémon comprueben si eres lo bastante bueno para luchar."
             ],
             "input": {
                 "type": "option",

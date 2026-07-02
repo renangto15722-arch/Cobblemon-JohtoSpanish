@@ -18,7 +18,7 @@
         {
           "id": "greeting",
           "speaker": "npc",
-          "lines": ["Humph! I was standing guard up top when some old coot yelled at me. He startled me so much that I fell down here."],
+          "lines": ["¡Bah! Estaba haciendo guardia allá arriba cuando un viejo chiflado me gritó. Me asustó tanto que me caí hasta aquí."],
                 "input": {
                     "type": "option",
                     "vertical": false,
@@ -35,7 +35,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "How about I vent my anger and take it out on you!"
+                "¡Qué tal si descargo mi rabia contra ti!"
             ],
             "input": {
                 "type": "option",

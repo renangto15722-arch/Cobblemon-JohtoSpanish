@@ -29,7 +29,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hold it."
+                "Alto ahí."
             ],
             "input": {
                 "type": "option",
@@ -47,7 +47,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "...Are you going to challenge the Pokémon League?"
+                "...¿Vas a desafiar a la Liga Pokémon?"
             ],
             "input": {
                 "type": "option",
@@ -65,7 +65,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Victory Road is at its end, for sure. But did you notice...?"
+                "La Calle Victoria está por terminar, sin duda. Pero ¿te diste cuenta...?"
             ],
             "input": {
                 "type": "option",
@@ -83,7 +83,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "You didn't see any real Trainers on the way, did you?"
+                "No viste a ningún Entrenador de verdad en el camino, ¿cierto?"
             ],
             "input": {
                 "type": "option",
@@ -101,7 +101,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Man, they were all spineless!"
+                "¡Vaya, todos eran unos cobardes!"
             ],
             "input": {
                 "type": "option",
@@ -119,7 +119,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Well, the fact that you have come this far means you're not one of them."
+                "Bueno, el hecho de que hayas llegado tan lejos significa que tú no eres uno de ellos."
             ],
             "input": {
                 "type": "option",
@@ -137,7 +137,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "But! Your journey ends here!"
+                "¡Pero! ¡Tu viaje termina aquí!"
             ],
             "input": {
                 "type": "option",
@@ -155,7 +155,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "Because...right here, right now... I will crush you!"
+                "Porque...aquí mismo, ahora mismo... ¡te aplastaré!"
             ],
             "input": {
                 "type": "option",

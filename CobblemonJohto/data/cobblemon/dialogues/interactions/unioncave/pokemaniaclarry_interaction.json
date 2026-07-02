@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I roam far and wide in search of Pokémon. Are you looking for Pokémon, too? Then you're my collecting rival!"
+                "Recorro todas partes en busca de Pokémon. ¿Tú también buscas Pokémon? ¡Entonces eres mi rival de colección!"
             ],
             "input": {
                 "type": "option",

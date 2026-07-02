@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "However hard we battle, the tower will stand strong."
+                "Por más que luchemos, la torre seguirá firme."
             ],
             "input": {
                 "type": "option",

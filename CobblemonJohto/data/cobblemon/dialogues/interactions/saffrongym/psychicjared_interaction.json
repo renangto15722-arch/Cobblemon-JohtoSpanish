@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Fighting Dojo next door was once this city's Gym."
+                "El Dojo Karate de al lado fue en su día el Gimnasio de esta ciudad."
             ],
             "input": {
                 "type": "option",

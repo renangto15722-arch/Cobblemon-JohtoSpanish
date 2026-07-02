@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We stand guard in this tower. Here, we express our gratitude to show our respect for all Pokémon."
+                "Montamos guardia en esta torre. Aquí expresamos nuestra gratitud para mostrar nuestro respeto por todos los Pokémon."
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I sway like leaves in the wind..."
+                "Me mezo como las hojas en el viento..."
             ],
             "input": {
                 "type": "option",

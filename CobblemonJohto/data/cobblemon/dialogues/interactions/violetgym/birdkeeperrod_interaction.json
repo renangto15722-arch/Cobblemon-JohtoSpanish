@@ -21,7 +21,7 @@
         {
           "id": "greeting",
           "speaker": "npc",
-          "lines": ["Ho ho! You some kind of big shot? We'll see what happens if you get pushed around up here. Think you'll stagger and fall?"],
+          "lines": ["¡Jo, jo! ¿Te crees alguien importante? Veremos qué pasa si te empujan aquí arriba. ¿Crees que te tambalearás y caerás?"],
                 "input": {
                     "type": "option",
                     "vertical": false,
@@ -38,7 +38,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "People here are training night and day to become bird Pokémon masters. Bring it on!"
+                "La gente de aquí entrena día y noche para convertirse en maestros de los Pokémon pájaro. ¡Adelante!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Urrf... I'm seasick!"
+                "Urgh... ¡Estoy mareado!"
             ],
             "input": {
                 "type": "option",

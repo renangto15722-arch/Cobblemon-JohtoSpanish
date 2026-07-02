@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I train to find enlightenment in Pokémon!"
+                "¡Entreno para hallar la iluminación en los Pokémon!"
             ],
             "input": {
                 "type": "option",

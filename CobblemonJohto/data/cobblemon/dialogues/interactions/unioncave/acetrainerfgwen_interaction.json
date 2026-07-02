@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm in training. Care for a round?"
+                "Estoy entrenando. ¿Te apetece un combate?"
             ],
             "input": {
                 "type": "option",

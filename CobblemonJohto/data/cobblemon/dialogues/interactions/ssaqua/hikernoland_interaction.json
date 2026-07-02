@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Are you alone? Then let's battle!"
+                "¿Estás solo? ¡Entonces luchemos!"
             ],
             "input": {
                 "type": "option",

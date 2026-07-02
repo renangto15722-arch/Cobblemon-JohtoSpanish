@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Whoa! What a surprise! I didn't expect to see anyone here!"
+                "¡Vaya! ¡Qué sorpresa! ¡No esperaba ver a nadie por aquí!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Let me see how much you trust your Pokémon."
+                "Déjame ver cuánto confías en tus Pokémon."
             ],
             "input": {
                 "type": "option",

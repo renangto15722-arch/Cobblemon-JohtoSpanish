@@ -18,7 +18,7 @@
         {
           "id": "greeting",
           "speaker": "npc",
-          "lines": ["Stop taking SlowpokeTails? What?! You want us to disobey a direct order from Executive Proton?"],
+          "lines": ["¿Dejar de quitar SlowpokeTails? ¡¿Qué?! ¿Quieres que desobedezcamos una orden directa del Ejecutivo Proton?"],
                 "input": {
                     "type": "option",
                     "vertical": false,
@@ -35,7 +35,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If you want to stop us, you'll have to defeat us all! Go ahead and try!"
+                "¡Si quieres detenernos, tendrás que vencernos a todos! ¡Anda, inténtalo!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There are two kinds of people. Those who have style, and those who don't. What kind of person are you?"
+                "Hay dos clases de personas. Las que tienen estilo y las que no. ¿Qué clase de persona eres tú?"
             ],
             "input": {
                 "type": "option",

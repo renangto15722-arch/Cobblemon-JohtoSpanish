@@ -21,7 +21,7 @@
         {
             "id": "greeting",
             "speaker": "npc",
-            "lines": ["So good of you to come here! Sprout Tower is a place of training. People and Pokémon test their bonds to build a bright future together."],
+            "lines": ["¡Qué bueno que hayas venido! La Torre Bellsprout es un lugar de entrenamiento. Las personas y los Pokémon ponen a prueba sus lazos para construir juntos un futuro brillante."],
                   "input": {
                       "type": "option",
                       "vertical": false,
@@ -38,7 +38,7 @@
               "id": "page2",
               "speaker": "npc",
               "lines": [
-                  "I am the final test. Allow me to check the ties between you and your Pokémon!"
+                  "Yo soy la prueba final. ¡Déjame comprobar los lazos entre tú y tus Pokémon!"
               ],
               "input": {
                   "type": "option",

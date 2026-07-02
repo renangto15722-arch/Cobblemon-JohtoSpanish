@@ -18,7 +18,7 @@
         {
           "id": "greeting",
           "speaker": "npc",
-          "lines": ["What do we have here? I am often labeled as the scariest and cruelest guy in Team Rocket..."],
+          "lines": ["¿Qué tenemos aquí? A menudo me consideran el tipo más temible y cruel del Team Rocket..."],
                 "input": {
                     "type": "option",
                     "vertical": false,
@@ -35,7 +35,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I strongly urge you not to interfere with our business!"
+                "¡Te recomiendo encarecidamente que no te entrometas en nuestros asuntos!"
             ],
             "input": {
                 "type": "option",

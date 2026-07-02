@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "What do you know! A visitor!"
+                "¡Vaya, vaya! ¡Un visitante!"
             ],
             "input": {
                 "type": "option",

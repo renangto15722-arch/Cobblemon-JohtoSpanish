@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Psychic power is the power of your mind."
+                "El poder psíquico es el poder de tu mente."
             ],
             "input": {
                 "type": "option",

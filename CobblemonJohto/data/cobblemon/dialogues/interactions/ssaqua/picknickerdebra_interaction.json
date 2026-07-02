@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm so bored. Want to battle?"
+                "Estoy muy aburrida. ¿Quieres luchar?"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I've practiced training my Pokémon, but I've practiced breathing fire many more times than that. Don't try this at home, OK?"
+                "He practicado entrenando a mis Pokémon, pero he practicado escupir fuego muchas más veces que eso. No intentes esto en casa, ¿vale?"
             ],
             "input": {
                 "type": "option",

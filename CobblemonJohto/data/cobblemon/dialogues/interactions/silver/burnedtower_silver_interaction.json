@@ -29,7 +29,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "......Oh, it's you."
+                "......Ah, eres tú."
             ],
             "input": {
                 "type": "option",
@@ -47,7 +47,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You must be here to catch the legendary Pokémon to make yourself look strong."
+                "Seguro que has venido a capturar al Pokémon legendario para aparentar ser fuerte."
             ],
             "input": {
                 "type": "option",
@@ -65,7 +65,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "That is only a dream."
+                "Eso no es más que un sueño."
             ],
             "input": {
                 "type": "option",
@@ -83,7 +83,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "You see, the legendary Pokémon suits a Trainer like me who has sworn to become the strongest Trainer."
+                "Verás, el Pokémon legendario le va bien a un entrenador como yo, que ha jurado convertirse en el entrenador más fuerte."
             ],
             "input": {
                 "type": "option",
@@ -101,7 +101,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "A battle with Team Rocket Grunts is just right for you!"
+                "¡Una batalla con los Reclutas de Team Rocket es justo lo que te conviene!"
             ],
             "input": {
                 "type": "option",

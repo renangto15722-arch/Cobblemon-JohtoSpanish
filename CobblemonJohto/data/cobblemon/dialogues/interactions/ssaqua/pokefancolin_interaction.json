@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, kid! Want to battle with me?"
+                "¡Eh, chico! ¿Quieres luchar conmigo?"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "If there's light, a cave isn't scary. If you're strong, Pokémon aren't scary."
+                "Si hay luz, una cueva no da miedo. Si eres fuerte, los Pokémon no dan miedo."
             ],
             "input": {
                 "type": "option",

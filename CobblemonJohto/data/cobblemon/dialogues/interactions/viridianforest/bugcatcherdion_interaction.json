@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Shh! Be quiet! The bug Pokémon will run away!"
+                "¡Shh! ¡Silencio! ¡Los Pokémon insecto se escaparán!"
             ],
             "input": {
                 "type": "option",

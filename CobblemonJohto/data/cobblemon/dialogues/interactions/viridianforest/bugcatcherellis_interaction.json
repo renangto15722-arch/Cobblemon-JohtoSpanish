@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm sure that there's nothing more efficient and beautiful in this world than a Bug-type Pokémon."
+                "Estoy seguro de que no hay nada más eficiente y hermoso en este mundo que un Pokémon de tipo Bicho."
             ],
             "input": {
                 "type": "option",

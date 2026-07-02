@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The power of all those you defeated comes to me!"
+                "¡El poder de todos los que has derrotado viene a mí!"
             ],
             "input": {
                 "type": "option",

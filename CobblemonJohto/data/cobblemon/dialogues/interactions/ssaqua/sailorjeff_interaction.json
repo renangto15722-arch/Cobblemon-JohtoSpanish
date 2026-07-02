@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Nothing beats a battle when I'm on my break."
+                "Nada como una batalla cuando estoy en mi descanso."
             ],
             "input": {
                 "type": "option",

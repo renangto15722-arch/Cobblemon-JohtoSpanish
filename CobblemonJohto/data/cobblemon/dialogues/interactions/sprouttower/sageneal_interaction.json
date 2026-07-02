@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Elder's HM lights even pitch-black darkness."
+                "La HM del Anciano ilumina hasta la oscuridad más absoluta."
             ],
             "input": {
                 "type": "option",
