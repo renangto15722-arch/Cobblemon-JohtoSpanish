@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $368 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $368 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 368');"
         ],
   "speakers": {
@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["It was a dark and stormy night... I saw this giant Pokémon flying from the Whirl Islands. Feathers were scattering from its silver wings."],
+      "lines": ["Era una noche oscura y tormentosa... Vi a este Pokémon gigante volando desde las Islas Remolino. De sus alas plateadas se desprendian plumas."],
             "input": {
                 "type": "option",
                 "vertical": false,

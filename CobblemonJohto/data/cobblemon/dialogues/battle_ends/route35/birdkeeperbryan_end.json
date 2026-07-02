@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $448 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $448 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 448');"
         ],
   "speakers": {
@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["Some Pokémon flee right away. Try catching them with Kurt's Fast Ball."],
+      "lines": ["Algunos Pokémon huyen enseguida. Intenta capturarlos con la Rapid Ball de Kurt."],
             "input": {
                 "type": "option",
                 "vertical": false,
@@ -36,7 +36,7 @@
         {
           "id": "page2",
           "speaker": "npc",
-          "lines": ["Whenever I find a Wht. Apricorn, I take it to Kurt. He turns it into a custom Ball."],
+          "lines": ["Siempre que encuentro una Wht. Apricorn, se la llevo a Kurt. El la convierte en una Ball personalizada."],
                 "input": {
                     "type": "option",
                     "vertical": false,

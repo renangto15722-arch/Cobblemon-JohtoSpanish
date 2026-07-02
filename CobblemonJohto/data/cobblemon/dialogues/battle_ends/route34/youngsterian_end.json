@@ -2,16 +2,16 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $656 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
-    "q.run_command('scoreboard players add ' + q.player.username + ' Money 656');"
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $192 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('scoreboard players add ' + q.player.username + ' Money 192');"
         ],
   "speakers": {
     "npc": {
-      "name": "Laura",
+      "name": "Ian",
       "face": {
         "type": "artificial",
         "modelType": "npc",
-        "identifier": "cobblemon:lass2",
+        "identifier": "cobblemon:youngster",
         "isLeftSide": true
       }
     }
@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["Yo tambien perdi..."],
+      "lines": ["Me esfuerzo mucho para poder ser la estrella de mi clase."],
             "input": {
                 "type": "option",
                 "vertical": false,

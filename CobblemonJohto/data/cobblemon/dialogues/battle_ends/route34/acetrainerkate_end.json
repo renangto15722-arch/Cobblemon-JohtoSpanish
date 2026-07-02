@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $1,680 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $1,680 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 1680');"
         ],
   "speakers": {
@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["I'm sorry we jumped you. We never expected anyone to find  us here. You sure startled us."],
+      "lines": ["Siento que te hayamos saltado encima. Nunca esperamos que alguien nos encontrara aqui. Vaya susto nos diste."],
             "input": {
                 "type": "option",
                 "vertical": false,

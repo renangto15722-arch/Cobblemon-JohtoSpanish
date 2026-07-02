@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $1,920 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $1,920 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 1920');"
         ],
   "speakers": {
@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["I'm checking out pre- and post-evolution Pokémon. Evolution really does make Pokémon stronger. But evolved forms also learn moves later on."],
+      "lines": ["Estoy estudiando los Pokémon antes y despues de evolucionar. La evolucion de verdad hace mas fuertes a los Pokémon. Pero las formas evolucionadas tambien aprenden movimientos mas tarde."],
             "input": {
                 "type": "option",
                 "vertical": false,

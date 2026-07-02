@@ -4,7 +4,7 @@
         "q.run_command('tag ' + q.player.username + ' add Dialogue219');",
         "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
         "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $1,560 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $1,560 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 1560');"
     ],
     "speakers": {
@@ -23,7 +23,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "OK. Tell you mine secret will I. Machine Part steal by me."
+                "OK. Decirte mi secreto yo lo hare. Machine Part robada por mi."
             ],
             "input": {
                 "type": "option",
@@ -41,7 +41,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Hide it I did in Gym of the Cerulean."
+                "Esconderlo yo lo hice en Gimnasio de Celeste."
             ],
             "input": {
                 "type": "option",
@@ -59,7 +59,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "At bottom of pool put it I did. Look for Gym at."
+                "En fondo de piscina ponerlo yo lo hice. Buscar en Gimnasio."
             ],
             "input": {
                 "type": "option",
@@ -77,7 +77,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "But you forget me not! Beat you for sure will Team Rocket."
+                "¡Pero a mi no me olvides! Vencerte seguro lo hara Team Rocket."
             ],
             "input": {
                 "type": "option",
@@ -95,7 +95,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Come from Johto will they, mine allies, yes. Will revenge they are."
+                "Venir de Johto lo haran, mis aliados, si. Vengarse ellos lo haran."
             ],
             "input": {
                 "type": "option",
@@ -113,7 +113,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "... You say what? Team Rocket bye-bye a go-go?"
+                "... ¿Tu decir que? ¿Team Rocket adios-adios a go-go?"
             ],
             "input": {
                 "type": "option",
@@ -131,7 +131,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Broken up it is says you? Oh, no!"
+                "¿Disuelto esta dices tu? ¡Oh, no!"
             ],
             "input": {
                 "type": "option",
@@ -149,7 +149,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Should I do what now on from, me?"
+                "¿Que deberia yo hacer de ahora en adelante, yo?"
             ],
             "input": {
                 "type": "option",
@@ -167,7 +167,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "...OK. I my country go home. Make Team Rocket I will. Good-bye! So long!"
+                "...OK. Yo mi pais ir a casa. Hacer Team Rocket yo lo hare. ¡Adios! ¡Hasta siempre!"
             ],
             "input": {
                 "type": "option",
