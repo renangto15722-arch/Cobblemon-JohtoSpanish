@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hello. I'm sorry, but we're not offering any tours today."
+                "Hola. Lo siento, pero hoy no ofrecemos visitas guiadas."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I always play this slot machine."
+                "Siempre juego en esta tragaperras."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It pays out more than others, I think."
+                "Creo que paga más que las demás."
             ],
             "input": {
                 "type": "option",

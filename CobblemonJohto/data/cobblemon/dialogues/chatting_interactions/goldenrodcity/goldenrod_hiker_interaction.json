@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The train hasn't come in..."
+                "El tren no ha llegado..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I know! I'll carry passengers on my back!"
+                "¡Ya sé! ¡Llevaré a los pasajeros sobre mi espalda!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "That won't work."
+                "Eso no va a funcionar."
             ],
             "input": {
                 "type": "option",

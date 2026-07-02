@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Are you here from the Lucky Numbers show?"
+                "¿Vienes por el programa de los Números de la Suerte?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Tune in to channel 4 if you haven't, then show me a Pokémon to check its numbers!"
+                "¡Sintoniza el canal 4 si aún no lo has hecho, y luego muéstrame un Pokémon para revisar sus números!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It might be a winner."
+                "Podría ser un ganador."
             ],
             "input": {
                 "type": "option",

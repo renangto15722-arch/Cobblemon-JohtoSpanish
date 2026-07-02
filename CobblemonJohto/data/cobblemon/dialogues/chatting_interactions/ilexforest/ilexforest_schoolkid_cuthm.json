@@ -19,7 +19,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Wow! Thanks a whole bunch!"
+                "¡Vaya! ¡Muchísimas gracias!"
             ],
             "input": {
                 "type": "option",
@@ -37,7 +37,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "My boss's Pokémon won't obey me because I don't have a Badge."
+                "El Pokémon de mi jefe no me obedece porque no tengo una Medalla."
             ],
             "input": {
                 "type": "option",
@@ -55,7 +55,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Without it, we wouldn't be able to Cut trees for charcoal."
+                "Sin ella, no podríamos cortar árboles para hacer carbón."
             ],
             "input": {
                 "type": "option",
@@ -73,7 +73,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Now, how can I thank you..."
+                "Ahora bien, ¿cómo te lo puedo agradecer...?"
             ],
             "input": {
                 "type": "option",
@@ -91,7 +91,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "I know! Here, take this."
+                "¡Ya sé! Toma, llévate esto."
             ],
             "input": {
                 "type": "option",
@@ -109,7 +109,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "That's the Cut HM. You can use that to clear small trees."
+                "Es la Cut HM. Puedes usarla para despejar árboles pequeños."
             ],
             "input": {
                 "type": "option",
@@ -127,7 +127,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "Thanks again for your help!"
+                "¡Gracias de nuevo por tu ayuda!"
             ],
             "input": {
                 "type": "option",

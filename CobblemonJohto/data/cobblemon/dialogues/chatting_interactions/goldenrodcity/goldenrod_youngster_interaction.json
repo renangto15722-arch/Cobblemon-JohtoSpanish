@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey. I love strong Pokémon."
+                "Oye. Me encantan los Pokémon fuertes."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I feed them Protein to crank up their attack."
+                "Les doy Protein para potenciar su ataque."
             ],
             "input": {
                 "type": "option",

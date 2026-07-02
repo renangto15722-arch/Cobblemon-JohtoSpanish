@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I heard this lake was made by rampaging Gyarados."
+                "Oí que este lago lo crearon unos Gyarados enfurecidos."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I wonder if there is any connection to their mass outbreak now?"
+                "Me pregunto si tendrá alguna relación con su aparición masiva de ahora."
             ],
             "input": {
                 "type": "option",

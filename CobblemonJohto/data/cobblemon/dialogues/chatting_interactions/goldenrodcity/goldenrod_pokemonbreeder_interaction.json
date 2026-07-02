@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I know there's a new Bike Shop, but I can't find it anywhere..."
+                "Sé que hay una nueva Tienda de Bicicletas, pero no la encuentro por ningún lado..."
             ],
             "input": {
                 "type": "option",

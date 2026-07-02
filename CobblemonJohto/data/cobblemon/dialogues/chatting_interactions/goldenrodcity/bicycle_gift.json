@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "...sigh..."
+                "...suspiro..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I moved here, but I can't sell my Bicycles. Why is that?"
+                "Me mudé aquí, pero no puedo vender mis bicicletas. ¿Por qué será?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Could you ride a Bicycle and advertise for me?"
+                "¿Podrías montar una bicicleta y hacerme publicidad?"
             ],
             "input": {
                 "type": "option",
@@ -74,7 +74,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Really? Great!"
+                "¿En serio? ¡Genial!"
             ],
             "input": {
                 "type": "option",
@@ -92,7 +92,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Give me your name and phone number, and I'll loan you a Bicycle."
+                "Dame tu nombre y número de teléfono, y te prestaré una bicicleta."
             ],
             "input": {
                 "type": "option",
@@ -115,7 +115,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "The main shop is at Cerulean back in Kanto."
+                "La tienda principal está en Ciudad Celeste, de vuelta en Kanto."
             ],
             "input": {
                 "type": "option",
@@ -133,7 +133,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "Say hello to the shop manager if you happen to go there!"
+                "¡Saluda al encargado de la tienda si vas por allí!"
             ],
             "input": {
                 "type": "option",
@@ -151,7 +151,7 @@
             "id": "page8",
             "speaker": "npc",
             "lines": [
-                "Our Bicycles are first-rate! You can ride them in Kanto, too!"
+                "¡Nuestras bicicletas son de primera! ¡También puedes montarlas en Kanto!"
             ],
             "input": {
                 "type": "option",
@@ -171,7 +171,7 @@
             "id": "page9",
             "speaker": "npc",
             "lines": [
-                "Sigh... Oh, for the kindness of people..."
+                "Suspiro... Ay, la bondad de la gente..."
             ],
             "input": {
                 "type": "option",

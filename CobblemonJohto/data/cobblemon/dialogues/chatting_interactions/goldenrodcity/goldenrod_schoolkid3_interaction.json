@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You can listen to the radio anywhere."
+                "Puedes escuchar la radio en cualquier lugar."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Tune in!"
+                "¡Sintonízala!"
             ],
             "input": {
                 "type": "option",

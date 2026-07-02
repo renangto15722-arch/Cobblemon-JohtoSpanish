@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This way leads to Mt. Silver. "
+                "Este camino lleva al Monte Plateado. "
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You'll see scary strong Pokémon out there."
+                "Verás Pokémon aterradoramente fuertes por ahí."
             ],
             "input": {
                 "type": "option",

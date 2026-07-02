@@ -24,7 +24,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Welcome! I run the Pokémon Salon!"
+                "¡Bienvenido! ¡Yo llevo el Salón Pokémon!"
             ],
             "input": {
                 "type": "option",
@@ -42,7 +42,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I can make your Pokémon beautiful for just $500."
+                "Puedo embellecer a tu Pokémon por solo $500."
             ],
             "input": {
                 "type": "option",
@@ -60,7 +60,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Grooming gives a better look. Your Pokémon will become friendlier and more beautiful."
+                "El acicalado le da mejor aspecto. Tu Pokémon será más amistoso y más hermoso."
             ],
             "input": {
                 "type": "option",
@@ -78,7 +78,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Would you like me to do that?"
+                "¿Quieres que lo haga?"
             ],
             "input": {
                 "type": "option",
@@ -103,7 +103,7 @@
             "id": "yes1",
             "speaker": "npc",
             "lines": [
-                "Which Pokémon should I work on?"
+                "¿Con qué Pokémon debo trabajar?"
             ],
             "input": {
                 "type": "option",
@@ -188,7 +188,7 @@
             "id": "yes2",
             "speaker": "npc",
             "lines": [
-                "OK! Watch it become beautiful!"
+                "¡Muy bien! ¡Mira cómo se vuelve hermoso!"
             ],
             "input": {
                 "type": "option",
@@ -211,7 +211,7 @@
             "id": "nothanks",
             "speaker": "npc",
             "lines": [
-                "Is that right? That's a shame!"
+                "¿En serio? ¡Qué lástima!"
             ],
             "input": {
                 "type": "option",

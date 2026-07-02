@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Yo, Champ in making!"
+                "¡Eh, futuro Campeón!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Since Misty was away, I went out for some fun too. He-he-he."
+                "Como Misty no estaba, yo también salí a divertirme un poco. Je-je-je."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Yo, challenger!"
+                "¡Eh, retador!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Bugsy's young, but his knowledge of bug pokémon is for real."
+                "Bugsy es joven, pero su conocimiento sobre los Pokémon de tipo bicho es de verdad."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It's going to be tough without my advice. Let's see..."
+                "Será difícil sin mi consejo. Veamos..."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Bug pokémon don't like fire. Flying-type moves are super-effective too."
+                "A los Pokémon de tipo bicho no les gusta el fuego. Los movimientos de tipo volador también son supereficaces."
             ],
             "input": {
                 "type": "option",

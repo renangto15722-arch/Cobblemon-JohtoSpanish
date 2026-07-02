@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I gave my Pokémon a Water Stone."
+                "Le di a mi Pokémon una Piedra Agua."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I can't believe how much it changed!"
+                "¡No puedo creer cuánto cambió!"
             ],
             "input": {
                 "type": "option",

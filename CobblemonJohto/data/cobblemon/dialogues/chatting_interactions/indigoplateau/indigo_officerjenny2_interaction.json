@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Off to the Pokémon League, are you?"
+                "Vas rumbo a la Liga Pokémon, ¿verdad?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The Elite Four are so strong it's scary, and they're ready for you!"
+                "¡El Alto Mando es tan fuerte que da miedo, y están listos para ti!"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I wonder how many kinds of Pokémon there are in the world."
+                "Me pregunto cuántas clases de Pokémon hay en el mundo."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Three years ago, Professor Oak said that there were 150 different kinds."
+                "Hace tres años, el Profesor Oak dijo que había 150 clases distintas."
             ],
             "input": {
                 "type": "option",

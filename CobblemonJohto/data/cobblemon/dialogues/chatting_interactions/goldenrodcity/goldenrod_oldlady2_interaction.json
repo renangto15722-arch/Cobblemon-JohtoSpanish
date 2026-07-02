@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I won't quit until I win!"
+                "¡No pararé hasta ganar!"
             ],
             "input": {
                 "type": "option",

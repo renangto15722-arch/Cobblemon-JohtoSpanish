@@ -19,7 +19,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My Farfetch'd ran off! I could really use the help of an experienced trainer..."
+                "¡Mi Farfetch'd se escapó! Me vendría muy bien la ayuda de un entrenador experimentado..."
             ],
             "input": {
                 "type": "option",

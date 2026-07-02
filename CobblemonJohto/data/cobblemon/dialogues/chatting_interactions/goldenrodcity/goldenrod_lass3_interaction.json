@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Mom's good at bargain hunting."
+                "Mamá es buena buscando gangas."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "She always buys stuff at lower prices."
+                "Siempre compra cosas a precios más bajos."
             ],
             "input": {
                 "type": "option",

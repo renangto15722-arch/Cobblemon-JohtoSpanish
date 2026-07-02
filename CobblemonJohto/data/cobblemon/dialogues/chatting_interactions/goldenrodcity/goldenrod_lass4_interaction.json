@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Lullabies on the radio may make Pokémon sleep."
+                "Las nanas de la radio pueden hacer dormir a los Pokémon."
             ],
             "input": {
                 "type": "option",

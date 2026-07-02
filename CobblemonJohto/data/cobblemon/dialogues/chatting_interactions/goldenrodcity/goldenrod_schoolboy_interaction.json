@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I got in trouble for playing in the underground."
+                "Me metí en problemas por jugar en el subterráneo."
             ],
             "input": {
                 "type": "option",

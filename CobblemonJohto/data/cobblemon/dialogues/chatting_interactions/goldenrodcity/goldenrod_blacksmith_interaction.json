@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Our bikes are first-rate!"
+                "¡Nuestras bicicletas son de primera!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You can ride them anywhere."
+                "Puedes montarlas en cualquier lugar."
             ],
             "input": {
                 "type": "option",

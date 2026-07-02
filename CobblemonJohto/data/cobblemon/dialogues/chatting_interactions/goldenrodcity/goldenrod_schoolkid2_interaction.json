@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This Department Store makes me realize that Goldenrod is a big city."
+                "Este Centro Comercial me hace ver que Ciudad Trigal es una gran ciudad."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The selection here is unmatched anywhere else."
+                "La variedad de aquí no la encuentras en ningún otro lugar."
             ],
             "input": {
                 "type": "option",

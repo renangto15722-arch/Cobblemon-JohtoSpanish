@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pryce is a veteran who has trained Pokémon for some 50 years."
+                "Pryce es un veterano que ha entrenado Pokémon durante unos 50 años."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "He's said to be good at freezing opponents with ice-type moves."
+                "Se dice que es bueno congelando a los rivales con movimientos de tipo hielo."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "That means you should melt him with your burning ambition!"
+                "¡Eso significa que debes derretirlo con tu ardiente ambición!"
             ],
             "input": {
                 "type": "option",

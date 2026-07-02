@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You have strayed far..."
+                "Te has alejado mucho..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Here I have meditated. Inside me, a new power has been awakened."
+                "Aquí he meditado. Dentro de mí ha despertado un nuevo poder."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Let me share my power with your Pokémon. Take this, child."
+                "Déjame compartir mi poder con tu Pokémon. Toma esto, criatura."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "It draw out the power of Pokémon for attacking. "
+                "Extrae el poder del Pokémon para atacar. "
             ],
             "input": {
                 "type": "option",
@@ -87,7 +87,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Remember this: its type and power depend on the Pokémon using it."
+                "Recuerda esto: su tipo y poder dependen del Pokémon que lo use."
             ],
             "input": {
                 "type": "option",

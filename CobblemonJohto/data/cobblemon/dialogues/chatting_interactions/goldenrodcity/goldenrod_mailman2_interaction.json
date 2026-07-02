@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Department Store has a decent slection."
+                "El Centro Comercial tiene una selección decente."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But some items are only available as Game Corner prizes."
+                "Pero algunos objetos solo se consiguen como premios del Game Corner."
             ],
             "input": {
                 "type": "option",

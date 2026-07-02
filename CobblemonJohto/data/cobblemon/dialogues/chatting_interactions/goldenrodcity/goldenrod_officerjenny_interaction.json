@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Feel free to look around anywhere."
+                "Siéntete libre de mirar por donde quieras."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The Director is nice again, just like before."
+                "El Director vuelve a ser amable, igual que antes."
             ],
             "input": {
                 "type": "option",

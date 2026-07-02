@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Some Pokémon evolve only by being traded."
+                "Algunos Pokémon solo evolucionan al ser intercambiados."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I know of four: Machoke, Kadabra, Haunter, and, um,"
+                "Conozco cuatro: Machoke, Kadabra, Haunter y, eh,"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "I heard there are others too."
+                "He oído que también hay otros."
             ],
             "input": {
                 "type": "option",

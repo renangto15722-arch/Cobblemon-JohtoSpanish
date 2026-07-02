@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I couldn't win at the slots, and I blew it on card flipping..."
+                "No pude ganar en las tragaperras, y lo perdí todo dándole la vuelta a las cartas..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I got so furious, I tossed out my wallet."
+                "Me puse tan furioso que tiré mi cartera."
             ],
             "input": {
                 "type": "option",

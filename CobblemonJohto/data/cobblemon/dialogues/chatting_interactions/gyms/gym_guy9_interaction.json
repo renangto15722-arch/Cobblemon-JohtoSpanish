@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Jasmine uses the newly discovered Steel-type."
+                "Jasmine usa el recién descubierto tipo Acero."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I don't know very much about it."
+                "No sé mucho al respecto."
             ],
             "input": {
                 "type": "option",

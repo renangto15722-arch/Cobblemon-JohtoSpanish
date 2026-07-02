@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I do only one haircut a day, sorry. I'm done for today."
+                "Solo hago un corte de pelo al día, lo siento. Ya terminé por hoy."
             ],
             "input": {
                 "type": "option",

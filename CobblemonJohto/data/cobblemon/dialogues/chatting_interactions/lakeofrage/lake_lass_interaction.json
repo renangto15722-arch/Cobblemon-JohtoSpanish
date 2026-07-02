@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Did my eyes deceive me?"
+                "¿Me engañaron mis ojos?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I saw a red Gyarados in the Lake..."
+                "Vi un Gyarados rojo en el Lago..."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "But I thought Gyarados were usually blue?"
+                "¿Pero no eran los Gyarados normalmente azules?"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Yo! Champ in the making!"
+                "¡Eh! ¡Futuro campeón!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You lucked out this time. Lt. Surge is very cautious. He has traps set all over the Gym."
+                "Tuviste suerte esta vez. Lt. Surge es muy precavido. Tiene trampas por todo el Gimnasio."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "But--he-heh--the traps aren't active right now."
+                "Pero--je-je--las trampas no están activas ahora mismo."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "You'll have no problem getting to Lt. Surge."
+                "No tendrás problema para llegar hasta Lt. Surge."
             ],
             "input": {
                 "type": "option",

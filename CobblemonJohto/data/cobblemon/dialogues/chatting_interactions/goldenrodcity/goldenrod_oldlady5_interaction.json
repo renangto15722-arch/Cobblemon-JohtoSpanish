@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There are some shops downstairs..."
+                "Hay algunas tiendas abajo..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But there are also trainers."
+                "Pero también hay entrenadores."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I'm scared to go down there."
+                "Me da miedo bajar ahí."
             ],
             "input": {
                 "type": "option",

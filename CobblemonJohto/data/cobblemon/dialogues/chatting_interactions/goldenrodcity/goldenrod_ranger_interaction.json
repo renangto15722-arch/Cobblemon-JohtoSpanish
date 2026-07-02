@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I just love this new slot machine."
+                "Me encanta esta nueva tragaperras."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's more of a challenge than the ones in Celadon."
+                "Es más desafiante que las de Ciudad Azulona."
             ],
             "input": {
                 "type": "option",

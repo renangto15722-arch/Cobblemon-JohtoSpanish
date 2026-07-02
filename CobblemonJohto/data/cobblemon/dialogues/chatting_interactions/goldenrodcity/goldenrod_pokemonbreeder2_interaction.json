@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Do you know about the moving tree?"
+                "¿Sabes algo del árbol que se mueve?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If you water it, it jumps up in surprise!"
+                "¡Si lo riegas, salta de la sorpresa!"
             ],
             "input": {
                 "type": "option",

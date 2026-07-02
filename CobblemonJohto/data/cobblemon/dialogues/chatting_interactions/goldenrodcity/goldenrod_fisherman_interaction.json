@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I, I, I'm really impatient!"
+                "¡Yo, yo, yo soy muy impaciente!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I use X Speed in battle to speed up my Pokémon."
+                "Uso X Speed en batalla para acelerar a mis Pokémon."
             ],
             "input": {
                 "type": "option",

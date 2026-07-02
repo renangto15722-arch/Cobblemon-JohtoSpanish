@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Yo, Champ in the making!"
+                "¡Eh, futuro campeón!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "A trainer as skilled as you don't need to be told how to deal with psychic-type Pokémon, right?"
+                "A un entrenador tan hábil como tú no hay que decirle cómo lidiar con los Pokémon de tipo psíquico, ¿verdad?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I expect great things from you! Good luck!"
+                "¡Espero grandes cosas de ti! ¡Buena suerte!"
             ],
             "input": {
                 "type": "option",

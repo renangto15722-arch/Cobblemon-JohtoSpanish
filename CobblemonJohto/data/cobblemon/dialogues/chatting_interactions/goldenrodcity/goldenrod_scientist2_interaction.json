@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We have recordings of the cries of all Pokémon that have been found."
+                "Tenemos grabaciones de los gritos de todos los Pokémon que se han encontrado."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "We must have about 200 kinds."
+                "Debemos tener unas 200 clases."
             ],
             "input": {
                 "type": "option",

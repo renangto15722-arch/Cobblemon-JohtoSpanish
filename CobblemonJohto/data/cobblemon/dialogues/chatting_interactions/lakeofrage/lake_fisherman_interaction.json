@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There are so many Magikarp in the lake!"
+                "¡Hay muchísimos Magikarp en el lago!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I may yet realize my dream of seeing the world's largest Magikarp."
+                "Quizá aún cumpla mi sueño de ver al Magikarp más grande del mundo."
             ],
             "input": {
                 "type": "option",

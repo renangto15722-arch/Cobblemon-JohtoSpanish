@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Whatever happens, it makes me happy to see my own son."
+                "Pase lo que pase, me hace feliz ver a mi propio hijo."
             ],
             "input": {
                 "type": "option",

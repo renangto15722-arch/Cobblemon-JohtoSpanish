@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey! When you battle, do you use X Special?"
+                "¡Oye! Cuando luchas, ¿usas X Special?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's awesome, it really jacks up the Special stats!"
+                "¡Es genial, sube un montón las estadísticas Especiales!"
             ],
             "input": {
                 "type": "option",

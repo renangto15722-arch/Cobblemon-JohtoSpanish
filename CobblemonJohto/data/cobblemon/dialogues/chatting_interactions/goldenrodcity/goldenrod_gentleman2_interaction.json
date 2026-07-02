@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I love Mary from Pokémon Talk."
+                "Me encanta Mary de Pokémon Talk."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I only know what she sounds like though!"
+                "¡Aunque solo sé cómo suena su voz!"
             ],
             "input": {
                 "type": "option",

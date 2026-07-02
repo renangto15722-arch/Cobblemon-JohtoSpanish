@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh, you have a radio!"
+                "¡Oh, tienes una radio!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "This is where all those tunes come from!"
+                "¡De aquí vienen todas esas melodías!"
             ],
             "input": {
                 "type": "option",

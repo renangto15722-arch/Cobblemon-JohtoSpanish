@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Do you listen to our music?"
+                "¿Escuchas nuestra música?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You should! Everybody loves it!"
+                "¡Deberías! ¡A todos les encanta!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Even Pokémon from far away sometimes show up to listen."
+                "Hasta Pokémon de lugares lejanos a veces aparecen para escuchar."
             ],
             "input": {
                 "type": "option",

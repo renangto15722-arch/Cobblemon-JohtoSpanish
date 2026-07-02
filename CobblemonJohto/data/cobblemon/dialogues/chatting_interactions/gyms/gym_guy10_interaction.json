@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The trainers here have secret motives."
+                "Los entrenadores de aquí tienen motivos secretos."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If you win, they may tell you some deep secrets about Ecruteak."
+                "Si ganas, puede que te cuenten algunos secretos profundos sobre Ciudad Iris."
             ],
             "input": {
                 "type": "option",

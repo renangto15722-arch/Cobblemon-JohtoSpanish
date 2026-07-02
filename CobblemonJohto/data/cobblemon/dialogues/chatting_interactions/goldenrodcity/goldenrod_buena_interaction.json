@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Tune in to my talk show for prizes! I'm on station 6!"
+                "¡Sintoniza mi programa de entrevistas para ganar premios! ¡Estoy en la estación 6!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You can get a new prize every day!"
+                "¡Puedes conseguir un premio nuevo cada día!"
             ],
             "input": {
                 "type": "option",

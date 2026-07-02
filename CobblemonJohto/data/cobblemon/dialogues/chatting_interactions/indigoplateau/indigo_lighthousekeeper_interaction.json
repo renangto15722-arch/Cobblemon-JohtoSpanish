@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Elite Four trainers can only be challenged once every day."
+                "A los entrenadores del Alto Mando solo se les puede retar una vez al día."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If you exit, you will lose your progress from previous wins, and have to rebattle each trainer."
+                "Si sales, perderás el progreso de tus victorias anteriores y tendrás que volver a luchar contra cada entrenador."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It is recommended you stock up on supplies before you enter."
+                "Se recomienda abastecerte de suministros antes de entrar."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Good luck!"
+                "¡Buena suerte!"
             ],
             "input": {
                 "type": "option",

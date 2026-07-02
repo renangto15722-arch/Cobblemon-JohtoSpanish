@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Yo, Champ in making!"
+                "¡Eh, futuro campeón!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Whoops! Take a good look around you."
+                "¡Vaya! Mira bien a tu alrededor."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "The trainers all look like the Leader, Janine. Which of them is the real Janine?"
+                "Todos los entrenadores se parecen a la Líder, Janine. ¿Cuál de ellos es la verdadera Janine?"
             ],
             "input": {
                 "type": "option",

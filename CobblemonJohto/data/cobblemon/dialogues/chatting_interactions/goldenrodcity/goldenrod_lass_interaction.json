@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "A higher level Pokémon doesn't always win."
+                "Un Pokémon de mayor nivel no siempre gana."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "After all, it may have a type disadvantage."
+                "Después de todo, puede tener una desventaja de tipo."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I don't think there is a single Pokémon that is the toughest."
+                "No creo que haya un solo Pokémon que sea el más fuerte."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The warehouse gets cleaned in a matter of seconds thanks to the Machoke."
+                "El almacén se limpia en cuestión de segundos gracias al Machoke."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The stuff on the ground is junk. Take it if you want it!"
+                "Las cosas en el suelo son basura. ¡Llévatelas si las quieres!"
             ],
             "input": {
                 "type": "option",

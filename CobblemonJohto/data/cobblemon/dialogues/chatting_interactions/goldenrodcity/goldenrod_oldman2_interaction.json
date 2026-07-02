@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Whew! This is one big town."
+                "¡Uf! Esta ciudad es enorme."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I don't know where anything is."
+                "No sé dónde está nada."
             ],
             "input": {
                 "type": "option",

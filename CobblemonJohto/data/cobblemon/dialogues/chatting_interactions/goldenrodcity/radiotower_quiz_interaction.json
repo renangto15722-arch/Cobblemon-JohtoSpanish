@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We have a special Quiz campaign!"
+                "¡Tenemos una campaña especial de Quiz!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "intro2",
             "speaker": "npc",
             "lines": [
-                "Answer five questions correctly in a row to win a Radio Card!"
+                "¡Responde cinco preguntas seguidas correctamente para ganar una Radio Card!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "intro3",
             "speaker": "npc",
             "lines": [
-                "When you load it into the Pokégear, you will be able to listen to more radio stations... anytime, anywhere!"
+                "¡Cuando la cargues en el Pokégear, podrás escuchar más emisoras de radio... en cualquier momento y lugar!"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "intro4",
             "speaker": "npc",
             "lines": [
-                "Would you like to try our Quiz?"
+                "¿Quieres probar nuestro Quiz?"
             ],
             "input": {
                 "type": "option",
@@ -92,7 +92,7 @@
             "id": "quiz1",
             "speaker": "npc",
             "lines": [
-                "The first question! Can a player pick up a Town Map in Cherrygrove City?"
+                "¡La primera pregunta! ¿Puede un jugador conseguir un Town Map en Ciudad Cerez?"
             ],
             "input": {
                 "type": "option",
@@ -121,7 +121,7 @@
             "id": "quiz2",
             "speaker": "npc",
             "lines": [
-                "You are correct. The second question! Nidorina can only be female. True?"
+                "Correcto. ¡La segunda pregunta! Nidorina solo puede ser hembra. ¿Verdadero?"
             ],
             "input": {
                 "type": "option",
@@ -150,7 +150,7 @@
             "id": "quiz3",
             "speaker": "npc",
             "lines": [
-                "You are correct. The third question! Kurt, the Poké Ball creator, uses apricots as ingredients?"
+                "Correcto. ¡La tercera pregunta! Kurt, el creador de Poké Ball, ¿usa albaricoques como ingredientes?"
             ],
             "input": {
                 "type": "option",
@@ -179,7 +179,7 @@
             "id": "quiz4",
             "speaker": "npc",
             "lines": [
-                "You are correct again. The fourth question! It's impossible to use a TM on Magikarp. True?"
+                "Correcto otra vez. ¡La cuarta pregunta! Es imposible usar una TM en Magikarp. ¿Verdadero?"
             ],
             "input": {
                 "type": "option",
@@ -208,7 +208,7 @@
             "id": "quiz5",
             "speaker": "npc",
             "lines": [
-                "Wow! I have only one more question to go. In Professor Oak's popular show, Pokémon Talk, is he on with Whitney?"
+                "¡Vaya! Solo me queda una pregunta más. En el popular programa de Professor Oak, Pokémon Talk, ¿él aparece con Whitney?"
             ],
             "input": {
                 "type": "option",
@@ -238,7 +238,7 @@
             "id": "quizend1",
             "speaker": "npc",
             "lines": [
-                "Bingo! You got it! Congratulations! Here's your prize, a Radio Card!"
+                "¡Bingo! ¡Acertaste! ¡Felicidades! ¡Aquí está tu premio, una Radio Card!"
             ],
             "input": {
                 "type": "option",
@@ -259,7 +259,7 @@
             "id": "quizend2",
             "speaker": "npc",
             "lines": [
-                "Please tune in to our radio shows!"
+                "¡Por favor sintoniza nuestros programas de radio!"
             ],
             "input": {
                 "type": "option",
@@ -280,7 +280,7 @@
             "id": "wronganswer",
             "speaker": "npc",
             "lines": [
-                "Oh, dear. Sorry, but you got it wrong. Please try again!"
+                "Vaya. Lo siento, pero te equivocaste. ¡Inténtalo de nuevo!"
             ],
             "input": {
                 "type": "option",
@@ -300,7 +300,7 @@
             "id": "end",
             "speaker": "npc",
             "lines": [
-                "Oh. I see. Please see me if you change your mind."
+                "Ah. Entiendo. Ven a verme si cambias de opinión."
             ],
             "input": {
                 "type": "option",

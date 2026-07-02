@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I taught Blizzard to my Pokémon."
+                "Le enseñé Blizzard a mi Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It was hard to get enough coins for it, but it was worth it."
+                "Fue difícil conseguir suficientes coins, pero valió la pena."
             ],
             "input": {
                 "type": "option",

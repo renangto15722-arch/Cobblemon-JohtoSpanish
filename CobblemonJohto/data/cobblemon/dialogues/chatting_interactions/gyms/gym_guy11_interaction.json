@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Yo! Champ in the making!"
+                "¡Eh! ¡Futuro campeón!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "This gym is home to normal-type Pokémon trainers."
+                "Este gimnasio es el hogar de entrenadores de Pokémon de tipo normal."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I recommend you use fighting-type Pokémon."
+                "Te recomiendo usar Pokémon de tipo lucha."
             ],
             "input": {
                 "type": "option",

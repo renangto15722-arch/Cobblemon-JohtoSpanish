@@ -19,7 +19,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Who? What? You came to rescue me?"
+                "¿Quién? ¿Qué? ¿Has venido a rescatarme?"
             ],
             "input": {
                 "type": "option",
@@ -37,7 +37,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Thank you!"
+                "¡Gracias!"
             ],
             "input": {
                 "type": "option",
@@ -55,7 +55,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "The Radio Tower! What's happening there?"
+                "¡La Torre Radio! ¿Qué está pasando allí?"
             ],
             "input": {
                 "type": "option",
@@ -73,7 +73,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Taken over by Team Rocket?"
+                "¿Tomada por el Team Rocket?"
             ],
             "input": {
                 "type": "option",
@@ -91,7 +91,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Here. Take this Card Key."
+                "Toma. Llévate esta Card Key."
             ],
             "input": {
                 "type": "option",
@@ -109,7 +109,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Use that to open the shutters on 3F"
+                "Úsala para abrir las compuertas del 3F"
             ],
             "input": {
                 "type": "option",
@@ -127,7 +127,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "I'm beging you to help."
+                "Te ruego que ayudes."
             ],
             "input": {
                 "type": "option",
@@ -145,7 +145,7 @@
             "id": "page8",
             "speaker": "npc",
             "lines": [
-                "There's no telling what they'll do if they control the transmitter."
+                "No hay forma de saber qué harán si controlan el transmisor."
             ],
             "input": {
                 "type": "option",
@@ -163,7 +163,7 @@
             "id": "page9",
             "speaker": "npc",
             "lines": [
-                "They may even be able to control Pokémon using a special signal!"
+                "¡Incluso podrían controlar a los Pokémon usando una señal especial!"
             ],
             "input": {
                 "type": "option",
@@ -181,7 +181,7 @@
             "id": "page10",
             "speaker": "npc",
             "lines": [
-                "You're the only one I can call on."
+                "Eres el único a quien puedo recurrir."
             ],
             "input": {
                 "type": "option",
@@ -199,7 +199,7 @@
             "id": "page11",
             "speaker": "npc",
             "lines": [
-                "Please save the Radio Tower... And all the Pokémon nationwide!"
+                "Por favor, salva la Torre Radio... ¡Y a todos los Pokémon del país!"
             ],
             "input": {
                 "type": "option",

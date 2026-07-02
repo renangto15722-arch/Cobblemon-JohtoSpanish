@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hello!"
+                "¡Hola!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You know, I love Pokémon. "
+                "¿Sabes? Me encantan los Pokémon. "
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I built this Radio Tower so I could express my love of Pokémon."
+                "Construí esta Torre Radio para poder expresar mi amor por los Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "It would be nice if people enjoyed our programs."
+                "Sería estupendo que a la gente le gustaran nuestros programas."
             ],
             "input": {
                 "type": "option",

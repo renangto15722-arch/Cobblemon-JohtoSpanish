@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Welcome to the Goldenrod Game Corner!"
+                "¡Bienvenido al Game Corner de Ciudad Trigal!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Take a seat at any of our machines, and take a spin!"
+                "¡Siéntate en cualquiera de nuestras máquinas y dale una vuelta!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "One emerald a play, diamond and gold win you 4 emeralds, emerald blocks win you 10!"
+                "¡Una esmeralda por jugada, diamante y oro te dan 4 esmeraldas, los bloques de esmeralda te dan 10!"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "See our price merchants over that way!"
+                "¡Visita a nuestros vendedores de premios por allá!"
             ],
             "input": {
                 "type": "option",

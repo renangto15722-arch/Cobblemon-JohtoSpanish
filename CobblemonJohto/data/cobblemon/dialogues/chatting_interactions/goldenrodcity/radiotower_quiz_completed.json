@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Please tune in to our radio shows!"
+                "¡Por favor sintoniza nuestros programas de radio!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Each of your hotbar slots is a unique frequency, try out the radio in different slots for different stations!"
+                "¡Cada espacio de tu barra rápida es una frecuencia única, prueba la radio en distintos espacios para distintas emisoras!"
             ],
             "input": {
                 "type": "option",

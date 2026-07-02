@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I got my Abra at the Game Corner."
+                "Conseguí mi Abra en el Game Corner."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Now it's my best partner."
+                "Ahora es mi mejor compañero."
             ],
             "input": {
                 "type": "option",

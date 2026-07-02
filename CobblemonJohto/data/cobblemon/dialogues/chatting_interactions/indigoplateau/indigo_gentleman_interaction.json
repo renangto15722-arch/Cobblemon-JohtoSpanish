@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Are you done with your shopping?"
+                "¿Ya terminaste tus compras?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Is your party all healed up?"
+                "¿Tu equipo está completamente curado?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "This is a big challenge, so you want to make sure you're fully prepared!"
+                "¡Este es un gran desafío, así que asegúrate de estar bien preparado!"
             ],
             "input": {
                 "type": "option",

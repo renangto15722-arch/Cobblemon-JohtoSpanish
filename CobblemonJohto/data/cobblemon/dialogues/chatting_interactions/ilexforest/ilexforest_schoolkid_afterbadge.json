@@ -19,7 +19,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Farfetch'd that Cuts trees for charcoal took off on me."
+                "El Farfetch'd que corta árboles para hacer carbón se me escapó."
             ],
             "input": {
                 "type": "option",
@@ -37,7 +37,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I can't go looking for it here in the Ilex Forest."
+                "No puedo ir a buscarlo aquí en el Bosque Ilex."
             ],
             "input": {
                 "type": "option",
@@ -55,7 +55,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It's too big, dark and scary for me..."
+                "Es demasiado grande, oscuro y aterrador para mí..."
             ],
             "input": {
                 "type": "option",

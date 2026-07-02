@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Today's password?"
+                "¿La contraseña de hoy?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "HELP, of course!"
+                "¡HELP, por supuesto!"
             ],
             "input": {
                 "type": "option",

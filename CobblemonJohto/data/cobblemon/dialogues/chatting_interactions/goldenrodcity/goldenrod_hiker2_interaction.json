@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm the President."
+                "Soy el Presidente."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "My dream was to build a train that is faster than any Pokémon."
+                "Mi sueño era construir un tren más rápido que cualquier Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It really brings Johto much closer to Kanto."
+                "De verdad acerca mucho más Johto a Kanto."
             ],
             "input": {
                 "type": "option",

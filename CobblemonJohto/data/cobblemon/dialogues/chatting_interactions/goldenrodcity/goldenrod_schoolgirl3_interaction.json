@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Iron adds to your Pokémon's Defense."
+                "Iron aumenta la Defensa de tu Pokémon."
             ],
             "input": {
                 "type": "option",

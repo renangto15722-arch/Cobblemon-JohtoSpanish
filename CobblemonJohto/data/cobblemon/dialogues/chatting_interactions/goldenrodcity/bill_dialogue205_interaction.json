@@ -20,7 +20,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'Hi ' + q.player.username + '! Would you do something for me and take this Eevee?';"
+                    "expression": "'¡Hola ' + q.player.username + '! ¿Podrías hacerme un favor y llevarte este Eevee?';"
                 }
             ],
             "input": {
@@ -39,7 +39,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It came over when I was adjusting Nintendo Wi-Fi Connection."
+                "Llegó cuando estaba ajustando la Conexión Wi-Fi de Nintendo."
             ],
             "input": {
                 "type": "option",
@@ -57,7 +57,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Someone has to take care of it, but I don't like being outside."
+                "Alguien tiene que cuidarlo, pero a mí no me gusta estar afuera."
             ],
             "input": {
                 "type": "option",
@@ -75,7 +75,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "I knew you'd come through! You're the real deal!"
+                "¡Sabía que no me fallarías! ¡Eres de fiar!"
             ],
             "input": {
                 "type": "option",
@@ -93,7 +93,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Way to go! OK, I'm counting on you. Take good care of it!"
+                "¡Así se hace! Bien, cuento contigo. ¡Cuídalo bien!"
             ],
             "input": {
                 "type": "option",
@@ -111,7 +111,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Professor Elm said Eevee can evolve into seven different kinds of Pokémon!"
+                "¡El Profesor Elm dijo que Eevee puede evolucionar en siete clases distintas de Pokémon!"
             ],
             "input": {
                 "type": "option",
@@ -129,7 +129,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "I used to do experiments on transferring things."
+                "Yo solía hacer experimentos sobre la transferencia de cosas."
             ],
             "input": {
                 "type": "option",
@@ -147,7 +147,7 @@
             "id": "page8",
             "speaker": "npc",
             "lines": [
-                "Both the GTS and Nintendo Wi-Fi Connection were inspired by my machine that transfers things!"
+                "¡Tanto el GTS como la Conexión Wi-Fi de Nintendo se inspiraron en mi máquina que transfiere cosas!"
             ],
             "input": {
                 "type": "option",
