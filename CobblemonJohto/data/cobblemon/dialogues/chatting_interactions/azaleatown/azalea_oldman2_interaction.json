@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Forest is watched over by its protector."
+                "El Bosque está vigilado por su protector."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Stay out of mischief!"
+                "¡No hagas travesuras!"
             ],
             "input": {
                 "type": "option",

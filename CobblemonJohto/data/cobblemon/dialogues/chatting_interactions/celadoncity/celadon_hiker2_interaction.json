@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This Poiwrath is my partner."
+                "Este Poliwrath es mi compañero."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I wonder if it'll evolve into a frog Pokémon."
+                "Me pregunto si evolucionará a un Pokémon rana."
             ],
             "input": {
                 "type": "option",

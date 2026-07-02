@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Poke Balls are in stock!"
+                "¡Hay Poké Balls en existencia!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Now I can catch Pokemon!"
+                "¡Ahora puedo atrapar Pokémon!"
             ],
             "input": {
                 "type": "option",

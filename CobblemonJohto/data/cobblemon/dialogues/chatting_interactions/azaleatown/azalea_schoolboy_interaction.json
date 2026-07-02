@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There's no Great Ball here. Poke Balls will have to do."
+                "Aquí no hay Super Ball. Tendrán que servir las Poké Balls."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I wish Kurt would make me some of his custom balls."
+                "Ojalá Kurt me hiciera algunas de sus balls personalizadas."
             ],
             "input": {
                 "type": "option",

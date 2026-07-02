@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Deep inside far-off Indigo Plateau is the Pokémon League."
+                "En lo profundo de la lejana Meseta Añil se encuentra la Liga Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I hear the best trainers gather there from around the country."
+                "He oído que los mejores entrenadores de todo el país se reúnen allí."
             ],
             "input": {
                 "type": "option",

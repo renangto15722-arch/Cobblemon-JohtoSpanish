@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I heard that some shady character is skulking about."
+                "Oí que un tipo sospechoso anda merodeando por aquí."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I won't stand for it if he turns out to be a thief."
+                "No lo voy a tolerar si resulta ser un ladrón."
             ],
             "input": {
                 "type": "option",

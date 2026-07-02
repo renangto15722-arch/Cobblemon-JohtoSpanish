@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pokemon change?"
+                "¿Los Pokémon cambian?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I would be shocked if one did that!"
+                "¡Me quedaría pasmada si uno hiciera eso!"
             ],
             "input": {
                 "type": "option",

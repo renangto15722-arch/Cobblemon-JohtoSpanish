@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Max Repel keeps weak Pokémon away from you."
+                "El Max Repel mantiene alejados a los Pokémon débiles."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's the longest lasting of the Repel sprays."
+                "Es el de mayor duración de los aerosoles Repel."
             ],
             "input": {
                 "type": "option",

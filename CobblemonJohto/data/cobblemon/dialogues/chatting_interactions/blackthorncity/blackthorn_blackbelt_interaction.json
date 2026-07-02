@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Arooo! Voices in my head!"
+                "¡Auuu! ¡Voces en mi cabeza!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Huh? I'm listening to my radio!"
+                "¿Eh? ¡Estoy escuchando mi radio!"
             ],
             "input": {
                 "type": "option",

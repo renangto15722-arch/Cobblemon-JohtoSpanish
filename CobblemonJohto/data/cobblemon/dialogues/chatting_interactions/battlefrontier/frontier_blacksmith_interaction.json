@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Battle Tower is up ahead!"
+                "¡La Torre Batalla está más adelante!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I have explored places all over the world, but nothing compares to the excitement I feel right now!"
+                "He explorado lugares por todo el mundo, ¡pero nada se compara con la emoción que siento ahora mismo!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "What kinds of trainers will I see? What Pokémon will I fight?"
+                "¿Qué tipos de entrenadores veré? ¿Contra qué Pokémon lucharé?"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "It's a whole new adventure for me!"
+                "¡Es toda una nueva aventura para mí!"
             ],
             "input": {
                 "type": "option",

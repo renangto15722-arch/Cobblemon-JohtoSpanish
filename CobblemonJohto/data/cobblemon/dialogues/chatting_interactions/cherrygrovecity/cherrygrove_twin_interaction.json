@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "When I get older, I'm going to be a gym leader!"
+                "¡Cuando sea mayor, voy a ser Líder de Gimnasio!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I make my Pokemon battle with my friend's to make them tougher!"
+                "¡Hago que mis Pokémon combatan con los de mi amigo para hacerlos más fuertes!"
             ],
             "input": {
                 "type": "option",

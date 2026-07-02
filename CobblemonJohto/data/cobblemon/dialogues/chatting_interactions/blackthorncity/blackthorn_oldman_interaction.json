@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Clair and Lance trained here to hone their skills as trainers."
+                "Clair y Lance entrenaron aquí para perfeccionar sus habilidades como entrenadores."
             ],
             "input": {
                 "type": "option",

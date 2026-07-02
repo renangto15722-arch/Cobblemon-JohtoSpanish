@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Cape in the north is a good place for dates."
+                "El Cabo del norte es un buen lugar para citas."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Girls like it!"
+                "¡A las chicas les gusta!"
             ],
             "input": {
                 "type": "option",

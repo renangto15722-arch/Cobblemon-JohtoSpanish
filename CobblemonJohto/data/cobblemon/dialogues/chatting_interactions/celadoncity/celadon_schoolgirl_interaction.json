@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My Koffing is the best partner ever!"
+                "¡Mi Koffing es el mejor compañero del mundo!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It spews out Poison Gas when it gets angry..."
+                "Lanza Gas Venenoso cuando se enoja..."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "But it's usually very sweet--I promise!"
+                "¡Pero normalmente es muy tierno, lo prometo!"
             ],
             "input": {
                 "type": "option",

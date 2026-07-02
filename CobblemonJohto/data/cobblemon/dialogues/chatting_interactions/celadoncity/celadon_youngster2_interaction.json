@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "A vending machine with a price roulette..."
+                "Una máquina expendedora con una ruleta de precios..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You never see those anymore."
+                "Ya nunca se ven de esas."
             ],
             "input": {
                 "type": "option",

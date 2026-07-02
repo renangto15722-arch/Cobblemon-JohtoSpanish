@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Welcome to the Battle Tower!"
+                "¡Bienvenido a la Torre Batalla!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Would you like to take the Battle Room challenge?"
+                "¿Te gustaría aceptar el desafío de la Sala de Batalla?"
             ],
             "input": {
                 "type": "option",
@@ -61,7 +61,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I will now show you to the Battle Room."
+                "Ahora te llevaré a la Sala de Batalla."
             ],
             "input": {
                 "type": "option",
@@ -83,7 +83,7 @@
             "id": "info1",
             "speaker": "npc",
             "lines": [
-                "The Battle Tower is a facility for Battle challenges."
+                "La Torre Batalla es una instalación para desafíos de Batalla."
             ],
             "input": {
                 "type": "option",
@@ -101,7 +101,7 @@
             "id": "info2",
             "speaker": "npc",
             "lines": [
-                "Once entered, your challenge lasts until you lose."
+                "Una vez dentro, tu desafío dura hasta que pierdas."
             ],
             "input": {
                 "type": "option",
@@ -119,7 +119,7 @@
             "id": "info3",
             "speaker": "npc",
             "lines": [
-                "In our Single Battle format, you enter with three Pokémon only. Any more on you and you won't be able to challenge."
+                "En nuestro formato de Combate Individual, entras con solo tres Pokémon. Si llevas más, no podrás desafiar."
             ],
             "input": {
                 "type": "option",
@@ -137,7 +137,7 @@
             "id": "info4",
             "speaker": "npc",
             "lines": [
-                "Each of our trainers Pokémon will be set to that of your highest level Pokémon."
+                "Los Pokémon de cada uno de nuestros entrenadores se ajustarán al nivel de tu Pokémon de mayor nivel."
             ],
             "input": {
                 "type": "option",
@@ -155,7 +155,7 @@
             "id": "info5",
             "speaker": "npc",
             "lines": [
-                "There are an unlimited amount of trainers, you can battle as long as you want or can!"
+                "Hay una cantidad ilimitada de entrenadores, ¡puedes luchar tanto como quieras o puedas!"
             ],
             "input": {
                 "type": "option",
@@ -173,7 +173,7 @@
             "id": "info6",
             "speaker": "npc",
             "lines": [
-                "If you manage to defeat your opponent, you will earn Battle Points (BP)."
+                "Si logras derrotar a tu oponente, ganarás Puntos de Batalla (BP)."
             ],
             "input": {
                 "type": "option",
@@ -191,7 +191,7 @@
             "id": "info7",
             "speaker": "npc",
             "lines": [
-                "As your Battle Streak grows, trainers will get more difficult as well with more difficult Pokémon."
+                "A medida que crezca tu Racha de Batalla, los entrenadores también se volverán más difíciles con Pokémon más difíciles."
             ],
             "input": {
                 "type": "option",
@@ -209,7 +209,7 @@
             "id": "info8",
             "speaker": "npc",
             "lines": [
-                "Leaving the Tower on a win won't affect your Battle Streak, only losing to trainers in the tower."
+                "Salir de la Torre tras una victoria no afectará tu Racha de Batalla, solo perder contra los entrenadores de la torre."
             ],
             "input": {
                 "type": "option",
@@ -227,7 +227,7 @@
             "id": "info9",
             "speaker": "npc",
             "lines": [
-                "If you want to interrupt or pause your challenge, please see the Nurse Joy to exit!"
+                "Si quieres interrumpir o pausar tu desafío, ¡acude a la Enfermera Joy para salir!"
             ],
             "input": {
                 "type": "option",
@@ -248,7 +248,7 @@
             "id": "end",
             "speaker": "npc",
             "lines": [
-                "We hope to see you again."
+                "Esperamos verte de nuevo."
             ],
             "input": {
                 "type": "option",

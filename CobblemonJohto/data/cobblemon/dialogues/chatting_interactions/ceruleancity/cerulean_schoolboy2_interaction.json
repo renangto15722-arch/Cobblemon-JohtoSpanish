@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Cerulean Cave is said to have a horribly powerful Pokémon in it."
+                "Dicen que en la Cueva Celeste hay un Pokémon terriblemente poderoso."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Aww! There's no games here!"
+                "¡Bah! ¡Aquí no hay juegos!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I wanted to play..."
+                "Quería jugar..."
             ],
             "input": {
                 "type": "option",

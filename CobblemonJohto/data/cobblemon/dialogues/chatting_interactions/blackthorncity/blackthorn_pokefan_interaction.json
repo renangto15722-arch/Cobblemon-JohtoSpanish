@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You can't buy Max Revive, but it fully restores a fainted Pokémon."
+                "No puedes comprar Revivir Máximo, pero restaura por completo a un Pokémon debilitado."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Beware--it won't restore the PP, the Power Points needed for moves."
+                "Ten cuidado: no restaura los PP, los Puntos de Poder necesarios para los movimientos."
             ],
             "input": {
                 "type": "option",

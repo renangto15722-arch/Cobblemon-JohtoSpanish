@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There was this move I just had to teach my Pokémon."
+                "Había un movimiento que tenía que enseñarle a mi Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "So I got the Move Deleter to make it forget an HM move."
+                "Así que fui al Move Deleter para que olvidara un movimiento HM."
             ],
             "input": {
                 "type": "option",

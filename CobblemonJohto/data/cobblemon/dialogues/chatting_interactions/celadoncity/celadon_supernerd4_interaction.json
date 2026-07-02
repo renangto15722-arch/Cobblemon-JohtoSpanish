@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm the Game Designer!"
+                "¡Soy el Diseñador del Juego!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Filling up your Pokedex is tough, but don't give up!"
+                "¡Completar tu Pokédex es difícil, pero no te rindas!"
             ],
             "input": {
                 "type": "option",

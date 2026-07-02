@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The communication center upstairs was just built."
+                "El centro de comunicaciones de arriba se acaba de construir."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I traded Pokemon there already!"
+                "¡Ya intercambié Pokémon allí!"
             ],
             "input": {
                 "type": "option",

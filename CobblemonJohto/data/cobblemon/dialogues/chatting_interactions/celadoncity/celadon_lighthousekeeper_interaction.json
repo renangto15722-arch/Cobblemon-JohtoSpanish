@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This Department Store is part of the same chain as the one in Goldenrod City."
+                "Este Centro Comercial es de la misma cadena que el de Ciudad Trigal."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "They were both rennovated at the same time."
+                "Los dos se renovaron al mismo tiempo."
             ],
             "input": {
                 "type": "option",

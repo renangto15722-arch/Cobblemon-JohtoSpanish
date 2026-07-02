@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My dad's having a hard time learning the names of items and how they are suppose to be used..."
+                "A mi papá le cuesta aprender los nombres de los objetos y cómo se supone que se usan..."
             ],
             "input": {
                 "type": "option",

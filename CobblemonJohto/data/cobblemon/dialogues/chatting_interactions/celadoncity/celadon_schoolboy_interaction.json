@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "They're holding an eating contest at the restaurant."
+                "Están haciendo un concurso de comilonas en el restaurante."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Just watching them go at it makes me feel bloated..."
+                "Solo de verlos comer ya me siento lleno..."
             ],
             "input": {
                 "type": "option",

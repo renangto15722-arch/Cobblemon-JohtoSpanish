@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Slowpoke have returned."
+                "Los Slowpoke han regresado."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Knowing them, they could've just been goofing off somewhere."
+                "Conociéndolos, lo más seguro es que solo estuvieran holgazaneando por ahí."
             ],
             "input": {
                 "type": "option",

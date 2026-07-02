@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Sorry, it appears someone is using our last room right now!"
+                "Lo siento, ¡parece que alguien está usando nuestra última sala en este momento!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You can watch them from the observation deck, come back here to join when they're done!"
+                "Puedes verlos desde el mirador, ¡vuelve aquí para unirte cuando terminen!"
             ],
             "input": {
                 "type": "option",

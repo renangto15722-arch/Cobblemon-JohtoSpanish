@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I lost at the slot machines again..."
+                "Volví a perder en las máquinas tragamonedas..."
             ],
             "input": {
                 "type": "option",

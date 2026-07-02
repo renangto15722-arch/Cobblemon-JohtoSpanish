@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I love watching trainers battle here. They have such strong Pokémon."
+                "Me encanta ver a los entrenadores luchar aquí. Tienen Pokémon muy fuertes."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "And they only get stronger!"
+                "¡Y solo se vuelven más fuertes!"
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I want to buy some items that raise Pokémon stats, but I don't have enough money..."
+                "Quiero comprar objetos que suben las estadísticas de los Pokémon, pero no tengo suficiente dinero..."
             ],
             "input": {
                 "type": "option",

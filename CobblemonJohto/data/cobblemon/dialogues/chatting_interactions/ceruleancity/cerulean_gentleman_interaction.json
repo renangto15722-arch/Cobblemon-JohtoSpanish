@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You're collecting every single kind of Pokémon?"
+                "¿Estás coleccionando todos los tipos de Pokémon?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "That must be quite a challenge, but it sounds fun too."
+                "Eso debe ser todo un reto, pero también suena divertido."
             ],
             "input": {
                 "type": "option",

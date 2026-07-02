@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It's great. I can store any number of Pokemon, and it's all free."
+                "Es genial. Puedo almacenar cualquier cantidad de Pokémon, y todo es gratis."
             ],
             "input": {
                 "type": "option",

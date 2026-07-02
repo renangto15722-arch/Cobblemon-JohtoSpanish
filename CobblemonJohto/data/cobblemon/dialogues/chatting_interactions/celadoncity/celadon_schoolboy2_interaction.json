@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Want to know a secret?"
+                "¿Quieres saber un secreto?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Celadon Mansion has a hidden back door."
+                "La Mansión de Ciudad Azulona tiene una puerta trasera oculta."
             ],
             "input": {
                 "type": "option",

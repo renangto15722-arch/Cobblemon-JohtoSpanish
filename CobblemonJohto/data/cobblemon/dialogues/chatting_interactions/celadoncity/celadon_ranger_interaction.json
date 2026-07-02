@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I used to patrol the forest, but nowadays, I'm mostly around town."
+                "Antes patrullaba el bosque, pero hoy en día casi siempre estoy por la ciudad."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The urban jungle! It's like the jungle, but urban."
+                "¡La jungla urbana! Es como la jungla, pero urbana."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I battled the trainers on the road."
+                "Combatí contra los entrenadores en la ruta."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "My Pokemon lost. They're a mess!"
+                "Mis Pokémon perdieron. ¡Están hechos un desastre!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I must take them to the Pokemon Center."
+                "Debo llevarlos al Centro Pokémon."
             ],
             "input": {
                 "type": "option",

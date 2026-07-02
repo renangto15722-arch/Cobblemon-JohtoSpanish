@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Crunch, crunch..."
+                "Ñam, ñam..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I can keep eating!"
+                "¡Puedo seguir comiendo!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "More, chef!"
+                "¡Más, chef!"
             ],
             "input": {
                 "type": "option",

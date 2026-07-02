@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This is Charcoal that I made."
+                "Este es el Carbón que hice."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Fire-type Pokémon would be happy to hold that."
+                "A los Pokémon de tipo Fuego les encantaría llevarlo."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "The Slowpoke came back, and you even found Farfetch'd"
+                "Los Slowpoke regresaron, e incluso encontraste a Farfetch'd"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "You're the coolest, man!"
+                "¡Eres el mejor, amigo!"
             ],
             "input": {
                 "type": "option",

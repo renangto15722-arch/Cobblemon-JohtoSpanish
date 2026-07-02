@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Celadon Department Store has the biggest and best selection of merchandise."
+                "El Centro Comercial de Ciudad Azulona tiene la mayor y mejor selección de mercancía."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If you can't get it there, you can't get it anywhere."
+                "Si no lo encuentras ahí, no lo encontrarás en ningún lado."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Gee... I sound like a sales clerk."
+                "Vaya... Hablo como una dependienta."
             ],
             "input": {
                 "type": "option",

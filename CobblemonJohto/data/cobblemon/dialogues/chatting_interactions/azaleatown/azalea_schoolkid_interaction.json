@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Cut through Azalea and you'll be in Ilex Forest."
+                "Atraviesa Azalea y llegarás al Bosque Ilex."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But these skinny trees make it impossible to get through."
+                "Pero estos árboles delgados hacen imposible pasar."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "The Charcoal Man's Pokemon can cut down trees."
+                "El Pokémon del Hombre del Carbón puede talar árboles."
             ],
             "input": {
                 "type": "option",

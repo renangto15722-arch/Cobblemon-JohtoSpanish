@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Clair, our Gym Leader, is very strong."
+                "Clair, nuestra Líder de Gimnasio, es muy fuerte."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It would be impossible for a run-of-the-mill trainer to win."
+                "Sería imposible que un entrenador del montón le ganara."
             ],
             "input": {
                 "type": "option",

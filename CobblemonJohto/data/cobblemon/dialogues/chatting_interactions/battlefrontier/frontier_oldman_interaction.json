@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Click, click, click..."
+                "Clic, clic, clic..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Oh, it's you! I've gotten over being first all the time."
+                "¡Oh, eres tú! Ya superé lo de ser siempre el primero."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Now I'm counting the number of people coming to the Battle Frontier."
+                "Ahora cuento el número de personas que vienen a la Frente Batalla."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Of course no one asked me to. It's just a hobby."
+                "Por supuesto que nadie me lo pidió. Es solo un pasatiempo."
             ],
             "input": {
                 "type": "option",

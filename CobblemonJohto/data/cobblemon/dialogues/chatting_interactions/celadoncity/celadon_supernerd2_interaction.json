@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Aren't the Twins adorable?"
+                "¿A que las gemelas son adorables?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Jasmine's pretty too."
+                "Jasmine también es guapa."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Oh, I love them!"
+                "¡Ay, las adoro!"
             ],
             "input": {
                 "type": "option",

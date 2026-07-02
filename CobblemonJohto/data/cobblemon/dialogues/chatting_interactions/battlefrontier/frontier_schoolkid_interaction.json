@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I trained my little guy till we couldn't take any more."
+                "Entrené a mi pequeño hasta que ya no pudimos más."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "He's going to do a 50-win streak for sure..."
+                "Va a lograr una racha de 50 victorias, seguro..."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Right, Pikachu?"
+                "¿Verdad, Pikachu?"
             ],
             "input": {
                 "type": "option",

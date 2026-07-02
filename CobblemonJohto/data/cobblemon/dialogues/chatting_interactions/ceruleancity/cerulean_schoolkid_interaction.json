@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Route 9 stretches to the east."
+                "La Ruta 9 se extiende hacia el este."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The Power Plant is at the end."
+                "La Central Eléctrica está al final."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pokemon gain experience in battle and change their form."
+                "Los Pokémon ganan experiencia en combate y cambian de forma."
             ],
             "input": {
                 "type": "option",

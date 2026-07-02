@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Nihihi! This Gym is great!"
+                "¡Jiji! ¡Este Gimnasio es genial!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Only girls are allowed here!"
+                "¡Aquí solo se permite la entrada a chicas!"
             ],
             "input": {
                 "type": "option",

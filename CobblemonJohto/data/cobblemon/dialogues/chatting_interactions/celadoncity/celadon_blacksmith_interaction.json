@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I can't decide which Pokémon I should use this TM on..."
+                "No me decido en qué Pokémon usar esta TM..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Oh wait! You can reuse them!"
+                "¡Ah, espera! ¡Se pueden reutilizar!"
             ],
             "input": {
                 "type": "option",

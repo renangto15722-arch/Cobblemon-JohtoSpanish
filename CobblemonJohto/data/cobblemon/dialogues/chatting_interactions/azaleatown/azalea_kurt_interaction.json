@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I make Poké Balls from Apricorns. Collect them from trees and bring 'em to me. I'll make Poké Balls out of them."
+                "Hago Poké Balls a partir de Apricorns. Recógelos de los árboles y tráemelos. Haré Poké Balls con ellos."
             ],
             "input": {
                 "type": "option",

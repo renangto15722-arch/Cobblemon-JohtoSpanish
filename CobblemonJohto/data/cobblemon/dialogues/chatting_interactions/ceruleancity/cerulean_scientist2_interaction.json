@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Magnet Train travels at around 8 meters per second."
+                "El Tren Magnético viaja a unos 8 metros por segundo."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It goes between Kanto and Johto in almost no time at all!"
+                "¡Va entre Kanto y Johto en un abrir y cerrar de ojos!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It really makes Johto accessable."
+                "De verdad hace que Johto sea accesible."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We were held up by robbers before."
+                "Antes nos asaltaron unos ladrones."
             ],
             "input": {
                 "type": "option",

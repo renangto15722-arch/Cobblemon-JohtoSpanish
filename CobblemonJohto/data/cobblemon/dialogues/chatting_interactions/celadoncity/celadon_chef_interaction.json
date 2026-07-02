@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi! We're holding an eatathon contest."
+                "¡Hola! Estamos organizando un concurso de comilonas."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "We can't serve you right now. Sorry."
+                "Ahora no podemos atenderte. Lo siento."
             ],
             "input": {
                 "type": "option",

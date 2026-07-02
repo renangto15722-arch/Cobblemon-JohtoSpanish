@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My husband lives happily with Pokémon he got through trades."
+                "Mi esposo vive feliz con los Pokémon que consiguió a través de intercambios."
             ],
             "input": {
                 "type": "option",

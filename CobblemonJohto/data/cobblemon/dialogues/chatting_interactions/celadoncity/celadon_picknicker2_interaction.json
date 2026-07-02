@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Uh-oh!"
+                "¡Ay, no!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I traded my Pokémon without removing Up-Grade from it."
+                "Intercambié mi Pokémon sin quitarle la Mejora."
             ],
             "input": {
                 "type": "option",

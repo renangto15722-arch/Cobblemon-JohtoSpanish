@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Misty is about the only person in town who can beat the trainers at Cerulean's Cape."
+                "Misty es casi la única persona del pueblo capaz de vencer a los entrenadores del Cabo de Ciudad Celeste."
             ],
             "input": {
                 "type": "option",

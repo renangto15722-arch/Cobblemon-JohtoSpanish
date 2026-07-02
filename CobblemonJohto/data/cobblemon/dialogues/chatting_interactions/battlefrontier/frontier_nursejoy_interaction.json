@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ready to battle another trainer?"
+                "¿Listo para luchar contra otro entrenador?"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "yes",
             "speaker": "npc",
             "lines": [
-                "I'll get your next battle set up!"
+                "¡Prepararé tu próxima batalla!"
             ],
             "input": {
                 "type": "option",
@@ -60,7 +60,7 @@
             "id": "giveup",
             "speaker": "npc",
             "lines": [
-                "Are you sure you want to leave the Tower?"
+                "¿Seguro que quieres salir de la Torre?"
             ],
             "input": {
                 "type": "option",
@@ -83,7 +83,7 @@
             "id": "giveupconfirm",
             "speaker": "npc",
             "lines": [
-                "We hope to see you again!"
+                "¡Esperamos verte de nuevo!"
             ],
             "input": {
                 "type": "option",

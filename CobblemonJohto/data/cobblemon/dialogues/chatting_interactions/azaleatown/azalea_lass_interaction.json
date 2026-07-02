@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "A Great Ball is better for catching Pokemon than a Poke Ball."
+                "Una Super Ball es mejor para atrapar Pokémon que una Poké Ball."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But Kurt's might be better sometimes."
+                "Pero las de Kurt podrían ser mejores a veces."
             ],
             "input": {
                 "type": "option",

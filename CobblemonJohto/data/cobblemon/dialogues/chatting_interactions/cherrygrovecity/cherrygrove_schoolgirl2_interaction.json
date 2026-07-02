@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "When you're with Pokemon, going anywhere is fun."
+                "Cuando estás con Pokémon, ir a cualquier lugar es divertido."
             ],
             "input": {
                 "type": "option",

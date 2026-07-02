@@ -15,7 +15,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's hard hauling wood all day with this heat!"
+                "¡Es difícil acarrear madera todo el día con este calor!"
             ],
             "input": {
                 "type": "option",

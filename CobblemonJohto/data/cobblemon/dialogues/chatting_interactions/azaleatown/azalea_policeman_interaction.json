@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ilex Forest is big. Be careful!"
+                "El Bosque Ilex es grande. ¡Ten cuidado!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Don't get lost."
+                "No te pierdas."
             ],
             "input": {
                 "type": "option",

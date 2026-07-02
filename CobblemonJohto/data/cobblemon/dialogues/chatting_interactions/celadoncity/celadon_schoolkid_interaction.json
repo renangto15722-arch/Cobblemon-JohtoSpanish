@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Gulp.... chew...."
+                "Glup.... mastica...."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I take quantity over quality!"
+                "¡Prefiero cantidad antes que calidad!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I'm happy when I'm full."
+                "Soy feliz cuando estoy lleno."
             ],
             "input": {
                 "type": "option",

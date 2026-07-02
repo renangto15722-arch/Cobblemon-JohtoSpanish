@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I just recently became a trainer."
+                "Hace poco que me hice entrenador."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "My son encouraged me to do it."
+                "Mi hijo me animó a hacerlo."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I'm impressed by the selection of convenient items."
+                "Me impresiona la selección de objetos prácticos."
             ],
             "input": {
                 "type": "option",

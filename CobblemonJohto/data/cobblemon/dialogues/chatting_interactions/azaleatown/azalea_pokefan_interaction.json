@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Did you come to get Kurt to make some balls?"
+                "¿Viniste para que Kurt te haga algunas balls?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "A lot of people do just that. "
+                "Mucha gente hace justamente eso. "
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Dad works at Silph where he studies Poke Balls."
+                "Papá trabaja en Silph, donde estudia las Poké Balls."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I have to stay home with Grandpa and Slowpoke."
+                "Tengo que quedarme en casa con el Abuelo y los Slowpoke."
             ],
             "input": {
                 "type": "option",

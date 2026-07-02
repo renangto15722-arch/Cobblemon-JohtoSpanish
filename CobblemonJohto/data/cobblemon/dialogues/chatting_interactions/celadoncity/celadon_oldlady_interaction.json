@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Team Rocket's hideout is in the basement of the Game Corner."
+                "El escondite del Team Rocket está en el sótano del Game Corner."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Oh, wait. That was three years ago."
+                "Ah, espera. Eso fue hace tres años."
             ],
             "input": {
                 "type": "option",

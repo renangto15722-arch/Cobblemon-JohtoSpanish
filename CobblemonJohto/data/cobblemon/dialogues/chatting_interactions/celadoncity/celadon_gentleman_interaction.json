@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "...Snarfle, chew..."
+                "...Ñam, mastica..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Don't talk to me!"
+                "¡No me hables!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "You'll break my concentration!"
+                "¡Me vas a romper la concentración!"
             ],
             "input": {
                 "type": "option",

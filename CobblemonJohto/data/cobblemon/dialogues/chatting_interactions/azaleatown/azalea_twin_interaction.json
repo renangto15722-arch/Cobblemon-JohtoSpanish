@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Do you know about Apricorns?"
+                "¿Sabes sobre los Apricorns?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Crack one open, hollow it out and fit it with a special device."
+                "Abre uno, vacíalo y colócale un dispositivo especial."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Then you can catch Pokemon with it."
+                "Luego puedes atrapar Pokémon con él."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Before Poke Balls were invented, everyone used Apricorns."
+                "Antes de que se inventaran las Poké Balls, todos usaban Apricorns."
             ],
             "input": {
                 "type": "option",

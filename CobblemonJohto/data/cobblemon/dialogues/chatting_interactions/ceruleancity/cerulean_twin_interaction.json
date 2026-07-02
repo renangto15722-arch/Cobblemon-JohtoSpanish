@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My Slowbro and I make an awesome combination!"
+                "¡Mi Slowbro y yo formamos una combinación increíble!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Slowbro, show me your Confusion!"
+                "¡Slowbro, muéstrame tu Confusión!"
             ],
             "input": {
                 "type": "option",

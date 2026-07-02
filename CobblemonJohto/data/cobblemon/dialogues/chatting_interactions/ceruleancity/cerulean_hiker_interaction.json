@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm a huge fan of Cerulean Gym's Misty."
+                "Soy un gran fan de Misty, la del Gimnasio de Ciudad Celeste."
             ],
             "input": {
                 "type": "option",

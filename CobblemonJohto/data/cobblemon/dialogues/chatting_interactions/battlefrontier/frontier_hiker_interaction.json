@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Finally! I'm here at the Battle Frontier."
+                "¡Por fin! Estoy aquí en la Frente Batalla."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "When a Pokémon battle on the road doesn't satisfy you any longer, you have to come to the Battle Frontier!"
+                "Cuando una batalla Pokémon en el camino ya no te satisface, ¡tienes que venir a la Frente Batalla!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Wouldn't you agree?"
+                "¿No estás de acuerdo?"
             ],
             "input": {
                 "type": "option",

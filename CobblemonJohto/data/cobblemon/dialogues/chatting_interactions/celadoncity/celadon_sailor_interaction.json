@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I want HP Up, so I can raise the HP of my Pokémon. But I can't buy it..."
+                "Quiero un HP Up para subir los PS de mi Pokémon. Pero no puedo comprarlo..."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You're trying to see how good you are as a Pokemon trainer?"
+                "¿Estás intentando ver qué tan bueno eres como entrenador Pokémon?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You better visit Pokemon gyms all over Johto and collect badges."
+                "Más vale que visites los gimnasios Pokémon por todo Johto y consigas medallas."
             ],
             "input": {
                 "type": "option",

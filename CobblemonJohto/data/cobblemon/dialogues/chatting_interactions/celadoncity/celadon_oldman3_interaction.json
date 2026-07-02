@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My dear Pokémon keep me company, so i don't ever feel lonely."
+                "Mis queridos Pokémon me hacen compañía, así que nunca me siento solo."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Meowth even brings money home."
+                "Meowth incluso trae dinero a casa."
             ],
             "input": {
                 "type": "option",

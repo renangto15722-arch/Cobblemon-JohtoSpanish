@@ -15,7 +15,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Bill's PC can store up to 30 Pokemon per box."
+                "El PC de Bill puede almacenar hasta 30 Pokémon por caja."
             ],
             "input": {
                 "type": "option",

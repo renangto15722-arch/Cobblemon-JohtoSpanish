@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You're a trainer, aren't you? I can tell!"
+                "Eres un entrenador, ¿verdad? ¡Se nota!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "That's OK! Everyone is a rookie at some point!"
+                "¡No pasa nada! ¡Todos somos novatos en algún momento!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "To get you on your feet, I'll give you a Town Map!"
+                "¡Para que arranques con buen pie, te daré un Town Map!"
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "It will show you where you are any time you look at it!"
+                "¡Te mostrará dónde estás cada vez que lo mires!"
             ],
             "input": {
                 "type": "option",

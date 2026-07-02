@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Erika is a master of grass Pokémon."
+                "Erika es una maestra de los Pokémon de tipo planta."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "She'll make you pay if you don't watch yourself."
+                "Te hará pagar si no te andas con cuidado."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You'll run into many trainers on the way to Cerulean City's Cape."
+                "Te encontrarás con muchos entrenadores de camino al Cabo de Ciudad Celeste."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "They want to see how they stack up against other trainers."
+                "Quieren ver cómo se comparan con otros entrenadores."
             ],
             "input": {
                 "type": "option",

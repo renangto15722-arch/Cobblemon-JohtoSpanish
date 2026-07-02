@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "As you can see, Battle Frontier is a great facility."
+                "Como puedes ver, la Frente Batalla es una gran instalación."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You know what?"
+                "¿Sabes qué?"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Apparently, similar facilities are available outside of Johto."
+                "Al parecer, hay instalaciones similares fuera de Johto."
             ],
             "input": {
                 "type": "option",
