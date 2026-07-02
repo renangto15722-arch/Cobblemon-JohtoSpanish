@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, who told you you could ride up and down this road?"
+                "Oye, ¿quién te dijo que podías ir y venir por esta ruta?"
             ],
             "input": {
                 "type": "option",

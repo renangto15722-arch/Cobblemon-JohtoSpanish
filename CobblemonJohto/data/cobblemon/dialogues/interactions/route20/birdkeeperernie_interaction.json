@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, hey. Will you battle me?"
+                "Eh, eh. ¿Lucharás contra mí?"
             ],
             "input": {
                 "type": "option",

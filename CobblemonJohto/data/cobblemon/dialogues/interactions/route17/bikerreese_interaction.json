@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, you! You're from Johto, huh?"
+                "¡Eh, tú! Eres de Johto, ¿eh?"
             ],
             "input": {
                 "type": "option",

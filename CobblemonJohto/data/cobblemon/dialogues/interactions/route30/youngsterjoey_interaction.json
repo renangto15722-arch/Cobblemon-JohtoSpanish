@@ -25,7 +25,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I just lost, so I'm trying to find more Pokémon. Wait! You look weak! Come on, let's battle!"
+                "Acabo de perder, así que estoy intentando encontrar más Pokémon. ¡Espera! ¡Te ves débil! ¡Vamos, luchemos!"
             ],
             "input": {
                 "type": "option",

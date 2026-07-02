@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "OK! I'm No. 4. I'll stomp you!"
+                "¡Vale! Soy el N.º 4. ¡Te voy a aplastar!"
             ],
             "input": {
                 "type": "option",

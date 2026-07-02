@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Phew! I've worn my best swim trunks today!"
+                "¡Uf! ¡Hoy me he puesto mi mejor bañador!"
             ],
             "input": {
                 "type": "option",

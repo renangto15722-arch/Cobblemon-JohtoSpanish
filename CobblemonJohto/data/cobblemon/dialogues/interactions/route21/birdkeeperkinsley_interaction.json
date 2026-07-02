@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Surrounding yourself with bird Pokémon gives you the feeling that someday you might be able to fly, too!"
+                "¡Rodearte de Pokémon pájaro te da la sensación de que algún día tú también podrías volar!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Mufufufu... I have nothing to do with the six-pack Trainers. I waited here to beat you when you were tired out by all the battles."
+                "Mufufufu... No tengo nada que ver con los seis Entrenadores. Esperé aquí para vencerte cuando estuvieras agotado por todas las batallas."
             ],
             "input": {
                 "type": "option",

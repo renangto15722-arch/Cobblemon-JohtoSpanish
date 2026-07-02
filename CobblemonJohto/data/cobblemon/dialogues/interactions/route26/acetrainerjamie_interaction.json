@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I lost to a redheaded Trainer. He was really strong, but...it was as if he absolutely had to win at any cost. I felt sorry for his Pokémon."
+                "Perdí contra un Entrenador pelirrojo. Era muy fuerte, pero...era como si tuviera que ganar a toda costa. Sentí pena por sus Pokémon."
             ],
             "input": {
                 "type": "option",

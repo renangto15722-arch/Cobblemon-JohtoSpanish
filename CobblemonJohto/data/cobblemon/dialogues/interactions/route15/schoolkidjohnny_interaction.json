@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We're on a school trip to Lavender Radio Tower for social studies."
+                "Estamos en una excursión escolar a la Torre Radio de Pueblo Lavanda para ciencias sociales."
             ],
             "input": {
                 "type": "option",

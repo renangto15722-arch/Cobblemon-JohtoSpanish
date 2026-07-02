@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm bored by fishing. Let's battle!"
+                "Me aburre pescar. ¡Vamos a combatir!"
             ],
             "input": {
                 "type": "option",

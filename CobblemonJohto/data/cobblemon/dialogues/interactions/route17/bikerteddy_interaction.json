@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, that's a cool Bike you're riding!"
+                "¡Eh, qué bicicleta tan genial llevas!"
             ],
             "input": {
                 "type": "option",

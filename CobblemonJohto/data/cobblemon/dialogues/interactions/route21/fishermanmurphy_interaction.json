@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Huh? I've caught a Trainer instead of a Pokémon!"
+                "¿Eh? ¡He pescado a un Entrenador en lugar de un Pokémon!"
             ],
             "input": {
                 "type": "option",

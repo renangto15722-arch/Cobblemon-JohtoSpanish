@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Whoa! A nibble! ...Huh? A battle? OK, let's go!"
+                "¡Vaya! ¡Un mordisco! ...¿Eh? ¿Un combate? ¡Vale, vamos!"
             ],
             "input": {
                 "type": "option",

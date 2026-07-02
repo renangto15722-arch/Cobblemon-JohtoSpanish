@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Wow. That's a cool Bicycle!"
+                "Vaya. ¡Esa es una bicicleta genial!"
             ],
             "input": {
                 "type": "option",

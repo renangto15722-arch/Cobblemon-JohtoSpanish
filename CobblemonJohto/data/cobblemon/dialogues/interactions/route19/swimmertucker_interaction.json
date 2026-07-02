@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pant, pant... Just...a little... farther...to...Fuchsia..."
+                "Jadeo, jadeo... Solo...un poco... más...hasta...Ciudad Fucsia..."
             ],
             "input": {
                 "type": "option",

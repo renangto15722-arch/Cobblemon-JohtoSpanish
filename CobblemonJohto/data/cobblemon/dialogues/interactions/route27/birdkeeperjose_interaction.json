@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Tweet! Tweet! Tet-weet!"
+                "¡Pío! ¡Pío! ¡Pi-pío!"
             ],
             "input": {
                 "type": "option",

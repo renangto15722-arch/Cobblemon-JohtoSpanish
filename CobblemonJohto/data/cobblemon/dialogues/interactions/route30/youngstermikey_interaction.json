@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You're a Pokémon Trainer, right? Then you have to battle!"
+                "Eres un Entrenador Pokémon, ¿verdad? ¡Entonces tienes que luchar!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Question is...did I become a fisherman because I'm patient, or did I get more patient because I'm a fisherman?"
+                "La pregunta es... ¿me hice pescador porque soy paciente, o me volví más paciente porque soy pescador?"
             ],
             "input": {
                 "type": "option",

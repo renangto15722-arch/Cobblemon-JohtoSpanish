@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Have you ever gone swimming in the sea at night?"
+                "¿Alguna vez has nadado en el mar de noche?"
             ],
             "input": {
                 "type": "option",

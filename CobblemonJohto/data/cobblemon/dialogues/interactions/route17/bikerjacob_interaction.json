@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Modding my Bike costs a bunch of money! I need a job!"
+                "¡Tunear mi bicicleta cuesta un montón de dinero! ¡Necesito un trabajo!"
             ],
             "input": {
                 "type": "option",

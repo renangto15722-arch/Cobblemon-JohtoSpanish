@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The teacher from the swimming class where I learned to swim had a face just like a Poliwhirl."
+                "El profesor de la clase de natación donde aprendí a nadar tenía la cara igual que un Poliwhirl."
             ],
             "input": {
                 "type": "option",

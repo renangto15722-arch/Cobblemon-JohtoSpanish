@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Swimming? I'm lousy at it. I'm just splashing around in these shallow waters."
+                "¿Nadar? Se me da fatal. Solo chapoteo en estas aguas poco profundas."
             ],
             "input": {
                 "type": "option",

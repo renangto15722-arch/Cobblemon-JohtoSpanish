@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Gotta keep going!"
+                "¡Tengo que seguir adelante!"
             ],
             "input": {
                 "type": "option",

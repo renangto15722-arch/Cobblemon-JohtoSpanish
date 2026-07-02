@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Found it! A Trainer that I can enjoy fighting!"
+                "¡Lo encontré! ¡Un Entrenador con el que disfrutaré luchando!"
             ],
             "input": {
                 "type": "option",

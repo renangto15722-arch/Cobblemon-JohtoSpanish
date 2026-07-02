@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I love gym class the best!"
+                "¡La clase de gimnasia es la que más me gusta!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm the last in line, but I tell you, I'm tough!"
+                "Soy la última de la fila, ¡pero te aseguro que soy dura!"
             ],
             "input": {
                 "type": "option",

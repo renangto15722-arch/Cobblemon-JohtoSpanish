@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm making my final preparations for the Pokémon League."
+                "Estoy haciendo mis preparativos finales para la Liga Pokémon."
             ],
             "input": {
                 "type": "option",

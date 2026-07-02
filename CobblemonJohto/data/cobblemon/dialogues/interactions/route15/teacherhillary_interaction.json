@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "On sunny days, I think that the kids would rather be playing in the playground than studying in class."
+                "En los días soleados, creo que los niños preferirían estar jugando en el patio que estudiando en clase."
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'll toughen you up. Now, you come along with me."
+                "Te haré más fuerte. Ahora, ven conmigo."
             ],
             "input": {
                 "type": "option",

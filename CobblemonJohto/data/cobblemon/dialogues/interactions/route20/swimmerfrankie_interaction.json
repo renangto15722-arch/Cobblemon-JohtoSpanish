@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I guess it's impossible to swim all the way to Johto."
+                "Supongo que es imposible nadar todo el camino hasta Johto."
             ],
             "input": {
                 "type": "option",

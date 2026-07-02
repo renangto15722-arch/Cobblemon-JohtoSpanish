@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Instead of a bug Pokémon, I found a Trainer!"
+                "¡En lugar de un Pokémon bicho, encontré un Entrenador!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm really good at fishing, but I'm even better at Pokémon!"
+                "¡Soy muy bueno pescando, pero soy aún mejor con los Pokémon!"
             ],
             "input": {
                 "type": "option",

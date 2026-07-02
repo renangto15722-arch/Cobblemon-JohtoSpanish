@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey! Want to have a speed battle?"
+                "¡Eh! ¿Quieres tener una batalla de velocidad?"
             ],
             "input": {
                 "type": "option",

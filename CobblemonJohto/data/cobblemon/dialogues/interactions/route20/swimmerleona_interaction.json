@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Look! It's my very best swimsuit and my very best Pokémon!"
+                "¡Mira! ¡Es mi mejor traje de baño y mis mejores Pokémon!"
             ],
             "input": {
                 "type": "option",

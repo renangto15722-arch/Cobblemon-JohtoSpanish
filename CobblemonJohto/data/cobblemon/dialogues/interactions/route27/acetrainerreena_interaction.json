@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You came from New Bark Town? You must be exhausted."
+                "¿Vienes desde Pueblo Primavera? Debes estar agotado."
             ],
             "input": {
                 "type": "option",

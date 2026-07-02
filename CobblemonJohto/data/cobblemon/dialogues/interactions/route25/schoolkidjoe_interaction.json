@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Here's No. 3! I won't be easy."
+                "¡Aquí está el N.º 3! No te lo pondré fácil."
             ],
             "input": {
                 "type": "option",

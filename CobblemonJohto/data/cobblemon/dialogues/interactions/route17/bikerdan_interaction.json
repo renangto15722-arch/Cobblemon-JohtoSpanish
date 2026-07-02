@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Parara parapara para-parara! My horn's got a great melody to it, don't you think?"
+                "¡Parara parapara para-parara! Mi bocina tiene una gran melodía, ¿no crees?"
             ],
             "input": {
                 "type": "option",

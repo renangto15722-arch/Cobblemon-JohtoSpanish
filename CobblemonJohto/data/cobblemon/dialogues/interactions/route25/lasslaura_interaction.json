@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm No. 5! Getting tired?"
+                "¡Soy la N.º 5! ¿Te estás cansando?"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hang on. I have to phone my mom."
+                "Espera. Tengo que llamar a mi mamá."
             ],
             "input": {
                 "type": "option",

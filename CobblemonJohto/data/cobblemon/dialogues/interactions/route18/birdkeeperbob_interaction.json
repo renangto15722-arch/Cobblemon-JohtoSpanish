@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Cycling Road is a quick shortcut to Celadon."
+                "La Ruta Ciclista es un atajo rápido a Ciudad Azulona."
             ],
             "input": {
                 "type": "option",

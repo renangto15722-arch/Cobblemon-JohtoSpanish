@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I feel so much lighter in water."
+                "Me siento mucho más ligera en el agua."
             ],
             "input": {
                 "type": "option",

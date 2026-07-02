@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "When I was a kid, I only played inside the house. Now I love playing outside with Pokémon!"
+                "Cuando era niña, solo jugaba dentro de casa. ¡Ahora me encanta jugar afuera con Pokémon!"
             ],
             "input": {
                 "type": "option",

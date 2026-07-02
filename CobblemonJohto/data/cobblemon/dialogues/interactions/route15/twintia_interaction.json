@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We're the twins Kay and Tia! Do you know which one I am?"
+                "¡Somos las gemelas Kay y Tia! ¿Sabes cuál soy yo?"
             ],
             "input": {
                 "type": "option",

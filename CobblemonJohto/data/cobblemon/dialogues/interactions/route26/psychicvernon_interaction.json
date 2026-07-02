@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Wow, look at all those Badges! I'm impressed. But you're not satisfied by just collecting them, right?"
+                "¡Vaya, mira todas esas Medallas! Estoy impresionado. Pero no te conformas con solo coleccionarlas, ¿verdad?"
             ],
             "input": {
                 "type": "option",

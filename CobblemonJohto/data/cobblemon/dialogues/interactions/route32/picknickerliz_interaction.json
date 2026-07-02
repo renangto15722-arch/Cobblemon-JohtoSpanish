@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Uh-huh. Yeah, and you know... Pardon? Pokémon battle? I'm on the phone. Oh, all right. I'll accept your challenge!"
+                "Ajá. Sí, y ya sabes... ¿Perdón? ¿Una batalla Pokémon? Estoy hablando por teléfono. Ah, está bien. ¡Aceptaré tu desafío!"
             ],
             "input": {
                 "type": "option",

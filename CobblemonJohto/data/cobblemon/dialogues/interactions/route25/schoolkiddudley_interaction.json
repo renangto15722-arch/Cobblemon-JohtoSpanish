@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Beat the six of us Trainers to win a fabulous prize! Think you've got what it takes?"
+                "¡Vence a los seis Entrenadores para ganar un premio fabuloso! ¿Crees que tienes lo que hace falta?"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh! Hey, you! Will you help me with my sunblock? Don't tell me... You'd rather battle?"
+                "¡Oh! ¡Eh, tú! ¿Me ayudas con el protector solar? No me digas... ¿Prefieres luchar?"
             ],
             "input": {
                 "type": "option",

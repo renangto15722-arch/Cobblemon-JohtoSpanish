@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "All right, Pokémon, time for a battle!"
+                "¡Muy bien, Pokémon, hora de combatir!"
             ],
             "input": {
                 "type": "option",

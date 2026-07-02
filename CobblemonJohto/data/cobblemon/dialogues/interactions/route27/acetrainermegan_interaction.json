@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It's rare to see anyone come here. Are you training on your own?"
+                "Es raro ver a alguien venir aquí. ¿Estás entrenando por tu cuenta?"
             ],
             "input": {
                 "type": "option",

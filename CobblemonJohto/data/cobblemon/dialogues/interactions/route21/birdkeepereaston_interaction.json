@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Bird Keepers are so wonderful with their bird Pokémon!"
+                "¡Los Ornitólogos son maravillosos con sus Pokémon pájaro!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hm? You're good, aren't you?"
+                "¿Hm? Eres bueno, ¿verdad?"
             ],
             "input": {
                 "type": "option",

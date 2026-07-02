@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You look pretty strong. Let me battle you!"
+                "Te ves bastante fuerte. ¡Déjame luchar contigo!"
             ],
             "input": {
                 "type": "option",

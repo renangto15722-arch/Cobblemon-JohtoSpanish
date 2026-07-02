@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "That glance... It's intriguing."
+                "Esa mirada... Es intrigante."
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I love bikinis! If I had an electric bikini, I could wear it even in winter!"
+                "¡Me encantan los bikinis! ¡Si tuviera un bikini eléctrico, podría usarlo incluso en invierno!"
             ],
             "input": {
                 "type": "option",

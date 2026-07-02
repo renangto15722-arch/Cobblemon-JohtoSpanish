@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm disgusted by wimpy people!"
+                "¡Me dan asco los debiluchos!"
             ],
             "input": {
                 "type": "option",

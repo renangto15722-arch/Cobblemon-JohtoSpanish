@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, Trainer! How about you put on a swimsuit, too?"
+                "¡Eh, Entrenador! ¿Y si te pones tú también un traje de baño?"
             ],
             "input": {
                 "type": "option",

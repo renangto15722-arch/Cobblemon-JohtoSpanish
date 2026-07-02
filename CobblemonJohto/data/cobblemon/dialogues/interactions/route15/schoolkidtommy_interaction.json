@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Let's battle. I won't lose!"
+                "Combatamos. ¡No voy a perder!"
             ],
             "input": {
                 "type": "option",

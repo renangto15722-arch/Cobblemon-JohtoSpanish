@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I used to be a fisherman a while back. I've grown to love swimming so much, I'm always in my swim trunks!"
+                "Hace tiempo era pescador. Me ha llegado a gustar tanto nadar, ¡que siempre estoy en bañador!"
             ],
             "input": {
                 "type": "option",

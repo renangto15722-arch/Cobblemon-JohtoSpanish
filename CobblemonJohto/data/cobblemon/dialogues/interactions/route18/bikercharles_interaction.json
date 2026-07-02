@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We're fearless highway stars!"
+                "¡Somos intrépidas estrellas de la carretera!"
             ],
             "input": {
                 "type": "option",

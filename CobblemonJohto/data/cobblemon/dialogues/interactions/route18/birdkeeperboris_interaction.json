@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "If you're looking for Pokémon, you have to look in the tall grass."
+                "Si buscas Pokémon, tienes que buscar en la hierba alta."
             ],
             "input": {
                 "type": "option",

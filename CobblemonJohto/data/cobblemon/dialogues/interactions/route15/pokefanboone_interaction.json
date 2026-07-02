@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, your Pokémon... Show me. Show me. Show me!"
+                "Oye, tus Pokémon... ¡Muéstramelos. Muéstramelos. Muéstramelos!"
             ],
             "input": {
                 "type": "option",

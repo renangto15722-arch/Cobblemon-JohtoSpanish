@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Don't say a thing! Let me guess what you're thinking. Mmmmmmm... I got it! You're on the Pokémon League challenge!"
+                "¡No digas nada! Déjame adivinar qué estás pensando. Mmmmmmm... ¡Lo tengo! ¡Estás en el desafío de la Liga Pokémon!"
             ],
             "input": {
                 "type": "option",

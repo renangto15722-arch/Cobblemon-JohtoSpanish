@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm feeling great today! I feel like I could even beat the League Champion!"
+                "¡Hoy me siento genial! ¡Siento que hasta podría vencer al Campeón de la Liga!"
             ],
             "input": {
                 "type": "option",

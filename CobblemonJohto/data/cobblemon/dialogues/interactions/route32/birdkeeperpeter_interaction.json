@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "That Badge! It's from Violet City! You beat Falkner?"
+                "¡Esa Medalla! ¡Es de Ciudad Malva! ¿Venciste a Falkner?"
             ],
             "input": {
                 "type": "option",

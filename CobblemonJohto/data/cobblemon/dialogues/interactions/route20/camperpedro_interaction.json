@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Have you ever gone camping with Pokémon?"
+                "¿Alguna vez has ido de acampada con Pokémon?"
             ],
             "input": {
                 "type": "option",

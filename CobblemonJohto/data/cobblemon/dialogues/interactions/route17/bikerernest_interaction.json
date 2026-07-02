@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Vroom vroom! Baribaribaribaribari! What do you think of my engine imitation?"
+                "¡Brum brum! ¡Baribaribaribaribari! ¿Qué te parece mi imitación de motor?"
             ],
             "input": {
                 "type": "option",

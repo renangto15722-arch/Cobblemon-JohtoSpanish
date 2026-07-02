@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I haven't seen you around before. So you think you're pretty tough?"
+                "No te había visto por aquí antes. ¿Así que te crees bastante fuerte?"
             ],
             "input": {
                 "type": "option",

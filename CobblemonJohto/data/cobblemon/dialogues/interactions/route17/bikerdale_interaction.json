@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You're gonna lose! I've got a hunch!"
+                "¡Vas a perder! ¡Tengo un presentimiento!"
             ],
             "input": {
                 "type": "option",

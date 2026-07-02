@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Since you've come this far, you must be good. I'm going to give this battle everything I've got!"
+                "Si has llegado hasta aquí, debes ser bueno. ¡Voy a darlo todo en esta batalla!"
             ],
             "input": {
                 "type": "option",

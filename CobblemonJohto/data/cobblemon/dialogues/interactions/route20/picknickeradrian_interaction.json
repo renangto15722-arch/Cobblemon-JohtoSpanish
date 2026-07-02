@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Are you in a hurry? How about a quick battle break?"
+                "¿Tienes prisa? ¿Qué tal una pausa para una batalla rápida?"
             ],
             "input": {
                 "type": "option",

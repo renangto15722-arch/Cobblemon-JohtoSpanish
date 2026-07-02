@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm second. Now, it's serious!"
+                "Soy la segunda. ¡Ahora va en serio!"
             ],
             "input": {
                 "type": "option",

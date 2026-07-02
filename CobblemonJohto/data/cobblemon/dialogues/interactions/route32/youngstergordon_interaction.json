@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I found some good Pokémon in the grass! I think they'll do it for me!"
+                "¡Encontré unos buenos Pokémon en la hierba! ¡Creo que me servirán!"
             ],
             "input": {
                 "type": "option",

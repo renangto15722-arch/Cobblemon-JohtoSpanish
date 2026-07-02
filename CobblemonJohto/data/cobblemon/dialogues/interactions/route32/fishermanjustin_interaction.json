@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Whoa! You made me lose that fish!"
+                "¡Vaya! ¡Hiciste que perdiera ese pez!"
             ],
             "input": {
                 "type": "option",

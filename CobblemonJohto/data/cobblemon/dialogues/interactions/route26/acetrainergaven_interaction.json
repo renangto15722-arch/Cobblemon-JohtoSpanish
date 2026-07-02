@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "By experiencing tough battles, you gain power."
+                "Al vivir batallas difíciles, ganas poder."
             ],
             "input": {
                 "type": "option",

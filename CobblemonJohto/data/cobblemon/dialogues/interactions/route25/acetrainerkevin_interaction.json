@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "After seeing how you battle, I want to see how I'll fare. How about it? Let me take you on."
+                "Tras ver cómo luchas, quiero ver cómo me irá a mí. ¿Qué te parece? Déjame enfrentarte."
             ],
             "input": {
                 "type": "option",

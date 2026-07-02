@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Swimming is a full-body exercise, so it's really good for building strength!"
+                "¡Nadar es un ejercicio de todo el cuerpo, así que es genial para ganar fuerza!"
             ],
             "input": {
                 "type": "option",
