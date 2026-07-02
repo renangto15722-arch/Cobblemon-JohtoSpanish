@@ -4,7 +4,7 @@
         "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 2');",
         "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
         "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Blue');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $9,600 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $9,600 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 9600');"
     ],
     "speakers": {
@@ -23,7 +23,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "No way! How the heck did I lose to you?"
+                "¡Imposible! ¿Cómo diablos perdí contra ti?"
             ],
             "input": {
                 "type": "option",
@@ -41,7 +41,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "... Tch, all right... Here, take this. It's the Earth Badge."
+                "... Bah, está bien... Toma, llévate esto. Es la Medalla Tierra."
             ],
             "input": {
                 "type": "option",

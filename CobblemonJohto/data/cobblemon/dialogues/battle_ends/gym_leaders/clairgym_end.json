@@ -4,7 +4,7 @@
         "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 2');",
         "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Dialogue78');",
         "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $4,920 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $4,920 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 4920');"
     ],
     "speakers": {
@@ -23,7 +23,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I won't admit this."
+                "No voy a admitir esto."
             ],
             "input": {
                 "type": "option",
@@ -41,7 +41,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I may have lost, but you're still not ready for the Pokémon League."
+                "Puede que haya perdido, pero aún no estás listo para la Liga Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -59,7 +59,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I know. You should take the dragon user challenge."
+                "Ya sé. Deberías hacer la prueba del usuario de dragones."
             ],
             "input": {
                 "type": "option",
@@ -77,7 +77,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Behind this Gym is a place called Dragon's Den."
+                "Detrás de este Gimnasio hay un lugar llamado Guarida Dragón."
             ],
             "input": {
                 "type": "option",
@@ -95,7 +95,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Go and bring me the Dragon Fang from deep inside the Den."
+                "Ve y tráeme el Dragon Fang desde lo más profundo de la Guarida."
             ],
             "input": {
                 "type": "option",
@@ -113,7 +113,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "That is the test to be accepted as a true dragon user."
+                "Esa es la prueba para ser aceptado como un verdadero usuario de dragones."
             ],
             "input": {
                 "type": "option",
@@ -131,7 +131,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "If you can do that, I will accept you as a worthy trainer."
+                "Si puedes hacerlo, te aceptaré como un entrenador digno."
             ],
             "input": {
                 "type": "option",
@@ -149,7 +149,7 @@
             "id": "page8",
             "speaker": "npc",
             "lines": [
-                "Until then, I won't give you a Badge."
+                "Hasta entonces, no te daré una Medalla."
             ],
             "input": {
                 "type": "option",

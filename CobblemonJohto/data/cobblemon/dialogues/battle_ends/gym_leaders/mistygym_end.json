@@ -4,7 +4,7 @@
         "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 2');",
         "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
         "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Misty');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $6,480 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $6,480 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 6480');"
     ],
     "speakers": {
@@ -23,7 +23,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You really are good... I'll admit that you are skilled..."
+                "De verdad eres bueno... Admito que tienes talento..."
             ],
             "input": {
                 "type": "option",
@@ -41,7 +41,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Here you go. It's the Cascade Badge."
+                "Aquí tienes. Es la Medalla Cascada."
             ],
             "input": {
                 "type": "option",

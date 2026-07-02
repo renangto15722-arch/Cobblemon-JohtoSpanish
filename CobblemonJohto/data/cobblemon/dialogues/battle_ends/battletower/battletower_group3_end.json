@@ -1,7 +1,7 @@
 {   "initializationAction": [              
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players add ' + q.player.username + ' BattlePoints 4');",
-    "q.run_command('tellraw ' + q.player.username + ' [\"\",{\"text\":\"You got 4 Battle Points for winning! You now have \",\"italic\":true,\"color\":\"gray\"},{\"score\":{\"name\":\"*\",\"objective\":\"BattlePoints\"},\"italic\":true,\"color\":\"gray\"},{\"text\":\"BP.\",\"italic\":true,\"color\":\"gray\"}]');",
+    "q.run_command('tellraw ' + q.player.username + ' [\"\",{\"text\":\"¡Ganaste 4 Puntos de Batalla por la victoria! Ahora tienes \",\"italic\":true,\"color\":\"gray\"},{\"score\":{\"name\":\"*\",\"objective\":\"BattlePoints\"},\"italic\":true,\"color\":\"gray\"},{\"text\":\"BP.\",\"italic\":true,\"color\":\"gray\"}]');",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
     "q.run_command('scoreboard players add ' + q.player.username + ' BattleStreak 1');",
@@ -23,7 +23,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'll heal your Pokémon! Ready to battle another trainer?"
+                "¡Curaré a tus Pokémon! ¿Listo para luchar contra otro entrenador?"
             ],
             "input": {
                 "type": "option",
@@ -46,7 +46,7 @@
             "id": "yes",
             "speaker": "npc",
             "lines": [
-                "I'll get your next battle set up!"
+                "¡Prepararé tu próximo combate!"
             ],
             "input": {
                 "type": "option",
@@ -68,7 +68,7 @@
             "id": "giveup",
             "speaker": "npc",
             "lines": [
-                "Are you sure you want to leave the Tower?"
+                "¿Seguro que quieres abandonar la Torre?"
             ],
             "input": {
                 "type": "option",
@@ -91,7 +91,7 @@
             "id": "giveupconfirm",
             "speaker": "npc",
             "lines": [
-                "We hope to see you again!"
+                "¡Esperamos verte de nuevo!"
             ],
             "input": {
                 "type": "option",

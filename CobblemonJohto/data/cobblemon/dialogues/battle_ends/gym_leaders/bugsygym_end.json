@@ -4,7 +4,7 @@
         "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 2');",
         "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
         "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Bugsy');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $1,800 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $1,800 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 1800');"
     ],
     "speakers": {
@@ -23,7 +23,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Whoa, amazing! You're an expert on Pokémon! My research isn't complete yet. OK, you win."
+                "¡Vaya, asombroso! ¡Eres un experto en Pokémon! Mi investigación aún no está completa. Está bien, tú ganas."
             ],
             "input": {
                 "type": "option",
@@ -41,7 +41,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Bug-type Pokémon are deep. There are many mysteries to explore. Study your top choices thoroughly."
+                "Los Pokémon de tipo Bicho son profundos. Hay muchos misterios por explorar. Estudia a fondo tus mejores elecciones."
             ],
             "input": {
                 "type": "option",

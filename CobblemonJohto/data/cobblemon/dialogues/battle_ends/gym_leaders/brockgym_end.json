@@ -4,7 +4,7 @@
         "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 2');",
         "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
         "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Brock');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $6,240 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $6,240 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 6240');"
     ],
     "speakers": {
@@ -23,7 +23,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Your Pokémon's powerful attacks overcame my rock-hard resistance..."
+                "Los poderosos ataques de tus Pokémon superaron mi dura resistencia de roca..."
             ],
             "input": {
                 "type": "option",
@@ -41,7 +41,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You're stronger than I expected... Go ahead--take this Badge."
+                "Eres más fuerte de lo que esperaba... Adelante--toma esta Medalla."
             ],
             "input": {
                 "type": "option",

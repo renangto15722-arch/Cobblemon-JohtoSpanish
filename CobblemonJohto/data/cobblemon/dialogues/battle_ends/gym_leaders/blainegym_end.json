@@ -4,7 +4,7 @@
         "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 2');",
         "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
         "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Blaine');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $7,080 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $7,080 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 7080');"
     ],
     "speakers": {
@@ -23,7 +23,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Awesome. I have burned out..."
+                "Increíble. Me he consumido por completo..."
             ],
             "input": {
                 "type": "option",
@@ -41,7 +41,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Take this Volcano Badge! "
+                "¡Toma esta Medalla Volcán! "
             ],
             "input": {
                 "type": "option",
@@ -62,7 +62,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I did lose this time, but I'm going to win next time. "
+                "Esta vez perdí, pero la próxima voy a ganar. "
             ],
             "input": {
                 "type": "option",
@@ -80,7 +80,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "When I rebuild my Cinnabar Gym, we have to hold a rematch."
+                "Cuando reconstruya mi Gimnasio de Isla Canela, tendremos que hacer una revancha."
             ],
             "input": {
                 "type": "option",
@@ -98,7 +98,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "My Fire-type Pokémon will be even stronger! Just you watch!"
+                "¡Mis Pokémon de tipo Fuego serán aún más fuertes! ¡Ya lo verás!"
             ],
             "input": {
                 "type": "option",

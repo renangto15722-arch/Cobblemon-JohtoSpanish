@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 2');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $11,520 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $11,520 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 11520');"
         ],
   "speakers": {
@@ -36,7 +36,7 @@
         {
           "id": "page2",
           "speaker": "npc",
-          "lines": ["My scare tactic doesn't scare you at all!"],
+          "lines": ["¡Mi táctica de intimidación no te asusta en absoluto!"],
                 "input": {
                     "type": "option",
                     "vertical": false,

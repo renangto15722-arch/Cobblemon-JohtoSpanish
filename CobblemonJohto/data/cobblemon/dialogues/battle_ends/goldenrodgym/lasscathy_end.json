@@ -2,7 +2,7 @@
     "c.npc.set_chatting();",
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 1');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $240 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $240 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 240');"
         ],
   "speakers": {
@@ -20,7 +20,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["I'm training really hard to try to beat Whitney, but I'm starting to get discouraged..."],
+      "lines": ["Estoy entrenando muy duro para tratar de vencer a Whitney, pero empiezo a desanimarme..."],
             "input": {
                 "type": "option",
                 "vertical": false,
@@ -36,7 +36,7 @@
         {
           "id": "page2",
           "speaker": "npc",
-          "lines": ["What to do... Well... If I lose, I'll just try harder next time!"],
+          "lines": ["¿Qué hago...? Bueno... ¡Si pierdo, me esforzaré más la próxima vez!"],
                 "input": {
                     "type": "option",
                     "vertical": false,

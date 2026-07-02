@@ -4,7 +4,7 @@
         "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 3');",
         "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
         "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Koga');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $5,280 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $5,280 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 5280');"
     ],
     "speakers": {
@@ -23,7 +23,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I subjected you to everything I could muster. But my efforts failed."
+                "Te sometí a todo lo que pude reunir. Pero mis esfuerzos fracasaron."
             ],
             "input": {
                 "type": "option",
@@ -41,7 +41,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I must hone my skills. Go on to the next room, and put your abilities to the test!"
+                "Debo perfeccionar mis habilidades. ¡Avanza a la siguiente sala y pon a prueba tus capacidades!"
             ],
             "input": {
                 "type": "option",

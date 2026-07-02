@@ -4,7 +4,7 @@
         "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 3');",
         "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
         "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Karen');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $5,640 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $5,640 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 5640');"
     ],
     "speakers": {
@@ -23,7 +23,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Strong Pokémon. Weak Pokémon."
+                "Pokémon fuertes. Pokémon débiles."
             ],
             "input": {
                 "type": "option",
@@ -41,7 +41,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "That is only the selfish perception of people."
+                "Esa es solo la percepción egoísta de las personas."
             ],
             "input": {
                 "type": "option",
@@ -59,7 +59,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Truly skilled trainers should try to win with their favorites."
+                "Los entrenadores verdaderamente hábiles deberían tratar de ganar con sus favoritos."
             ],
             "input": {
                 "type": "option",
@@ -77,7 +77,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "I like your style. You understand what's important."
+                "Me gusta tu estilo. Entiendes lo que es importante."
             ],
             "input": {
                 "type": "option",
@@ -95,7 +95,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Go on--the Champion is waiting."
+                "Adelante... el Campeón te espera."
             ],
             "input": {
                 "type": "option",

@@ -3,7 +3,7 @@
     "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 2');",
     "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
     "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add BrockRematch');",
-    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $6,840 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+    "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $6,840 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
     "q.run_command('scoreboard players add ' + q.player.username + ' Money 6840');"
         ],
   "speakers": {
@@ -21,7 +21,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["I've lost again..."],
+      "lines": ["He perdido otra vez..."],
             "input": {
                 "type": "option",
                 "vertical": false,
@@ -37,7 +37,7 @@
         {
           "id": "page2",
           "speaker": "npc",
-          "lines": ["You aren't adventuring around for nothing!"],
+          "lines": ["¡No andas de aventura por nada!"],
                 "input": {
                     "type": "option",
                     "vertical": false,

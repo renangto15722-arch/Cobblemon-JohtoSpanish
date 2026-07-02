@@ -4,7 +4,7 @@
         "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 3');",
         "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
         "q.run_command('tag ' + q.player.username + ' add Bruno');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $5,520 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $5,520 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 5520');"
     ],
     "speakers": {
@@ -23,7 +23,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Why? How could I lose?"
+                "¿Por qué? ¿Cómo pude perder?"
             ],
             "input": {
                 "type": "option",
@@ -41,7 +41,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "My job is done! Go face your next challenge!"
+                "¡Mi trabajo está hecho! ¡Ve a enfrentar tu próximo desafío!"
             ],
             "input": {
                 "type": "option",

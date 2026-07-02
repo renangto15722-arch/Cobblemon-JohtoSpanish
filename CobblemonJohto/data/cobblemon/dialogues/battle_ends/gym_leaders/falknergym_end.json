@@ -4,7 +4,7 @@
         "q.run_command('scoreboard players set ' + q.player.username + ' BattleEnd 2');",
         "q.run_command('execute as ' + q.player.username + ' run function johto:tools/forceclick');",
         "q.run_command('execute as ' + q.player.username + ' run tag ' + q.player.username + ' add Falkner');",
-        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"You got $1,560 for winning!\",\"italic\":true,\"color\":\"gray\"}');",
+        "q.run_command('tellraw ' + q.player.username + ' {\"text\":\"¡Ganaste $1,560 por la victoria!\",\"italic\":true,\"color\":\"gray\"}');",
         "q.run_command('scoreboard players add ' + q.player.username + ' Money 1560');"
     ],
     "speakers": {
@@ -23,7 +23,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "...For pity's sake! My dad's cherished bird Pokémon... But a defeat is a defeat."
+                "...¡Por piedad! Los queridos Pokémon pájaro de mi padre... Pero una derrota es una derrota."
             ],
             "input": {
                 "type": "option",
@@ -41,7 +41,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "All right. Take this official Pokémon League Badge. This one is the Zephyr Badge."
+                "Muy bien. Toma esta Medalla oficial de la Liga Pokémon. Esta es la Medalla Céfiro."
             ],
             "input": {
                 "type": "option",
