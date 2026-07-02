@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I've been training hard with Clair. There's no way I can lose!"
+                "He estado entrenando duro con Clair. ¡No hay forma de que pierda!"
             ],
             "input": {
                 "type": "option",

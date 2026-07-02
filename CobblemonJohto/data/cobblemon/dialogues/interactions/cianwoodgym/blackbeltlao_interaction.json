@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We martial artists fear nothing!"
+                "¡Los artistas marciales no le tememos a nada!"
             ],
             "input": {
                 "type": "option",

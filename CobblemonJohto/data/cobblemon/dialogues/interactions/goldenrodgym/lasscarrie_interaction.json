@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You shouldn't let your guard down just 'cause I don't look tough!"
+                "¡No deberías bajar la guardia solo porque no parezco dura!"
             ],
             "input": {
                 "type": "option",

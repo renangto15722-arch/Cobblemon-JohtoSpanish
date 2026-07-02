@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Wahahaha! You betcha! I'm Janine!"
+                "¡Wahahaha! ¡Ya lo creo! ¡Soy Janine!"
             ],
             "input": {
                 "type": "option",

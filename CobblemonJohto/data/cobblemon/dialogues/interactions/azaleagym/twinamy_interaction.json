@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, are you challenging the Leader? No way!"
+                "Oye, ¿estás desafiando al Líder? ¡De ninguna manera!"
             ],
             "input": {
                 "type": "option",

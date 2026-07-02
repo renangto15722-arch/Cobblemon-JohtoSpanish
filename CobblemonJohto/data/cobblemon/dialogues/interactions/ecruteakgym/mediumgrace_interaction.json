@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Not sure of your way? Defeat me if you want a hint!"
+                "¿No estás seguro del camino? ¡Vénceme si quieres una pista!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You! How dare you enter uninvited!"
+                "¡Tú! ¡Cómo te atreves a entrar sin ser invitado!"
             ],
             "input": {
                 "type": "option",

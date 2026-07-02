@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Swimming isn't just about speed! It's also about the beauty of grace!"
+                "¡Nadar no es solo cuestión de velocidad! ¡También es la belleza de la gracia!"
             ],
             "input": {
                 "type": "option",

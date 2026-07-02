@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There's no way I can let some unknown Trainer go straight to Erika!"
+                "¡De ninguna manera puedo dejar que un Entrenador desconocido pase directo hasta Erika!"
             ],
             "input": {
                 "type": "option",

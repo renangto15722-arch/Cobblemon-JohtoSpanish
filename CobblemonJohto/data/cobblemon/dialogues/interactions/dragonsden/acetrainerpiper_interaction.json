@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You shouldn't be in here!"
+                "¡No deberías estar aquí dentro!"
             ],
             "input": {
                 "type": "option",

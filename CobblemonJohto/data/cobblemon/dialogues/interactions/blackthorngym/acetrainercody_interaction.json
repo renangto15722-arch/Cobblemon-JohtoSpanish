@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It's not as if we all use Dragon-type Pokémon. It's about more than that-- We're interested in strong Pokémon. That's my theme!"
+                "No es que todos usemos Pokémon de tipo Dragón. Es más que eso-- Nos interesan los Pokémon fuertes. ¡Ese es mi lema!"
             ],
             "input": {
                 "type": "option",

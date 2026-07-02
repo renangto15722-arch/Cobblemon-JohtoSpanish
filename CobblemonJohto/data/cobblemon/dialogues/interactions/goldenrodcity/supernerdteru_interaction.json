@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Do you consider the Pokémon types in battle? If you know about the different types of Pokémon, you'll do better in battle."
+                "¿Tienes en cuenta los tipos de Pokémon en combate? Si conoces los diferentes tipos de Pokémon, te irá mejor en la batalla."
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Can you inflict any damage on our Pokémon?"
+                "¿Puedes hacerle algún daño a nuestros Pokémon?"
             ],
             "input": {
                 "type": "option",

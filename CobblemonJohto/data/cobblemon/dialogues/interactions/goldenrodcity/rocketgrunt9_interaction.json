@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hyuck-hyuck-hyuck! I remember you! You got me good at our hideout!"
+                "¡Ju-ju-ju! ¡Te recuerdo! ¡Me diste una buena paliza en nuestra guarida!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You have lovely Pokémon. May I see them in battle?"
+                "Tienes unos Pokémon encantadores. ¿Puedo verlos en combate?"
             ],
             "input": {
                 "type": "option",

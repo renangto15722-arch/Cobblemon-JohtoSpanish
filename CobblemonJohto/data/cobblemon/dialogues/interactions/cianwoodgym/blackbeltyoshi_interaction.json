@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My Pokémon and I are bound together by friendship. Our bond will never be broken!"
+                "Mis Pokémon y yo estamos unidos por la amistad. ¡Nuestro vínculo nunca se romperá!"
             ],
             "input": {
                 "type": "option",

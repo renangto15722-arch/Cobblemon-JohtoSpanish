@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Fooled you! Hahaha!"
+                "¡Te engañé! ¡Jajaja!"
             ],
             "input": {
                 "type": "option",

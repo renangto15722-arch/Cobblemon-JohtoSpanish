@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Glub... I'm first! Come and get me!"
+                "Glub... ¡Soy el primero! ¡Ven a por mí!"
             ],
             "input": {
                 "type": "option",

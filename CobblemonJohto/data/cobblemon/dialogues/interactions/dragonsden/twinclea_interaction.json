@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It's a stranger--someone we don't know."
+                "Es un desconocido--alguien que no conocemos."
             ],
             "input": {
                 "type": "option",

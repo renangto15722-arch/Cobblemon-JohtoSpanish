@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Isn't my barrette pretty? Oh. A Pokémon battle?"
+                "¿No es bonita mi horquilla? Oh. ¿Un combate Pokémon?"
             ],
             "input": {
                 "type": "option",

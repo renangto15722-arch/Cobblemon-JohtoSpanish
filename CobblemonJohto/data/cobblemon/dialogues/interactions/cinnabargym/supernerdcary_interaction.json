@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I've studied Pokémon thoroughly. You can't win!"
+                "He estudiado a fondo a los Pokémon. ¡No puedes ganar!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Please let me see your power!"
+                "¡Por favor, déjame ver tu poder!"
             ],
             "input": {
                 "type": "option",

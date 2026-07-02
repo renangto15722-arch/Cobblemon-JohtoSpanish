@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Legend has it that upon the emergence of a trainer who has the ability to touch the souls of Pokemon,"
+                "Cuenta la leyenda que, con la aparición de un entrenador capaz de tocar las almas de los Pokémon,"
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "This time I won't hold back! Give me all you've got!"
+                "¡Esta vez no me contendré! ¡Dame todo lo que tienes!"
             ],
             "input": {
                 "type": "option",

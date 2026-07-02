@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm Janine! How did you know I was real? Let's battle!"
+                "¡Soy Janine! ¿Cómo supiste que era la de verdad? ¡A combatir!"
             ],
             "input": {
                 "type": "option",

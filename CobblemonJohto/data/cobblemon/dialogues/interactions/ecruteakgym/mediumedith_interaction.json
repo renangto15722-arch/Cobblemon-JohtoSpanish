@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I spent the spring with my Pokémon. Then summer, autumn, and winter... Then spring came again. We have lived together for a long time."
+                "Pasé la primavera con mis Pokémon. Luego el verano, el otoño y el invierno... Después llegó la primavera otra vez. Hemos vivido juntos mucho tiempo."
             ],
             "input": {
                 "type": "option",

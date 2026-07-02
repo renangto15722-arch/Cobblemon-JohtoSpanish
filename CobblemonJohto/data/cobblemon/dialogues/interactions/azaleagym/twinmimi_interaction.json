@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "If you insist, we'll be your opponents."
+                "Si insistes, seremos tus oponentes."
             ],
             "input": {
                 "type": "option",

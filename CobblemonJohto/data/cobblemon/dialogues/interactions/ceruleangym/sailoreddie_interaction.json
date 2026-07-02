@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I've been relaxing poolside, so I've got enough strength!"
+                "¡He estado relajándome junto a la piscina, así que tengo fuerzas de sobra!"
             ],
             "input": {
                 "type": "option",

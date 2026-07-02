@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I like cute Pokémon better than strong Pokémon. But I have strong and cute Pokémon!"
+                "Me gustan más los Pokémon monos que los fuertes. ¡Pero yo tengo Pokémon fuertes y monos!"
             ],
             "input": {
                 "type": "option",

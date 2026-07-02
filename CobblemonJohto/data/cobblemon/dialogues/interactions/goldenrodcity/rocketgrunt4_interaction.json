@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I don't care if you're lost. You show up here--you're nothing but a victim!"
+                "No me importa si estás perdido. Si apareces por aquí, ¡no eres más que una víctima!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I like using Fire-type Pokémon. I just do."
+                "Me gusta usar Pokémon de tipo Fuego. Simplemente me gusta."
             ],
             "input": {
                 "type": "option",

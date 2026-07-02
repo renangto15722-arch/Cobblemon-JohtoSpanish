@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You saved all the Slowpoke? Whew, you're mighty! But my grown-up Pokémon are pretty tough, too!"
+                "¿Salvaste a todos los Slowpoke? ¡Vaya, eres poderoso! ¡Pero mis Pokémon adultos también son bastante duros!"
             ],
             "input": {
                 "type": "option",

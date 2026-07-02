@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Open one door, another closes. Bet you can't get where you want to go!"
+                "Abres una puerta, se cierra otra. ¡Apuesto a que no llegas adonde quieres ir!"
             ],
             "input": {
                 "type": "option",

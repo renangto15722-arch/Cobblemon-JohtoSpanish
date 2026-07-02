@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Sorry about being away. Let's get on with it!"
+                "Perdón por haberme ausentado. ¡Vamos a ello!"
             ],
             "input": {
                 "type": "option",

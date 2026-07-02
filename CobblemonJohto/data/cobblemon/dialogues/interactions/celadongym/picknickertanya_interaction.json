@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Do you think a girls-only Gym is rare?"
+                "¿Crees que un Gimnasio solo de chicas es raro?"
             ],
             "input": {
                 "type": "option",

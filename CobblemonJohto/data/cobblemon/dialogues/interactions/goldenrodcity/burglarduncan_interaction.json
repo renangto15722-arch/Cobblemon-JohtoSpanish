@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Fork over your goods!"
+                "¡Entrega tus cosas!"
             ],
             "input": {
                 "type": "option",

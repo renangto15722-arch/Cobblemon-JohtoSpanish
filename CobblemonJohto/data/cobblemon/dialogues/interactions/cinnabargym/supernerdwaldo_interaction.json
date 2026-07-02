@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I know why Blaine became a Trainer."
+                "Sé por qué Blaine se convirtió en Entrenador."
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Fufufu! I'm Janine, the Gym Leader! Wait, no I'm not! Gotcha!"
+                "¡Fufufu! ¡Soy Janine, la Líder de Gimnasio! Espera, ¡que no lo soy! ¡Te engañé!"
             ],
             "input": {
                 "type": "option",

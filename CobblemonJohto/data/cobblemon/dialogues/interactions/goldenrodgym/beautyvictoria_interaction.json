@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh, you are a cute little Trainer! Why don't you battle me?"
+                "¡Vaya, qué Entrenador más mono! ¿Por qué no peleas contra mí?"
             ],
             "input": {
                 "type": "option",

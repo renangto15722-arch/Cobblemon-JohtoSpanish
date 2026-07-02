@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You're not going any farther! I don't show mercy to my enemies, especially not brats!"
+                "¡No vas a pasar de aquí! ¡No tengo piedad con mis enemigos, y mucho menos con los mocosos!"
             ],
             "input": {
                 "type": "option",

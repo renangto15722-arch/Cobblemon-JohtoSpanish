@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I think you have some rare Pokémon with you. Let me see them!"
+                "Creo que llevas algunos Pokémon raros contigo. ¡Déjame verlos!"
             ],
             "input": {
                 "type": "option",

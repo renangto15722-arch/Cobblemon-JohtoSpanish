@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Give it your best shot, or I'll take you down!"
+                "¡Da lo mejor de ti, o te haré morder el polvo!"
             ],
             "input": {
                 "type": "option",

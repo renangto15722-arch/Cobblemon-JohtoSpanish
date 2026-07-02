@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Can you be trusted with the truth? I must ascertain your worthiness."
+                "¿Se te puede confiar la verdad? Debo comprobar si eres digno."
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Bug Pokémon evolve young. So they get stronger that much faster."
+                "Los Pokémon de tipo Bicho evolucionan jóvenes. Así que se hacen fuertes mucho más rápido."
             ],
             "input": {
                 "type": "option",

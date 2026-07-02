@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My raging fists will shatter your Pokémon!"
+                "¡Mis puños furiosos harán pedazos a tus Pokémon!"
             ],
             "input": {
                 "type": "option",

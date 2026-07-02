@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Words are useless. Let your fists do the talking!"
+                "Las palabras son inútiles. ¡Deja que tus puños hablen!"
             ],
             "input": {
                 "type": "option",

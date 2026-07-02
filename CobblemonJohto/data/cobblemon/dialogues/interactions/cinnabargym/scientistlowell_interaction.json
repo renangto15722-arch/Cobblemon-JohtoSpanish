@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I was a thief, but I went straight as a Trainer."
+                "Era un ladrón, pero me reformé como Entrenador."
             ],
             "input": {
                 "type": "option",

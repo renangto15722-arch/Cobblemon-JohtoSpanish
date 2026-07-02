@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "How did you get this far? I guess it can't be helped. I'll dispose of you."
+                "¿Cómo llegaste tan lejos? Supongo que no hay remedio. Me desharé de ti."
             ],
             "input": {
                 "type": "option",

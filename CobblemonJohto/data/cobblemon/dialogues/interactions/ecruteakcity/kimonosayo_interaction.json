@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I always dance with my Pokémon. Of course, I also train them."
+                "Siempre bailo con mis Pokémon. Por supuesto, también los entreno."
             ],
             "input": {
                 "type": "option",

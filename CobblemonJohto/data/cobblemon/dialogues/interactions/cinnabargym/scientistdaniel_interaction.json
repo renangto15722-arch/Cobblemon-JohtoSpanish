@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Do you know how hot Pokémon fire breath can get?"
+                "¿Sabes lo caliente que puede llegar a ser el aliento de fuego de un Pokémon?"
             ],
             "input": {
                 "type": "option",

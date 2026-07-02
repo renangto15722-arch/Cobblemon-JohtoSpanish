@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh, you're a cute trainer. Would you like to battle?"
+                "Oh, eres un entrenador lindo. ¿Te gustaría combatir?"
             ],
             "input": {
                 "type": "option",

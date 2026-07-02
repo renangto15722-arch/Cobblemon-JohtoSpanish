@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Your first battle against dragons? I'll show you how tough they are!"
+                "¿Tu primer combate contra dragones? ¡Te mostraré lo duros que son!"
             ],
             "input": {
                 "type": "option",

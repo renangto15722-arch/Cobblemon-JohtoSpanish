@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Are you lost? No, you can't be. You don't have that scared look. I'll give you something to be scared about!"
+                "¿Estás perdido? No, no puede ser. No tienes esa cara de miedo. ¡Te daré un buen motivo para asustarte!"
             ],
             "input": {
                 "type": "option",

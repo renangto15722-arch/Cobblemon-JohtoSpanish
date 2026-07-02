@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My chance of losing? Not even one percent!"
+                "¿Mis posibilidades de perder? ¡Ni siquiera un uno por ciento!"
             ],
             "input": {
                 "type": "option",

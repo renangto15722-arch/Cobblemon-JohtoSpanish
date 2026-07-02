@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "They ditched this project before they finished. I'm searching for leftover loot."
+                "Abandonaron este proyecto antes de terminarlo. Estoy buscando el botín que quedó."
             ],
             "input": {
                 "type": "option",

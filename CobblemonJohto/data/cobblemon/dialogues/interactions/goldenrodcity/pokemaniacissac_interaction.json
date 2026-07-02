@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My Pokémon just got a haircut! I'll show you how strong it is!"
+                "¡Mi Pokémon acaba de cortarse el pelo! ¡Te mostraré lo fuerte que es!"
             ],
             "input": {
                 "type": "option",

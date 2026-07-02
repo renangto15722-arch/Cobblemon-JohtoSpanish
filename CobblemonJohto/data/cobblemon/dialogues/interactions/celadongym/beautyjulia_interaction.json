@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "How can I get you to understand my hobby? Which is... talking in a deep voice!"
+                "¿Cómo puedo hacer que entiendas mi afición? Que es... ¡hablar con voz grave!"
             ],
             "input": {
                 "type": "option",

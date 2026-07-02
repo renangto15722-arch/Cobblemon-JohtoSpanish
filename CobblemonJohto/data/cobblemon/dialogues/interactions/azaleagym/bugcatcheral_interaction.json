@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You've come all this way, crossing the web like a bug Pokémon! Allow me to teach you the charms of bug Pokémon!"
+                "¡Has llegado hasta aquí, cruzando la telaraña como un Pokémon de tipo Bicho! ¡Permíteme enseñarte los encantos de los Pokémon de tipo Bicho!"
             ],
             "input": {
                 "type": "option",

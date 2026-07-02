@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I shall win!"
+                "¡Yo venceré!"
             ],
             "input": {
                 "type": "option",

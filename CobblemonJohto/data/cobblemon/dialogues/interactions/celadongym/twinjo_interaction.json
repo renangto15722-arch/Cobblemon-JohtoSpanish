@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We protect Erika!"
+                "¡Nosotras protegemos a Erika!"
             ],
             "input": {
                 "type": "option",
