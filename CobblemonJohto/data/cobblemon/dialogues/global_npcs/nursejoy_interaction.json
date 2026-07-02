@@ -24,7 +24,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["Hello, and welcome to the Pokémon Center. We restore your tired Pokémon to full health."],
+      "lines": ["Hola, y bienvenido al Centro Pokémon. Devolvemos a tus Pokémon cansados a su plena salud."],
       "input": {
                 "type": "option",
                 "vertical": false,
@@ -40,7 +40,7 @@
     {
       "id": "no_healer",
       "speaker": "npc",
-      "lines": ["I would offer to heal your Pokémon, but I can't seem to find my healing machine...", "I'm sorry about that!"],
+      "lines": ["Me ofrecería a curar a tus Pokémon, pero no encuentro mi máquina de curación...", "¡Lo siento mucho!"],
       "input": {
                 "type": "option",
                 "vertical": false,
@@ -56,7 +56,7 @@
     {
       "id": "full_health",
       "speaker": "npc",
-      "lines": ["I would offer to heal your Pokémon for you, but your Pokémon are completely healthy!"],
+      "lines": ["Me ofrecería a curar a tus Pokémon, ¡pero tus Pokémon están completamente sanos!"],
       "input": {
                 "type": "option",
                 "vertical": false,
@@ -72,7 +72,7 @@
     {
       "id": "no_charge",
       "speaker": "npc",
-      "lines": ["I'd like to heal your Pokémon but my machine is busy! Please come back later!"],
+      "lines": ["¡Me gustaría curar a tus Pokémon pero mi máquina está ocupada! ¡Por favor vuelve más tarde!"],
       "input": {
                 "type": "option",
                 "vertical": false,
@@ -88,7 +88,7 @@
     {
       "id": "has_charge",
       "speaker": "npc",
-      "lines": ["Would you like to rest your Pokémon?"],
+      "lines": ["¿Te gustaría que tus Pokémon descansen?"],
       "input": {
         "type": "option",
         "vertical": false,
@@ -113,7 +113,7 @@
     {
       "id": "okbye",
       "speaker": "npc",
-      "lines": ["Alright, see you later!"],
+      "lines": ["¡Muy bien, hasta luego!"],
       "input": {
                 "type": "option",
                 "vertical": false,

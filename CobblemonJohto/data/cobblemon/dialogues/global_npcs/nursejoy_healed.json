@@ -13,7 +13,7 @@
     {
       "id": "greeting",
       "speaker": "npc",
-      "lines": ["Thank you for waiting. We hope to see you again!"],
+      "lines": ["Gracias por esperar. ¡Esperamos verte de nuevo!"],
       "input": {
                 "type": "option",
                 "vertical": false,
