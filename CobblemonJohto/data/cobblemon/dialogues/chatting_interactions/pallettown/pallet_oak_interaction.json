@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "If a wild Pokémon appears, your Pokémon can battle it. "
+                "Si aparece un Pokémon salvaje, tus Pokémon pueden luchar contra él. "
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "With it at your side, you should be able to reach the next town... "
+                "Con él a tu lado, deberías poder llegar al próximo pueblo... "
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "What am I saying? "
+                "¿Qué estoy diciendo? "
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "You already know all this! Hahaha!"
+                "¡Ya sabes todo esto! ¡Jajaja!"
             ],
             "input": {
                 "type": "option",

@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi!"
+                "¡Hola!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Thanks to you, my research is going great!"
+                "¡Gracias a ti, mi investigación va de maravilla!"
             ],
             "input": {
                 "type": "option",
@@ -56,7 +56,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Take this as a token of my appreciation."
+                "Toma esto como muestra de mi agradecimiento."
             ],
             "input": {
                 "type": "option",
@@ -74,7 +74,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                    "The Master Ball is the best! It's the ultimate Ball!"
+                    "¡La Master Ball es la mejor! ¡Es la Ball definitiva!"
             ],
             "input": {
                 "type": "option",
@@ -92,7 +92,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "It'll catch any Pokémon without fail."
+                "Atrapará a cualquier Pokémon sin fallar."
             ],
             "input": {
                 "type": "option",
@@ -110,7 +110,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "It's given only to recognized Pokémon researchers."
+                "Solo se les da a investigadores de Pokémon reconocidos."
             ],
             "input": {
                 "type": "option",
@@ -128,7 +128,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "I think you can make better use of it than I can."
+                "Creo que tú le puedes dar mejor uso que yo."
             ],
             "input": {
                 "type": "option",

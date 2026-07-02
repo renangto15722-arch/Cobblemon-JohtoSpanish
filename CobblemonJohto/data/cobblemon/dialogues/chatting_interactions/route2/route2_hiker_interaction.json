@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi! Wow, I'm glad to see you."
+                "¡Hola! Vaya, me alegro de verte."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You're the first visitor I've had in a long time."
+                "Eres el primer visitante que tengo en mucho tiempo."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I'm super-happy!"
+                "¡Estoy súper feliz!"
             ],
             "input": {
                 "type": "option",

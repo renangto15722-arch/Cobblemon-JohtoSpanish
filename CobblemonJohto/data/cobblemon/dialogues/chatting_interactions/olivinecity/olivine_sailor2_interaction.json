@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Dark roads are dangerous at night."
+                "Los caminos oscuros son peligrosos de noche."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But in the pitch-black of night, the sea is even more treacherous!"
+                "¡Pero en la oscuridad total de la noche, el mar es aún más traicionero!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Without the beacon of the Lighthouse to guide it, no ship can sail."
+                "Sin la luz del Faro para guiarlo, ningún barco puede navegar."
             ],
             "input": {
                 "type": "option",

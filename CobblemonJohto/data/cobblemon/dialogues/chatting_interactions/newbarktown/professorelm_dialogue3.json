@@ -21,7 +21,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There you are!"
+                "¡Ahí estás!"
             ],
             "input": {
                 "type": "option",
@@ -39,7 +39,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I needed to ask you a favor."
+                "Necesitaba pedirte un favor."
             ],
             "input": {
                 "type": "option",
@@ -57,7 +57,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I have an acquaintance called Mr. Pokémon."
+                "Tengo un conocido llamado Mr. Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -75,7 +75,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "He keeps finding weird things and raving about his discoveries."
+                "Siempre encuentra cosas raras y se entusiasma con sus descubrimientos."
             ],
             "input": {
                 "type": "option",
@@ -93,7 +93,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Anyway, I just got an e-mail from him saying that this time it's real."
+                "En fin, acabo de recibir un correo suyo diciendo que esta vez es de verdad."
             ],
             "input": {
                 "type": "option",
@@ -111,7 +111,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "It is intriguing, but we're busy with our Pokémon research."
+                "Es intrigante, pero estamos ocupados con nuestra investigación de Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -129,7 +129,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "Could you look into it for us?"
+                "¿Podrías investigarlo por nosotros?"
             ],
             "input": {
                 "type": "option",
@@ -147,7 +147,7 @@
             "id": "page8",
             "speaker": "npc",
             "lines": [
-                "I'll give you a Pokémon for a partner. They're all rare Pokémon that we just found."
+                "Te daré un Pokémon como compañero. Todos son Pokémon raros que acabamos de encontrar."
             ],
             "input": {
                 "type": "option",
@@ -165,7 +165,7 @@
             "id": "page9",
             "speaker": "npc",
             "lines": [
-                "Go on. Pick one!"
+                "Adelante. ¡Elige uno!"
             ],
             "input": {
                 "type": "option",

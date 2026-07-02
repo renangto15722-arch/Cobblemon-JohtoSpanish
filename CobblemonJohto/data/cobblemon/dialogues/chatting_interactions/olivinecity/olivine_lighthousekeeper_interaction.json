@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Crossing the sea? Then listen up!"
+                "¿Vas a cruzar el mar? ¡Entonces escucha!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "There are whirlpools on the way to Cianwood."
+                "Hay remolinos de camino a Ciudad Orquídea."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "You must have a special item to get over the whirlpools."
+                "Necesitas un objeto especial para superar los remolinos."
             ],
             "input": {
                 "type": "option",

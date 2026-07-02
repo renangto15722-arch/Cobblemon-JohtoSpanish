@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hello, good to see you."
+                "Hola, qué bueno verte."
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I heard a lot about you. Your Pokédex must be close to complete?"
+                "He oído mucho sobre ti. ¿Tu Pokédex debe estar casi completa?"
             ],
             "input": {
                 "type": "option",
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "For all your hard work, I would like to give you something."
+                "Por todo tu esfuerzo, me gustaría darte algo."
             ],
             "input": {
                 "type": "option",
@@ -76,7 +76,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Haha! What's behind me... "
+                "¡Jaja! Lo que está detrás de mí... "
             ],
             "input": {
                 "type": "option",
@@ -94,7 +94,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "You must have figured it out right away. Yes, it is a Pokémon!"
+                "Seguro lo descubriste enseguida. ¡Sí, es un Pokémon!"
             ],
             "input": {
                 "type": "option",
@@ -112,7 +112,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "You don't see them very often in Kanto. "
+                "No se ven muy a menudo en Kanto. "
             ],
             "input": {
                 "type": "option",
@@ -130,7 +130,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "Choose one and it'll be yours! ...Go ahead!"
+                "¡Elige uno y será tuyo! ...¡Adelante!"
             ],
             "input": {
                 "type": "option",
@@ -158,7 +158,7 @@
             "id": "pickchar",
             "speaker": "npc",
             "lines": [
-                "So, you're claiming the Fire Pokémon Charmander?"
+                "Entonces, ¿eliges al Pokémon de Fuego Charmander?"
             ],
             "input": {
                 "type": "option",
@@ -185,7 +185,7 @@
             "id": "picksquirt",
             "speaker": "npc",
             "lines": [
-                "So, you've decided on the Water Pokémon Squirtle?"
+                "Entonces, ¿te has decidido por el Pokémon de Agua Squirtle?"
             ],
             "input": {
                 "type": "option",
@@ -212,7 +212,7 @@
             "id": "pickbulba",
             "speaker": "npc",
             "lines": [
-                "So, you want to go with the Grass Pokémon Bulbasaur?"
+                "Entonces, ¿quieres quedarte con el Pokémon de Planta Bulbasaur?"
             ],
             "input": {
                 "type": "option",
@@ -239,7 +239,7 @@
             "id": "page11",
             "speaker": "npc",
             "lines": [
-                "This Pokémon is really quite energetic!"
+                "¡Este Pokémon es realmente muy enérgico!"
             ],
             "input": {
                 "type": "option",
@@ -257,7 +257,7 @@
             "id": "page12",
             "speaker": "npc",
             "lines": [
-                "There is nothing more that I can do for you. "
+                "No hay nada más que pueda hacer por ti. "
             ],
             "input": {
                 "type": "option",
@@ -275,7 +275,7 @@
             "id": "page13",
             "speaker": "npc",
             "lines": [
-                "Enjoy the rest of your journey with that new Pokémon!"
+                "¡Disfruta el resto de tu viaje con ese nuevo Pokémon!"
             ],
             "input": {
                 "type": "option",

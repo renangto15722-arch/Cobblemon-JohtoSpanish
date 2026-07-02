@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There's a person in Cianwood City across the sea."
+                "Hay una persona en Ciudad Orquídea, al otro lado del mar."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I heard him bragging about his rare Pokémon."
+                "Lo oí presumir de sus Pokémon raros."
             ],
             "input": {
                 "type": "option",

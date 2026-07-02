@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "SS Anne uses jets to skim over the waves!"
+                "¡El S.S. Anne usa propulsores para deslizarse sobre las olas!"
             ],
             "input": {
                 "type": "option",

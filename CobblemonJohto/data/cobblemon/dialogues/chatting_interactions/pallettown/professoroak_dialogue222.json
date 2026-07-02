@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Those Badges are... Wow!"
+                "Esas Medallas son... ¡Vaya!"
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You have not only become the Johto Champion, but you've collected all the Kanto Badges!"
+                "¡No solo te has convertido en Campeón de Johto, sino que has reunido todas las Medallas de Kanto!"
             ],
             "input": {
                 "type": "option",
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Well done! Hmm... No wonder I sensed something in you when we met."
+                "¡Bien hecho! Mmm... Con razón sentí algo especial en ti cuando nos conocimos."
             ],
             "input": {
                 "type": "option",
@@ -76,7 +76,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Tell you what. I'll make arrangements so that you can go to Mt. Silver."
+                "Te diré algo. Haré los arreglos para que puedas ir al Monte Plateado."
             ],
             "input": {
                 "type": "option",
@@ -94,7 +94,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Mt. Silver is a big mountain that is home to many wild Pokémon."
+                "El Monte Plateado es una gran montaña que alberga a muchos Pokémon salvajes."
             ],
             "input": {
                 "type": "option",
@@ -112,7 +112,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "It's too dangerous for your average Trainer, so it's off limits."
+                "Es demasiado peligroso para un Entrenador común, así que está prohibido el paso."
             ],
             "input": {
                 "type": "option",
@@ -130,7 +130,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "But we can make an exception in your case."
+                "Pero en tu caso podemos hacer una excepción."
             ],
             "input": {
                 "type": "option",
@@ -148,7 +148,7 @@
             "id": "page8",
             "speaker": "npc",
             "lines": [
-                "Go to the Pokémon League Reception Gate. You can reach Mt. Silver from there."
+                "Ve a la Puerta de Recepción de la Liga Pokémon. Desde allí puedes llegar al Monte Plateado."
             ],
             "input": {
                 "type": "option",

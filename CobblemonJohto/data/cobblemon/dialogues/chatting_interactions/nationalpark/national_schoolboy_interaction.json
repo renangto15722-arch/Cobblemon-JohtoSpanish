@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm playing with stickers I printed from my Pokedex."
+                "Estoy jugando con pegatinas que imprimí de mi Pokédex."
             ],
             "input": {
                 "type": "option",

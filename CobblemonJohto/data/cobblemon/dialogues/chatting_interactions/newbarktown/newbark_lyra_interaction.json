@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm Professor Elm's new assistant!"
+                "¡Soy la nueva asistente del Profesor Elm!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "How cool is that?"
+                "¿A que es genial?"
             ],
             "input": {
                 "type": "option",

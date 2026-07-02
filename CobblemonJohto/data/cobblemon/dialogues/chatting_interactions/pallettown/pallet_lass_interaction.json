@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm raising Pokémon too."
+                "Yo también crío Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "They serve as my private guards."
+                "Me sirven como guardias personales."
             ],
             "input": {
                 "type": "option",

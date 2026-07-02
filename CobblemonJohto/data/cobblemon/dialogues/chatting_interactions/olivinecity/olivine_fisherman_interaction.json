@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Olivine is on the sea!"
+                "¡Ciudad Olivo está junto al mar!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "And if it's on the sea, there are bound to be fish!"
+                "¡Y si está junto al mar, seguro que hay peces!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I've fished here for 30 years. Would you like to face the sea and fish?"
+                "Llevo 30 años pescando aquí. ¿Te gustaría enfrentar el mar y pescar?"
             ],
             "input": {
                 "type": "option",

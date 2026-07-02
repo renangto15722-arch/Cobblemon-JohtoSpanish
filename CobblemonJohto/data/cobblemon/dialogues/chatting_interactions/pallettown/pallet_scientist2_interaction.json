@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Thanks to your work on the Pokedex, the Prof's research is coming along great."
+                "Gracias a tu trabajo con la Pokédex, la investigación del Prof. va de maravilla."
             ],
             "input": {
                 "type": "option",

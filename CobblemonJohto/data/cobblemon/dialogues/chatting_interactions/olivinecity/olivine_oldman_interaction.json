@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Fast Ship SS Anne sails to Kanto in about 10 miunutes!"
+                "¡El barco rápido S.S. Anne zarpa hacia Kanto en unos 10 minutos!"
             ],
             "input": {
                 "type": "option",

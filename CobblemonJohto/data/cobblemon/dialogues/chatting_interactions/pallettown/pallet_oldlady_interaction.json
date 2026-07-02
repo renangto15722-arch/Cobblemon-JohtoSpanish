@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi!"
+                "¡Hola!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Red's been away for a long time."
+                "Red lleva mucho tiempo fuera."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "He hasn't called either, so I have no idea where he is or what he's been doing."
+                "Tampoco ha llamado, así que no tengo idea de dónde está ni qué ha estado haciendo."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "They say that no word is proof that he's doing fine, but I do worry about him."
+                "Dicen que la falta de noticias es prueba de que está bien, pero me preocupo por él."
             ],
             "input": {
                 "type": "option",

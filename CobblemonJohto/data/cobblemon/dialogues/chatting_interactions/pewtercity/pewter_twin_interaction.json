@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Have you visited Pewter Gym?"
+                "¿Has visitado el Gimnasio de Ciudad Plateada?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The Leader uses rock-type Pokémon."
+                "El Líder usa Pokémon de tipo roca."
             ],
             "input": {
                 "type": "option",

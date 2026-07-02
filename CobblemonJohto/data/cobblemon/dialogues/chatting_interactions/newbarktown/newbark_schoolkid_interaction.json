@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "When I grow up, I'm going to help my Dad!"
+                "¡Cuando sea mayor, voy a ayudar a mi papá!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I'm going to be a great Pokemon professor!"
+                "¡Voy a ser un gran profesor Pokémon!"
             ],
             "input": {
                 "type": "option",

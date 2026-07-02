@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Do your Pokémon already know the move for carrying people on water?"
+                "¿Tus Pokémon ya conocen el movimiento para llevar personas sobre el agua?"
             ],
             "input": {
                 "type": "option",

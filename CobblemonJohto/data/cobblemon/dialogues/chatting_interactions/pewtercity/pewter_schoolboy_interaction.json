@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There once was a weird old man who sold Magikarp."
+                "Había una vez un viejo raro que vendía Magikarp."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "He was saying the Magikarp from the Lake of Rage were excellent."
+                "Decía que los Magikarp del Lago de la Furia eran excelentes."
             ],
             "input": {
                 "type": "option",

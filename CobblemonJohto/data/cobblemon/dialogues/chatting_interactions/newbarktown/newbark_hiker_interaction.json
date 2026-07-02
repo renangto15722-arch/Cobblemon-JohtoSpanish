@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I heard Professor Elm discovered some new Pokemon!"
+                "¡Oí que el Profesor Elm descubrió algunos Pokémon nuevos!"
             ],
             "input": {
                 "type": "option",

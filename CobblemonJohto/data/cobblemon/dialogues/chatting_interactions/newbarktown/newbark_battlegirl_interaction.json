@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pikachu is an evolved Pokemon."
+                "Pikachu es un Pokémon evolucionado."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I was amazed by Professor Elm's findings."
+                "Me asombraron los descubrimientos del Profesor Elm."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "He's so famous for his research on Pokemon evolution."
+                "Es muy famoso por sus investigaciones sobre la evolución de los Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "...sigh... I wish I could be a researcher like him..."
+                "...suspiro... Ojalá pudiera ser una investigadora como él..."
             ],
             "input": {
                 "type": "option",

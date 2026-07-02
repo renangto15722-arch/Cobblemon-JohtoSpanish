@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi! Check out my Gyarados!"
+                "¡Hola! ¡Mira mi Gyarados!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I raised it from a Magikarp."
+                "Lo crié desde que era un Magikarp."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I can't believe how strong it became."
+                "No puedo creer lo fuerte que se volvió."
             ],
             "input": {
                 "type": "option",

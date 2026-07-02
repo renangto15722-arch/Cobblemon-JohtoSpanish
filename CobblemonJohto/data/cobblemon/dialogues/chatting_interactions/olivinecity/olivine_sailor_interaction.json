@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hello, laddie!"
+                "¡Hola, muchacho!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The sea is sweet! Sing with me!"
+                "¡El mar es dulce! ¡Canta conmigo!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Yo-ho! Blow the man down! ..."
+                "¡Yo-ho! ¡Blow the man down! ..."
             ],
             "input": {
                 "type": "option",

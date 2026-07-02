@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You should heal it with this machine. It's so easy to use. "
+                "Deberías curarlo con esta máquina. Es muy fácil de usar. "
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "And you can manage Pokémon with the PC at my desk!"
+                "¡Y puedes gestionar tus Pokémon con el PC de mi escritorio!"
             ],
             "input": {
                 "type": "option",

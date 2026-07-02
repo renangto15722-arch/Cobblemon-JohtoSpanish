@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There are lots of Pokémon in Kanto"
+                "Hay muchísimos Pokémon en Kanto"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I wish I could go..."
+                "Ojalá pudiera ir..."
             ],
             "input": {
                 "type": "option",

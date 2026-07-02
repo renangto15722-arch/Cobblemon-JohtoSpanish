@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "On the sea, the only thing you can count on is your own good self!"
+                "¡En el mar, en lo único que puedes confiar es en ti mismo!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I'm so proud of my buff bod!"
+                "¡Estoy muy orgulloso de mi cuerpo musculoso!"
             ],
             "input": {
                 "type": "option",

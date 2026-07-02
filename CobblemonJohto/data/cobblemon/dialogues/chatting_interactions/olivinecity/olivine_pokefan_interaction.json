@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "In the past, Pokémon used to light the sea around Olivine at night."
+                "En el pasado, los Pokémon iluminaban el mar alrededor de Ciudad Olivo por la noche."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The Lighthouse was made in honor of those Pokémon."
+                "El Faro se construyó en honor a esos Pokémon."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Sailors are really generous."
+                "Los marineros son muy generosos."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "One taught my Pokémon Strength."
+                "Uno le enseñó Strength a mi Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Now it can move big boulders in battle."
+                "Ahora puede mover grandes rocas en combate."
             ],
             "input": {
                 "type": "option",

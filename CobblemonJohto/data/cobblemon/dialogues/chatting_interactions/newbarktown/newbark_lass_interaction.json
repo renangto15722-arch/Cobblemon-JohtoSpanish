@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi there!"
+                "¡Hola!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "My husband's always so busy-- I hope he's ok."
+                "Mi marido siempre está tan ocupado... Espero que esté bien."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "When he's caught up in his Pokemon research, he even forgets to eat."
+                "Cuando se concentra en su investigación de Pokémon, hasta se olvida de comer."
             ],
             "input": {
                 "type": "option",

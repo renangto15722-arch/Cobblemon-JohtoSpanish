@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This is my sweet little Fre!"
+                "¡Esta es mi dulce pequeña Fre!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "When she walks with me, it's just so much fun!"
+                "¡Cuando camina conmigo, es tan divertido!"
             ],
             "input": {
                 "type": "option",

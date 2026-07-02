@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Urrggh... The guy in the cape is incredibly tough..."
+                "Urrggh... El tipo de la capa es increíblemente fuerte..."
             ],
             "input": {
                 "type": "option",

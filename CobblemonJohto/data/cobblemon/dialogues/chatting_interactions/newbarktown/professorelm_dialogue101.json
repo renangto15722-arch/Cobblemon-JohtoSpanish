@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There you are!"
+                "¡Ahí estás!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I called because I have something for you."
+                "Te llamé porque tengo algo para ti."
             ],
             "input": {
                 "type": "option",
@@ -56,7 +56,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It's an S.S. Ticket. Now you can catch Pokémon in Kanto."
+                "Es un S.S. Ticket. Ahora puedes capturar Pokémon en Kanto."
             ],
             "input": {
                 "type": "option",
@@ -74,7 +74,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                    "The ship departs from Olivine City. But you knew that already."
+                    "El barco zarpa desde Ciudad Olivo. Pero eso ya lo sabías."
             ],
             "input": {
                 "type": "option",
@@ -92,7 +92,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "After all, you've traveled all over with your Pokémon."
+                "Al fin y al cabo, has viajado por todas partes con tus Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -110,7 +110,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Give my regards to Professor Oak in Kanto!"
+                "¡Dale mis saludos al Profesor Oak en Kanto!"
             ],
             "input": {
                 "type": "option",

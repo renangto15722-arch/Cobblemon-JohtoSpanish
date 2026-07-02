@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "That thing you have - it's a radio, right?"
+                "Esa cosa que tienes... es una radio, ¿verdad?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Wow, that's cool."
+                "Vaya, qué genial."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "To add to your Pokedex, you have to catch Pokemon."
+                "Para completar tu Pokédex, tienes que capturar Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Throw Poke Balls at wild Pokemon to get them."
+                "Lanza Poke Balls a los Pokémon salvajes para atraparlos."
             ],
             "input": {
                 "type": "option",

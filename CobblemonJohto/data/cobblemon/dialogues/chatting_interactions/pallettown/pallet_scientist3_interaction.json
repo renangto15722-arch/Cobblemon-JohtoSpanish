@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Don't tell anyone, but Prof Oak's Pokémon Talk isn't a live broadcast."
+                "No se lo digas a nadie, pero el Pokémon Talk del Prof. Oak no es una transmisión en vivo."
             ],
             "input": {
                 "type": "option",

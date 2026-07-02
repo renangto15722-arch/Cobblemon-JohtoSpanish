@@ -26,7 +26,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh, you're up!"
+                "¡Oh, ya estás despierto!"
             ],
             "input": {
                 "type": "option",
@@ -44,7 +44,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Our neighbor, Professor Elm, was looking for you."
+                "Nuestro vecino, el Profesor Elm, te estaba buscando."
             ],
             "input": {
                 "type": "option",
@@ -62,7 +62,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "He said he wanted you to do something for him."
+                "Dijo que quería que hicieras algo por él."
             ],
             "input": {
                 "type": "option",

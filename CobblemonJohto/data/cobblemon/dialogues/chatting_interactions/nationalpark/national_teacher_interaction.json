@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pay attention, please!"
+                "¡Presta atención, por favor!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "...Oops, I have to quit thinking like a teacher all the time."
+                "...Uy, tengo que dejar de pensar como una maestra todo el tiempo."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "You must be a Pokémon trainer. Since you're working so hard, I want you to have this."
+                "Debes de ser un entrenador Pokémon. Como te esfuerzas tanto, quiero que tengas esto."
             ],
             "input": {
                 "type": "option",
@@ -69,7 +69,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Let a Pokémon hold that Quick Claw. Sometimes it will strike first during battle."
+                "Deja que un Pokémon lleve esa Quick Claw. A veces atacará primero durante el combate."
             ],
             "input": {
                 "type": "option",

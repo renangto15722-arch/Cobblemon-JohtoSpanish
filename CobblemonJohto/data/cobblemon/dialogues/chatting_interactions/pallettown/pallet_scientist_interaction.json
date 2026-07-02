@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Prof's Pokémon Talk radio program isn't aired here in Kanto."
+                "El programa de radio Pokémon Talk del Prof. no se emite aquí en Kanto."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's a shame -- I'd like to hear it."
+                "Es una lástima -- me gustaría escucharlo."
             ],
             "input": {
                 "type": "option",

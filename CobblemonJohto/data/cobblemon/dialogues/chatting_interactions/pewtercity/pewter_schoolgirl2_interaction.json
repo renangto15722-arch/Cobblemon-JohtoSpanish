@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Moon Stone, huh?"
+                "Piedra Lunar, ¿eh?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "There are several moves that can be used only while a Pokémon is asleep."
+                "Hay varios movimientos que solo pueden usarse mientras un Pokémon está dormido."
             ],
             "input": {
                 "type": "option",

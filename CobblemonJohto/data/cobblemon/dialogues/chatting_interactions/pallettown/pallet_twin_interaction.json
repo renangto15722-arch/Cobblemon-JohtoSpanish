@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi!"
+                "¡Hola!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "My kid brother is the Gym Leader in Viridian City."
+                "Mi hermano pequeño es el Líder de Gimnasio en Ciudad Verde."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "But he goes out of town so often, it causes problems for the trainers."
+                "Pero sale tan a menudo de la ciudad que les causa problemas a los entrenadores."
             ],
             "input": {
                 "type": "option",

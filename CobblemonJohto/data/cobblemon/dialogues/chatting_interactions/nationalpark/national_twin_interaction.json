@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I love doing the Bug Catching Contest near the weekend."
+                "Me encanta participar en el Concurso de Captura de Bichos cerca del fin de semana."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Different Pokémon migrate for contests on Thursdays and Saturdays!"
+                "¡Distintos Pokémon migran para los concursos los jueves y sábados!"
             ],
             "input": {
                 "type": "option",
