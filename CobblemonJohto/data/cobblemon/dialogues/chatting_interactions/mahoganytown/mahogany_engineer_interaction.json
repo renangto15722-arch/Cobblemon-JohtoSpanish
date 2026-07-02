@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Nobody goes up to Lake of Rage these days."
+                "Estos días nadie sube al Lago de la Furia."
             ],
             "input": {
                 "type": "option",

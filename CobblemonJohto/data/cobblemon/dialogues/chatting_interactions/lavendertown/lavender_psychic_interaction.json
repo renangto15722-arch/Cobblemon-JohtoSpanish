@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "That's quite some building, eh?"
+                "Vaya edificio, ¿eh?"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's Kanto's Radio Tower."
+                "Es la Torre Radio de Kanto."
             ],
             "input": {
                 "type": "option",

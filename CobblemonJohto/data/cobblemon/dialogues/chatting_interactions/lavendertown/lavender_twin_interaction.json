@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There's a radio program that plays Poke Flute music."
+                "Hay un programa de radio que pone música de Poke Flute."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Oh? Ah, your radio can already access it!"
+                "¿Oh? ¡Ah, tu radio ya puede acceder a él!"
             ],
             "input": {
                 "type": "option",

@@ -30,7 +30,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "With that thing, you can tune in to even more radio programs here in Kanto. Gahahahaha!"
+                "Con esa cosa, puedes sintonizar aún más programas de radio aquí en Kanto. ¡Gajajaja!"
             ],
             "input": {
                 "type": "option",

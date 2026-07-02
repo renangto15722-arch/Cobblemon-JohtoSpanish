@@ -33,7 +33,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "' Ah! So you are the ' + q.player.username + ' who solved the Power Plant problem?';"
+                    "expression": "' ¡Ah! ¿Así que tú eres ' + q.player.username + ', el que resolvió el problema de la Central Eléctrica?';"
                 }
             ],
             "input": {
@@ -52,7 +52,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Thanks to you, I never lost my job."
+                "Gracias a ti, nunca perdí mi trabajo."
             ],
             "input": {
                 "type": "option",
@@ -70,7 +70,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I tell you, you're a real lifesaver! Please take this as my thanks."
+                "¡Te lo digo, eres un verdadero salvavidas! Por favor acepta esto como mi agradecimiento."
             ],
             "input": {
                 "type": "option",
@@ -90,7 +90,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'The Director loaded the EXPN Card on ' + q.player.username + 's Radio!';"
+                    "expression": "'¡El Director cargó la EXPN Card en la Radio de ' + q.player.username + '!';"
                 }
             ],
             "input": {
@@ -109,7 +109,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "With that thing, you can tune in to even more radio programs here in Kanto. Gahahahaha!"
+                "Con esa cosa, puedes sintonizar aún más programas de radio aquí en Kanto. ¡Gajajaja!"
             ],
             "input": {
                 "type": "option",

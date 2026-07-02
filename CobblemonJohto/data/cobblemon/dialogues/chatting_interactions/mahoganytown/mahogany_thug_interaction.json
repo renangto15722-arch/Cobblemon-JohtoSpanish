@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I heard that a red Gyarados appeared at the Lake."
+                "Oí que apareció un Gyarados rojo en el Lago."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "That's odd, since even ordinary Gyarados are rare in that lake..."
+                "Qué raro, porque hasta los Gyarados normales son escasos en ese lago..."
             ],
             "input": {
                 "type": "option",

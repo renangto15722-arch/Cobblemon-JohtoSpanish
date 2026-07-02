@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey there! I am the super Music Director!"
+                "¡Hola! ¡Soy el súper Music Director!"
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Huh? Your Pokégear can't tune in to my music shows. How unfortunate!"
+                "¿Eh? Tu Pokégear no puede sintonizar mis programas de música. ¡Qué lástima!"
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "If you upgrade it with the EXPN Card, you can tune in. You'd better get one!"
+                "Si lo mejoras con la EXPN Card, podrás sintonizarlos. ¡Más vale que consigas una!"
             ],
             "input": {
                 "type": "option",

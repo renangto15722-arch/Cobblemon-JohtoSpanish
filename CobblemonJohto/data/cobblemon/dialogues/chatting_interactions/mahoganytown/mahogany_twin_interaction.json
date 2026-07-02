@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Visit Grandma's shop."
+                "Visita la tienda de la abuela."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "She sells stuff that nobody else has."
+                "Vende cosas que nadie más tiene."
             ],
             "input": {
                 "type": "option",

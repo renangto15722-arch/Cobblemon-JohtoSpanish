@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Trainers who seek power climb Mt. Silver despite its many dangers..."
+                "Los entrenadores que buscan poder escalan el Monte Plateado a pesar de sus muchos peligros..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "With their trusted Pokémon, they must feel they can go anywhere..."
+                "Con sus fieles Pokémon, deben sentir que pueden ir a cualquier parte..."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pokémon do become stronger when they evolve, but they also learn moves more slowly."
+                "Los Pokémon se vuelven más fuertes al evolucionar, pero también aprenden movimientos más lentamente."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "When the sun goes down, Clefairy come out to play."
+                "Cuando se pone el sol, los Clefairy salen a jugar."
             ],
             "input": {
                 "type": "option",

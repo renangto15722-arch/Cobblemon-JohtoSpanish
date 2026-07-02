@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Director of the Radio Station sure was happy."
+                "El Director de la Torre Radio sí que estaba contento."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "He said they're back on the air because the Power Plant is running smoothly again."
+                "Dijo que volvieron al aire porque la Central Eléctrica funciona bien de nuevo."
             ],
             "input": {
                 "type": "option",

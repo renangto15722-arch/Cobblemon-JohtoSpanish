@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You need a Poke Flute tune to wake sleeping Pokémon."
+                "Necesitas una melodía de Poke Flute para despertar a los Pokémon dormidos."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Every trainer has to know that!"
+                "¡Todo entrenador tiene que saber eso!"
             ],
             "input": {
                 "type": "option",

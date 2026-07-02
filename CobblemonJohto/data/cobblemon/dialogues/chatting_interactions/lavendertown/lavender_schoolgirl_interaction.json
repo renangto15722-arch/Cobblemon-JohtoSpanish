@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Welcome! Feel free to look around anywhere on this floor."
+                "¡Bienvenido! Siéntete libre de mirar por cualquier parte de este piso."
             ],
             "input": {
                 "type": "option",

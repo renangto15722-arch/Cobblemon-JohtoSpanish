@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh dear. You've found me."
+                "Ay, no. Me has encontrado."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Please don't tell anyone about me."
+                "Por favor, no le cuentes a nadie sobre mí."
             ],
             "input": {
                 "type": "option",
@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I'll give you this for keeping my secret. Please?"
+                "Te daré esto por guardar mi secreto. ¿Sí?"
             ],
             "input": {
                 "type": "option",

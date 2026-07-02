@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I heard about a craftsman who makes custom Poke Balls in the Johto town of Azalea."
+                "Oí hablar de un artesano que hace Poke Balls personalizadas en el Pueblo Azalea de Johto."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I wish I had some."
+                "Ojalá tuviera algunas."
             ],
             "input": {
                 "type": "option",

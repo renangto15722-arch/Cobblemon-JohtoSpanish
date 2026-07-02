@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Repel is a necessity if you are going to explore a cave."
+                "Repel es indispensable si vas a explorar una cueva."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Even though I like exploring, I still haven't made it to all the caves."
+                "Aunque me gusta explorar, todavía no he llegado a todas las cuevas."
             ],
             "input": {
                 "type": "option",

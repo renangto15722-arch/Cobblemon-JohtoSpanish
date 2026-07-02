@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The smell of nature is so refreshing."
+                "El olor de la naturaleza es muy refrescante."
             ],
             "input": {
                 "type": "option",

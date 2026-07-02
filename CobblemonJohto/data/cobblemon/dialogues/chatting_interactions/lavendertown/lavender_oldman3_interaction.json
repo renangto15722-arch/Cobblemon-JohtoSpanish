@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "To the north of Lavendar is Rock Tunnel."
+                "Al norte de Pueblo Lavanda está el Túnel Roca."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Go through it to get to the Power Plant."
+                "Atraviésalo para llegar a la Central Eléctrica."
             ],
             "input": {
                 "type": "option",

@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I stop my Pokémon from evolving too early."
+                "Evito que mis Pokémon evolucionen demasiado pronto."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I make them learn certain moves before I let them evolve."
+                "Les hago aprender ciertos movimientos antes de dejarlos evolucionar."
             ],
             "input": {
                 "type": "option",

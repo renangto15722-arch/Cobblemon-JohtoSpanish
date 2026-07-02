@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I came here to evolve my Magneton in Mt. Silver."
+                "Vine aquí a evolucionar mi Magneton en el Monte Plateado."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I don't think it's high enough level yet though..."
+                "Aunque no creo que tenga el nivel suficiente todavía..."
             ],
             "input": {
                 "type": "option",

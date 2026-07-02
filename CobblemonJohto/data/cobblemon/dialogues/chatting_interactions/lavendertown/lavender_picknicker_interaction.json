@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Some cold-hearted people stop caring for their Pokémon."
+                "Algunas personas sin corazón dejan de cuidar a sus Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Grandpa takes in the poor homeless Pokémon and takes care of them."
+                "El abuelo acoge a los pobres Pokémon sin hogar y los cuida."
             ],
             "input": {
                 "type": "option",

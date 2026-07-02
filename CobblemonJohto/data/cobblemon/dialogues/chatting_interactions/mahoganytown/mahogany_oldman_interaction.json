@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There are Magikarp and Gyarados at the Lake of Rage."
+                "Hay Magikarp y Gyarados en el Lago de la Furia."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I think I even saw one sparkle!"
+                "¡Creo que hasta vi uno brillar!"
             ],
             "input": {
                 "type": "option",

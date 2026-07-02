@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Mr. Fuji does live here, but he's not home now."
+                "El Sr. Fuji sí vive aquí, pero ahora no está en casa."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "He should be at the Soul House."
+                "Debería estar en la Soul House."
             ],
             "input": {
                 "type": "option",

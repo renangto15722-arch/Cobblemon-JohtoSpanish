@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Many people are hard at work here in the Radio Tower."
+                "Mucha gente trabaja duro aquí en la Torre Radio."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "They must be doing their best to put on good shows."
+                "Deben de estar esforzándose al máximo para hacer buenos programas."
             ],
             "input": {
                 "type": "option",
