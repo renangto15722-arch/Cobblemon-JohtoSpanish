@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, kid! What do you think you're doing here? You won't live long in combat!"
+                "¡Eh, chaval! ¿Qué crees que haces aquí? ¡No durarás mucho en combate!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "Not with your puny power! I tell you, kid, electric Pokémon saved me during the war! They zapped my enemies into paralysis!"
+                "¡No con tu poder insignificante! ¡Te lo digo, chaval, los Pokémon eléctricos me salvaron durante la guerra! ¡Dejaron paralizados a mis enemigos a base de descargas!"
             ],
             "input": {
                 "type": "option",
@@ -61,7 +61,7 @@
             "id": "battle_start",
             "speaker": "npc",
             "lines": [
-                "The same as I'll do to you!"
+                "¡Lo mismo que te haré a ti!"
             ],
             "input": {
                 "type": "option",

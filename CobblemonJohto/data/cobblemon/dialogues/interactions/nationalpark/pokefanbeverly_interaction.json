@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My Pokémon is simply darling. Let me tell you how proud my darling makes me."
+                "Mi Pokémon es simplemente encantador. Deja que te cuente lo orgullosa que me hace mi tesoro."
             ],
             "input": {
                 "type": "option",

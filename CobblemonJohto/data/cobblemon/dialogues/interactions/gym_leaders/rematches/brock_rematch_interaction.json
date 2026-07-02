@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "All right!"
+                "¡Muy bien!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "Time to fulfill our promise!"
+                "¡Hora de cumplir nuestra promesa!"
             ],
             "input": {
                 "type": "option",

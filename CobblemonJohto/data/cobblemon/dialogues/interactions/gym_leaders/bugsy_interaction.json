@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm Bugsy! I never lose when it comes to bug Pokémon."
+                "¡Soy Bugsy! Nunca pierdo cuando se trata de Pokémon de tipo Bicho."
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "My research is going to make me the authority on bug Pokémon!"
+                "¡Mi investigación me convertirá en la máxima autoridad sobre los Pokémon de tipo Bicho!"
             ],
             "input": {
                 "type": "option",
@@ -61,7 +61,7 @@
             "id": "battle_start",
             "speaker": "npc",
             "lines": [
-                "Let me demonstrate what I've learned from my studies."
+                "Déjame demostrarte lo que he aprendido con mis estudios."
             ],
             "input": {
                 "type": "option",

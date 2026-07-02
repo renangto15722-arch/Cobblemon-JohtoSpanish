@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We're pretty high up here. My bird Pokémon are in prime form."
+                "Estamos bastante alto aquí. Mis Pokémon pájaro están en plena forma."
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Most excellent! This Radio Tower will fulfill our grand design."
+                "¡Excelente! Esta Torre Radio cumplirá nuestro gran propósito."
             ],
             "input": {
                 "type": "option",

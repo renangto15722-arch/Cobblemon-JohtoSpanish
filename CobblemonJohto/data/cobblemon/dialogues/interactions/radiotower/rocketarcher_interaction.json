@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh? You managed to get this far...?"
+                "¿Oh? ¿Lograste llegar hasta aquí...?"
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "You must be quite the Trainer. We intend to take over this Radio Tower and officially announce our comeback. "
+                "Debes ser todo un Entrenador. Pretendemos tomar el control de esta Torre Radio y anunciar oficialmente nuestro regreso. "
             ],
             "input": {
                 "type": "option",
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "That should bring our boss Giovanni back from his solitary training."
+                "Eso debería hacer que nuestro jefe Giovanni vuelva de su entrenamiento solitario."
             ],
             "input": {
                 "type": "option",
@@ -76,7 +76,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "We are going to regain our former glory..."
+                "Vamos a recuperar nuestra antigua gloria..."
             ],
             "input": {
                 "type": "option",
@@ -94,7 +94,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "I will not allow you to interfere with our meticulous plans!"
+                "¡No permitiré que interfieras con nuestros meticulosos planes!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ha ha ha! How boring. It was far too easy to take over this place! Come on, keep me amused!"
+                "¡Ja ja ja! Qué aburrido. ¡Fue demasiado fácil tomar el control de este lugar! ¡Vamos, entretenme!"
             ],
             "input": {
                 "type": "option",

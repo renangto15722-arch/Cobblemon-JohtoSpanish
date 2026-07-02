@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Why did the door open? Did you have something to do with this?"
+                "¿Por qué se abrió la puerta? ¿Tuviste algo que ver con esto?"
             ],
             "input": {
                 "type": "option",

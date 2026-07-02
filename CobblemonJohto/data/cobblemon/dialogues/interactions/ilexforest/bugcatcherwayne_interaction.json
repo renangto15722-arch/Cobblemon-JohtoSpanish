@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Don't sneak up on me like that! You freightened a Pokémon away!"
+                "¡No te acerques a hurtadillas así! ¡Has espantado a un Pokémon!"
             ],
             "input": {
                 "type": "option",

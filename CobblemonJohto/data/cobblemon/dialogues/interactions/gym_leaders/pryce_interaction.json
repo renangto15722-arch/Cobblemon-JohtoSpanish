@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Pokémon have many experiences in their lives, just like we do. I, too, have seen and suffered much in my life."
+                "Los Pokémon viven muchas experiencias a lo largo de su vida, igual que nosotros. Yo también he visto y sufrido mucho en la mía."
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "Since I am your elder, let me show you what I mean. I have been training Pokémon since before you were born. I do not lose easily."
+                "Como soy mayor que tú, deja que te muestre a qué me refiero. Llevo entrenando Pokémon desde antes de que nacieras. No pierdo con facilidad."
             ],
             "input": {
                 "type": "option",
@@ -61,7 +61,7 @@
             "id": "battle_start",
             "speaker": "npc",
             "lines": [
-                "I, Pryce - the Winter Trainer - shall demonstrate my power!"
+                "¡Yo, Pryce, el Entrenador del Invierno, demostraré mi poder!"
             ],
             "input": {
                 "type": "option",

@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "WAHAHAH! So you've come this far! Let me tell you, I'm tough!"
+                "¡JUAJAJÁ! ¡Así que has llegado hasta aquí! ¡Déjame decirte que soy duro de pelar!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "My Pokémon will crush stones and shatter bones!"
+                "¡Mis Pokémon trituran piedras y rompen huesos!"
             ],
             "input": {
                 "type": "option",
@@ -61,7 +61,7 @@
             "id": "battle_start",
             "speaker": "npc",
             "lines": [
-                "Come on. We shall do battle!"
+                "Vamos. ¡Lucharemos!"
             ],
             "input": {
                 "type": "option",

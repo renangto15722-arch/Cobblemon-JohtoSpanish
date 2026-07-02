@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You keep your word."
+                "Eres de palabra."
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "That's a good thing, kiddo!"
+                "¡Eso está muy bien, chaval!"
             ],
             "input": {
                 "type": "option",

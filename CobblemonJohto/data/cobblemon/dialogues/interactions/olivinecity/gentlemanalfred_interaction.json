@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Eh? This is no place for playing."
+                "¿Eh? Este no es lugar para jugar."
             ],
             "input": {
                 "type": "option",

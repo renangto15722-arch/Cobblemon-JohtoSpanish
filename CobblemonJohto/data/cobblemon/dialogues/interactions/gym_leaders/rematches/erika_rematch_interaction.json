@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "How are you? Good to see you again!"
+                "¿Cómo estás? ¡Me alegra verte de nuevo!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "This place doesn't really suit me, but...let's ignore that and battle!"
+                "Este lugar no acaba de pegar conmigo, pero... ¡olvidémonos de eso y luchemos!"
             ],
             "input": {
                 "type": "option",

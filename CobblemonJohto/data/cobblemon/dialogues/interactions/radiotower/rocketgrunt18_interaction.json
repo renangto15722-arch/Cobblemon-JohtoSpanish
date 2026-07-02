@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It feels great ordering Pokémon to commit crimes."
+                "Se siente genial ordenar a los Pokémon que cometan crímenes."
             ],
             "input": {
                 "type": "option",

@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "So here you are… Don’t make me wait!"
+                "Así que aquí estás... ¡No me hagas esperar!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "I’ve heard a lot of good things about you since our last battle. Let me test how good you are!"
+                "He oído muchas cosas buenas de ti desde nuestro último combate. ¡Deja que compruebe lo bueno que eres!"
             ],
             "input": {
                 "type": "option",

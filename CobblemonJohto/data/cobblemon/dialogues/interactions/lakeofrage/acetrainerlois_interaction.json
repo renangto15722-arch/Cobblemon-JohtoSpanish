@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The red Gyarados? That sounds scary. It must be red with rage! Me? I'm not angry or anything, but let's battle!"
+                "¿El Gyarados rojo? Eso da miedo. ¡Debe de estar rojo de rabia! ¿Yo? No estoy enfadada ni nada, ¡pero luchemos!"
             ],
             "input": {
                 "type": "option",

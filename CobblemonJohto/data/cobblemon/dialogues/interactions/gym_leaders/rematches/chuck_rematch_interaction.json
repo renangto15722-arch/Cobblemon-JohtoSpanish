@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "There you are!"
+                "¡Ahí estás!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "Taste my 24-hour training!"
+                "¡Prueba mi entrenamiento de 24 horas!"
             ],
             "input": {
                 "type": "option",

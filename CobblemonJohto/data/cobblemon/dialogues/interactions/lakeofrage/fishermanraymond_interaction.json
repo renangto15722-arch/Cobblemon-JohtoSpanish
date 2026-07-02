@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "No matter what I do, all I catch are the same Pokémon..."
+                "Haga lo que haga, solo atrapo los mismos Pokémon..."
             ],
             "input": {
                 "type": "option",

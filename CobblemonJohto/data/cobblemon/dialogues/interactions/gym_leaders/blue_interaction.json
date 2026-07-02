@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You're telling me you conquered all the Gyms in Johto? Hahaha! Heh!"
+                "¿Me estás diciendo que conquistaste todos los Gimnasios de Johto? ¡Jajaja! ¡Je!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "Johto's Gyms are that pathetic? Hey, don't worry about it."
+                "¿Tan patéticos son los Gimnasios de Johto? Eh, no te preocupes por eso."
             ],
             "input": {
                 "type": "option",
@@ -61,7 +61,7 @@
             "id": "battle_start",
             "speaker": "npc",
             "lines": [
-                "I'll know if you are good or not by battling you right now."
+                "Sabré si eres bueno o no luchando contra ti ahora mismo."
             ],
             "input": {
                 "type": "option",

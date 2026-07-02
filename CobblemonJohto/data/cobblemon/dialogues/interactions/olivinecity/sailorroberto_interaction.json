@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I wanted to battle Jasmine, but she's not up to it now. So how about you?"
+                "Quería combatir contra Jasmine, pero ahora no está para eso. Así que, ¿qué tal tú?"
             ],
             "input": {
                 "type": "option",

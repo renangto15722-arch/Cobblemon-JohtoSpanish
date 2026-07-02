@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You plan to rescue the Director? So sad that won't be possible-- because I'm going to beat you!"
+                "¿Planeas rescatar al Director? Qué triste que eso no será posible... ¡porque voy a vencerte!"
             ],
             "input": {
                 "type": "option",

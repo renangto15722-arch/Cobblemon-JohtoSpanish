@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I travel the world to train my Pokémon. Now, I wish to battle with you."
+                "Viajo por el mundo para entrenar a mis Pokémon. Ahora, deseo combatir contigo."
             ],
             "input": {
                 "type": "option",

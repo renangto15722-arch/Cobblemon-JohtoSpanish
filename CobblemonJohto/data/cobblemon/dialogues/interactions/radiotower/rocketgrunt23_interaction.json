@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ahem, do you hear me? ...I am the Director. "
+                "Ejem, ¿me oyes? ...Soy el Director. "
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "We have decided to broadcast wonderful shows to praise Team Rocket!"
+                "¡Hemos decidido transmitir programas maravillosos para alabar al Team Rocket!"
             ],
             "input": {
                 "type": "option",
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Everyone, I don't want to hear you complain. Just do a good job to..."
+                "A todos, no quiero oír quejas. Solo hagan un buen trabajo para..."
             ],
             "input": {
                 "type": "option",
@@ -76,7 +76,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Yikes! I am busy impersonating the... Who are you?"
+                "¡Ups! Estoy ocupado haciéndome pasar por el... ¿Quién eres?"
             ],
             "input": {
                 "type": "option",
@@ -94,7 +94,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "...Oh no, it's you again?"
+                "...Oh no, ¿eres tú otra vez?"
             ],
             "input": {
                 "type": "option",
@@ -112,7 +112,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "No, no, no! I was pretending to be the Director to influence the entire region to support Team Rocket! "
+                "¡No, no, no! ¡Estaba fingiendo ser el Director para influir en toda la región y que apoyara al Team Rocket! "
             ],
             "input": {
                 "type": "option",
@@ -130,7 +130,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "This time I won't hold back! Give me all you've got!"
+                "¡Esta vez no me contendré! ¡Dame todo lo que tengas!"
             ],
             "input": {
                 "type": "option",

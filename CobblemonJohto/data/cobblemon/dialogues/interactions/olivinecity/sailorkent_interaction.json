@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Jasmine must be worried sick about the Pokémon here. She won't even smile these days."
+                "Jasmine debe estar muy preocupada por los Pokémon de aquí. Estos días ni siquiera sonríe."
             ],
             "input": {
                 "type": "option",

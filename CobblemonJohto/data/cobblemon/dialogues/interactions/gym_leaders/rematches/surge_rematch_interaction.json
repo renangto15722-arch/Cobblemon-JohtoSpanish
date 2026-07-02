@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey! The promise we made!"
+                "¡Oye! ¡La promesa que hicimos!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "Let's battle again!"
+                "¡Combatamos de nuevo!"
             ],
             "input": {
                 "type": "option",

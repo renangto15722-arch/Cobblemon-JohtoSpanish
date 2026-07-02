@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I am Clair. The world's best dragon master. I can hold my own against even the Pokémon League's Elite Four."
+                "Soy Clair. La mejor maestra de dragones del mundo. Puedo plantar cara incluso al Alto Mando de la Liga Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "Do you still want to take me on?"
+                "¿Aún quieres enfrentarte a mí?"
             ],
             "input": {
                 "type": "option",
@@ -61,7 +61,7 @@
             "id": "battle_start",
             "speaker": "npc",
             "lines": [
-                "...Fine. Let's do it! As a trainer, I will use my full power against any opponent!"
+                "...Bien. ¡Hagámoslo! ¡Como entrenadora, usaré todo mi poder contra cualquier rival!"
             ],
             "input": {
                 "type": "option",

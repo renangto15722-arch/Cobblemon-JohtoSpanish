@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We're here as we promised..."
+                "Estamos aquí como prometimos..."
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "Are you prepared?"
+                "¿Estás preparado?"
             ],
             "input": {
                 "type": "option",

@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Fwahahaha! A mere child like you dares to challenge me?"
+                "¡Juajajajá! ¿Un simple niño como tú se atreve a retarme?"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Very well, I shall show you true terror as a ninja master!"
+                "¡Muy bien, te mostraré el verdadero terror como maestro ninja!"
             ],
             "input": {
                 "type": "option",
@@ -56,7 +56,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "You shall feel the despair of poison and sleep techniques!"
+                "¡Sentirás la desesperación de las técnicas de veneno y sueño!"
             ],
             "input": {
                 "type": "option",

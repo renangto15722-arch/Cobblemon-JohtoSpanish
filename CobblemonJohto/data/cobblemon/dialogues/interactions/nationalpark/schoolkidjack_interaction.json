@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The world is deep. There are still lots of things we don't know. But I know more than you do!"
+                "El mundo es profundo. Aún hay muchas cosas que no sabemos. ¡Pero yo sé más que tú!"
             ],
             "input": {
                 "type": "option",

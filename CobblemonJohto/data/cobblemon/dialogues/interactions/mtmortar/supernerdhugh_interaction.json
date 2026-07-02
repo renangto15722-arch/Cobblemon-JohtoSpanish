@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Through meticulous research I've found the perfect team!"
+                "¡Tras una investigación meticulosa he encontrado el equipo perfecto!"
             ],
             "input": {
                 "type": "option",

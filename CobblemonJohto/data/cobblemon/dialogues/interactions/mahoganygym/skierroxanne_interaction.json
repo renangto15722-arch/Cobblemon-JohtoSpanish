@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "To get to Pryce, our Gym Leader, you need to think before you skate."
+                "Para llegar hasta Pryce, nuestro Líder de Gimnasio, tienes que pensar antes de deslizarte."
             ],
             "input": {
                 "type": "option",

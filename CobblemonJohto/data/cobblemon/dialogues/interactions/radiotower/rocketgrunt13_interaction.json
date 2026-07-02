@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We're Team Rocket! We like to cause trouble! Ooh! Are you scared?"
+                "¡Somos el Team Rocket! ¡Nos gusta causar problemas! ¡Ooh! ¿Tienes miedo?"
             ],
             "input": {
                 "type": "option",

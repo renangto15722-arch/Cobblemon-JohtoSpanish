@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "What? You! You're not a newcomer? Then battle with me!"
+                "¿Qué? ¡Tú! ¿No eres un recién llegado? ¡Entonces combate conmigo!"
             ],
             "input": {
                 "type": "option",

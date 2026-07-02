@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Three years ago, Team Rocket was forced to disband. But we're making a comeback here!"
+                "Hace tres años, el Team Rocket fue obligado a disolverse. ¡Pero aquí estamos haciendo nuestro regreso!"
             ],
             "input": {
                 "type": "option",

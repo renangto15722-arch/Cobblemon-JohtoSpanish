@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Good to see you again!"
+                "¡Me alegra verte de nuevo!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "Behold my bug research!"
+                "¡Contempla mi investigación sobre los Bicho!"
             ],
             "input": {
                 "type": "option",

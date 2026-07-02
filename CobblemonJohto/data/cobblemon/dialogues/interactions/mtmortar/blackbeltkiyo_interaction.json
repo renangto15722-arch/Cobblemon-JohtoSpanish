@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey! I am the Karate King! I train alone here in the cave! You! Battle with me! Hwaaarggh!"
+                "¡Eh! ¡Soy el Rey del Karate! ¡Entreno solo aquí en la cueva! ¡Tú! ¡Lucha conmigo! ¡Juaaargh!"
             ],
             "input": {
                 "type": "option",

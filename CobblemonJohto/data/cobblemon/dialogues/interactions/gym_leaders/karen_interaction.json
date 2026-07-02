@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I am Karen of the Elite Four."
+                "Soy Karen, del Alto Mando."
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I love dark-type Pokémon. I find their wild, tough image to be so appealing."
+                "Me encantan los Pokémon de tipo Siniestro. Su imagen salvaje y dura me resulta de lo más atractiva."
             ],
             "input": {
                 "type": "option",
@@ -56,7 +56,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "And they're so strong. Think you can take them?"
+                "Y son muy fuertes. ¿Crees que puedes con ellos?"
             ],
             "input": {
                 "type": "option",
@@ -74,7 +74,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "Just try to entertain me. Let's go."
+                "Solo intenta entretenerme. Vamos allá."
             ],
             "input": {
                 "type": "option",

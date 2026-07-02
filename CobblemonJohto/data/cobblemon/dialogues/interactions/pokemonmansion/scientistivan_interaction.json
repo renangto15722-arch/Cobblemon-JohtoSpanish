@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This place is ideal for a lab. Look at all this space."
+                "Este lugar es ideal para un laboratorio. Mira todo este espacio."
             ],
             "input": {
                 "type": "option",

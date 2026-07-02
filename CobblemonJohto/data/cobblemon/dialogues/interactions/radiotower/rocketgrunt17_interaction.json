@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "An unknown child wandering here? Who are you?"
+                "¿Un niño desconocido merodeando por aquí? ¿Quién eres?"
             ],
             "input": {
                 "type": "option",

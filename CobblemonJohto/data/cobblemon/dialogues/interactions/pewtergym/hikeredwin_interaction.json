@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "R-r-r-r-R-r-r-R-R-r-R-R-R-R--CRASH!"
+                "R-r-r-r-R-r-r-R-R-r-R-R-R-R--¡CATAPLÚM!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm not losing this time!"
+                "¡No voy a perder esta vez!"
             ],
             "input": {
                 "type": "option",

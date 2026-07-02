@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey hey, are you shivering? Are you scared to fight me?"
+                "Oye, oye, ¿estás temblando? ¿Te da miedo pelear conmigo?"
             ],
             "input": {
                 "type": "option",

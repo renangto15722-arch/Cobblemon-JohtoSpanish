@@ -14,7 +14,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I've been waiting for you."
+                "Te estaba esperando."
             ],
             "input": {
                 "type": "option",
@@ -32,7 +32,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I knew that you, with your skills, would eventually reach me here."
+                "Sabía que tú, con tu talento, acabarías llegando hasta mí."
             ],
             "input": {
                 "type": "option",
@@ -50,7 +50,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "There's no need for words now. We will battle to determine who is the stronger of the two of us. "
+                "Ya no hacen falta palabras. Lucharemos para determinar quién de los dos es el más fuerte. "
             ],
             "input": {
                 "type": "option",
@@ -68,7 +68,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "As the most powerful Trainer and as the Pokémon League Champion… "
+                "Como el Entrenador más poderoso y como Campeón de la Liga Pokémon… "
             ],
             "input": {
                 "type": "option",
@@ -86,7 +86,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "I, Lance the dragon master, accept your challenge!"
+                "¡Yo, Lance, el maestro de dragones, acepto tu desafío!"
             ],
             "input": {
                 "type": "option",

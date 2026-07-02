@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Jasmine is this city's Gym Leader. I intend to bring her back with me. Nobody better get in my way!"
+                "Jasmine es la Líder de Gimnasio de esta ciudad. Pienso llevármela conmigo. ¡Más vale que nadie se interponga en mi camino!"
             ],
             "input": {
                 "type": "option",

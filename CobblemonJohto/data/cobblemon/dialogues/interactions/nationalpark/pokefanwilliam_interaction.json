@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We adore our Pokémon, even if they dislike us. That's what being a Pokéfan is all about."
+                "Adoramos a nuestros Pokémon, aunque ellos no nos quieran. De eso se trata ser un Pokéfan."
             ],
             "input": {
                 "type": "option",

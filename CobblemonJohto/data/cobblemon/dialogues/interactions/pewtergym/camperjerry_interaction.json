@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The Trainers of this Gym use Rock-type Pokémon. Rock-type Pokémon have high Defense. Battles could end up going a long time. Are you ready for this?"
+                "Los Entrenadores de este Gimnasio usan Pokémon de tipo Roca. Los Pokémon de tipo Roca tienen una Defensa alta. Los combates podrían alargarse mucho. ¿Estás listo para esto?"
             ],
             "input": {
                 "type": "option",

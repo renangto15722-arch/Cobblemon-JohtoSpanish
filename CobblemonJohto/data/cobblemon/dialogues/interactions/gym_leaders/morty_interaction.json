@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It's good of you to have come."
+                "Has hecho bien en venir."
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Here in Ecruteak, Pokémon have long been revered."
+                "Aquí en Ciudad Iris, los Pokémon han sido venerados desde tiempos remotos."
             ],
             "input": {
                 "type": "option",
@@ -56,7 +56,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "It's said that a rainbow-hued Pokémon will come down to appear before a truly powerful Trainer."
+                "Se dice que un Pokémon de los colores del arcoíris descenderá para aparecer ante un Entrenador verdaderamente poderoso."
             ],
             "input": {
                 "type": "option",
@@ -74,7 +74,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "I believed that tale, so I have secretly trained here all my life."
+                "Creí en esa leyenda, así que he entrenado en secreto aquí toda mi vida."
             ],
             "input": {
                 "type": "option",
@@ -92,7 +92,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "As a result, I can now see what others cannot."
+                "Como resultado, ahora puedo ver lo que otros no pueden."
             ],
             "input": {
                 "type": "option",
@@ -110,7 +110,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "I see a shadow of the person who will make the Pokémon appear. I believe that person is me!"
+                "Veo la sombra de la persona que hará aparecer al Pokémon. ¡Creo que esa persona soy yo!"
             ],
             "input": {
                 "type": "option",
@@ -133,7 +133,7 @@
             "id": "battle_start",
             "speaker": "npc",
             "lines": [
-                "You're going to help me reach that level!"
+                "¡Vas a ayudarme a alcanzar ese nivel!"
             ],
             "input": {
                 "type": "option",

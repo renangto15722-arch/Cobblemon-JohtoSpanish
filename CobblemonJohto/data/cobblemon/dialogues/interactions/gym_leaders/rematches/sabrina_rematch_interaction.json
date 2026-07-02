@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I knew you'd come! I had a feeling."
+                "¡Sabía que vendrías! Tenía un presentimiento."
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "What? We promised each other, so it's no surprise? Well, you may be right."
+                "¿Qué? ¿Que como nos lo prometimos no es ninguna sorpresa? Bueno, puede que tengas razón."
             ],
             "input": {
                 "type": "option",

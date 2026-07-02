@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I was expecting you, you pest!"
+                "¡Te estaba esperando, pesado!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "You may have a lot of Johto Gym Badges, but you'd better not take me too lightly."
+                "Puede que tengas muchas Medallas de los Gimnasios de Johto, pero más te vale no subestimarme."
             ],
             "input": {
                 "type": "option",
@@ -61,7 +61,7 @@
             "id": "battle_start",
             "speaker": "npc",
             "lines": [
-                "My Water-type Pokémon are tough!"
+                "¡Mis Pokémon de tipo Agua son duros de pelar!"
             ],
             "input": {
                 "type": "option",

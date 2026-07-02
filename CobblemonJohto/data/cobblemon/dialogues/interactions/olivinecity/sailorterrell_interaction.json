@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Sailors are both kind and strong. How about you?"
+                "Los marineros somos amables y fuertes a la vez. ¿Y tú?"
             ],
             "input": {
                 "type": "option",

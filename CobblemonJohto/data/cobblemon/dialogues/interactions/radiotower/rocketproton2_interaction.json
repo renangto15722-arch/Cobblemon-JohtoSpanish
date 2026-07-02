@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Now, wait just one second! Aren't you the one who got in our way at the Slowpoke Well?"
+                "¡Espera un segundo! ¿No eres tú quien se interpuso en nuestro camino en el Pozo Slowpoke?"
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "I see... You're doing all this because you want to make me angry."
+                "Ya veo... Haces todo esto porque quieres hacerme enojar."
             ],
             "input": {
                 "type": "option",
@@ -63,7 +63,7 @@
             "id": "battle_start",
             "speaker": "npc",
             "lines": [
-                "Be careful! But since you seem to wish it, I'll show you the full extent of a Team Rocket Executive's wrath!"
+                "¡Ten cuidado! Pero ya que parece que lo deseas, ¡te mostraré toda la furia de un Ejecutivo del Team Rocket!"
             ],
             "escapeAction": "0",
             "input": [

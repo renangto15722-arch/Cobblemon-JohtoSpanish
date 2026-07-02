@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "My mentor once lived here."
+                "Mi mentor vivió aquí una vez."
             ],
             "input": {
                 "type": "option",

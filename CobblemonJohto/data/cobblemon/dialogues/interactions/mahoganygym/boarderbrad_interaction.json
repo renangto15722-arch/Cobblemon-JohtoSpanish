@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This Gym has a slippery floor. It's fun, isn't it? But hey--we're not playing games here!"
+                "Este Gimnasio tiene el suelo resbaladizo. Es divertido, ¿verdad? Pero oye, ¡aquí no estamos jugando!"
             ],
             "input": {
                 "type": "option",

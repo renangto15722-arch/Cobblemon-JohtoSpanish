@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hello? Why are you staring at me? Oh, a battle?"
+                "¿Hola? ¿Por qué me miras así? Ah, ¿un combate?"
             ],
             "input": {
                 "type": "option",

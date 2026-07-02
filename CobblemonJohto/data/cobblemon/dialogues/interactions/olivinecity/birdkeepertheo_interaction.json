@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "What are you here for? Just to stand around and gawk? I suggest you leave!"
+                "¿A qué has venido? ¿Solo a quedarte ahí mirando embobado? ¡Te sugiero que te vayas!"
             ],
             "input": {
                 "type": "option",

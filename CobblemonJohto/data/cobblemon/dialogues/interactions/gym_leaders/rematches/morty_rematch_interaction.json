@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I was just talking about you..."
+                "Justo estaba hablando de ti..."
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "Let's battle!"
+                "¡Luchemos!"
             ],
             "input": {
                 "type": "option",

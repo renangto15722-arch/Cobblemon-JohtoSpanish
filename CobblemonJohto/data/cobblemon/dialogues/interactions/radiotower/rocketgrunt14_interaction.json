@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, hey! Keep out of our way!"
+                "¡Eh, eh! ¡Quítate de nuestro camino!"
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Proton, the leader of this Radio Tower mission... He is so cool."
+                "Proton, el líder de esta misión de la Torre Radio... Es tan genial."
             ],
             "input": {
                 "type": "option",

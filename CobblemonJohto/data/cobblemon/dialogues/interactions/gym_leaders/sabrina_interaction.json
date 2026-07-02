@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I knew you were coming... Three years ago I had a vision of your arrival."
+                "Sabía que ibas a venir... Hace tres años tuve una visión de tu llegada."
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "I don't enjoy battling, but it's my duty as a Gym Leader to confer Badges on anyone who has proven him- or herself worthy."
+                "No disfruto combatiendo, pero es mi deber como Líder de Gimnasio otorgar Medallas a quien haya demostrado ser digno de ellas."
             ],
             "input": {
                 "type": "option",
@@ -61,7 +61,7 @@
             "id": "battle_start",
             "speaker": "npc",
             "lines": [
-                "Since you wish it, I will show you my psychic powers!"
+                "¡Ya que así lo deseas, te mostraré mis poderes psíquicos!"
             ],
             "input": {
                 "type": "option",

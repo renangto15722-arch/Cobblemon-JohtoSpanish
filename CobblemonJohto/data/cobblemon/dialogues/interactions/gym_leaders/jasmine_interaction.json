@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Please allow me to introduce myself. I am Jasmine, a Gym Leader. I use the steel-type."
+                "Permíteme presentarme. Soy Jasmine, Líder de Gimnasio. Uso el tipo Acero."
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "...Do you know about the steel-type? It's a type that was only recently discovered."
+                "...¿Conoces el tipo Acero? Es un tipo que se descubrió hace muy poco."
             ],
             "input": {
                 "type": "option",
@@ -61,7 +61,7 @@
             "id": "battle_start",
             "speaker": "npc",
             "lines": [
-                "...Um... May I begin?"
+                "...Esto... ¿Puedo empezar?"
             ],
             "input": {
                 "type": "option",

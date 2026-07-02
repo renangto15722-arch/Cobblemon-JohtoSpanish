@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Fufufufu... I'm sorry to disappoint you..."
+                "Jujujujú... Siento decepcionarte..."
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "I'm only joking! I'm the real deal! Janine of Fuchsia Gym, that's me!"
+                "¡Solo bromeaba! ¡Soy la auténtica! ¡Janine, del Gimnasio de Ciudad Fucsia, esa soy yo!"
             ],
             "input": {
                 "type": "option",
@@ -61,7 +61,7 @@
             "id": "battle_start",
             "speaker": "npc",
             "lines": [
-                "I see... You have defeated Koga, my father and a member of the Elite Four, to come here."
+                "Ya veo... Has derrotado a Koga, mi padre y miembro del Alto Mando, para llegar hasta aquí."
             ],
             "input": {
                 "type": "option",

@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I can't get out! This old place is one big puzzle."
+                "¡No puedo salir! Este viejo lugar es todo un rompecabezas."
             ],
             "input": {
                 "type": "option",

@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I never break my promises!"
+                "¡Yo nunca rompo mis promesas!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "Are you ready?"
+                "¿Estás listo?"
             ],
             "input": {
                 "type": "option",

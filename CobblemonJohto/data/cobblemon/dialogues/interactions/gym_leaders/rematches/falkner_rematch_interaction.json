@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi! I've been waiting for you!"
+                "¡Hola! ¡Te estaba esperando!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "It's a pleasure to be able to battle you again!"
+                "¡Es un placer poder luchar contra ti de nuevo!"
             ],
             "input": {
                 "type": "option",

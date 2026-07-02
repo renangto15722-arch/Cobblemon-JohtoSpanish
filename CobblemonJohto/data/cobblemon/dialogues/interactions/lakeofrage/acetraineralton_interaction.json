@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "If a Trainer spots another Trainer, he or she has to make a challenge. That is our destiny."
+                "Si un Entrenador ve a otro Entrenador, tiene que lanzarle un desafío. Ese es nuestro destino."
             ],
             "input": {
                 "type": "option",

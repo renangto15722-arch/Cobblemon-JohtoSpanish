@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I am Bruno of the Elite Four!"
+                "¡Soy Bruno, del Alto Mando!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Through rigorous training, people and Pokémon can become stronger!"
+                "¡Con un entrenamiento riguroso, las personas y los Pokémon pueden volverse más fuertes!"
             ],
             "input": {
                 "type": "option",
@@ -56,7 +56,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I've weight trained with my Pokémon! And that will never change!"
+                "¡He entrenado la fuerza junto a mis Pokémon! ¡Y eso nunca cambiará!"
             ],
             "input": {
                 "type": "option",
@@ -74,7 +74,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "We will grind you down with our superior power! Hoo hah!"
+                "¡Te aplastaremos con nuestro poder superior! ¡Ja, ja!"
             ],
             "input": {
                 "type": "option",

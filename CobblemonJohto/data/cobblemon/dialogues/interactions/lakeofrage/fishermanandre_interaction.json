@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Let me battle with the Pokemon I just caught!"
+                "¡Déjame luchar con el Pokémon que acabo de atrapar!"
             ],
             "input": {
                 "type": "option",

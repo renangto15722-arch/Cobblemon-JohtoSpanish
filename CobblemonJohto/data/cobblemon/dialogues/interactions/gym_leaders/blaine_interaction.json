@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, you!"
+                "¡Eh, tú!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "My Gym on Cinnabar Island was burned down by the eruption!"
+                "¡Mi Gimnasio en Isla Canela quedó reducido a cenizas por la erupción!"
             ],
             "input": {
                 "type": "option",
@@ -56,7 +56,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "But I will not give up!"
+                "¡Pero no pienso rendirme!"
             ],
             "input": {
                 "type": "option",
@@ -74,7 +74,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Take a look at this cave. We have turned it into a Gym, and I am still acting as a Gym Leader!"
+                "Echa un vistazo a esta cueva. ¡La hemos convertido en un Gimnasio, y yo sigo ejerciendo de Líder de Gimnasio!"
             ],
             "input": {
                 "type": "option",
@@ -92,7 +92,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "I will give you the Gym Badge if you manage to defeat me!"
+                "¡Te daré la Medalla de Gimnasio si logras derrotarme!"
             ],
             "input": {
                 "type": "option",
@@ -115,7 +115,7 @@
             "id": "battle_start",
             "speaker": "npc",
             "lines": [
-                "Are you ready? Here we go!"
+                "¿Estás listo? ¡Allá vamos!"
             ],
             "input": {
                 "type": "option",

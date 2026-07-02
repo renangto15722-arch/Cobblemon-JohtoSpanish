@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi! I'm Whitney! Everyone was into Pokémon, so I got into it too!"
+                "¡Hola! ¡Soy Whitney! ¡Todo el mundo estaba metido en los Pokémon, así que yo también me metí!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "Pokémon are super-cute! You want to battle?"
+                "¡Los Pokémon son súper monos! ¿Quieres combatir?"
             ],
             "input": {
                 "type": "option",
@@ -61,7 +61,7 @@
             "id": "battle_start",
             "speaker": "npc",
             "lines": [
-                "I'm warning you--I'm good!"
+                "Te lo advierto... ¡soy buena!"
             ],
             "input": {
                 "type": "option",

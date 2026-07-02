@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm Falkner, the Violet City Pokémon Gym Leader! "
+                "¡Soy Falkner, el Líder del Gimnasio Pokémon de Ciudad Malva! "
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "People say you can clip Flying-type Pokémon's wings with a jolt of electricity... I won't allow such insults to bird Pokémon!"
+                "Dicen que puedes cortarles las alas a los Pokémon de tipo Volador con una descarga eléctrica... ¡No permitiré semejantes insultos a los Pokémon pájaro!"
             ],
             "input": {
                 "type": "option",
@@ -61,7 +61,7 @@
             "id": "battle_start",
             "speaker": "npc",
             "lines": [
-                "I'll show you the real power of the magnificent bird Pokémon!"
+                "¡Te mostraré el verdadero poder de los magníficos Pokémon pájaro!"
             ],
             "input": {
                 "type": "option",

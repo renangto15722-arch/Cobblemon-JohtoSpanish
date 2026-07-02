@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hello... Lovely weather, isn't it? It's so pleasant... I'm afraid I might doze off..."
+                "Hola... Hace un tiempo precioso, ¿verdad? Es tan agradable... Temo quedarme dormida..."
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "My name is Erika. I am the Leader of Celadon Gym. ...Oh? You are from Johto, you say? How nice..."
+                "Me llamo Erika. Soy la Líder del Gimnasio de Ciudad Azulona. ...¿Ah? ¿Dices que eres de Johto? Qué bien..."
             ],
             "input": {
                 "type": "option",
@@ -61,7 +61,7 @@
             "id": "battle_start",
             "speaker": "npc",
             "lines": [
-                "Oh. I'm sorry, I didn't realize that you wished to challenge me. I shall not lose."
+                "Oh. Lo siento, no me di cuenta de que deseabas retarme. No pienso perder."
             ],
             "input": {
                 "type": "option",

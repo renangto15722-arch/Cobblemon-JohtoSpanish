@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I can't use my ninja technique, but I won't let you win!"
+                "No puedo usar mi técnica ninja, ¡pero no dejaré que ganes!"
             ],
             "input": {
                 "type": "option",

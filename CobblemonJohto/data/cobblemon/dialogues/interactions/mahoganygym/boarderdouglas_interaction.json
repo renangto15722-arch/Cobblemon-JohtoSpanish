@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I know Pryce's secret."
+                "Conozco el secreto de Pryce."
             ],
             "input": {
                 "type": "option",

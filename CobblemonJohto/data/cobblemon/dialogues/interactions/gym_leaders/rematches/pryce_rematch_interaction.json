@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Finally. No need for words."
+                "Por fin. No hacen falta palabras."
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "A Pokémon battle is the way for us to communicate."
+                "Un combate Pokémon es nuestra forma de comunicarnos."
             ],
             "input": {
                 "type": "option",

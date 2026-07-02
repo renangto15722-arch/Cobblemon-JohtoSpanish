@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Check out my parallel turn!"
+                "¡Mira mi giro paralelo!"
             ],
             "input": {
                 "type": "option",

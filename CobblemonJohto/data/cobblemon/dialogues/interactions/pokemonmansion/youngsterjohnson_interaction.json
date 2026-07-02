@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "W-w-waah! You startled me! I thought you were a ghost."
+                "¡A-a-aah! ¡Me asustaste! Pensé que eras un fantasma."
             ],
             "input": {
                 "type": "option",

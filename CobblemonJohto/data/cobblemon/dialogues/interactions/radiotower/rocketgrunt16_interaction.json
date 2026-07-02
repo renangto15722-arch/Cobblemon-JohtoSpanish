@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I've been given strict orders. I'm to crush anyone who challenges Team Rocket!"
+                "Me han dado órdenes estrictas. ¡Debo aplastar a cualquiera que desafíe al Team Rocket!"
             ],
             "input": {
                 "type": "option",

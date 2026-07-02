@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Good!"
+                "¡Bien!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "Thanks for coming to lose to me!"
+                "¡Gracias por venir a perder contra mí!"
             ],
             "input": {
                 "type": "option",

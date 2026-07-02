@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This place is, like, huge!"
+                "¡Este lugar es, o sea, enorme!"
             ],
             "input": {
                 "type": "option",

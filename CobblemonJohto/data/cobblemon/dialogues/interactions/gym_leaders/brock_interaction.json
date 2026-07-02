@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Wow, it's not often that we get a challenger from Johto. I'm Brock, the Pewter Gym Leader. I'm an expert on Rock-type Pokémon"
+                "Vaya, no es habitual que nos llegue un retador de Johto. Soy Brock, el Líder del Gimnasio de Ciudad Plateada. Soy un experto en Pokémon de tipo Roca"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "My Pokémon are impervious to most physical attacks. You'll have a hard time inflicting any damage."
+                "Mis Pokémon son inmunes a la mayoría de los ataques físicos. Te costará mucho hacerles daño."
             ],
             "input": {
                 "type": "option",
@@ -61,7 +61,7 @@
             "id": "battle_start",
             "speaker": "npc",
             "lines": [
-                "Come on!"
+                "¡Vamos!"
             ],
             "input": {
                 "type": "option",

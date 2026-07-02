@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hey, you... Remember me from the hideout in Mahogany Town?"
+                "Oye, tú... ¿Me recuerdas del escondite en Pueblo Caoba?"
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "This time... Hee hee hee."
+                "Esta vez... Ji ji ji."
             ],
             "input": {
                 "type": "option",
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "This time...it looks like you're really all alone. All alone..."
+                "Esta vez... parece que estás realmente solo. Completamente solo..."
             ],
             "input": {
                 "type": "option",
@@ -76,7 +76,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "So it should be quite easy. Bring it! Let's finish this!"
+                "Así que debería ser bastante fácil. ¡Vamos! ¡Acabemos con esto!"
             ],
             "input": {
                 "type": "option",
@@ -94,7 +94,7 @@
             "id": "battle_prompt",
             "speaker": "npc",
             "lines": [
-                "This time I won't hold back! Give me all you've got!"
+                "¡Esta vez no me contendré! ¡Dame todo lo que tengas!"
             ],
             "input": {
                 "type": "option",
