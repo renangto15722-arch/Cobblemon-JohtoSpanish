@@ -1399,7 +1399,7 @@
             "id": "pickproteon",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Protein for $9800?"
+                "¿Quieres comprar un Protein por $9800?"
             ],
             "input": {
                 "type": "option",
@@ -1427,7 +1427,7 @@
             "id": "pickiron",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Iron for $9800?"
+                "¿Quieres comprar un Iron por $9800?"
             ],
             "input": {
                 "type": "option",
@@ -1455,7 +1455,7 @@
             "id": "pickcalcium",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Calcium for $9800?"
+                "¿Quieres comprar un Calcium por $9800?"
             ],
             "input": {
                 "type": "option",
@@ -1483,7 +1483,7 @@
             "id": "pickzinc",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Zinc for $9800?"
+                "¿Quieres comprar un Zinc por $9800?"
             ],
             "input": {
                 "type": "option",
@@ -1511,7 +1511,7 @@
             "id": "pickcarbos",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Carbos for $9800?"
+                "¿Quieres comprar un Carbos por $9800?"
             ],
             "input": {
                 "type": "option",
@@ -1539,7 +1539,7 @@
             "id": "pickhpup",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an HP Up for $9800?"
+                "¿Quieres comprar un HP Up por $9800?"
             ],
             "input": {
                 "type": "option",
@@ -1567,7 +1567,7 @@
             "id": "pickxspeed",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an X Speed for $250?"
+                "¿Quieres comprar un X Speed por $250?"
             ],
             "input": {
                 "type": "option",
@@ -1595,7 +1595,7 @@
             "id": "pickxattack",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an X Attack for $500?"
+                "¿Quieres comprar un X Attack por $500?"
             ],
             "input": {
                 "type": "option",
@@ -1623,7 +1623,7 @@
             "id": "pickxdefence",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an X Defend for $550?"
+                "¿Quieres comprar un X Defend por $550?"
             ],
             "input": {
                 "type": "option",
@@ -1651,7 +1651,7 @@
             "id": "pickxdefence",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Guard Spec for $700?"
+                "¿Quieres comprar un Guard Spec por $700?"
             ],
             "input": {
                 "type": "option",
@@ -1679,7 +1679,7 @@
             "id": "pickdirehit",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Dire Hit for $650?"
+                "¿Quieres comprar un Dire Hit por $650?"
             ],
             "input": {
                 "type": "option",
@@ -1707,7 +1707,7 @@
             "id": "pickxaccuracy",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an X Accuracy for $950?"
+                "¿Quieres comprar un X Accuracy por $950?"
             ],
             "input": {
                 "type": "option",
@@ -1735,7 +1735,7 @@
             "id": "pickxspecialattack",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an X Special Attack for $350?"
+                "¿Quieres comprar un X Special Attack por $350?"
             ],
             "input": {
                 "type": "option",
@@ -1763,7 +1763,7 @@
             "id": "pickxspecialdefence",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an X Special Defence for $350?"
+                "¿Quieres comprar un X Special Defence por $350?"
             ],
             "input": {
                 "type": "option",
@@ -1791,7 +1791,7 @@
             "id": "buyend",
             "speaker": "npc",
             "lines": [
-                "Here you are! Thank you!"
+                "¡Aquí tienes! ¡Gracias!"
             ],
             "input": {
                 "type": "option",
@@ -1812,7 +1812,7 @@
             "id": "end",
             "speaker": "npc",
             "lines": [
-                "Please come again!"
+                "¡Vuelve pronto!"
             ],
             "input": {
                 "type": "option",

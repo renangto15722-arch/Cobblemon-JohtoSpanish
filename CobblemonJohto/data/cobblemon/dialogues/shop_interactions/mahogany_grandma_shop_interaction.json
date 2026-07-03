@@ -613,7 +613,7 @@
             "id": "pickfirestone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Fire Stone for $3000?"
+                "¿Te gustaría comprar una Piedra Fuego por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -641,7 +641,7 @@
             "id": "pickwaterstone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Water Stone for $3000?"
+                "¿Te gustaría comprar una Piedra Agua por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -669,7 +669,7 @@
             "id": "pickthunderstone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Thunder Stone for $3000?"
+                "¿Te gustaría comprar una Piedra Trueno por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -697,7 +697,7 @@
             "id": "pickleafstone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Leaf Stone for $3000?"
+                "¿Te gustaría comprar una Piedra Hoja por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -725,7 +725,7 @@
             "id": "pickmoonstone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Moon Stone for $3000?"
+                "¿Te gustaría comprar una Piedra Lunar por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -753,7 +753,7 @@
             "id": "picksunstone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Sun Stone for $3000?"
+                "¿Te gustaría comprar una Piedra Solar por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -781,7 +781,7 @@
             "id": "pickdawnstone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Dawn Stone for $3000?"
+                "¿Te gustaría comprar una Piedra Alba por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -809,7 +809,7 @@
             "id": "pickduskstone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Dusk Stone for $3000?"
+                "¿Te gustaría comprar una Piedra Noche por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -837,7 +837,7 @@
             "id": "pickshinystone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Shiny Stone for $3000?"
+                "¿Te gustaría comprar una Piedra Día por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -865,7 +865,7 @@
             "id": "pickeverstone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Everstone for $1000?"
+                "¿Te gustaría comprar una Piedra Eterna por $1000?"
             ],
             "input": {
                 "type": "option",
@@ -893,7 +893,7 @@
             "id": "pickdubiousdisc",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Dubious Disc for $3000?"
+                "¿Te gustaría comprar un Disco Extraño por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -921,7 +921,7 @@
             "id": "pickelectirizer",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Electirizer for $3000?"
+                "¿Te gustaría comprar un Electrizador por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -949,7 +949,7 @@
             "id": "pickkingsrock",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Kings Rock for $3000?"
+                "¿Te gustaría comprar una Roca del Rey por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -977,7 +977,7 @@
             "id": "pickmagmarizer",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Magmarizer for $3000?"
+                "¿Te gustaría comprar un Magmatizador por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -1005,7 +1005,7 @@
             "id": "pickmetalcoat",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Metal Coat for $3000?"
+                "¿Te gustaría comprar un Revestimiento Metálico por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -1033,7 +1033,7 @@
             "id": "pickprotector",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Protector for $3000?"
+                "¿Te gustaría comprar un Protector por $3000?"
             ],
             "input": {
                 "type": "option",
