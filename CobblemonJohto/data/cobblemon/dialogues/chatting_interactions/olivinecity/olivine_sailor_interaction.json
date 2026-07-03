@@ -51,7 +51,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "¡Yo-ho! ¡Blow the man down! ..."
+                "¡Yo-ho! ¡Iza las velas, marinero! ..."
             ],
             "input": {
                 "type": "option",
