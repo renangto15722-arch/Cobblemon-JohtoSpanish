@@ -1,4 +1,4 @@
-ITENS E TERMOS A TRADUZIR
+OBJETOS Y TÉRMINOS A TRADUCIR
 -------------------------------------------------------------------------
 [Poké Balls y categoría]
 - Balls =
