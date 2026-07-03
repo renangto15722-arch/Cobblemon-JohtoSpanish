@@ -25,7 +25,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-               "We exchange your Coins for prizes."
+               "Cambiamos tus Coins por premios."
             ],
             "input": {
                 "type": "option",
@@ -48,7 +48,7 @@
             "id": "buy1",
             "speaker": "npc",
             "lines": [
-                "Which prize would you like?"
+                "¿Qué premio te gustaría?"
             ],
             "input": {
                 "type": "option",
@@ -86,7 +86,7 @@
             "id": "buy2",
             "speaker": "npc",
             "lines": [
-                "Which prize would you like?"
+                "¿Qué premio te gustaría?"
             ],
             "input": {
                 "type": "option",
@@ -121,7 +121,7 @@
             "id": "pickabra",
             "speaker": "npc",
             "lines": [
-                "So, you want an Abra? It'll be 100 Coins."
+                "¿Así que quieres un Abra? Costará 100 Coins."
             ],
             "input": {
                 "type": "option",
@@ -149,7 +149,7 @@
             "id": "pickekans",
             "speaker": "npc",
             "lines": [
-                "So, you want a Clefairy? It'll be 350 Coins."
+                "¿Así que quieres un Clefairy? Costará 350 Coins."
             ],
             "input": {
                 "type": "option",
@@ -177,7 +177,7 @@
             "id": "picksandshrew",
             "speaker": "npc",
             "lines": [
-                "So, you want a Sandshrew? It'll be 350 Coins."
+                "¿Así que quieres un Sandshrew? Costará 350 Coins."
             ],
             "input": {
                 "type": "option",
@@ -205,7 +205,7 @@
             "id": "pickdratini",
             "speaker": "npc",
             "lines": [
-                "So, you want a Dratini? It'll be 1550 Coins."
+                "¿Así que quieres un Dratini? Costará 1550 Coins."
             ],
             "input": {
                 "type": "option",
@@ -233,7 +233,7 @@
             "id": "pickmrmime",
             "speaker": "npc",
             "lines": [
-                "So, you want a Mr. Mime? It'll be 1666 Coins."
+                "¿Así que quieres un Mr. Mime? Costará 1666 Coins."
             ],
             "input": {
                 "type": "option",
@@ -261,7 +261,7 @@
             "id": "pickeevee",
             "speaker": "npc",
             "lines": [
-                "So, you want an Eevee? It'll be 3333 Coins."
+                "¿Así que quieres un Eevee? Costará 3333 Coins."
             ],
             "input": {
                 "type": "option",
@@ -289,7 +289,7 @@
             "id": "pickporygon",
             "speaker": "npc",
             "lines": [
-                "So, you want a Porygon? It'll be 4999 Coins."
+                "¿Así que quieres un Porygon? Costará 4999 Coins."
             ],
             "input": {
                 "type": "option",
@@ -319,7 +319,7 @@
             "id": "buyend",
             "speaker": "npc",
             "lines": [
-                "Here you are! Thank you!"
+                "¡Aquí tienes! ¡Gracias!"
             ],
             "input": {
                 "type": "option",
@@ -340,7 +340,7 @@
             "id": "end",
             "speaker": "npc",
             "lines": [
-                "Please come again!"
+                "¡Vuelve pronto!"
             ],
             "input": {
                 "type": "option",

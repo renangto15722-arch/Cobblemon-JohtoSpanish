@@ -25,7 +25,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Welcome! May I help you?"
+                "¡Bienvenido! ¿En qué puedo ayudarte?"
             ],
             "input": {
                 "type": "option",
@@ -48,7 +48,7 @@
             "id": "buy1",
             "speaker": "npc",
             "lines": [
-                "Which item would you like to purchase?"
+                "¿Qué objeto te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -87,7 +87,7 @@
             "id": "buy2",
             "speaker": "npc",
             "lines": [
-                "Which item would you like to purchase?"
+                "¿Qué objeto te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -131,7 +131,7 @@
             "id": "pickpokeball",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Poke Ball for $200 each?"
+                "¿Quieres comprar una Poké Ball por $200 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -168,7 +168,7 @@
             "id": "pickpotion",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Potion for $300 each?"
+                "¿Quieres comprar una Poción por $300 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -197,7 +197,7 @@
             "id": "picksuperpotion",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Super Potion for $700 each?"
+                "¿Quieres comprar una Superpoción por $700 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -226,7 +226,7 @@
             "id": "pickantidote",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Antidote for $100 each?"
+                "¿Quieres comprar un Antídoto por $100 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -255,7 +255,7 @@
             "id": "pickparalyzeheal",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Paralyze Heal for $200 each?"
+                "¿Quieres comprar un Antiparalizador por $200 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -284,7 +284,7 @@
             "id": "pickawakening",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Awakening for $100 each?"
+                "¿Quieres comprar un Despertar por $100 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -313,7 +313,7 @@
             "id": "pickburnheal",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Burn Heal for $250 each?"
+                "¿Quieres comprar un Antiquemar por $250 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -342,7 +342,7 @@
             "id": "pickiceheal",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Ice Heal for $250 each?"
+                "¿Quieres comprar un Antihielo por $250 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -371,7 +371,7 @@
             "id": "pickescaperope",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Escape Rope for $550 each?"
+                "¿Quieres comprar un Escape Rope por $550 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -400,7 +400,7 @@
             "id": "buyend",
             "speaker": "npc",
             "lines": [
-                "Here you are! Thank you!"
+                "¡Aquí tienes! ¡Gracias!"
             ],
             "input": {
                 "type": "option",
@@ -421,7 +421,7 @@
             "id": "end",
             "speaker": "npc",
             "lines": [
-                "Please come again!"
+                "¡Vuelve pronto!"
             ],
             "input": {
                 "type": "option",

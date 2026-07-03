@@ -25,7 +25,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Whistle...whistle... Are you bothered by that noise? "
+                "Fiu...fiu... ¿Te molesta ese ruido? "
             ],
             "input": {
                 "type": "option",
@@ -43,7 +43,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "That's me. My false teeth don't fit right, and the gap makes the noise. Enough about that. Why don't you buy something?"
+                "Soy yo. Mi dentadura postiza no encaja bien, y el hueco hace ese ruido. Pero basta de eso. ¿Por qué no compras algo?"
             ],
             "input": {
                 "type": "option",
@@ -66,7 +66,7 @@
             "id": "buy1",
             "speaker": "npc",
             "lines": [
-                "Which item would you like to purchase?"
+                "¿Qué artículo te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -109,7 +109,7 @@
             "id": "buy2",
             "speaker": "npc",
             "lines": [
-                "Which item would you like to purchase?"
+                "¿Qué artículo te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -154,7 +154,7 @@
             "id": "pickpokeball",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Poke Ball for $200 each?"
+                "¿Te gustaría comprar una Poké Ball por $200 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -191,7 +191,7 @@
             "id": "pickgreatball",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Great Ball for $600 each?"
+                "¿Te gustaría comprar una Super Ball por $600 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -228,7 +228,7 @@
             "id": "pickultraball",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Ultra Ball for $1200 each?"
+                "¿Te gustaría comprar una Ultra Ball por $1200 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -265,7 +265,7 @@
             "id": "pickpotion",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Potion for $300 each?"
+                "¿Te gustaría comprar una Poción por $300 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -294,7 +294,7 @@
             "id": "picksuperpotion",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Super Potion for $700 each?"
+                "¿Te gustaría comprar una Superpoción por $700 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -323,7 +323,7 @@
             "id": "pickhyperpotion",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Hyper Potion for $1200 each?"
+                "¿Te gustaría comprar una Híperpoción por $1200 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -352,7 +352,7 @@
             "id": "pickmaxpotion",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Max Potion for $2500 each?"
+                "¿Te gustaría comprar una Poción Máxima por $2500 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -381,7 +381,7 @@
             "id": "pickfullrestore",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Full Restore for $3000 each?"
+                "¿Te gustaría comprar un Restaurar Todo por $3000 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -410,7 +410,7 @@
             "id": "pickantidote",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Antidote for $100 each?"
+                "¿Te gustaría comprar un Antídoto por $100 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -439,7 +439,7 @@
             "id": "pickparalyzeheal",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Paralyze Heal for $200 each?"
+                "¿Te gustaría comprar un Antiparalizador por $200 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -468,7 +468,7 @@
             "id": "pickawakening",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Awakening for $250 each?"
+                "¿Te gustaría comprar un Despertar por $250 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -497,7 +497,7 @@
             "id": "pickburnheal",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Burn Heal for $250 each?"
+                "¿Te gustaría comprar un Antiquemar por $250 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -526,7 +526,7 @@
             "id": "pickiceheal",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Ice Heal for $250 each?"
+                "¿Te gustaría comprar un Antihielo por $250 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -555,7 +555,7 @@
             "id": "pickescaperope",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Escape Rope for $550 each?"
+                "¿Te gustaría comprar una Cuerda Huída por $550 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -584,7 +584,7 @@
             "id": "pickfullheal",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Escape Rope for $550 each?"
+                "¿Te gustaría comprar una Cuerda Huída por $550 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -1816,7 +1816,7 @@
             "id": "buyend",
             "speaker": "npc",
             "lines": [
-                "Here you are! Thank you!"
+                "¡Aquí tienes! ¡Gracias!"
             ],
             "input": {
                 "type": "option",
@@ -1837,7 +1837,7 @@
             "id": "end",
             "speaker": "npc",
             "lines": [
-                "Please come again!"
+                "¡Vuelve pronto!"
             ],
             "input": {
                 "type": "option",

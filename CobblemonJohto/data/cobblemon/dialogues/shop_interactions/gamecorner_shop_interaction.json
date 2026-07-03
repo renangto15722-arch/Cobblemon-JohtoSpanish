@@ -25,7 +25,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-               "Welcome to Game Corner! Do you need some game Coins?"
+               "¡Bienvenido al Game Corner! ¿Necesitas algunas Coins de juego?"
             ],
             "input": {
                 "type": "option",
@@ -48,7 +48,7 @@
             "id": "buy1",
             "speaker": "npc",
             "lines": [
-                "How many would you like?"
+                "¿Cuántas te gustaría?"
             ],
             "input": {
                 "type": "option",
@@ -92,7 +92,7 @@
             "id": "pick50coins",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase 50 Coins for $1000?"
+                "¿Te gustaría comprar 50 Coins por $1000?"
             ],
             "input": {
                 "type": "option",
@@ -121,7 +121,7 @@
             "id": "pick250coins",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase 250 Coins for $5000?"
+                "¿Te gustaría comprar 250 Coins por $5000?"
             ],
             "input": {
                 "type": "option",
@@ -150,7 +150,7 @@
             "id": "pick500coins",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase 500 Coins for $10000?"
+                "¿Te gustaría comprar 500 Coins por $10000?"
             ],
             "input": {
                 "type": "option",
@@ -181,7 +181,7 @@
             "id": "buyend",
             "speaker": "npc",
             "lines": [
-                "Here you are! Thank you!"
+                "¡Aquí tienes! ¡Gracias!"
             ],
             "input": {
                 "type": "option",
@@ -202,7 +202,7 @@
             "id": "end",
             "speaker": "npc",
             "lines": [
-                "Please come again!"
+                "¡Vuelve pronto!"
             ],
             "input": {
                 "type": "option",

@@ -25,7 +25,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Welcome to the Exchange Service Corner! Would you like to trade in your BP for some prizes?"
+                "¡Bienvenido al Servicio de Canje! ¿Te gustaría cambiar tus BP por algunos premios?"
             ],
             "input": {
                 "type": "option",
@@ -48,7 +48,7 @@
             "id": "buy1",
             "speaker": "npc",
             "lines": [
-                "Which item would you like to purchase?"
+                "¿Qué objeto te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -86,7 +86,7 @@
             "id": "buy2",
             "speaker": "npc",
             "lines": [
-                "Which item would you like to purchase?"
+                "¿Qué objeto te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -125,7 +125,7 @@
             "id": "pickchoiceband",
             "speaker": "npc",
             "lines": [
-                "A held item that boosts the Attack of the Pokémon holding it by 50%, but only allows the use of the first move selected each time it is sent into battle. One goes for 48BP."
+                "Un objeto equipado que aumenta el Ataque del Pokémon que lo lleva en un 50%, pero solo permite usar el primer movimiento seleccionado cada vez que entra en batalla. Uno cuesta 48BP."
             ],
             "input": {
                 "type": "option",
@@ -153,7 +153,7 @@
             "id": "pickfocusband",
             "speaker": "npc",
             "lines": [
-                "A held item that has a 10% chance of preventing the Pokémon holding it from fainting with 1 HP remaining. One goes for 48BP."
+                "Un objeto equipado que tiene un 10% de probabilidad de evitar que el Pokémon que lo lleva se debilite, dejándolo con 1 PS. Uno cuesta 48BP."
             ],
             "input": {
                 "type": "option",
@@ -181,7 +181,7 @@
             "id": "pickscopelens",
             "speaker": "npc",
             "lines": [
-                "A Scope Lens is a held item that increases the holder's critical hit ratio by one stage. One goes for 48BP."
+                "El Periscopio es un objeto equipado que aumenta en un nivel la probabilidad de golpe crítico del portador. Uno cuesta 48BP."
             ],
             "input": {
                 "type": "option",
@@ -209,7 +209,7 @@
             "id": "pickmuscleband",
             "speaker": "npc",
             "lines": [
-                "A Muscle Band is a held item that boosts the power of the holder's physical moves by 10%. It is consumed after use. One goes for 48BP."
+                "La Cinta Fuerte es un objeto equipado que aumenta un 10% la potencia de los movimientos físicos del portador. Se consume tras su uso. Uno cuesta 48BP."
             ],
             "input": {
                 "type": "option",
@@ -237,7 +237,7 @@
             "id": "pickfocussash",
             "speaker": "npc",
             "lines": [
-                "A held item that, if the Pokémon is at full HP, prevents the Pokémon holding it from fainting in one hit. One goes for 48BP."
+                "Un objeto equipado que, si el Pokémon tiene los PS al máximo, evita que el Pokémon que lo lleva se debilite de un solo golpe. Uno cuesta 48BP."
             ],
             "input": {
                 "type": "option",
@@ -265,7 +265,7 @@
             "id": "pickchoicescarf",
             "speaker": "npc",
             "lines": [
-                "A held item that boosts the Speed of the Pokémon holding it by 50%, but only allows the use of the first move selected each time it is sent into battle. One goes for 48BP."
+                "Un objeto equipado que aumenta la Velocidad del Pokémon que lo lleva en un 50%, pero solo permite usar el primer movimiento seleccionado cada vez que entra en batalla. Uno cuesta 48BP."
             ],
             "input": {
                 "type": "option",
@@ -293,7 +293,7 @@
             "id": "pickrazorclaw",
             "speaker": "npc",
             "lines": [
-                "A Razor Claw is a held item that raises the holder's critical hit ratio by one stage. One goes for 48BP."
+                "La Garra Afilada es un objeto equipado que aumenta en un nivel la probabilidad de golpe crítico del portador. Uno cuesta 48BP."
             ],
             "input": {
                 "type": "option",
@@ -321,7 +321,7 @@
             "id": "pickrazorfang",
             "speaker": "npc",
             "lines": [
-                "A Razor Fang is a held item that grants the holder's damaging attacks a 10% chance of causing the target to flinch. One goes for 48BP."
+                "El Colmillo Agudo es un objeto equipado que otorga a los ataques dañinos del portador un 10% de probabilidad de hacer retroceder al objetivo. Uno cuesta 48BP."
             ],
             "input": {
                 "type": "option",
@@ -351,7 +351,7 @@
             "id": "buyend",
             "speaker": "npc",
             "lines": [
-                "Here you are! Thank you!"
+                "¡Aquí tienes! ¡Gracias!"
             ],
             "input": {
                 "type": "option",
@@ -372,7 +372,7 @@
             "id": "end",
             "speaker": "npc",
             "lines": [
-                "Please come again!"
+                "¡Vuelve pronto!"
             ],
             "input": {
                 "type": "option",

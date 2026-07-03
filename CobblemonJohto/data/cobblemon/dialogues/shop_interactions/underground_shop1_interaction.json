@@ -25,7 +25,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hello, dear."
+                "Hola, cariño."
             ],
             "input": {
                 "type": "option",
@@ -43,7 +43,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I sell inexpensive herbal medicine. They're good, but a trifle bitter."
+                "Vendo medicina herbal económica. Son buenas, pero un poco amargas."
             ],
             "input": {
                 "type": "option",
@@ -61,7 +61,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Your Pokémon may not like them. Hehehehe..."
+                "A tu Pokémon puede que no le gusten. Jejejeje..."
             ],
             "input": {
                 "type": "option",
@@ -87,7 +87,7 @@
             "id": "buy1",
             "speaker": "npc",
             "lines": [
-                "Which item would you like to purchase?"
+                "¿Qué objeto te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -118,7 +118,7 @@
             "id": "pickhealpowder",
             "speaker": "npc",
             "lines": [
-                "Heal Powder is a very bitter medicine powder. It heals all the status problems of a single Pokémon. Each one is $450."
+                "Polvo Curación es un polvo medicinal muy amargo. Cura todos los problemas de estado de un solo Pokémon. Cada uno cuesta $450."
             ],
             "input": {
                 "type": "option",
@@ -146,7 +146,7 @@
             "id": "pickenergypowder",
             "speaker": "npc",
             "lines": [
-                "EnergyPowder is a very bitter medicine powder. It restores the HP of one Pokémon by 50 points. Each one is $500."
+                "Polvo Energía es un polvo medicinal muy amargo. Restaura 50 puntos de PS de un Pokémon. Cada uno cuesta $500."
             ],
             "input": {
                 "type": "option",
@@ -174,7 +174,7 @@
             "id": "pickenergyroot",
             "speaker": "npc",
             "lines": [
-                "Energy Root is a very bitter root. It restores the HP of one Pokémon by 120 points. Each one is $800."
+                "Raíz Energía es una raíz muy amarga. Restaura 120 puntos de PS de un Pokémon. Cada una cuesta $800."
             ],
             "input": {
                 "type": "option",
@@ -202,7 +202,7 @@
             "id": "pickrevivalherb",
             "speaker": "npc",
             "lines": [
-                "Revival Herb is a very bitter medicinal herb. It revives a fainted Pokémon, fully restoring its HP. Each one is $2800."
+                "Hierba Revivir es una hierba medicinal muy amarga. Revive a un Pokémon debilitado y restaura todos sus PS. Cada una cuesta $2800."
             ],
             "input": {
                 "type": "option",
@@ -232,7 +232,7 @@
             "id": "buyend",
             "speaker": "npc",
             "lines": [
-                "Come by again sometime."
+                "Vuelve por aquí alguna vez."
             ],
             "input": {
                 "type": "option",
@@ -253,7 +253,7 @@
             "id": "end",
             "speaker": "npc",
             "lines": [
-                "Come by again sometime."
+                "Vuelve por aquí alguna vez."
             ],
             "input": {
                 "type": "option",

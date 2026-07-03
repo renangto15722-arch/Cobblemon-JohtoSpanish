@@ -25,7 +25,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Welcome to the Exchange Service Corner! Would you like to trade in your BP for some prizes?"
+                "¡Bienvenido al Servicio de Canje! ¿Te gustaría cambiar tus BP por algunos premios?"
             ],
             "input": {
                 "type": "option",
@@ -48,7 +48,7 @@
             "id": "buy1",
             "speaker": "npc",
             "lines": [
-                "Which item would you like to purchase?"
+                "¿Qué objeto te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -87,7 +87,7 @@
             "id": "picktoxicorb",
             "speaker": "npc",
             "lines": [
-                "A Toxic Orb is a held item that badly poisons its holder at the end of the turn. One goes for 16BP."
+                "La Toxisfera es un objeto equipado que envenena gravemente a su portador al final del turno. Uno cuesta 16BP."
             ],
             "input": {
                 "type": "option",
@@ -115,7 +115,7 @@
             "id": "pickflameorb",
             "speaker": "npc",
             "lines": [
-                "A Flame Orb is a held item that burns its holder at the end of the turn. One goes for 16BP."
+                "La Llamasfera es un objeto equipado que quema a su portador al final del turno. Uno cuesta 16BP."
             ],
             "input": {
                 "type": "option",
@@ -143,7 +143,7 @@
             "id": "pickwhiteherb",
             "speaker": "npc",
             "lines": [
-                "A White Herb is a held item that restores all of the holder's decreased stats. It will be consumed after use. One goes for 32BP."
+                "La Hierba Blanca es un objeto equipado que restaura todas las estadísticas reducidas del portador. Se consume tras su uso. Uno cuesta 32BP."
             ],
             "input": {
                 "type": "option",
@@ -171,7 +171,7 @@
             "id": "pickpowerherb",
             "speaker": "npc",
             "lines": [
-                "A Power Herb is a held item that allows the holder to immediately use a move that would normally require a turn to charge. It is consumed after use. One goes for 32BP."
+                "La Hierba Única es un objeto equipado que permite al portador usar de inmediato un movimiento que normalmente requeriría un turno de carga. Se consume tras su uso. Uno cuesta 32BP."
             ],
             "input": {
                 "type": "option",
@@ -199,7 +199,7 @@
             "id": "pickbrightpowder",
             "speaker": "npc",
             "lines": [
-                "Bright Powder is a held item that causes the opponent's attacks targeted at the holder to have a 10% extra reduction in accuracy. One goes for 48BP."
+                "El Polbo Brillo es un objeto equipado que hace que los ataques del rival dirigidos al portador tengan una reducción extra del 10% en precisión. Uno cuesta 48BP."
             ],
             "input": {
                 "type": "option",
@@ -229,7 +229,7 @@
             "id": "buyend",
             "speaker": "npc",
             "lines": [
-                "Here you are! Thank you!"
+                "¡Aquí tienes! ¡Gracias!"
             ],
             "input": {
                 "type": "option",
@@ -250,7 +250,7 @@
             "id": "end",
             "speaker": "npc",
             "lines": [
-                "Please come again!"
+                "¡Vuelve pronto!"
             ],
             "input": {
                 "type": "option",

@@ -25,7 +25,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Welcome to the Exchange Service Corner! Would you like to trade in your BP for some prizes?"
+                "¡Bienvenido al Servicio de Canje! ¿Te gustaría cambiar tus BP por algunos premios?"
             ],
             "input": {
                 "type": "option",
@@ -48,7 +48,7 @@
             "id": "buy1",
             "speaker": "npc",
             "lines": [
-                "Which item would you like to purchase?"
+                "¿Qué objeto te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -86,7 +86,7 @@
             "id": "buy2",
             "speaker": "npc",
             "lines": [
-                "Which item would you like to purchase?"
+                "¿Qué objeto te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -124,7 +124,7 @@
             "id": "buy3",
             "speaker": "npc",
             "lines": [
-                "Which item would you like to purchase?"
+                "¿Qué objeto te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -163,7 +163,7 @@
             "id": "pickkelpsyberry",
             "speaker": "npc",
             "lines": [
-                "Kelpsy Berries lower the pokémon's Attack EVs by 10, while raising friendship. You get three of them for 2 BP, would you like to buy?"
+                "Las Kelpsy Berries bajan 10 EVs de Ataque del Pokémon y aumentan la amistad. Consigues tres por 2 BP, ¿te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -191,7 +191,7 @@
             "id": "pickgrepaberry",
             "speaker": "npc",
             "lines": [
-                "Grepa Berries lower the pokémon's Special Defense EVs by 10, while raising friendship. You get three of them for 2 BP, would you like to buy?"
+                "Las Grepa Berries bajan 10 EVs de Defensa Especial del Pokémon y aumentan la amistad. Consigues tres por 2 BP, ¿te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -219,7 +219,7 @@
             "id": "pickpasshoberry",
             "speaker": "npc",
             "lines": [
-                "Passho Berries halve damage from one super effective Water-type attack. You get three of them for 2 BP, would you like to buy?"
+                "Las Passho Berries reducen a la mitad el daño de un ataque de tipo Agua supereficaz. Consigues tres por 2 BP, ¿te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -247,7 +247,7 @@
             "id": "pickyacheberry",
             "speaker": "npc",
             "lines": [
-                "Yache Berries halve damage from one super effective Ice-type attack. You get three of them for 2 BP, would you like to buy?"
+                "Las Yache Berries reducen a la mitad el daño de un ataque de tipo Hielo supereficaz. Consigues tres por 2 BP, ¿te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -275,7 +275,7 @@
             "id": "pickshucaberry",
             "speaker": "npc",
             "lines": [
-                "Shuca Berries halve damage from one super effective Ground-type attack. You get three of them for 2 BP, would you like to buy?"
+                "Las Shuca Berries reducen a la mitad el daño de un ataque de tipo Tierra supereficaz. Consigues tres por 2 BP, ¿te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -303,7 +303,7 @@
             "id": "picktangaberry",
             "speaker": "npc",
             "lines": [
-                "Tanga Berries halve damage from one super effective Bug-type attack. You get three of them for 2 BP, would you like to buy?"
+                "Las Tanga Berries reducen a la mitad el daño de un ataque de tipo Bicho supereficaz. Consigues tres por 2 BP, ¿te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -331,7 +331,7 @@
             "id": "pickchartiberry",
             "speaker": "npc",
             "lines": [
-                "Charti Berries halve damage from one super effective Rock-type attack. You get three of them for 2 BP, would you like to buy?"
+                "Las Charti Berries reducen a la mitad el daño de un ataque de tipo Roca supereficaz. Consigues tres por 2 BP, ¿te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -359,7 +359,7 @@
             "id": "pickcolburberry",
             "speaker": "npc",
             "lines": [
-                "Colbur Berries halve damage from one super effective Dark-type attack. You get three of them for 2 BP, would you like to buy?"
+                "Las Colbur Berries reducen a la mitad el daño de un ataque de tipo Siniestro supereficaz. Consigues tres por 2 BP, ¿te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -387,7 +387,7 @@
             "id": "pickkasibberry",
             "speaker": "npc",
             "lines": [
-                "Kasib Berries halve damage from one super effective Ghost-type attack. You get three of them for 2 BP, would you like to buy?"
+                "Las Kasib Berries reducen a la mitad el daño de un ataque de tipo Fantasma supereficaz. Consigues tres por 2 BP, ¿te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -415,7 +415,7 @@
             "id": "pickbabiriberry",
             "speaker": "npc",
             "lines": [
-                "Babiri Berries halve damage from one super effective Steel-type attack. You get three of them for 2 BP, would you like to buy?"
+                "Las Babiri Berries reducen a la mitad el daño de un ataque de tipo Acero supereficaz. Consigues tres por 2 BP, ¿te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -443,7 +443,7 @@
             "id": "pickhabanberry",
             "speaker": "npc",
             "lines": [
-                "Haban Berries halve damage from one super effective Dragon-type attack. You get three of them for 2 BP, would you like to buy?"
+                "Las Haban Berries reducen a la mitad el daño de un ataque de tipo Dragón supereficaz. Consigues tres por 2 BP, ¿te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -471,7 +471,7 @@
             "id": "pickchilanberry",
             "speaker": "npc",
             "lines": [
-                "Chilan Berries halve damage from one super effective Normal-type attack. You get three of them for 2 BP, would you like to buy?"
+                "Las Chilan Berries reducen a la mitad el daño de un ataque de tipo Normal supereficaz. Consigues tres por 2 BP, ¿te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -502,7 +502,7 @@
             "id": "buyend",
             "speaker": "npc",
             "lines": [
-                "Here you are! Thank you!"
+                "¡Aquí tienes! ¡Gracias!"
             ],
             "input": {
                 "type": "option",
@@ -523,7 +523,7 @@
             "id": "end",
             "speaker": "npc",
             "lines": [
-                "Please come again!"
+                "¡Vuelve pronto!"
             ],
             "input": {
                 "type": "option",

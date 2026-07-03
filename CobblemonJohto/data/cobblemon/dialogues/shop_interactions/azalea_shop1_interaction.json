@@ -25,7 +25,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Welcome! May I help you?"
+                "¡Bienvenido! ¿En qué puedo ayudarte?"
             ],
             "input": {
                 "type": "option",
@@ -48,7 +48,7 @@
             "id": "buy1",
             "speaker": "npc",
             "lines": [
-                "Which item would you like to purchase?"
+                "¿Qué objeto te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -91,7 +91,7 @@
             "id": "buy2",
             "speaker": "npc",
             "lines": [
-                "Which item would you like to purchase?"
+                "¿Qué objeto te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -129,7 +129,7 @@
             "id": "pickpokeball",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Poke Ball for $200 each?"
+                "¿Quieres comprar una Poké Ball por $200 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -166,7 +166,7 @@
             "id": "pickgreatball",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Great Ball for $600 each?"
+                "¿Quieres comprar una Super Ball por $600 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -203,7 +203,7 @@
             "id": "pickultraball",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Ultra Ball for $1200 each?"
+                "¿Quieres comprar una Ultra Ball por $1200 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -240,7 +240,7 @@
             "id": "pickpotion",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Potion for $300 each?"
+                "¿Quieres comprar una Poción por $300 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -269,7 +269,7 @@
             "id": "picksuperpotion",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Super Potion for $700 each?"
+                "¿Quieres comprar una Superpoción por $700 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -298,7 +298,7 @@
             "id": "pickhyperpotion",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Hyper Potion for $1200 each?"
+                "¿Quieres comprar una Híperpoción por $1200 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -327,7 +327,7 @@
             "id": "pickmaxpotion",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Max Potion for $2500 each?"
+                "¿Quieres comprar una Poción Máxima por $2500 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -356,7 +356,7 @@
             "id": "pickfullrestore",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Full Restore for $3000 each?"
+                "¿Quieres comprar un Restaurar Todo por $3000 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -385,7 +385,7 @@
             "id": "pickantidote",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Antidote for $100 each?"
+                "¿Quieres comprar un Antídoto por $100 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -414,7 +414,7 @@
             "id": "pickparalyzeheal",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Paralyze Heal for $200 each?"
+                "¿Quieres comprar un Antiparalizador por $200 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -443,7 +443,7 @@
             "id": "pickawakening",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Awakening for $250 each?"
+                "¿Quieres comprar un Despertar por $250 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -472,7 +472,7 @@
             "id": "pickburnheal",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Burn Heal for $250 each?"
+                "¿Quieres comprar un Antiquemar por $250 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -501,7 +501,7 @@
             "id": "pickiceheal",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Ice Heal for $250 each?"
+                "¿Quieres comprar un Antihielo por $250 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -530,7 +530,7 @@
             "id": "pickescaperope",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Escape Rope for $550 each?"
+                "¿Quieres comprar un Escape Rope por $550 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -559,7 +559,7 @@
             "id": "pickfullheal",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Escape Rope for $550 each?"
+                "¿Quieres comprar un Escape Rope por $550 cada uno?"
             ],
             "input": {
                 "type": "option",
@@ -588,7 +588,7 @@
             "id": "pickfirestone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Fire Stone for $3000?"
+                "¿Quieres comprar una Piedra Fuego por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -616,7 +616,7 @@
             "id": "pickwaterstone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Water Stone for $3000?"
+                "¿Quieres comprar una Piedra Agua por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -644,7 +644,7 @@
             "id": "pickthunderstone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Thunder Stone for $3000?"
+                "¿Quieres comprar una Piedra Trueno por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -672,7 +672,7 @@
             "id": "pickleafstone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Leaf Stone for $3000?"
+                "¿Quieres comprar una Piedra Hoja por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -700,7 +700,7 @@
             "id": "pickmoonstone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Moon Stone for $3000?"
+                "¿Quieres comprar una Piedra Lunar por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -728,7 +728,7 @@
             "id": "picksunstone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Sun Stone for $3000?"
+                "¿Quieres comprar una Piedra Solar por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -756,7 +756,7 @@
             "id": "pickdawnstone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Dawn Stone for $3000?"
+                "¿Quieres comprar una Piedra Alba por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -784,7 +784,7 @@
             "id": "pickduskstone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Dusk Stone for $3000?"
+                "¿Quieres comprar una Piedra Noche por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -812,7 +812,7 @@
             "id": "pickshinystone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Shiny Stone for $3000?"
+                "¿Quieres comprar una Piedra Día por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -840,7 +840,7 @@
             "id": "pickeverstone",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Everstone for $1000?"
+                "¿Quieres comprar una Piedra Oval por $1000?"
             ],
             "input": {
                 "type": "option",
@@ -868,7 +868,7 @@
             "id": "pickdubiousdisc",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Dubious Disc for $3000?"
+                "¿Quieres comprar un Disco Extraño por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -896,7 +896,7 @@
             "id": "pickelectirizer",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Electirizer for $3000?"
+                "¿Quieres comprar un Electrizador por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -924,7 +924,7 @@
             "id": "pickkingsrock",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Kings Rock for $3000?"
+                "¿Quieres comprar una Roca del Rey por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -952,7 +952,7 @@
             "id": "pickmagmarizer",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Magmarizer for $3000?"
+                "¿Quieres comprar un Magmatizador por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -980,7 +980,7 @@
             "id": "pickmetalcoat",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Metal Coat for $3000?"
+                "¿Quieres comprar un Revestimento Metálico por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -1008,7 +1008,7 @@
             "id": "pickprotector",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Protector for $3000?"
+                "¿Quieres comprar un Protector por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -1036,7 +1036,7 @@
             "id": "pickupgrade",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase an Up-Grade for $3000?"
+                "¿Quieres comprar una Mejora por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -1064,7 +1064,7 @@
             "id": "pickdragonscale",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Dragon Scale for $3000?"
+                "¿Quieres comprar una Escama Dragón por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -1092,7 +1092,7 @@
             "id": "pickrazorfang",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Razor Fang for $3000?"
+                "¿Quieres comprar un Colmillo Agudo por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -1120,7 +1120,7 @@
             "id": "pickrazorclaw",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Razor Claw for $3000?"
+                "¿Quieres comprar una Garra Afiada por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -1148,7 +1148,7 @@
             "id": "pickrevive",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Revive for $3000?"
+                "¿Quieres comprar un Revivir por $3000?"
             ],
             "input": {
                 "type": "option",
@@ -1177,7 +1177,7 @@
             "id": "pickhealball",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Heal Ball for $200 each?"
+                "¿Quieres comprar una Sana Ball por $200 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -1214,7 +1214,7 @@
             "id": "picknetball",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Net Ball for $1000 each?"
+                "¿Quieres comprar una Malla Ball por $1000 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -1251,7 +1251,7 @@
             "id": "pickduskball",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Dusk Ball for $1000 each?"
+                "¿Quieres comprar una Dusk Ball por $1000 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -1288,7 +1288,7 @@
             "id": "pickquickball",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Quick Ball for $1000 each?"
+                "¿Quieres comprar una Veloz Ball por $1000 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -1325,7 +1325,7 @@
             "id": "picknestball",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Nest Ball for $1000 each?"
+                "¿Quieres comprar una Nido Ball por $1000 cada una?"
             ],
             "input": {
                 "type": "option",
@@ -1362,7 +1362,7 @@
             "id": "pickpremierball",
             "speaker": "npc",
             "lines": [
-                "You'd like to purchase a Premier Ball for $200 each?"
+                "¿Quieres comprar una Honor Ball por $200 cada una?"
             ],
             "input": {
                 "type": "option",

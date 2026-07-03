@@ -25,7 +25,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I'm the Day-Care Man."
+                "Soy el encargado de la Guardería."
             ],
             "input": {
                 "type": "option",
@@ -43,7 +43,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Do you know about Eggs?"
+                "¿Sabes algo sobre los Huevos?"
             ],
             "input": {
                 "type": "option",
@@ -61,7 +61,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I was raising Pokémon with my wife, you see."
+                "Verás, criaba Pokémon junto a mi esposa."
             ],
             "input": {
                 "type": "option",
@@ -79,7 +79,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "We were shocked to find this Odd Egg!"
+                "¡Nos sorprendió encontrar este Odd Egg!"
             ],
             "input": {
                 "type": "option",
@@ -97,7 +97,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "But since we run a Day-care, we don't need it."
+                "Pero como llevamos una Guardería, no lo necesitamos."
             ],
             "input": {
                 "type": "option",
@@ -115,7 +115,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "I'd give it to you for $1,500."
+                "Te lo daría por $1,500."
             ],
             "input": {
                 "type": "option",
@@ -145,7 +145,7 @@
             "id": "buyend",
             "speaker": "npc",
             "lines": [
-                "Please raise it with loving care."
+                "Cuídalo con mucho cariño, por favor."
             ],
             "input": {
                 "type": "option",
@@ -167,7 +167,7 @@
             "id": "end",
             "speaker": "npc",
             "lines": [
-                "Come again."
+                "Vuelve pronto."
             ],
             "input": {
                 "type": "option",

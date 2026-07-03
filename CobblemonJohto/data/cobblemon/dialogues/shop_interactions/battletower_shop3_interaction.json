@@ -25,7 +25,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Welcome to the Exchange Service Corner! Would you like to trade in your BP for some prizes?"
+                "¡Bienvenido al Servicio de Canje! ¿Te gustaría cambiar tus BP por algunos premios?"
             ],
             "input": {
                 "type": "option",
@@ -48,7 +48,7 @@
             "id": "buy1",
             "speaker": "npc",
             "lines": [
-                "Which item would you like to purchase?"
+                "¿Qué objeto te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -86,7 +86,7 @@
             "id": "buy2",
             "speaker": "npc",
             "lines": [
-                "Which item would you like to purchase?"
+                "¿Qué objeto te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -120,7 +120,7 @@
             "id": "pickprotein",
             "speaker": "npc",
             "lines": [
-                "A Protein is a vitamin that adds 10 Attack EVs to a Pokémon when used. Would you like to by? Only 1BP each!"
+                "Un Protein es una vitamina que añade 10 EVs de Ataque a un Pokémon al usarse. ¿Te gustaría comprar? ¡Solo 1BP cada uno!"
             ],
             "input": {
                 "type": "option",
@@ -148,7 +148,7 @@
             "id": "pickiron",
             "speaker": "npc",
             "lines": [
-                "An Iron is vitamin that adds 10 Defense EVs to a Pokémon when used. Would you like to by? Only 1BP each!"
+                "Un Iron es una vitamina que añade 10 EVs de Defensa a un Pokémon al usarse. ¿Te gustaría comprar? ¡Solo 1BP cada uno!"
             ],
             "input": {
                 "type": "option",
@@ -176,7 +176,7 @@
             "id": "pickcarbos",
             "speaker": "npc",
             "lines": [
-                "A Carbos is a vitamin that adds 10 Speed EVs to a Pokémon when used. Would you like to by? Only 1BP each!"
+                "Un Carbos es una vitamina que añade 10 EVs de Velocidad a un Pokémon al usarse. ¿Te gustaría comprar? ¡Solo 1BP cada uno!"
             ],
             "input": {
                 "type": "option",
@@ -204,7 +204,7 @@
             "id": "pickcalcium",
             "speaker": "npc",
             "lines": [
-                "A Calcium is a vitamin that adds 10 Special Attack EVs to a Pokémon when used. Would you like to by? Only 1BP each!"
+                "Un Calcium es una vitamina que añade 10 EVs de Ataque Especial a un Pokémon al usarse. ¿Te gustaría comprar? ¡Solo 1BP cada uno!"
             ],
             "input": {
                 "type": "option",
@@ -232,7 +232,7 @@
             "id": "pickzinc",
             "speaker": "npc",
             "lines": [
-                "A Zinc is a vitamin that adds 10 Special Defense EVs to a Pokémon when used. Would you like to by? Only 1BP each!"
+                "Un Zinc es una vitamina que añade 10 EVs de Defensa Especial a un Pokémon al usarse. ¿Te gustaría comprar? ¡Solo 1BP cada uno!"
             ],
             "input": {
                 "type": "option",
@@ -260,7 +260,7 @@
             "id": "pickhpup",
             "speaker": "npc",
             "lines": [
-                "An HP Up is a vitamin that adds 10 HP EVs to a Pokémon when used. Would you like to by? Only 1BP each!"
+                "Un HP Up es una vitamina que añade 10 EVs de PS a un Pokémon al usarse. ¿Te gustaría comprar? ¡Solo 1BP cada uno!"
             ],
             "input": {
                 "type": "option",
@@ -288,7 +288,7 @@
             "id": "pickrarecandy",
             "speaker": "npc",
             "lines": [
-                "A Rare Candy is a medicinal item that increases a Pokémon's level by one when used. Each one costs 48BP."
+                "Un Caramelo Raro es un objeto medicinal que sube un nivel al Pokémon al usarse. Cada uno cuesta 48BP."
             ],
             "input": {
                 "type": "option",
@@ -317,7 +317,7 @@
             "id": "buyend",
             "speaker": "npc",
             "lines": [
-                "Here you are! Thank you!"
+                "¡Aquí tienes! ¡Gracias!"
             ],
             "input": {
                 "type": "option",
@@ -338,7 +338,7 @@
             "id": "end",
             "speaker": "npc",
             "lines": [
-                "Please come again!"
+                "¡Vuelve pronto!"
             ],
             "input": {
                 "type": "option",

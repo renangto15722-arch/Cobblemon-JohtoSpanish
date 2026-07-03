@@ -25,7 +25,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Welcome to the Exchange Service Corner! Would you like to trade in your BP for some prizes?"
+                "¡Bienvenido al Servicio de Canje! ¿Te gustaría cambiar tus BP por algunos premios?"
             ],
             "input": {
                 "type": "option",
@@ -48,7 +48,7 @@
             "id": "buy1",
             "speaker": "npc",
             "lines": [
-                "Which item would you like to purchase?"
+                "¿Qué objeto te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -81,7 +81,7 @@
             "id": "buy2",
             "speaker": "npc",
             "lines": [
-                "Which item would you like to purchase?"
+                "¿Qué objeto te gustaría comprar?"
             ],
             "input": {
                 "type": "option",
@@ -115,7 +115,7 @@
             "id": "pickpowerbracer",
             "speaker": "npc",
             "lines": [
-                "A Power Bracer is a held item that gives extra Attack EVs when the holder participates in battle. One goes for 16BP."
+                "El Brazal Recio es un objeto equipado que da EVs de Ataque extra cuando el portador participa en batalla. Uno cuesta 16BP."
             ],
             "input": {
                 "type": "option",
@@ -143,7 +143,7 @@
             "id": "pickpowerbelt",
             "speaker": "npc",
             "lines": [
-                "A Power Belt is a held item that gives extra Defense EVs when the holder participates in battle. One goes for 16BP."
+                "El Cinturón Recio es un objeto equipado que da EVs de Defensa extra cuando el portador participa en batalla. Uno cuesta 16BP."
             ],
             "input": {
                 "type": "option",
@@ -171,7 +171,7 @@
             "id": "pickpowerlens",
             "speaker": "npc",
             "lines": [
-                "A Power Lens is a held item that gives extra Special Attack EVs when the holder participates in battle. One goes for 16BP."
+                "La Lente Recia es un objeto equipado que da EVs de Ataque Especial extra cuando el portador participa en batalla. Uno cuesta 16BP."
             ],
             "input": {
                 "type": "option",
@@ -199,7 +199,7 @@
             "id": "pickpowerband",
             "speaker": "npc",
             "lines": [
-                "A Power Band is a held item that gives extra Special Defense EVs when the holder participates in battle. One goes for 16BP."
+                "La Banda Recia es un objeto equipado que da EVs de Defensa Especial extra cuando el portador participa en batalla. Uno cuesta 16BP."
             ],
             "input": {
                 "type": "option",
@@ -227,7 +227,7 @@
             "id": "pickpoweranklet",
             "speaker": "npc",
             "lines": [
-                "A Power Anklet is a held item that gives extra Speed EVs when the holder participates in battle. One goes for 16BP."
+                "La Franja Recia es un objeto equipado que da EVs de Velocidad extra cuando el portador participa en batalla. Uno cuesta 16BP."
             ],
             "input": {
                 "type": "option",
@@ -255,7 +255,7 @@
             "id": "pickpowerweight",
             "speaker": "npc",
             "lines": [
-                "A Power Weight is a held item that gives extra HP EVs when the holder participates in battle. One goes for 16BP."
+                "La Pesa Recia es un objeto equipado que da EVs de PS extra cuando el portador participa en batalla. Uno cuesta 16BP."
             ],
             "input": {
                 "type": "option",
@@ -284,7 +284,7 @@
             "id": "buyend",
             "speaker": "npc",
             "lines": [
-                "Here you are! Thank you!"
+                "¡Aquí tienes! ¡Gracias!"
             ],
             "input": {
                 "type": "option",
@@ -305,7 +305,7 @@
             "id": "end",
             "speaker": "npc",
             "lines": [
-                "Please come again!"
+                "¡Vuelve pronto!"
             ],
             "input": {
                 "type": "option",
