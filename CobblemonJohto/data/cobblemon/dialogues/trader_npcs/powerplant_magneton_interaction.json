@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I collect Pokemon. Do you have Dugtrio? Want to trade it for my Magneton?"
+                "Colecciono Pokémon. ¿Tienes un Dugtrio? ¿Quieres intercambiarlo por mi Magneton?"
             ],
             "input": {
                 "type": "option",
@@ -48,7 +48,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'Are you sure you want to trade your Dugtrio?';"
+                    "expression": "'¿Seguro que quieres intercambiar tu Dugtrio?';"
                 }
             ],
             "input": {
@@ -76,7 +76,7 @@
             "id": "okbye",
             "speaker": "npc",
             "lines": [
-                "Alright, see you later!"
+                "¡Muy bien, hasta luego!"
             ],
             "input": {
                 "type": "option",

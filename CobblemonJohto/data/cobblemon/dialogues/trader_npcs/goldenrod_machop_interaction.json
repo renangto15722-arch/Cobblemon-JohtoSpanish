@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I collect Pokemon. Want to trade a Drowzee to me for my Machop?"
+                "Colecciono Pokémon. ¿Quieres intercambiarme un Drowzee por mi Machop?"
             ],
             "input": {
                 "type": "option",
@@ -48,7 +48,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'Are you sure you want to trade your Drowzee?';"
+                    "expression": "'¿Seguro que quieres intercambiar tu Drowzee?';"
                 }
             ],
             "input": {
@@ -76,7 +76,7 @@
             "id": "okbye",
             "speaker": "npc",
             "lines": [
-                "Alright, see you later!"
+                "¡Muy bien, hasta luego!"
             ],
             "input": {
                 "type": "option",

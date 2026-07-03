@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi, I'm looking for this Pokemon. If you have Haunter, would you trade it for my Xatu?"
+                "Hola, busco este Pokémon. Si tienes un Haunter, ¿lo intercambiarías por mi Xatu?"
             ],
             "input": {
                 "type": "option",
@@ -48,7 +48,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'Are you sure you want to trade your Haunter?';"
+                    "expression": "'¿Seguro que quieres intercambiar tu Haunter?';"
                 }
             ],
             "input": {
@@ -76,7 +76,7 @@
             "id": "okbye",
             "speaker": "npc",
             "lines": [
-                "Alright, see you later!"
+                "¡Muy bien, hasta luego!"
             ],
             "input": {
                 "type": "option",

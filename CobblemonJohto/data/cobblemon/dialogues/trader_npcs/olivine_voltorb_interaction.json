@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi! I'm looking for Krabby. Would you trade it for my Voltorb?"
+                "¡Hola! Busco un Krabby. ¿Lo intercambiarías por mi Voltorb?"
             ],
             "input": {
                 "type": "option",
@@ -48,7 +48,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'Are you sure you want to trade your Krabby?';"
+                    "expression": "'¿Seguro que quieres intercambiar tu Krabby?';"
                 }
             ],
             "input": {
@@ -76,7 +76,7 @@
             "id": "okbye",
             "speaker": "npc",
             "lines": [
-                "Alright, see you later!"
+                "¡Muy bien, hasta luego!"
             ],
             "input": {
                 "type": "option",

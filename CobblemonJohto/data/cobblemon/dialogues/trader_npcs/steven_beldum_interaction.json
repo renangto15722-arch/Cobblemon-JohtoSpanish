@@ -22,7 +22,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "We meet again! Have you been to Hoenn before?"
+                "¡Nos encontramos de nuevo! ¿Has estado antes en Hoenn?"
             ],
             "input": {
                 "type": "option",
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's such a beautiful place, with the clearest ocean you can imagine. You should visit sometime."
+                "Es un lugar precioso, con el océano más cristalino que puedas imaginar. Deberías visitarlo alguna vez."
             ],
             "input": {
                 "type": "option",
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Hey! Why don't we trade Pokémon?"
+                "¡Oye! ¿Por qué no intercambiamos Pokémon?"
             ],
             "input": {
                 "type": "option",
@@ -76,7 +76,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "I've been looking for Forretress. I can trade my Beldum for it."
+                "He estado buscando un Forretress. Puedo intercambiar mi Beldum por él."
             ],
             "input": {
                 "type": "option",
@@ -100,7 +100,7 @@
             "id": "confirmation",
             "speaker": "npc",
             "lines": [
-                "OK, let's trade!"
+                "¡Vale, intercambiemos!"
             ],
             "input": {
                 "type": "option",
@@ -127,7 +127,7 @@
             "id": "okbye",
             "speaker": "npc",
             "lines": [
-                "That's too bad."
+                "Qué lástima."
             ],
             "input": {
                 "type": "option",
