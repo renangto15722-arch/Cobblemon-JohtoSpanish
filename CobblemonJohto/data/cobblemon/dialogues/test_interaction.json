@@ -23,7 +23,7 @@
             "id": "off_cooldown",
             "speaker": "npc",
             "lines": [
-                "Hello, the cooldown is off!"
+                "¡Hola, el tiempo de espera ya terminó!"
             ],
             "input": {
                 "type": "option",
@@ -49,7 +49,7 @@
             "id": "on_cooldown",
             "speaker": "npc",
             "lines": [
-                "Hello, YOU are on cooldown! Current remaining time:",
+                "¡Hola, TÚ estás en tiempo de espera! Tiempo restante actual:",
                 {
                     "type": "expression",
                     "expression": "q.run_script('cobblemon:cooldown_remaining_hours')"
