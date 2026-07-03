@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I just got word from Cerulean."
+                "Acabo de recibir noticias de Ciudad Celeste."
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It appears that a shady character has been loitering around."
+                "Parece que un tipo sospechoso ha estado merodeando por ahí."
             ],
             "input": {
                 "type": "option",
@@ -56,7 +56,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Could I ask for your cooperation? The shady character was hanging around the Cerulean Gym..."
+                "¿Podría pedir tu cooperación? El tipo sospechoso rondaba cerca del Gimnasio de Ciudad Celeste..."
             ],
             "input": {
                 "type": "option",

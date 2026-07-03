@@ -28,7 +28,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'Hello, ' + q.player.username + '? I have something here for you.';"
+                    "expression": "'Hola, ' + q.player.username + '? Tengo algo para ti aquí.';"
                 }
             ],
             "input": {
@@ -47,7 +47,7 @@
             "id": "page2",
             "speaker": "elm",
             "lines": [
-                "Could you swing by my Lab?"
+                "¿Podrías pasar por mi Laboratorio?"
             ],
             "input": {
                 "type": "option",
@@ -65,7 +65,7 @@
             "id": "page3",
             "speaker": "elm",
             "lines": [
-                "See you later!"
+                "¡Hasta luego!"
             ],
             "input": {
                 "type": "option",

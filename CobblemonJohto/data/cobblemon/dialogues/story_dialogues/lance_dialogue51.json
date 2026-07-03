@@ -19,7 +19,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Did you come here because of the rumors?"
+                "¿Viniste aquí por los rumores?"
             ],
             "input": {
                 "type": "option",
@@ -39,7 +39,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'You’re ' + q.player.username + '? I’m Lance, a trainer like you.';"
+                    "expression": "'¿Eres ' + q.player.username + '? Soy Lance, un entrenador como tú.';"
                 }
             ],
             "input": {
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I heard some rumors, so I came to investigate..."
+                "Escuché algunos rumores, así que vine a investigar..."
             ],
             "input": {
                 "type": "option",
@@ -78,7 +78,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'I saw the way you battled earlier, ' + q.player.username + '. I can tell that you’re a trainer with considerable skill.';"
+                    "expression": "'Vi cómo luchaste antes, ' + q.player.username + '. Se nota que eres un entrenador con mucha habilidad.';"
                 }
             ],
             "input": {
@@ -99,7 +99,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "If you don't mind, could you help me investigate?"
+                "Si no te importa, ¿podrías ayudarme a investigar?"
             ],
             "input": {
                 "type": "option",
@@ -117,7 +117,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Excellent!"
+                "¡Excelente!"
             ],
             "input": {
                 "type": "option",
@@ -135,7 +135,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "It seems that the Lake's Magikarp are being forced to evolve."
+                "Parece que a los Magikarp del Lago de la Furia los están forzando a evolucionar."
             ],
             "input": {
                 "type": "option",
@@ -153,7 +153,7 @@
             "id": "page8",
             "speaker": "npc",
             "lines": [
-                "A mysterious radio broadcast coming from Mahogany is the cause."
+                "La causa es una misteriosa transmisión de radio que viene de Pueblo Caoba."
             ],
             "input": {
                 "type": "option",
@@ -173,7 +173,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'I’ll be waiting for you, ' + q.player.username + '.';"
+                    "expression": "'Te estaré esperando, ' + q.player.username + '.';"
                 }
             ],
             "input": {

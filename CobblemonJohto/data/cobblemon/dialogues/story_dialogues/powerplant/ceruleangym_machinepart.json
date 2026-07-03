@@ -18,7 +18,7 @@
             "id": "greeting",
             "speaker": "player",
             "lines": [
-                "It's the Machine Part!"
+                "¡Es la Machine Part!"
             ],
             "input": {
                 "type": "option",
@@ -36,7 +36,7 @@
             "id": "page2",
             "speaker": "player",
             "lines": [
-                "You put it in your inventory."
+                "La guardaste en tu inventario."
             ],
             "input": {
                 "type": "option",

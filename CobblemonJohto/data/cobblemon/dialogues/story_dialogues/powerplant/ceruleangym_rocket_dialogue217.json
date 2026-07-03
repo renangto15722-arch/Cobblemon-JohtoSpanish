@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I very busy. No time for talking with you."
+                "Yo muy ocupado. No tener tiempo para hablar contigo."
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Not good for me if seen by somebody."
+                "No bueno para mí si alguien me ve."
             ],
             "input": {
                 "type": "option",
@@ -56,7 +56,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Oh no! You seen me already! I make big mistake!"
+                "¡Oh no! ¡Ya me viste! ¡Yo cometer gran error!"
             ],
             "input": {
                 "type": "option",
@@ -74,7 +74,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Hey, you! Forget you see me, OK?"
+                "¡Oye, tú! ¿Olvidar que me viste, OK?"
             ],
             "input": {
                 "type": "option",
@@ -92,7 +92,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "You seen, heard, known nothing, OK? Bye! Bye-bye a go-go!"
+                "¿Tú no ver, no oír, no saber nada, OK? ¡Adiós! ¡Adiós a go-go!"
             ],
             "input": {
                 "type": "option",

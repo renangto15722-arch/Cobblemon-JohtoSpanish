@@ -19,7 +19,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hello... You're breaking up..."
+                "Hola... Se te corta la señal..."
             ],
             "input": {
                 "type": "option",
@@ -37,7 +37,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "I think it depends on how my dad feels..."
+                "Creo que depende de cómo se sienta mi padre..."
             ],
             "input": {
                 "type": "option",
@@ -55,7 +55,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I see... I'll be on my way. See you soon."
+                "Ya veo... Seguiré mi camino. Hasta pronto."
             ],
             "input": {
                 "type": "option",
@@ -75,7 +75,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "You are... I remember your eyes."
+                "Tú eres... Recuerdo tus ojos."
             ],
             "input": {
                 "type": "option",
@@ -95,7 +95,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "When I see a Trainer whose eyes twinkle, I always remember."
+                "Cuando veo a un Entrenador con ojos que brillan, siempre lo recuerdo."
             ],
             "input": {
                 "type": "option",
@@ -115,7 +115,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "You have a Pokédex! So you are also in search of Pokémon. Let me see..."
+                "¡Tienes una Pokédex! Así que tú también estás en busca de Pokémon. Déjame ver..."
             ],
             "input": {
                 "type": "option",
@@ -135,7 +135,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "I think I can help you with that. Let's say that you have stones in front of you."
+                "Creo que puedo ayudarte con eso. Digamos que tienes unas piedras frente a ti."
             ],
             "input": {
                 "type": "option",
@@ -175,7 +175,7 @@
             "id": "picktreecko",
             "speaker": "npc",
             "lines": [
-                "You chose correctly! I will give you a Treecko!"
+                "¡Elegiste bien! ¡Te daré un Treecko!"
             ],
             "input": {
                 "type": "option",
@@ -195,7 +195,7 @@
             "id": "picktorchic",
             "speaker": "npc",
             "lines": [
-                "You chose correctly! I will give you a Torchic!"
+                "¡Elegiste bien! ¡Te daré un Torchic!"
             ],
             "input": {
                 "type": "option",
@@ -215,7 +215,7 @@
             "id": "pickmudkip",
             "speaker": "npc",
             "lines": [
-                "You chose correctly! I will give you a Mudkip!"
+                "¡Elegiste bien! ¡Te daré un Mudkip!"
             ],
             "input": {
                 "type": "option",
@@ -235,7 +235,7 @@
             "id": "page8",
             "speaker": "npc",
             "lines": [
-                "Take good care of it. Your caring for it will make me very happy."
+                "Cuídalo bien. Que lo cuides me hará muy feliz."
             ],
             "input": {
                 "type": "option",
@@ -255,7 +255,7 @@
             "id": "page9",
             "speaker": "npc",
             "lines": [
-                "Oh, look at the time. I really must go. I'll be back soon though!"
+                "Oh, mira la hora. Debo irme de verdad. ¡Aunque volveré pronto!"
             ],
             "input": {
                 "type": "option",

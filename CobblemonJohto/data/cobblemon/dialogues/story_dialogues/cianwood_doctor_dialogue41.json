@@ -19,7 +19,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Your Pokémon appear to be fine. It something worrying you? ..."
+                "Tus Pokémon parecen estar bien. ¿Hay algo que te preocupa? ..."
             ],
             "input": {
                 "type": "option",
@@ -37,7 +37,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "The Lighthouse Pokémon is in trouble?"
+                "¿El Pokémon del Faro está en problemas?"
             ],
             "input": {
                 "type": "option",
@@ -55,7 +55,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I got it! This ought to do the trick."
+                "¡Lo tengo! Esto debería funcionar."
             ],
             "input": {
                 "type": "option",
@@ -75,7 +75,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "My SecretPotion is a tad too strong. I only offer it in an emergency."
+                "Mi SecretPotion es un poco demasiado fuerte. Solo la ofrezco en una emergencia."
             ],
             "input": {
                 "type": "option",

@@ -19,7 +19,7 @@
             "id": "greeting",
             "speaker": "lance",
             "lines": [
-                "That odd signal finally stopped."
+                "Esa extraña señal por fin se detuvo."
             ],
             "input": {
                 "type": "option",
@@ -39,7 +39,7 @@
             "id": "page2",
             "speaker": "lance",
             "lines": [
-                "The Lake should be back to normal. You're the hero!"
+                "El Lago de la Furia debería estar de vuelta a la normalidad. ¡Eres el héroe!"
             ],
             "input": {
                 "type": "option",
@@ -59,7 +59,7 @@
             "id": "page3",
             "speaker": "lance",
             "lines": [
-                "Let me thank you on behalf of all the Pokémon."
+                "Déjame agradecerte en nombre de todos los Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -79,7 +79,7 @@
             "id": "page4",
             "speaker": "lance",
             "lines": [
-                "Oh, yes. You should take this. I found it here, but I don't have any need for it."
+                "Ah, sí. Deberías llevarte esto. Lo encontré aquí, pero no lo necesito."
             ],
             "input": {
                 "type": "option",
@@ -101,7 +101,7 @@
             "id": "page5",
             "speaker": "lance",
             "lines": [
-                "That's Whirlpool. Have it with you to get across wild water."
+                "Eso es Whirlpool. Llévalo contigo para cruzar aguas turbulentas."
             ],
             "input": {
                 "type": "option",
@@ -144,7 +144,7 @@
             "id": "page7",
             "speaker": "lance",
             "lines": [
-                "The journey to becoming the Pokémon Master is long and difficult."
+                "El camino para convertirse en Maestro Pokémon es largo y difícil."
             ],
             "input": {
                 "type": "option",
@@ -164,7 +164,7 @@
             "id": "page8",
             "speaker": "lance",
             "lines": [
-                "Knowing that, will you keep going?"
+                "Sabiendo eso, ¿seguirás adelante?"
             ],
             "input": {
                 "type": "option",
@@ -184,7 +184,7 @@
             "id": "page9",
             "speaker": "lance",
             "lines": [
-                "... I see. No you're right. If you would give up that easily, you would have never chased that dream in the first place."
+                "... Ya veo. No, tienes razón. Si te rindieras tan fácilmente, nunca habrías perseguido ese sueño en primer lugar."
             ],
             "input": {
                 "type": "option",
@@ -204,7 +204,7 @@
             "id": "page10",
             "speaker": "lance",
             "lines": [
-                "I look forward to seeing you again!"
+                "¡Espero volver a verte!"
             ],
             "input": {
                 "type": "option",

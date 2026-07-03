@@ -20,7 +20,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Whirrrrrr! Yes, it's running! Whirrr, whirrr!"
+                "¡Zummmm! ¡Sí, está funcionando! ¡Zummm, zummm!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Wahah! Thank you so much!"
+                "¡Wajaja! ¡Muchísimas gracias!"
             ],
             "input": {
                 "type": "option",

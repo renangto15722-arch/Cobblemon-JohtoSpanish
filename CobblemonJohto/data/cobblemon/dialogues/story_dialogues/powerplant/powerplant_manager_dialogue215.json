@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "I-I-I'm ready to blast something!"
+                "¡E-e-estoy listo para hacer volar algo!"
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Who would dare steal a part from the generator? I spent so much time fixing it!"
+                "¿Quién se atrevería a robar una pieza del generador? ¡Pasé tantísimo tiempo arreglándolo!"
             ],
             "input": {
                 "type": "option",
@@ -56,7 +56,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "If I catch him, he's going to see what I can do with my Charge Beam!"
+                "¡Si lo atrapo, va a ver lo que puedo hacer con mi Charge Beam!"
             ],
             "input": {
                 "type": "option",

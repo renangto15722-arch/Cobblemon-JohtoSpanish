@@ -19,7 +19,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Oh, you're better than Whitney. Do you now about that moving tree?"
+                "Oh, eres mejor que Whitney. ¿Sabes sobre ese árbol que se mueve?"
             ],
             "input": {
                 "type": "option",
@@ -37,7 +37,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "If you wet it with a Squirtbottle, it attacks."
+                "Si lo mojas con una Squirtbottle, te ataca."
             ],
             "input": {
                 "type": "option",
@@ -55,7 +55,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "But since you have some Badges, you should be OK."
+                "Pero como tienes algunas Badges, deberías estar bien."
             ],
             "input": {
                 "type": "option",
@@ -75,7 +75,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Lalala lalalala. Have plenty of water, my lovely!"
+                "Lalala lalalala. ¡Ten mucha agua, cariño!"
             ],
             "input": {
                 "type": "option",

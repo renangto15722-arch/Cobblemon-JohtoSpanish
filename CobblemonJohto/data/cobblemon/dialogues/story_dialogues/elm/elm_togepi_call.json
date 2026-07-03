@@ -28,7 +28,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'Hello, ' + q.player.username + '? We discovered something about the Egg!';"
+                    "expression": "'Hola, ' + q.player.username + '? ¡Descubrimos algo sobre el Huevo!';"
                 }
             ],
             "input": {
@@ -47,7 +47,7 @@
             "id": "page2",
             "speaker": "elm",
             "lines": [
-                "My assistant is at the Pokémon Center in Violet City."
+                "Mi ayudante está en el Centro Pokémon de Ciudad Malva."
             ],
             "input": {
                 "type": "option",
@@ -65,7 +65,7 @@
             "id": "page3",
             "speaker": "elm",
             "lines": [
-                "Could you talk to him?"
+                "¿Podrías hablar con él?"
             ],
             "input": {
                 "type": "option",

@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "The way you battled, it was like watching a dance."
+                "La forma en que luchaste fue como ver un baile."
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It was a rare treat to see! I want you to have this."
+                "¡Fue un placer verlo! Quiero que tengas esto."
             ],
             "input": {
                 "type": "option",
@@ -56,7 +56,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Don't worry--take it!"
+                "¡No te preocupes, tómalo!"
             ],
             "input": {
                 "type": "option",
@@ -74,7 +74,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "That's Surf. It's a move that lets you swim across water."
+                "Eso es Surf. Es un movimiento que te permite nadar por el agua."
             ],
             "input": {
                 "type": "option",

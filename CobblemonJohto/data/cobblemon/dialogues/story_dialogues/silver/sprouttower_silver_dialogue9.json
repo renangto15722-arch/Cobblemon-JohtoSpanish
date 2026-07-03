@@ -29,7 +29,7 @@
             "id": "greeting",
             "speaker": "sage",
             "lines": [
-                "You are indeed skilled as a trainer. As promised, here is your HM."
+                "Eres realmente hábil como entrenador. Como prometí, aquí tienes tu HM."
             ],
             "input": {
                 "type": "option",
@@ -47,7 +47,7 @@
             "id": "page2",
             "speaker": "sage",
             "lines": [
-                "But let me say this: You should treat your Pokémon better."
+                "Pero déjame decirte esto: deberías tratar mejor a tus Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -65,7 +65,7 @@
             "id": "page3",
             "speaker": "sage",
             "lines": [
-                "The way you battle is far too harsh. Pokémon are not tools of war..."
+                "Tu forma de combatir es demasiado brutal. Los Pokémon no son herramientas de guerra..."
             ],
             "input": {
                 "type": "option",
@@ -83,7 +83,7 @@
             "id": "page4",
             "speaker": "silver",
             "lines": [
-                "... ...Humph! He claims to be the Elder but he's weak. It stands to reason."
+                "... ...¡Bah! Dice ser el Anciano pero es débil. Es lógico."
             ],
             "input": {
                 "type": "option",
@@ -101,7 +101,7 @@
             "id": "page5",
             "speaker": "silver",
             "lines": [
-                "I'd never lose to fools who babble about being nice to Pokémon."
+                "Jamás perdería ante tontos que parlotean sobre ser amables con los Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -119,7 +119,7 @@
             "id": "page6",
             "speaker": "silver",
             "lines": [
-                "I only care about strong Pokémon that can win."
+                "Solo me importan los Pokémon fuertes que pueden ganar."
             ],
             "input": {
                 "type": "option",
@@ -137,7 +137,7 @@
             "id": "page7",
             "speaker": "silver",
             "lines": [
-                "I really couldn't care less about weak Pokémon."
+                "Los Pokémon débiles me importan un comino."
             ],
             "input": {
                 "type": "option",

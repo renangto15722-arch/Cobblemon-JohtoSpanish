@@ -34,7 +34,7 @@
             "id": "greeting",
             "speaker": "elm",
             "lines": [
-                "Mr. Pokémon lives near Cherrygrove, the next city."
+                "El Sr. Pokémon vive cerca de Ciudad Cerez, la siguiente ciudad."
             ],
             "input": {
                 "type": "option",
@@ -52,7 +52,7 @@
             "id": "page2",
             "speaker": "elm",
             "lines": [
-                "It's almost a direct route to there."
+                "Es casi una ruta directa hasta allí."
             ],
             "input": {
                 "type": "option",
@@ -72,7 +72,7 @@
             "lines": [
         {
             "type": "expression",
-            "expression": "'' + q.player.username + ', I want you to have this for your errand.';"
+            "expression": "'' + q.player.username + ', quiero que lleves esto para tu encargo.';"
         }
     ],
             "input": {
@@ -91,7 +91,7 @@
             "id": "page4",
             "speaker": "aide",
             "lines": [
-                "There are only two of us, so we're always busy."
+                "Solo somos dos, así que siempre estamos ocupados."
             ],
             "input": {
                 "type": "option",

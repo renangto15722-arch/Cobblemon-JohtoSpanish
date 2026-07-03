@@ -19,7 +19,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hm? Who are you?"
+                "¿Hm? ¿Quién eres?"
             ],
             "input": {
                 "type": "option",
@@ -39,7 +39,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'' + q.player.username + ', eh? You want me to make some Balls?';"
+                    "expression": "'' + q.player.username + ', ¿eh? ¿Quieres que fabrique unas Balls?';"
                 }
             ],
             "input": {
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Sorry, but that'll have to wait. Do you know Team Rocket?"
+                "Lo siento, pero eso tendrá que esperar. ¿Conoces al Team Rocket?"
             ],
             "input": {
                 "type": "option",
@@ -78,7 +78,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Ah, don't worry. I'll tell you anyhow."
+                "Ah, no te preocupes. Te lo contaré de todos modos."
             ],
             "input": {
                 "type": "option",
@@ -96,7 +96,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Team Rocket's an evil gang that uses Pokémon for their dirty work."
+                "El Team Rocket es una banda malvada que usa Pokémon para su trabajo sucio."
             ],
             "input": {
                 "type": "option",
@@ -114,7 +114,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "They're supposed to have disbanded three years ago."
+                "Se supone que se disolvieron hace tres años."
             ],
             "input": {
                 "type": "option",
@@ -132,7 +132,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "Anyway, they're at the Well, cutting off Slowpoketails for sale!"
+                "En fin, ¡están en el Pozo, cortando Slowpoketails para venderlas!"
             ],
             "input": {
                 "type": "option",
@@ -150,7 +150,7 @@
             "id": "page8",
             "speaker": "npc",
             "lines": [
-                "So I'm going to go give them a lesson in pain!"
+                "¡Así que voy a darles una lección dolorosa!"
             ],
             "input": {
                 "type": "option",
@@ -168,7 +168,7 @@
             "id": "page9",
             "speaker": "npc",
             "lines": [
-                "Hang on, Slowpoke! Old Kurt is on his way!"
+                "¡Aguanta, Slowpoke! ¡El viejo Kurt va en camino!"
             ],
             "input": {
                 "type": "option",

@@ -21,7 +21,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You again? There's no need to be alert. I don't bother with wimps like you."
+                "¿Tú otra vez? No hace falta que te pongas en guardia. No pierdo el tiempo con debiluchos como tú."
             ],
             "input": {
                 "type": "option",
@@ -39,7 +39,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Speaking of weaklings, the city's Gym Leader isn't here, and is supposedly taking care of a sick Pokémon at the Lighthouse."
+                "Hablando de debiluchos, el Líder de Gimnasio de la ciudad no está aquí, y al parecer está cuidando a un Pokémon enfermo en el Faro."
             ],
             "input": {
                 "type": "option",
@@ -57,7 +57,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Humph! Boo-hoo! Just let sick Pokémon go!"
+                "¡Bah! ¡Bua-bua! ¡Deja ir a los Pokémon enfermos y ya!"
             ],
             "input": {
                 "type": "option",
@@ -75,7 +75,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "A Pokémon that can't battle is worthless!"
+                "¡Un Pokémon que no puede combatir no vale nada!"
             ],
             "input": {
                 "type": "option",
@@ -93,7 +93,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Why don't you go train at the Lighthouse?"
+                "¿Por qué no vas a entrenar al Faro?"
             ],
             "input": {
                 "type": "option",
@@ -111,7 +111,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Who knows? It may make you a bit of a better Trainer!"
+                "¿Quién sabe? ¡Quizá te haga un Entrenador un poco mejor!"
             ],
             "input": {
                 "type": "option",

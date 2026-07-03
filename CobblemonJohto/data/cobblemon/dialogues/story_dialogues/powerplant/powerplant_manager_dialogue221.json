@@ -20,7 +20,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Ah! Yeah! The thing you have..."
+                "¡Ah! ¡Sí! Eso que tienes..."
             ],
             "input": {
                 "type": "option",
@@ -38,7 +38,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Is that the part that was stolen from my beloved generator?"
+                "¿Es esa la pieza que le robaron a mi amado generador?"
             ],
             "input": {
                 "type": "option",
@@ -56,7 +56,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "You found it? Thank you so much! Now, all I have to do is..."
+                "¿La encontraste? ¡Muchísimas gracias! Ahora, solo tengo que..."
             ],
             "input": {
                 "type": "option",
@@ -74,7 +74,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "attach this part here..."
+                "colocar esta pieza aquí..."
             ],
             "input": {
                 "type": "option",
@@ -92,7 +92,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Whirrrrrr! Yes, it's running! Whirrr, whirrr!"
+                "¡Zummmm! ¡Sí, está funcionando! ¡Zummm, zummm!"
             ],
             "input": {
                 "type": "option",
@@ -110,7 +110,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Wahah! Thank you so much!"
+                "¡Wajaja! ¡Muchísimas gracias!"
             ],
             "input": {
                 "type": "option",
@@ -135,7 +135,7 @@
             "id": "page1000",
             "speaker": "npc",
             "lines": [
-                "Wahah! Thanks! Here! Go ahead and take this TM as a reward!"
+                "¡Wajaja! ¡Gracias! ¡Toma! ¡Anda, llévate este TM como recompensa!"
             ],
             "input": {
                 "type": "option",
@@ -153,7 +153,7 @@
             "id": "page1001",
             "speaker": "npc",
             "lines": [
-                "TM57 is my Charge Beam! It will shoot beams, and it can also sometimes raise Special Attack!"
+                "¡El TM57 es mi Charge Beam! ¡Dispara rayos, y a veces también puede subir el Ataque Especial!"
             ],
             "input": {
                 "type": "option",

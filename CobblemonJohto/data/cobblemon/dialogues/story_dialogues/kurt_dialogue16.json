@@ -30,7 +30,7 @@
             "id": "greeting",
             "speaker": "proton",
             "lines": [
-                "Yeah, Team Rocket was broken up three years ago."
+                "Sí, el Team Rocket se disolvió hace tres años."
             ],
             "input": {
                 "type": "option",
@@ -48,7 +48,7 @@
             "id": "page2",
             "speaker": "proton",
             "lines": [
-                "But we continued our activities underground."
+                "Pero continuamos nuestras actividades en la clandestinidad."
             ],
             "input": {
                 "type": "option",
@@ -66,7 +66,7 @@
             "id": "page3",
             "speaker": "proton",
             "lines": [
-                "Now you can have fun watching us stir up trouble!"
+                "¡Ahora puedes divertirte viéndonos causar problemas!"
             ],
             "input": {
                 "type": "option",
@@ -89,7 +89,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'Way to go, ' + q.player.username + '!';"
+                    "expression": "'¡Bien hecho, ' + q.player.username + '!';"
                 }
             ],
             "input": {
@@ -108,7 +108,7 @@
             "id": "page5",
             "speaker": "kurt",
             "lines": [
-                "Team Tocket has taken off. My back's better too."
+                "El Team Rocket se largó. Mi espalda también está mejor."
             ],
             "input": {
                 "type": "option",
@@ -128,7 +128,7 @@
             "id": "page6",
             "speaker": "kurt",
             "lines": [
-                "Let's get out of here."
+                "Salgamos de aquí."
             ],
             "input": {
                 "type": "option",
@@ -151,7 +151,7 @@
             "id": "page7",
             "speaker": "kurt",
             "lines": [
-                "You handled yourself like a real hero at the Well."
+                "Te comportaste como un verdadero héroe en el Pozo."
             ],
             "input": {
                 "type": "option",
@@ -171,7 +171,7 @@
             "id": "page9",
             "speaker": "kurt",
             "lines": [
-                "I like your style! I would be honored to make Balls for a trainer like you."
+                "¡Me gusta tu estilo! Sería un honor fabricar Balls para un entrenador como tú."
             ],
             "input": {
                 "type": "option",
@@ -191,7 +191,7 @@
             "id": "page10",
             "speaker": "kurt",
             "lines": [
-                "This is all I have now, but take it."
+                "Esto es todo lo que tengo ahora, pero tómalo."
             ],
             "input": {
                 "type": "option",
@@ -213,7 +213,7 @@
             "id": "page11",
             "speaker": "kurt",
             "lines": [
-                "I make Balls from Apricorns."
+                "Hago Balls con Apricorns."
             ],
             "input": {
                 "type": "option",
@@ -233,7 +233,7 @@
             "id": "page12",
             "speaker": "kurt",
             "lines": [
-                "Collect them from trees and bring em to my benches. We'll make Balls out of them!"
+                "Recógelas de los árboles y tráelas a mis bancos de trabajo. ¡Haremos Balls con ellas!"
             ],
             "input": {
                 "type": "option",

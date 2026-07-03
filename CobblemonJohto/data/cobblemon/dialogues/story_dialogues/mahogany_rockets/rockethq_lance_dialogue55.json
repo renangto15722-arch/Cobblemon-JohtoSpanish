@@ -19,7 +19,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "It takes two passwords to get into the boss's quarters."
+                "Se necesitan dos contraseñas para entrar en los aposentos del jefe."
             ],
             "input": {
                 "type": "option",
@@ -37,7 +37,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Those passwords are known only to a few Rockets."
+                "Esas contraseñas solo las conocen unos pocos Rockets."
             ],
             "input": {
                 "type": "option",
@@ -57,7 +57,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "That Rocket there very graciously told me so."
+                "Ese Rocket de ahí me lo dijo muy amablemente."
             ],
             "input": {
                 "type": "option",
@@ -79,7 +79,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'' + q.player.username + ', lets go get the passwords.';"
+                    "expression": "'' + q.player.username + ', vamos a conseguir las contraseñas.';"
                 }
             ],
             "input": {

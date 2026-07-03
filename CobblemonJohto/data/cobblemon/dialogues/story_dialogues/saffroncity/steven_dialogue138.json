@@ -19,7 +19,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "You don't see Forretress in the Hoenn region."
+                "No se ven Forretress en la región de Hoenn."
             ],
             "input": {
                 "type": "option",
@@ -37,7 +37,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "It's my first time to actually see one."
+                "Es la primera vez que veo uno de verdad."
             ],
             "input": {
                 "type": "option",
@@ -55,7 +55,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Thank you so much!"
+                "¡Muchísimas gracias!"
             ],
             "input": {
                 "type": "option",
@@ -75,7 +75,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Oh, look at the time. I really must go."
+                "Oh, mira la hora. Debo irme de verdad."
             ],
             "input": {
                 "type": "option",

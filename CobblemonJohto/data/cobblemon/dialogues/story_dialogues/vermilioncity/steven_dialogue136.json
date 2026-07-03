@@ -26,7 +26,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Hi! My name is Steven. The Champion from the Hoenn region."
+                "¡Hola! Me llamo Steven. El Campeón de la región de Hoenn."
             ],
             "input": {
                 "type": "option",
@@ -44,7 +44,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Have we met...before?"
+                "¿Nos hemos visto... antes?"
             ],
             "input": {
                 "type": "option",
@@ -62,7 +62,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "That's not possible. All the Trainers I have battled seem to have the same look, anyway."
+                "No es posible. De todos modos, todos los Entrenadores contra los que he luchado parecen tener la misma mirada."
             ],
             "input": {
                 "type": "option",
@@ -82,7 +82,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "Especially the ones who gave me tough battles..."
+                "Especialmente los que me dieron batallas difíciles..."
             ],
             "input": {
                 "type": "option",
@@ -102,7 +102,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "By the way, have you heard of Pokémon called Latias and Latios?"
+                "Por cierto, ¿has oído hablar de unos Pokémon llamados Latias y Latios?"
             ],
             "input": {
                 "type": "option",
@@ -122,7 +122,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "I am investigating why Latias and Latios, Pokémon from Hoenn, decided to leave Hoenn to come here."
+                "Estoy investigando por qué Latias y Latios, Pokémon de Hoenn, decidieron dejar Hoenn para venir aquí."
             ],
             "input": {
                 "type": "option",
@@ -142,7 +142,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "Latias and Latios are Pokémon that has a lot to do with Soul Dew, a gemlike Orb."
+                "Latias y Latios son Pokémon que tienen mucho que ver con la Soul Dew, un Orbe similar a una gema."
             ],
             "input": {
                 "type": "option",
@@ -162,7 +162,7 @@
             "id": "page8",
             "speaker": "npc",
             "lines": [
-                "Considering the fact that Latias and Latios are now in Kanto, it is possible to assume that this has to do with Soul Dew."
+                "Considerando que Latias y Latios están ahora en Kanto, es posible suponer que esto tiene que ver con la Soul Dew."
             ],
             "input": {
                 "type": "option",
@@ -182,7 +182,7 @@
             "id": "page9",
             "speaker": "npc",
             "lines": [
-                "Latias and Latios are Pokémon that travel a great distance."
+                "Latias y Latios son Pokémon que viajan grandes distancias."
             ],
             "input": {
                 "type": "option",
@@ -202,7 +202,7 @@
             "id": "page10",
             "speaker": "npc",
             "lines": [
-                "But any Trainer will be drawn to them, won't they?"
+                "Pero cualquier Entrenador se sentirá atraído por ellos, ¿no?"
             ],
             "input": {
                 "type": "option",
@@ -222,7 +222,7 @@
             "id": "page11",
             "speaker": "npc",
             "lines": [
-                "I must go. May our journeys cross again."
+                "Debo irme. Que nuestros caminos se crucen de nuevo."
             ],
             "input": {
                 "type": "option",
@@ -244,7 +244,7 @@
             "id": "page12",
             "speaker": "player",
             "lines": [
-                "You can now find Latios and Latias anytime in the wild grass!"
+                "¡Ahora puedes encontrar a Latios y Latias en cualquier momento en la hierba salvaje!"
             ],
             "input": {
                 "type": "option",

@@ -28,7 +28,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "This Pokémon always kept the sea lit at night."
+                "Este Pokémon siempre mantuvo el mar iluminado por la noche."
             ],
             "input": {
                 "type": "option",
@@ -46,7 +46,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "...But it suddenly got sick..."
+                "...Pero de repente enfermó..."
             ],
             "input": {
                 "type": "option",
@@ -82,7 +82,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "It's gasping for air..."
+                "Le cuesta respirar..."
             ],
             "input": {
                 "type": "option",
@@ -102,7 +102,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "...I understand that there is a wonderful Pharmacy in Cianwood..."
+                "...Tengo entendido que hay una Farmacia maravillosa en Ciudad Orquídea..."
             ],
             "input": {
                 "type": "option",
@@ -120,7 +120,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "But that's across the sea... And I can't leave Amphy unattended..."
+                "Pero eso está al otro lado del mar... Y no puedo dejar a Amphy sin atención..."
             ],
             "input": {
                 "type": "option",
@@ -138,7 +138,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "...May I ask you to get some medicine for me? Please?"
+                "...¿Puedo pedirte que consigas algo de medicina para mí? ¿Por favor?"
             ],
             "input": {
                 "type": "option",

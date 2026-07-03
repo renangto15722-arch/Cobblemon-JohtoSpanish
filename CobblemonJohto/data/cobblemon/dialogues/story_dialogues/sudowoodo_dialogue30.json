@@ -26,7 +26,7 @@
             "id": "greeting",
             "speaker": "player",
             "lines": [
-                "It's a weird tree."
+                "Es un árbol raro."
             ],
             "input": {
                 "type": "option",
@@ -46,7 +46,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'' + q.player.username + ' used the Squirtbottle.';"
+                    "expression": "'' + q.player.username + ' usó la Squirtbottle.';"
                 }
             ],
             "input": {
@@ -65,7 +65,7 @@
             "id": "page3",
             "speaker": "sudowoodo",
             "lines": [
-                "The weird tree doesn't like the Squirtbottle!"
+                "¡Al árbol raro no le gusta la Squirtbottle!"
             ],
             "input": {
                 "type": "option",
@@ -83,7 +83,7 @@
             "id": "page4",
             "speaker": "sudowoodo",
             "lines": [
-                "The weird tree attacked!"
+                "¡El árbol raro atacó!"
             ],
             "input": {
                 "type": "option",

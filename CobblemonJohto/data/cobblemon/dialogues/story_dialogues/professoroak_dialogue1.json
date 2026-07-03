@@ -42,7 +42,7 @@
             "id": "greeting",
             "speaker": "unknown",
             "lines": [
-                "Hello! Sorry to keep you waiting!"
+                "¡Hola! ¡Perdón por hacerte esperar!"
             ],
             "input": {
                 "type": "option",
@@ -60,7 +60,7 @@
             "id": "page2",
             "speaker": "unknown",
             "lines": [
-                "Welcome to the world of Pokémon!"
+                "¡Bienvenido al mundo de los Pokémon!"
             ],
             "input": {
                 "type": "option",
@@ -78,7 +78,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "My name is Oak. People call me the Pokémon Prof."
+                "Me llamo Oak. La gente me llama el Profesor Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -96,7 +96,7 @@
             "id": "page4",
             "speaker": "wooper",
             "lines": [
-                "This world is inhabited by creatures that we call Pokémon."
+                "Este mundo está habitado por criaturas que llamamos Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -114,7 +114,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "People and Pokémon live together by supporting each other."
+                "Las personas y los Pokémon conviven apoyándose mutuamente."
             ],
             "input": {
                 "type": "option",
@@ -132,7 +132,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Some people play with Pokémon, some battle with them."
+                "Algunas personas juegan con los Pokémon, otras combaten con ellos."
             ],
             "input": {
                 "type": "option",
@@ -150,7 +150,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "But we don't know everything about Pokémon yet."
+                "Pero todavía no lo sabemos todo sobre los Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -168,7 +168,7 @@
             "id": "page8",
             "speaker": "npc",
             "lines": [
-                "There are still many mysteries to solve. That's why I study Pokémon every day."
+                "Aún quedan muchos misterios por resolver. Por eso estudio a los Pokémon cada día."
             ],
             "input": {
                 "type": "option",
@@ -188,7 +188,7 @@
             "lines": [
         {
             "type": "expression",
-            "expression": "'' + q.player.username + ', are you ready?';"
+            "expression": "'' + q.player.username + ', ¿estás listo?';"
         }
     ],
             "input": {
@@ -207,7 +207,7 @@
             "id": "page10",
             "speaker": "npc",
             "lines": [
-                "Your very own Pokémon story is about to unfold."
+                "Tu propia historia Pokémon está a punto de comenzar."
             ],
             "input": {
                 "type": "option",
@@ -225,7 +225,7 @@
             "id": "page11",
             "speaker": "npc",
             "lines": [
-                "You'll face fun times and tough challenges."
+                "Vivirás momentos divertidos y retos difíciles."
             ],
             "input": {
                 "type": "option",
@@ -243,7 +243,7 @@
             "id": "page12",
             "speaker": "npc",
             "lines": [
-                "A world of dreams and adventures with Pokémon awaits!"
+                "¡Un mundo de sueños y aventuras con Pokémon te espera!"
             ],
             "input": {
                 "type": "option",
@@ -261,7 +261,7 @@
             "id": "page13",
             "speaker": "npc",
             "lines": [
-                "Let's go! I'll be seeing you later!"
+                "¡Vamos! ¡Nos vemos más tarde!"
             ],
             "input": {
                 "type": "option",

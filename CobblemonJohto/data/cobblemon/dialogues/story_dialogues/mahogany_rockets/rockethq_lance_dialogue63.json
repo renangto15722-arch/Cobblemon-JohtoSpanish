@@ -27,7 +27,7 @@
             "id": "greeting",
             "speaker": "player",
             "lines": [
-                "Hail Giovanni"
+                "¡Salve Giovanni!"
             ],
             "input": {
                 "type": "option",
@@ -50,7 +50,7 @@
             "id": "page2",
             "speaker": "lance",
             "lines": [
-                "It's this machine that's causing all the problems. I don't see a switch on it..."
+                "Es esta máquina la que está causando todos los problemas. No veo ningún interruptor en ella..."
             ],
             "input": {
                 "type": "option",
@@ -70,7 +70,7 @@
             "id": "page3",
             "speaker": "lance",
             "lines": [
-                "We have no choice. We have to make all the Electrode faint."
+                "No tenemos opción. Tenemos que debilitar a todos los Electrode."
             ],
             "input": {
                 "type": "option",
@@ -90,7 +90,7 @@
             "id": "page4",
             "speaker": "lance",
             "lines": [
-                "That should stop this machine from transmitting that strange signal."
+                "Eso debería impedir que esta máquina transmita esa extraña señal."
             ],
             "input": {
                 "type": "option",
@@ -112,7 +112,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'It is of no fault of the Pokémon, so it makes me feel guilty. ' + q.player.username + ', lets split the job.';"
+                    "expression": "'No es culpa de los Pokémon, así que me hace sentir culpable. ' + q.player.username + ', dividamos el trabajo.';"
                 }
             ],
             "input": {

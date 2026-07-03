@@ -19,7 +19,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "Are you all right?"
+                "¿Estás bien?"
             ],
             "input": {
                 "type": "option",
@@ -37,7 +37,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Your Pokémon are hurt and tired. Here, give them some of my medicine."
+                "Tus Pokémon están heridos y cansados. Toma, dales algo de mi medicina."
             ],
             "input": {
                 "type": "option",
@@ -60,7 +60,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'' + q.player.username + ', lets give it our best for Pokémon.';"
+                    "expression": "'' + q.player.username + ', demos lo mejor de nosotros por los Pokémon.';"
                 }
             ],
             "input": {

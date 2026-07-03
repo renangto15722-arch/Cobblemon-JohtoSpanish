@@ -39,7 +39,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'What took you so long, ' + q.player.username + '?';"
+                    "expression": "'¿Por qué tardaste tanto, ' + q.player.username + '?';"
                 }
             ],
             "input": {
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Just as I thought, that strange radio signal is coming from here."
+                "Tal como pensaba, esa extraña señal de radio viene de aquí."
             ],
             "input": {
                 "type": "option",
@@ -78,7 +78,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "The stairs are right here."
+                "Las escaleras están justo aquí."
             ],
             "input": {
                 "type": "option",
@@ -103,7 +103,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'' + q.player.username + ', we should split up to check this place. I will go first.';"
+                    "expression": "'' + q.player.username + ', deberíamos separarnos para revisar este lugar. Yo iré primero.';"
                 }
             ],
             "input": {

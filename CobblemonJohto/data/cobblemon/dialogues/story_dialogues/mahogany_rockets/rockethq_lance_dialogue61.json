@@ -28,7 +28,7 @@
             "id": "greeting",
             "speaker": "lance",
             "lines": [
-                "Hey! Don't be so selfish. Spread the fun around."
+                "¡Oye! No seas tan egoísta. Comparte la diversión."
             ],
             "input": {
                 "type": "option",
@@ -46,7 +46,7 @@
             "id": "page2",
             "speaker": "ariana",
             "lines": [
-                "What? You had an accomplice? Where is your sense of honor?"
+                "¿Qué? ¿Tenías un cómplice? ¿Dónde está tu sentido del honor?"
             ],
             "input": {
                 "type": "option",
@@ -66,7 +66,7 @@
             "id": "page3",
             "speaker": "ariana",
             "lines": [
-                "As the interim boss in place of Giovanni, I'll show you how wrong it is to meddle with Team Rocket!"
+                "¡Como jefa interina en lugar de Giovanni, te mostraré lo equivocado que es meterse con el Team Rocket!"
             ],
             "input": {
                 "type": "option",

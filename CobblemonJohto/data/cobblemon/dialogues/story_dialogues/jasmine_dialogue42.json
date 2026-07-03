@@ -29,7 +29,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "...That medicine will cure Amphy?"
+                "...¿Esa medicina curará a Amphy?"
             ],
             "input": {
                 "type": "option",
@@ -47,7 +47,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "Um, please don't be offended... ...Amphy will not take anything from anyone but me..."
+                "Eh, por favor no te ofendas... ...Amphy no aceptará nada de nadie más que de mí..."
             ],
             "input": {
                 "type": "option",
@@ -68,7 +68,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "... Amphy, how are you feeling?"
+                "... Amphy, ¿cómo te sientes?"
             ],
             "input": {
                 "type": "option",
@@ -107,7 +107,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Oh, I'm so relieved... This is just so wonderful"
+                "Oh, qué alivio... Esto es simplemente maravilloso"
             ],
             "input": {
                 "type": "option",
@@ -125,7 +125,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Thank you so very, very much."
+                "Muchísimas, muchísimas gracias."
             ],
             "input": {
                 "type": "option",
@@ -143,7 +143,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "I will return to the Gym"
+                "Volveré al Gimnasio"
             ],
             "input": {
                 "type": "option",

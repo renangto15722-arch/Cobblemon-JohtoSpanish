@@ -21,7 +21,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "All right. I recognize your true power. This Badge is yours."
+                "De acuerdo. Reconozco tu verdadero poder. Esta Medalla es tuya."
             ],
             "input": {
                 "type": "option",
@@ -46,7 +46,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "So, you've collected all the Badges."
+                "Así que has reunido todas las Medallas."
             ],
             "input": {
                 "type": "option",
@@ -64,7 +64,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Your destination is the Pokémon League in Indigo Plateau."
+                "Tu destino es la Liga Pokémon en la Meseta Añil."
             ],
             "input": {
                 "type": "option",
@@ -84,7 +84,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Do you know how to get there?"
+                "¿Sabes cómo llegar allí?"
             ],
             "input": {
                 "type": "option",
@@ -104,7 +104,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "From here, go to New Bark Town. Then surf east."
+                "Desde aquí, ve a Pueblo Primavera. Luego surfea hacia el este."
             ],
             "input": {
                 "type": "option",
@@ -124,7 +124,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "The route there is very tough."
+                "El camino hasta allí es muy difícil."
             ],
             "input": {
                 "type": "option",
@@ -144,7 +144,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "Don't you dare lose at the Pokémon League!"
+                "¡No te atrevas a perder en la Liga Pokémon!"
             ],
             "input": {
                 "type": "option",
@@ -164,7 +164,7 @@
             "id": "page7",
             "speaker": "npc",
             "lines": [
-                "If you do, I'll feel even worse about having lost to you!"
+                "¡Si lo haces, me sentiré aún peor por haber perdido contra ti!"
             ],
             "input": {
                 "type": "option",

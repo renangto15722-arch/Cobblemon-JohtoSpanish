@@ -21,7 +21,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'Hey there, ' + q.player.username + '! The guards up top took off when I shouted at them.';"
+                    "expression": "'¡Hola, ' + q.player.username + '! Los guardias de arriba huyeron cuando les grité.';"
                 }
             ],
             "input": {
@@ -40,7 +40,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "But then I took a tumble down the Well."
+                "Pero luego me caí rodando por el Pozo."
             ],
             "input": {
                 "type": "option",
@@ -58,7 +58,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "I slammed down hard on my back, so I can't move. Rats!"
+                "Me golpeé fuerte la espalda, así que no puedo moverme. ¡Rayos!"
             ],
             "input": {
                 "type": "option",
@@ -78,7 +78,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "If I were fit, my Pokémon would've punished them..."
+                "Si estuviera en forma, mis Pokémon los habrían castigado..."
             ],
             "input": {
                 "type": "option",
@@ -98,7 +98,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'Ah, it can’t be helped. ' + q.player.username + ', show them how gutsy you are in my place!';"
+                    "expression": "'Ah, no hay remedio. ' + q.player.username + ', ¡muéstrales lo valiente que eres en mi lugar!';"
                 }
             ],
             "input": {

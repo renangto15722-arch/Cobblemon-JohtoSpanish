@@ -30,7 +30,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'Hello, hello! You must be ' + q.player.username + '.';"
+                    "expression": "'¡Hola, hola! Debes de ser ' + q.player.username + '.';"
                 }
             ],
             "input": {
@@ -49,7 +49,7 @@
             "id": "page2",
             "speaker": "mrpokemon",
             "lines": [
-                "Professor Elm said that you would visit."
+                "El Profesor Elm dijo que vendrías."
             ],
             "input": {
                 "type": "option",
@@ -67,7 +67,7 @@
             "id": "page3",
             "speaker": "mrpokemon",
             "lines": [
-                "This is what I want Professor Elm to examine."
+                "Esto es lo que quiero que el Profesor Elm examine."
             ],
             "input": {
                 "type": "option",
@@ -89,7 +89,7 @@
             "id": "page4",
             "speaker": "mrpokemon",
             "lines": [
-                "I know a couple who run a Pokémon Daycare service."
+                "Conozco a una pareja que lleva un servicio de Guardería Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -107,7 +107,7 @@
             "id": "page5",
             "speaker": "mrpokemon",
             "lines": [
-                "They gave me that egg. I was intrigued, so I sent mail to Professor Elm."
+                "Ellos me dieron ese huevo. Me intrigó, así que le envié una carta al Profesor Elm."
             ],
             "input": {
                 "type": "option",
@@ -125,7 +125,7 @@
             "id": "page6",
             "speaker": "mrpokemon",
             "lines": [
-                "For Pokémon evolution, Professor Elm is the authority."
+                "En cuanto a la evolución Pokémon, el Profesor Elm es la autoridad."
             ],
             "input": {
                 "type": "option",
@@ -143,7 +143,7 @@
             "id": "page7",
             "speaker": "mrpokemon",
             "lines": [
-                "Even Professor Oak here recognizes that."
+                "Incluso el Profesor Oak aquí lo reconoce."
             ],
             "input": {
                 "type": "option",
@@ -161,7 +161,7 @@
             "id": "page8",
             "speaker": "mrpokemon",
             "lines": [
-                "If my assumption is correct, Professor Elm will know it."
+                "Si mi suposición es correcta, el Profesor Elm lo sabrá."
             ],
             "input": {
                 "type": "option",
@@ -181,7 +181,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'Aha! So you’re ' + q.player.username + '! I’m Oak!';"
+                    "expression": "'¡Ajá! ¡Así que tú eres ' + q.player.username + '! ¡Soy Oak!';"
                 }
             ],
             "input": {
@@ -200,7 +200,7 @@
             "id": "page10",
             "speaker": "oak",
             "lines": [
-                "A Pokémon researcher. I was just visitng my old friend Mr. Pokémon."
+                "Un investigador Pokémon. Justo estaba visitando a mi viejo amigo Mr. Pokémon."
             ],
             "input": {
                 "type": "option",
@@ -218,7 +218,7 @@
             "id": "page11",
             "speaker": "oak",
             "lines": [
-                "I heard you were running an errand for Professor Elm, so I waited here."
+                "Escuché que estabas haciendo un recado para el Profesor Elm, así que esperé aquí."
             ],
             "input": {
                 "type": "option",
@@ -236,7 +236,7 @@
             "id": "page12",
             "speaker": "oak",
             "lines": [
-                "Oh! What's this? A rare Pokémon! Let's see... Hmm, I see!"
+                "¡Oh! ¿Qué es esto? ¡Un Pokémon raro! Veamos... ¡Hmm, ya veo!"
             ],
             "input": {
                 "type": "option",
@@ -254,7 +254,7 @@
             "id": "page13",
             "speaker": "oak",
             "lines": [
-                "I understand why Professor Elm gave you a Pokémon for this errand."
+                "Entiendo por qué el Profesor Elm te dio un Pokémon para este recado."
             ],
             "input": {
                 "type": "option",
@@ -272,7 +272,7 @@
             "id": "page14",
             "speaker": "oak",
             "lines": [
-                "To researchers like Professor Elm and I, Pokémon are our friends."
+                "Para investigadores como el Profesor Elm y yo, los Pokémon son nuestros amigos."
             ],
             "input": {
                 "type": "option",
@@ -290,7 +290,7 @@
             "id": "page15",
             "speaker": "oak",
             "lines": [
-                "He saw that you would treat your Pokémon with love and care."
+                "Él vio que tratarías a tus Pokémon con amor y cariño."
             ],
             "input": {
                 "type": "option",
@@ -308,7 +308,7 @@
             "id": "page16",
             "speaker": "oak",
             "lines": [
-                "...Ah! You seem to be dependable. How would you like to help me out?"
+                "...¡Ah! Pareces de fiar. ¿Qué te parecería ayudarme?"
             ],
             "input": {
                 "type": "option",
@@ -330,7 +330,7 @@
             "id": "page17",
             "speaker": "oak",
             "lines": [
-                "See? This is the latest version of Pokédex."
+                "¿Ves? Esta es la última versión de la Pokédex."
             ],
             "input": {
                 "type": "option",
@@ -348,7 +348,7 @@
             "id": "page18",
             "speaker": "oak",
             "lines": [
-                "It automatically records data on Pokémon you've seen or caught."
+                "Registra automáticamente datos de los Pokémon que has visto o capturado."
             ],
             "input": {
                 "type": "option",
@@ -366,7 +366,7 @@
             "id": "page19",
             "speaker": "oak",
             "lines": [
-                "It's a hi-tech encyclopedia!"
+                "¡Es una enciclopedia de alta tecnología!"
             ],
             "input": {
                 "type": "option",
@@ -384,7 +384,7 @@
             "id": "page20",
             "speaker": "oak",
             "lines": [
-                "Go meet many kinds of Pokémon and complete that Pokédex!"
+                "¡Ve a conocer muchos tipos de Pokémon y completa esa Pokédex!"
             ],
             "input": {
                 "type": "option",
@@ -402,7 +402,7 @@
             "id": "page21",
             "speaker": "oak",
             "lines": [
-                "But I've stayed too long. I have to get to Goldenrod for my usual radio show."
+                "Pero me he quedado demasiado tiempo. Tengo que ir a Ciudad Trigal para mi programa de radio habitual."
             ],
             "input": {
                 "type": "option",
@@ -422,7 +422,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'' + q.player.username + ', I’m counting on you!';"
+                    "expression": "'' + q.player.username + ', ¡cuento contigo!';"
                 }
             ],
             "input": {
@@ -441,7 +441,7 @@
             "id": "page23",
             "speaker": "mrpokemon",
             "lines": [
-                "You are returning to Professor Elm?"
+                "¿Vas a volver con el Profesor Elm?"
             ],
             "input": {
                 "type": "option",
@@ -459,7 +459,7 @@
             "id": "page24",
             "speaker": "mrpokemon",
             "lines": [
-                "Here. Your Pokémon should have some rest."
+                "Toma. Tus Pokémon deberían descansar un poco."
             ],
             "input": {
                 "type": "option",

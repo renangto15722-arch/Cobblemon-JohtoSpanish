@@ -21,7 +21,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "How? How is this possible? How can I lose to mere Kimono Girls"
+                "¿Cómo? ¿Cómo es posible? ¿Cómo puedo perder ante unas simples Kimono Girls?"
             ],
             "input": {
                 "type": "option",
@@ -41,7 +41,7 @@
             "lines": [
                 {
                     "type": "expression",
-                    "expression": "'You were watching me, ' + q.player.username + '?';"
+                    "expression": "'¿Me estabas observando, ' + q.player.username + '?';"
                 }
             ],
             "input": {
@@ -60,7 +60,7 @@
             "id": "page3",
             "speaker": "npc",
             "lines": [
-                "Yeah, that's right! I never thought defeating five Kimono Girls would be so hard!"
+                "¡Sí, así es! ¡Nunca pensé que derrotar a cinco Kimono Girls sería tan difícil!"
             ],
             "input": {
                 "type": "option",
@@ -78,7 +78,7 @@
             "id": "page4",
             "speaker": "npc",
             "lines": [
-                "I got beaten to a pulp... Don't get cocky just because you defeated Team Rocket!"
+                "Me dieron una paliza... ¡No te creas la gran cosa solo porque derrotaste al Team Rocket!"
             ],
             "input": {
                 "type": "option",
@@ -96,7 +96,7 @@
             "id": "page5",
             "speaker": "npc",
             "lines": [
-                "Go ahead! But I'm not going back."
+                "¡Adelante! Pero yo no voy a volver."
             ],
             "input": {
                 "type": "option",
@@ -114,7 +114,7 @@
             "id": "page6",
             "speaker": "npc",
             "lines": [
-                "I don't want to see you win. These Kimono Girls are insanely strong."
+                "No quiero verte ganar. Estas Kimono Girls son increíblemente fuertes."
             ],
             "input": {
                 "type": "option",

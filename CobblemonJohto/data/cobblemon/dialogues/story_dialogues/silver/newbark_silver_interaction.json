@@ -15,7 +15,7 @@
             "id": "greeting",
             "speaker": "npc",
             "lines": [
-                "So this is the famous Elm Pokémon Lab..."
+                "Así que este es el famoso Laboratorio Pokémon de Elm..."
             ],
             "input": {
                 "type": "option",
@@ -33,7 +33,7 @@
             "id": "page2",
             "speaker": "npc",
             "lines": [
-                "What are you staring at?"
+                "¿Qué estás mirando?"
             ],
             "input": {
                 "type": "option",
